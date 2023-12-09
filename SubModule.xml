@@ -54,5 +54,14 @@
       </IncludedGameTypes>
     </XmlNode>
 
+    <XmlNode>
+      <XmlName id="Kingdoms" path="spkingdoms"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
   </Xmls>
 </Module>
