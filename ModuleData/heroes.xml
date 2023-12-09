@@ -9,5 +9,11 @@
    <Hero id="lord_rus_9c" faction="Faction.clan_rus_9" />
    <Hero id="lord_rus_9d" faction="Faction.clan_rus_9" />
    <Hero id="lord_rus_9e" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" faction="Faction.clan_rus_9"  />
+
+   <Hero id="lord_polotsk_2a" spouse="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2" />
+   <Hero id="lord_polotsk_2b" spouse="Hero.lord_polotsk_2a" faction="Faction.clan_polotsk_2" />
+   <Hero id="lord_polotsk_2c" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
+   <Hero id="lord_polotsk_2d" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
+   <Hero id="lord_polotsk_2e" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    
 </Heroes>
