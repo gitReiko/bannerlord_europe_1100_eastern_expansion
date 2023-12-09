@@ -15,5 +15,12 @@
    <Hero id="lord_polotsk_2c" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    <Hero id="lord_polotsk_2d" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    <Hero id="lord_polotsk_2e" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
+
+   <Hero id="lord_polotsk_3a" spouse="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3" />
+   <Hero id="lord_polotsk_3b" spouse="Hero.lord_polotsk_3a" faction="Faction.clan_polotsk_3" />
+   <Hero id="lord_polotsk_3c" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
+   <Hero id="lord_polotsk_3d" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
+   <Hero id="lord_polotsk_3e" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
+
    
 </Heroes>

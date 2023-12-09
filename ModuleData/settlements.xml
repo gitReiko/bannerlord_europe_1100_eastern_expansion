@@ -9484,7 +9484,7 @@
 
     <!-- Reiko changes -->
 
-    <Settlement id="town_KR5" name="{=Settlements.Settlement.ECM.KR.town_KR5}Polotsk" owner="Faction.clan_rus_9" posX="1006.619" posY="1262.744" culture="Culture.rus" prosperity="7000" gate_posX="1009.594" gate_posY="1259.58" text="{=ECM_KR_F5HlQdgf}Polotsk sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
+    <Settlement id="town_KR5" name="{=Settlements.Settlement.ECM.KR.town_KR5}Połacak" owner="Faction.clan_rus_9" posX="1006.619" posY="1262.744" culture="Culture.rus" prosperity="7000" gate_posX="1009.594" gate_posY="1259.58" text="{=ECM_KR_F5HlQdgf}Polotsk sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
     <Components>
       <Town id="town_comp_KR5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
