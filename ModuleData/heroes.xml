@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <!--Polotsk Lords-->
+
+   <Hero id="lord_rus_9a" spouse="Hero.lord_rus_9b" faction="Faction.clan_rus_9" />
+   <Hero id="lord_rus_9b" spouse="Hero.lord_rus_9a" faction="Faction.clan_rus_9" />
+
+
+   
+   <Hero id="lord_rus_9c" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" faction="Faction.clan_rus_9" />
+   <Hero id="lord_rus_9d" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" faction="Faction.clan_rus_9" />
+   
+</Heroes>
