@@ -4,8 +4,8 @@
 <!--Polotsk Clans-->
 		   
   <Faction id="clan_rus_9"
-           name="{=Rahvalod}Rahvałod"
-           tier="6"
+           name="{=clan_rus_9.name}Rahvałod Usiasłavič"
+           tier="5"
            owner="Hero.lord_rus_9a"
            culture="Culture.rus"
            super_faction="Kingdom.rus"
