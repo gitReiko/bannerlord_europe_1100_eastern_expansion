@@ -8455,19 +8455,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Salihorsk" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Salihorsk.">
-    <Components>
-      <Village id="castle_village_comp_KR2_1" village_type="VillageType.flax_plant" hearth="270" gate_rotation="0.258" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <Settlement id="castle_KR3" name="{=Settlements.Settlement.ECM.KR.castle_KR3}Torzhok Castle" owner="Faction.clan_rus_7" posX="1150.777" posY="1323.425" culture="Culture.rus" prosperity="470" gate_posX="1151.903" gate_posY="1324.941">
     <Components>
       <Town id="castle_comp_KR3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
@@ -8681,19 +8669,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Probably derives from a tribe -->
-  <Settlement id="castle_village_KR2_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_2}Mazyr" posX="1023.482" posY="1201.586" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_2}Mazyr.">
-    <Components>
-      <Village id="castle_village_comp_KR2_2" village_type="VillageType.sturgian_horse_ranch" hearth="293" gate_rotation="0.728" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_a" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <!-- From Battanian Car Gryff, Gryf's fortress -->
   <Settlement id="village_KR1_3" name="{=Settlements.Settlement.ECM.KR.village_KR1_3}Tchornobyl" posX="1058.429" posY="1167.098" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_3}Tchornobyl.">
     <Components>
@@ -9516,7 +9492,35 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_viciebsk" name="{=castle_viciebsk.name}Viciebsk Castle" owner="Faction.clan_polotsk_3" posX="974.031" posY="1223.842" culture="Culture.rus" prosperity="2300" gate_posX="974.3494" gate_posY="1221.992">
+  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Salihorsk" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Salihorsk.">
+    <Components>
+      <Village id="castle_village_comp_KR2_1" village_type="VillageType.flax_plant" hearth="270" gate_rotation="0.258" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="castle_village_KR2_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_2}Mazyr" posX="1023.482" posY="1201.586" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_2}Mazyr.">
+    <Components>
+      <Village id="castle_village_comp_KR2_2" village_type="VillageType.sturgian_horse_ranch" hearth="293" gate_rotation="0.728" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="castle_viciebsk" name="{=castle_viciebsk.name}Viciebsk Castle" owner="Faction.clan_polotsk_3" posX="1052.634" posY="1249.268" culture="Culture.rus" prosperity="1700" gate_posX="1052.874" gate_posY="1248.135">
     <Components>
       <Town id="castle_comp_viciebsk" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
