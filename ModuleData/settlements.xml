@@ -9610,7 +9610,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_siaule" name="{=castle_siaule.name}Siaule Castle" owner="Faction.clan_polotsk_2" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" prosperity="2300" gate_posX="879.755" gate_posY="1265.310">
+  <Settlement id="castle_siaule" name="{=castle_siaule.name}Siaule Castle" owner="Faction.clan_baltic_07" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" prosperity="2300" gate_posX="879.755" gate_posY="1265.310">
     <Components>
       <Town id="castle_comp_siaule" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>

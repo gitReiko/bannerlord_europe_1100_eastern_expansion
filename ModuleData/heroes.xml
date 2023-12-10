@@ -32,5 +32,8 @@
    <Hero id="lord_baltic_06b" spouse="Hero.lord_baltic_06a" faction="Faction.clan_baltic_06" />
    <Hero id="lord_baltic_06c" faction="Faction.clan_baltic_06" />
 
+   <Hero id="lord_baltic_07a" spouse="Hero.lord_baltic_07b" faction="Faction.clan_baltic_06" />
+   <Hero id="lord_baltic_07b" spouse="Hero.lord_baltic_07a" faction="Faction.clan_baltic_06" />
+
    
 </Heroes>
