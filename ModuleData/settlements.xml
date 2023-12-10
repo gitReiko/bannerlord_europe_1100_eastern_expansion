@@ -9571,5 +9571,30 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="castle_jersika" name="{=castle_jersika.name}Jersika Castle" owner="Faction.clan_baltic_3" posX="941.770" posY="1283.400" culture="Culture.sturgia" prosperity="680" gate_posX="942.940" gate_posY="1283.640">
+    <Components>
+      <Town id="castle_comp_jersika" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_003" scene_name_1="sturgia_castle_003" scene_name_2="sturgia_castle_003" scene_name_3="sturgia_castle_003" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="castle_jersika_village_1" name="{=castle_jersika_village_1.name}Taranki" posX="1079.655" posY="1262.103" culture="Culture.rus" text="{=castle_jersika_village_1.text}Dvurečča.">
+    <Components>
+      <Village id="castle_village_comp_jersika_2" village_type="VillageType.clay_mine" hearth="440" gate_rotation="0.758" bound="Settlement.castle_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
  
 </Settlements>
