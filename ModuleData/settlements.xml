@@ -9582,12 +9582,26 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_jersika_village_1" name="{=castle_jersika_village_1.name}Taranki" posX="1079.655" posY="1262.103" culture="Culture.rus" text="{=castle_jersika_village_1.text}Dvurečča.">
+  <Settlement id="castle_jersika_village_1" name="{=castle_jersika_village_1.name}Dagda" posX="964.320" posY="1279.900" culture="Culture.rus" text="{=castle_jersika_village_1.text}Dagda.">
     <Components>
-      <Village id="castle_village_comp_jersika_2" village_type="VillageType.clay_mine" hearth="440" gate_rotation="0.758" bound="Settlement.castle_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="castle_village_comp_jersika_1" village_type="VillageType.clay_mine" hearth="440" gate_rotation="0.758" bound="Settlement.castle_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="castle_jersika_village_2" name="{=castle_jersika_village_2.name}Ērģli" posX="920.560" posY="1287.480" culture="Culture.goldenhorde" text="{=castle_jersika_village_2.name}Ergli text.">
+    <Components>
+      <Village id="castle_village_comp_jersika_2" village_type="VillageType.flax_plant" hearth="283" gate_rotation="0.408" bound="Settlement.castle_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
