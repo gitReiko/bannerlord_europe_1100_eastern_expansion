@@ -5,7 +5,7 @@
     <!-- Polotsk -->
 
     <NPCCharacter id="lord_polotsk_1a"
-                name="{=lord_polotsk_1a.name}Usiasłaŭ the Seer"
+                name="{=lord_polotsk_1a.name}Usiasłaŭ II the Seer"
                 voice="softspoken"
                 age="71"
                 is_female="false"
