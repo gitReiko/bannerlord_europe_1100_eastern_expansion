@@ -9494,6 +9494,20 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="town_riga_village_3" name="{=town_riga_village_3.name}Carnikava" posX="905.310" posY="1298.400" culture="Culture.goldenhorde" text="{=town_riga_village_3.name}Carnikava text.">
+    <Components>
+      <Village id="castle_village_comp_jersika_2" village_type="VillageType.flax_plant" hearth="283" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
   <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Šiauliai" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Šiauliai.">
     <Components>
       <Village id="village_comp_KR4_1" village_type="VillageType.fisherman" hearth="440" gate_rotation="0.758" bound="Settlement.castle_siaule" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
