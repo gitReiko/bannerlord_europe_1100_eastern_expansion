@@ -9628,7 +9628,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_brasłaŭ" name="{=castle_brasłaŭ.name}Brasłaŭ" owner="Faction.clan_rus_9" posX="966.850" posY="1262.580" culture="Culture.rus" prosperity="2300" gate_posX="879.786" gate_posY="1264.812">
+  <Settlement id="castle_brasłaŭ" name="{=castle_brasłaŭ.name}Brasłaŭ" owner="Faction.clan_rus_9" posX="960.950" posY="1261.600" culture="Culture.rus" prosperity="2300" gate_posX="961.531" gate_posY="1261.895">
     <Components>
       <Town id="castle_comp_brasłaŭ" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
