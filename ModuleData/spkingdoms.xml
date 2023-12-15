@@ -14,9 +14,9 @@
 		   culture="Culture.rus"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_a"
-		   name="{=polotsk_kingdom_name}The Polatsk State"
+		   name="{=polotsk_kingdom_name}The Polatsk Principality"
 		   short_name="{=polotsk_kingdom_short_name}Polatsk"
-		   title="{=polotsk_kingdom_title}Polatsk State"
+		   title="{=polotsk_kingdom_title}Polatsk Principality"
 		   ruler_title="{=polotsk_ruler_title}Great Knyaz"
 		   text="{=polotsk_kingdom_text}text.">
     <relationships>

@@ -9395,7 +9395,7 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mensk Castle" owner="Faction.clan_polotsk_2" posX="974.031" posY="1223.842" culture="Culture.rus" prosperity="2300" gate_posX="974.3494" gate_posY="1221.992">
+    <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mensk" owner="Faction.clan_polotsk_2" posX="974.031" posY="1223.842" culture="Culture.rus" prosperity="2300" gate_posX="974.3494" gate_posY="1221.992">
     <Components>
       <Town id="castle_comp_KR2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>

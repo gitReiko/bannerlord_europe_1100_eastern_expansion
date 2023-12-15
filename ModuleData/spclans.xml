@@ -4,7 +4,7 @@
 <!-- Polotsk Clans -->
 		   
   <Faction id="clan_rus_9"
-           name="{=clan_rus_9.name}Usiasłaŭ the Seer"
+           name="{=clan_rus_9.name}Usiasłaŭ II the Seer"
            tier="6"
            owner="Hero.lord_polotsk_1a"
            culture="Culture.rus"
