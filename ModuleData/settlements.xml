@@ -4768,16 +4768,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_K4" name="{=Settlements.Settlement.ECM.castle_K4}Königsberg Castle" owner="Faction.clan_baltic_1" posX="822.776" posY="1221.531" culture="Culture.goldenhorde" prosperity="530" gate_posX="820.9154" gate_posY="1220.952">
-    <Components>
-      <Town id="castle_comp_K4" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
   <Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.ECM.castle_village_K4_1}Lublin" posX="817.77" posY="1130.701" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K4_1}Tepes sits overlooking a tributary of the Karakaz, a river that flows from the north into Lake Tanaz, which the Empire calls Tanaesis. This district specializes in the harvest of timber which is floated down the river and sold to the lake towns.">
     <Components>
       <Village id="castle_village_comp_K4_1" village_type="VillageType.lumberjack" hearth="465" gate_rotation="0.508" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
@@ -4979,19 +4969,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Insterburg" posX="842.404" posY="1221.339" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
-    <Components>
-      <Village id="castle_village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="235" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_c" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
   <Settlement id="village_K1_4" name="{=Settlements.Settlement.ECM.village_K1_4}Dierna" posX="796.926" posY="961.765" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_K1_4}Asalig sits at the foot of Bars Dag, one of the peaks that marks the edge of the Devseg plateau. Villagers raise horses in the lower slopes, keeping watch for the snow leopards for which the peak is named.">
     <Components>
       <Village id="village_comp_K1_4" village_type="VillageType.steppe_horse_ranch" hearth="321" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
@@ -5173,9 +5150,9 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K4_2" name="{=Settlements.Settlement.ECM.village_K4_2}Białystok" posX="837.283" posY="1187.775" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_K4_2}Ransam in the southeastern plains of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, specialize in the rearing of horses.">
+  <Settlement id="village_K4_2" name="{=Settlements.Settlement.ECM.village_K4_2}Raj" posX="837.283" posY="1187.775" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_K4_2}Ransam in the southeastern plains of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, specialize in the rearing of horses.">
     <Components>
-      <Village id="village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.castle_dernen" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_l" />
@@ -9686,9 +9663,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_village_KR4_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Daugavpils" posX="942.281" posY="1244.956" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_1}Daugavpils sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
+  <Settlement id="castle_village_KR4_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Vidzy" posX="942.281" posY="1244.956" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_1}Vidzy sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
     <Components>
-      <Village id="castle_village_comp_KR4_1" village_type="VillageType.trapper" hearth="264" gate_rotation="0.008" bound="Settlement.castle_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="castle_village_comp_KR4_1" village_type="VillageType.iron_mine" hearth="264" gate_rotation="0.008" bound="Settlement.castle_brasłaŭ" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
@@ -9804,6 +9781,45 @@
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="village_K4_2" name="{=Settlements.Settlement.ECM.village_K4_2}Sentane" posX="837.283" posY="1187.775" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_K4_2}Ransam in the southeastern plains of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, specialize in the rearing of horses.">
+    <Components>
+      <Village id="village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.castle_dernen" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="castle_K4" name="{=Settlements.Settlement.ECM.castle_K4}Rethow Castle" owner="Faction.clan_baltic_1" posX="822.776" posY="1221.531" culture="Culture.goldenhorde" prosperity="530" gate_posX="820.9154" gate_posY="1220.952">
+    <Components>
+      <Town id="castle_comp_K4" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow" posX="842.404" posY="1221.339" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
+    <Components>
+      <Village id="castle_village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="235" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_c" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
