@@ -9738,7 +9738,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_apuole" name="{=town_apuole.name}Apuolė" owner="Faction.clan_baltic_4" posX="863.030" posY="1251.380" culture="Culture.goldenhorde" prosperity="1400" gate_posX="133.7872" gate_posY="1193.764" text="{=town_apuole.name}Apuolė, the 'Horse of the Ford,' is nowhere near a river. But Battanian bards love nothing more than an incongruous place-name around which a legend can be woven. In this case the hero Ochlaigan, who was foretold to defeat the seven sons of Glanys in seven duels near seven fords, encountered the last of his enemies here. He slit his horse's throat and crossed over the stream of blood that gushed forth, defeating his last enemy and fulfiling the prophecy.">
+  <Settlement id="town_apuole" name="{=town_apuole.name}Apuolė" owner="Faction.clan_baltic_4" posX="862.030" posY="1253.080" culture="Culture.goldenhorde" prosperity="1400" gate_posX="865.416" gate_posY="1249.950" text="{=town_apuole.name}Apuolė, the 'Horse of the Ford,' is nowhere near a river. But Battanian bards love nothing more than an incongruous place-name around which a legend can be woven. In this case the hero Ochlaigan, who was foretold to defeat the seven sons of Glanys in seven duels near seven fords, encountered the last of his enemies here. He slit his horse's throat and crossed over the stream of blood that gushed forth, defeating his last enemy and fulfiling the prophecy.">
     <Components>
       <Town id="town_comp_apuole" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108" />
     </Components>
