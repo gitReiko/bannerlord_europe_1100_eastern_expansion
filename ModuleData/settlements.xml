@@ -9510,7 +9510,7 @@
 
   <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Šiauliai" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Šiauliai.">
     <Components>
-      <Village id="village_comp_KR4_1" village_type="VillageType.fisherman" hearth="440" gate_rotation="0.758" bound="Settlement.castle_siaule" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_1" village_type="VillageType.swine_farm" hearth="440" gate_rotation="0.758" bound="Settlement.town_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -9586,7 +9586,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_jelgava_village_1" name="{=castle_jelgava_village_1.name}Saukiena" posX="865.977" posY="1259.180" culture="Culture.goldenhorde" text="{=castle_jelgava_village_1.text}Saukiena text.">
+  <Settlement id="castle_jelgava_village_1" name="{=castle_jelgava_village_1.name}Saukiena" posX="894.815" posY="1267.850" culture="Culture.goldenhorde" text="{=castle_jelgava_village_1.text}Saukiena text.">
     <Components>
       <Village id="castle_jelgava_village_comp_1" village_type="VillageType.lumberjack" hearth="283" gate_rotation="0.408" bound="Settlement.castle_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -9600,7 +9600,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_jelgava_village_2" name="{=castle_jelgava_village_2.name}Ragaciems" posX="881.600" posY="1282.350" culture="Culture.goldenhorde" text="{=castle_jelgava_village_2.text}Ragaciems.">
+  <Settlement id="castle_jelgava_village_2" name="{=castle_jelgava_village_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.goldenhorde" text="{=castle_jelgava_village_2.text}Ragaciems.">
     <Components>
       <Village id="castle_jelgava_village_comp_2" village_type="VillageType.fisherman" hearth="210" gate_rotation="0.758" bound="Settlement.castle_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -9634,6 +9634,20 @@
       <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="sturgia_dungeon_a" />
     </Locations>
+  </Settlement>
+
+  <Settlement id="castle_siaule_village_1" name="{=castle_siaule_village_1.name}Kulautuva" posX="882.510" posY="1236.180" culture="Culture.goldenhorde" text="{=castle_siaule_village_1.text}Kulautuva.">
+    <Components>
+      <Village id="castle_siaule_comp_village_1" village_type="VillageType.swine_farm" hearth="264" gate_rotation="0.008" bound="Settlement.castle_siaule" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
   </Settlement>
 
   <Settlement id="castle_kernave" name="{=castle_kernave.name}Kernavė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde" prosperity="2300" gate_posX="915.020" gate_posY="1252.360">
@@ -9759,9 +9773,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_apuole_village_1" name="{=town_apuole_village_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.goldenhorde" text="{=town_apuole_village_1.text}Misa.">
+  <Settlement id="town_apuole_village_1" name="{=town_apuole_village_1.name}Talsi" posX="877.700" posY="1257.140" culture="Culture.goldenhorde" text="{=town_apuole_village_1.text}Talsi.">
     <Components>
-      <Village id="town_comp_apuole_village_1" village_type="VillageType.trapper" hearth="264" gate_rotation="0.008" bound="Settlement.town_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="town_comp_apuole_village_1" village_type="VillageType.clay_mine" hearth="264" gate_rotation="0.008" bound="Settlement.town_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
