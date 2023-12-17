@@ -9892,7 +9892,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_lukoml" name="{=castle_lukoml.name}Łukoml Castle" owner="Faction.clan_polotsk_4" posX="1022.450" posY="1239.750" culture="Culture.rus" prosperity="1300" gate_posX="878.800" gate_posY="1249.050">
+  <Settlement id="castle_lukoml" name="{=castle_lukoml.name}Łukoml Castle" owner="Faction.clan_polotsk_4" posX="1022.450" posY="1239.750" culture="Culture.rus" prosperity="1300" gate_posX="1022.060" gate_posY="1240.500">
     <Components>
       <Town id="castle_comp_lukoml" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -9903,9 +9903,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_lukoml_village_1" name="{=castle_lukoml_village_1.name}Kulautuva" posX="882.510" posY="1236.180" culture="Culture.rus" text="{=castle_lukoml_village_1.text}Kulautuva.">
+  <Settlement id="castle_lukoml_village_1" name="{=castle_lukoml_village_1.name}Latyhaličy" posX="1007.830" posY="1237.660" culture="Culture.rus" text="{=castle_lukoml_village_1.text}Latyhaličy.">
     <Components>
-      <Village id="castle_lukoml_comp_village_1" village_type="VillageType.swine_farm" hearth="264" gate_rotation="0.008" bound="Settlement.castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="castle_lukoml_comp_village_1" village_type="VillageType.flax_plant" hearth="264" gate_rotation="0.008" bound="Settlement.castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
