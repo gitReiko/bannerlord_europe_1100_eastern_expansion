@@ -9842,7 +9842,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_meindenewe" name="{=castle_meindenewe.name}Meindenewe Castle" owner="Faction.clan_baltic_1" posX="788.250" posY="1214.950" culture="Culture.goldenhorde" prosperity="1100" gate_posX="937.714" gate_posY="1284.040">
+  <Settlement id="castle_meindenewe" name="{=castle_meindenewe.name}Meindenewe Castle" owner="Faction.clan_baltic_1" posX="788.250" posY="1214.950" culture="Culture.goldenhorde" prosperity="1100" gate_posX="787.610" gate_posY="1213.865">
     <Components>
       <Town id="castle_comp_meindenewe" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -9853,9 +9853,34 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_meindenewe_village_1" name="{=castle_meindenewe_village_1.name}Drusen" posX="755.732" posY="1213.240" culture="Culture.goldenhorde" text="{=castle_meindenewe_village_1.text}Drusen text.">
+  <Settlement id="castle_meindenewe_village_1" name="{=castle_meindenewe_village_1.name}Tummonis" posX="802.710" posY="1210.860" culture="Culture.goldenhorde" text="{=castle_meindenewe_village_1.text}Tummonis text.">
     <Components>
       <Village id="castle_meindenewe_village_comp_1" village_type="VillageType.wheat_farm" hearth="283" gate_rotation="0.408" bound="Settlement.castle_meindenewe" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="castle_lanzania" name="{=castle_lanzania.name}Lanzania Castle" owner="Faction.clan_baltic_1" posX="756.216" posY="1213.870" culture="Culture.goldenhorde" prosperity="850" gate_posX="756.880" gate_posY="1214.050">
+    <Components>
+      <Town id="castle_comp_lanzania" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="castle_lanzania_village_1" name="{=castle_lanzania_village_1.name}Orneta" posX="764.660" posY="1212.610" culture="Culture.goldenhorde" text="{=castle_lanzania_village_1.text}Orneta text.">
+    <Components>
+      <Village id="castle_lanzania_village_comp_1" village_type="VillageType.fisherman" hearth="283" gate_rotation="0.408" bound="Settlement.castle_lanzania" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
