@@ -9411,7 +9411,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_viciebsk" name="{=castle_viciebsk.name}Viciebsk" owner="Faction.clan_polotsk_3" posX="1070.000" posY="1256.100" culture="Culture.rus" prosperity="1700" gate_posX="1070.286" gate_posY="1254.855">
+  <Settlement id="castle_viciebsk" name="{=castle_viciebsk.name}Viciebsk" owner="Faction.clan_polotsk_3" posX="1046.270" posY="1258.220" culture="Culture.rus" prosperity="1700" gate_posX="1047.225" gate_posY="1257.985">
     <Components>
       <Town id="castle_comp_viciebsk" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -9436,7 +9436,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_viciebsk_village_2" name="{=castle_viciebsk_village_2.name}Taranki" posX="1079.655" posY="1262.103" culture="Culture.rus" text="{=castle_viciebsk_village_2.text}Dvurečča.">
+  <Settlement id="castle_viciebsk_village_2" name="{=castle_viciebsk_village_2.name}Taranki" posX="1058.245" posY="1260.280" culture="Culture.rus" text="{=castle_viciebsk_village_2.text}Dvurečča.">
     <Components>
       <Village id="castle_village_comp_viciebsk_2" village_type="VillageType.clay_mine" hearth="440" gate_rotation="0.758" bound="Settlement.castle_viciebsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
