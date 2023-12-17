@@ -239,53 +239,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_rus_9e"
-                name="{=lord_rus_9e.name}Raścisłaŭ"
-                voice="softspoken"
-                age="31"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.rus"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
-    </face>
-	<skills>
-        <skill id="Engineering" value="60" />
-        <skill id="Medicine" value="60" />
-        <skill id="Leadership" value="90" />
-        <skill id="Steward" value="110" />
-        <skill id="Trade" value="90" />
-        <skill id="Charm" value="60" />
-        <skill id="Roguery" value="80" />
-        <skill id="Scouting" value="110" />
-        <skill id="Tactics" value="90" />
-        <skill id="Athletics" value="125" />
-        <skill id="Riding" value="125" />
-        <skill id="Throwing" value="110" />
-        <skill id="Bow" value="130" />
-        <skill id="Polearm" value="125" />
-        <skill id="TwoHanded" value="90" />
-        <skill id="OneHanded" value="120" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="0" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
     <NPCCharacter id="lord_rus_9f"
                 name="{=lord_rus_9f.name}Ivan"
                 voice="softspoken"
@@ -733,6 +686,134 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_polotsk_4a"
+                name="{=lord_polotsk_4a.name}Raścisłaŭ"
+                voice="softspoken"
+                age="32"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="60" />
+        <skill id="Charm" value="90" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="125" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_polotsk_4b"
+                name="{=lord_polotsk_4b.name}Maŭkold"
+                voice="softspoken"
+                age="7"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    </face>
+	<skills>
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="50" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="40" />
+        <skill id="Roguery" value="30" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="25" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="25" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="50" />
+        <skill id="TwoHanded" value="25" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_polotsk_4c"
+                name="{=lord_polotsk_4c.name}Davił"
+                voice="softspoken"
+                age="4"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    </face>
+	<skills>
+        <skill id="Steward" value="40" />
+        <skill id="Charm" value="25" />
+        <skill id="Roguery" value="25" />
+        <skill id="Athletics" value="50" />
+        <skill id="Throwing" value="25" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="0" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
