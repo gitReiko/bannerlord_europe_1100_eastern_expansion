@@ -44,5 +44,8 @@
    <Hero id="lord_baltic_09a" faction="Faction.clan_baltic_09" />
    <Hero id="lord_baltic_09b" faction="Faction.clan_baltic_09" />
 
+   <Hero id="lord_baltic_10a" faction="Faction.clan_baltic_10" />
+   <Hero id="lord_baltic_10b" faction="Faction.clan_baltic_10" />
+
    
 </Heroes>
