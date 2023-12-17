@@ -306,13 +306,13 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="2" />
-        <Trait id="Honor" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="2" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+        <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="rus_king" />
