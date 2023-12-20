@@ -344,9 +344,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_barysaŭ" name="{=castle_barysaŭ.name}Barysaŭ Castle" owner="Faction.clan_polotsk_2" posX="995.270" posY="1233.820" culture="Culture.rus" prosperity="1000" gate_posX="995.930" gate_posY="1234.260">
+  <Settlement id="reiko_baltic_castle_barysau" name="{=reiko_baltic_castle_barysau.name}Barysaŭ Castle" owner="Faction.clan_polotsk_2" posX="995.270" posY="1233.820" culture="Culture.rus" prosperity="1000" gate_posX="995.930" gate_posY="1234.260">
     <Components>
-      <Town id="castle_comp_barysaŭ" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+      <Town id="reiko_baltic_castle_comp_barysau" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
@@ -355,9 +355,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_barysaŭ_village_1" name="{=castle_barysaŭ_village_1.name}Lipień" posX="1002.945" posY="1219.70" culture="Culture.rus" text="{=castle_barysaŭ_village_1.text}Saukiena text.">
+  <Settlement id="reiko_baltic_castle_barysau_village_1" name="{=reiko_baltic_castle_barysau_village_1.name}Lipień" posX="1002.945" posY="1219.70" culture="Culture.rus" text="{=reiko_baltic_castle_barysau_village_1.text}Saukiena text.">
     <Components>
-      <Village id="castle_barysaŭ_village_comp_1" village_type="VillageType.lumberjack" hearth="183" gate_rotation="0.408" bound="Settlement.castle_barysaŭ" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_barysau_village_comp_1" village_type="VillageType.lumberjack" hearth="183" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_barysau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
@@ -369,9 +369,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_barysaŭ_village_2" name="{=castle_barysaŭ_village_2.name}Turyn" posX="988.210" posY="1212.910" culture="Culture.rus" text="{=castle_barysaŭ_village_2.text}Turyn.">
+  <Settlement id="reiko_baltic_castle_barysau_village_2" name="{=reiko_baltic_castle_barysau_village_2.name}Turyn" posX="988.210" posY="1212.910" culture="Culture.rus" text="{=reiko_baltic_castle_barysau_village_2.text}Turyn.">
     <Components>
-      <Village id="castle_barysaŭ_village_comp_2" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.castle_barysaŭ" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_barysau_village_comp_2" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.reiko_baltic_castle_barysau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
