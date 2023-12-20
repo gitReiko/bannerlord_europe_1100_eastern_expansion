@@ -383,9 +383,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_lukoml" name="{=castle_lukoml.name}Łukoml Castle" owner="Faction.clan_polotsk_4" posX="1022.450" posY="1239.750" culture="Culture.rus" prosperity="1300" gate_posX="1022.060" gate_posY="1240.500">
+  <Settlement id="reiko_baltic_castle_lukoml" name="{=reiko_baltic_castle_lukoml.name}Łukoml Castle" owner="Faction.clan_polotsk_4" posX="1022.450" posY="1239.750" culture="Culture.rus" prosperity="1300" gate_posX="1022.060" gate_posY="1240.500">
     <Components>
-      <Town id="castle_comp_lukoml" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+      <Town id="reiko_baltic_castle_comp_lukoml" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
@@ -394,9 +394,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_lukoml_village_1" name="{=castle_lukoml_village_1.name}Latyhaličy" posX="1007.830" posY="1237.660" culture="Culture.rus" text="{=castle_lukoml_village_1.text}Latyhaličy.">
+  <Settlement id="reiko_baltic_castle_lukoml_village_1" name="{=reiko_baltic_castle_lukoml_village_1.name}Latyhaličy" posX="1007.830" posY="1237.660" culture="Culture.rus" text="{=reiko_baltic_castle_lukoml_village_1.text}Latyhaličy.">
     <Components>
-      <Village id="castle_lukoml_comp_village_1" village_type="VillageType.flax_plant" hearth="264" gate_rotation="0.008" bound="Settlement.castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_lukoml_comp_village_1" village_type="VillageType.flax_plant" hearth="264" gate_rotation="0.008" bound="Settlement.reiko_baltic_castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
@@ -408,9 +408,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="castle_dzisna" name="{=castle_dzisna.name}Kapiec Haradok" owner="Faction.clan_rus_9" posX="988.610" posY="1259.730" culture="Culture.rus" prosperity="500" gate_posX="988.560" gate_posY="1259.000">
+  <Settlement id="reiko_baltic_castle_dzisna" name="{=reiko_baltic_castle_dzisna.name}Kapiec Haradok" owner="Faction.clan_rus_9" posX="988.610" posY="1259.730" culture="Culture.rus" prosperity="500" gate_posX="988.560" gate_posY="1259.000">
     <Components>
-      <Town id="castle_comp_dzisna" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+      <Town id="reiko_baltic_castle_comp_dzisna" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
@@ -419,9 +419,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="castle_dzisna_village_1" name="{=castle_dzisna_village_1.name}Prazaroki" posX="991.070" posY="1247.735" culture="Culture.rus" text="{=castle_dzisna_village_1.text}Prazaroki.">
+  <Settlement id="reiko_baltic_castle_dzisna_village_1" name="{=reiko_baltic_castle_dzisna_village_1.name}Prazaroki" posX="991.070" posY="1247.735" culture="Culture.rus" text="{=reiko_baltic_castle_dzisna_village_1.text}Prazaroki.">
     <Components>
-      <Village id="castle_dzisna_village_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="173" gate_rotation="0.408" bound="Settlement.castle_dzisna" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_dzisna_village_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="173" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_dzisna" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
