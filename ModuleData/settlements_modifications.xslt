@@ -7,7 +7,7 @@
     </xsl:template>
 
     <xsl:template match="Settlement[@id='town_KR5']/@name">
-        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.town_KR5}Połack</xsl:attribute>
+        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.town_KR5}Połacak</xsl:attribute>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KR5']/@prosperity">
         <xsl:attribute name='prosperity'>3300</xsl:attribute>
