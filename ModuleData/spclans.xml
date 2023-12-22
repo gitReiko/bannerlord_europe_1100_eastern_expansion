@@ -59,7 +59,7 @@
 
   <Faction id="clan_baltic_3"
            name="{=clan_baltic_3.name}Latgalians"
-           tier="4"
+           tier="2"
            owner="Hero.lord_baltic_3a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
@@ -67,7 +67,7 @@
 
   <Faction id="clan_baltic_4"
            name="{=clan_baltic_4.name}Curonians"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_3a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.goldenhorde"
@@ -75,7 +75,7 @@
 
   <Faction id="clan_baltic_05"
            name="{=clan_baltic_05.name}Livonians"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_05a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
@@ -83,7 +83,7 @@
 
   <Faction id="clan_baltic_06"
            name="{=clan_baltic_06.name}Selonians"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_06a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
@@ -91,7 +91,7 @@
 
   <Faction id="clan_baltic_07"
            name="{=clan_baltic_07.name}Samogitian"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_07a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.goldenhorde"
@@ -99,7 +99,7 @@
 
   <Faction id="clan_baltic_08"
            name="{=clan_baltic_08.name}Yotvingians"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_08a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.goldenhorde"
@@ -107,7 +107,7 @@
 
   <Faction id="clan_baltic_09"
            name="{=clan_baltic_09.name}Semigallians"
-           tier="3"
+           tier="2"
            owner="Hero.lord_baltic_09a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.goldenhorde"
