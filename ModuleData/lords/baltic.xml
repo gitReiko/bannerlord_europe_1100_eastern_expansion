@@ -16,7 +16,7 @@
                 default_group="Cavalry">
     <face>
     <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.5"  key="001B100D000004427C9162692765A8A37577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002"  />
+    <BodyProperties version="4" age="22" weight="0.5202" build="0.4099"  key="00027C0C40CC334D9A36466B89A777786257875C2D77AB6396CABB677959533400668603068BBA8700000000000000000000000000000000000000004CCC2002"  />
         </face>
     <skills>
         <skill id="Engineering" value="142" />
@@ -66,7 +66,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.5"  key="00081002000000027C9162692765A8A37577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.4915" build="0.467"  key="001B280E40B420063858B877678873974A1A47968E77178366A67C5D706A7926007776030799CA78000000000000000000000000000000000000000028EC1043"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -107,7 +107,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.5"  key="00081002000004437C9162692765A8A37577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF47002"  />
+    <BodyProperties version="4" age="22" weight="0.7591" build="0.7659"  key="0002A80800700385976A7D7B8DB34577CB78515660397A88DA97957785983D45004BB60304A4A651000000000000000000000000000000000000000026847102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="142" />
@@ -157,7 +157,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.5"  key="000810020000300D7C9AC838C64568C47577866254C69643C4B647398C95A0370047760304A7497300000000000000000000000000000000000000003A944003"  />
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00058C0600142001979646A85B89B55872448B628C6B9A69B756A97D818549460028460302987D990000000000000000000000000000000000000000703C2003"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -198,7 +198,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.6898"  key="00081002000004867CAA97D75748A48A7577866254C69643C4B647398C95A037009A760309A7497300000000000000000000000000000000000000003B247002"  />
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="142" />
@@ -248,7 +248,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-    <BodyProperties version="4" age="22.15" weight="0.5" build="0.6898"  key="000810020000300A7CAA97D75748A48A7577866254C69643C4B647398C95A037009A760309A7497300000000000000000000000000000000000000003B244003"  />
+    <BodyProperties version="4" age="22" weight="0.3873" build="0.3485"  key="000AD00C40FC10029C55A977338D8897A72D8B29839BDC3674ADB9945888352900656603065D0968000000000000000000000000000000000000000024D41043"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -289,7 +289,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22.15" weight="0.625" build="0.6898"  key="00081002000013C17CCE45DA4793B7887577866254C69643C4B647398C95A037009A960309A7497300000000000000000000000000000000000000003B247002"  />
+    <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="00058008C0FC214D78AD58995989966449918B5B4A6A695C4B984D8B76D865B6009B76030972D6B5000000000000000000000000000000000000000053246085"  />
     </face>
 	<skills>
         <skill id="Engineering" value="142" />
@@ -339,7 +339,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-    <BodyProperties version="4" age="22.15" weight="0.4884" build="0.4468"  key="00081002000010107CB56639267927457577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="001580000000100278AD58995989966449918B5B4A6A695C4B984D8B76D865B6006B76030672D6B5000000000000000000000000000000000000000052DC1043"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -380,7 +380,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22.15" weight="0.4884" build="0.581"  key="00021002000023C27C756936548782587577866254C69643C4B647398C95A0370079760307A7497300000000000000000000000000000000000000003AF47002"  />
+    <BodyProperties version="4" age="22" weight="0.1326" build="0.6747"  key="00108C0D90FC06435871B8C9969C68B3477888CD4C2DB77786667375A9B7B757008A2603081D6694000000000000000000000000000000000000000029043102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="142" />
@@ -430,7 +430,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22.15" weight="0.4884" build="0.581"  key="0002100A400010077C6586085981A2B67577866254C69643C4B647398C95A0370079760307A7497300000000000000000000000000000000000000003AF44003"  />
+        <BodyProperties version="4" age="22" weight="0.6227" build="0.6651"  key="0008B80AC0882003C5C557347958BCA6147EE664467578E563B7BB6968984B8D005A9603056A437100000000000000000000000000000000000000003A9C3043"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -472,7 +472,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.2887" build="0.5316"  key="00187C0C40140254B96B4896E68C87A779A666B7277585796A9944A64696D5D800A846030A25889400000000000000000000000000000000000000003B444102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="90" />
@@ -519,7 +519,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.0958" build="0.179"  key="00007C0200002006B96B4896E68C87A779A666B7277585796A9944A64696D5D8007316030725889400000000000000000000000000000000000000003AEC3043"  />
     </face>
 	<skills>
         <skill id="Tactics" value="60" />
@@ -562,7 +562,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.2779" build="0.6455"  key="0018700C40140481656832B97D7AC9D86D475BA753154B899C57568C5DCD453A008A460308958846000000000000000000000000000000000000000014FC4002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -599,54 +599,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_baltic_05d"
-                name="{=lord_baltic_05d.name}Kovals"
-                voice="softspoken"
-                age="35"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.goldenhorde"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
-    </face>
-	<skills>
-        <skill id="Engineering" value="125" />
-        <skill id="Medicine" value="25" />
-        <skill id="Leadership" value="90" />
-        <skill id="Steward" value="125" />
-        <skill id="Trade" value="25" />
-        <skill id="Crafting" value="90" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="25" />
-        <skill id="Scouting" value="90" />
-        <skill id="Tactics" value="125" />
-        <skill id="Athletics" value="150" />
-        <skill id="Riding" value="90" />
-        <skill id="Throwing" value="110" />
-        <skill id="Bow" value="50" />
-        <skill id="Polearm" value="120" />
-        <skill id="TwoHanded" value="100" />
-        <skill id="OneHanded" value="125" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="-2" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="1" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
     <NPCCharacter id="lord_baltic_06a"
                 name="{=lord_baltic_06a.name}Uga"
                 voice="softspoken"
@@ -657,7 +609,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.3025" build="0.3295"  key="001BB009805802028977A489868A97828C88645C7EB2A4C33C62B82A9954874C009556030973789D00000000000000000000000000000000000000002D1C5082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -704,7 +656,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.203" build="0.1231"  key="0002480D80FC0005976B728DB8789814897523C87999E67D68393998A768B72A0042360304995798000000000000000000000000000000000000000050843103"  />
     </face>
 	<skills>
         <skill id="Tactics" value="90" />
@@ -737,52 +689,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_baltic_06c"
-                name="{=lord_baltic_06c.name}Jānis"
-                voice="softspoken"
-                age="43"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.goldenhorde"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
-    </face>
-	<skills>
-        <skill id="Engineering" value="75" />
-        <skill id="Medicine" value="50" />
-        <skill id="Leadership" value="75" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="75" />
-        <skill id="Crafting" value="75" />
-        <skill id="Charm" value="50" />
-        <skill id="Scouting" value="50" />
-        <skill id="Tactics" value="50" />
-        <skill id="Athletics" value="100" />
-        <skill id="Riding" value="75" />
-        <skill id="Throwing" value="50" />
-        <skill id="Bow" value="50" />
-        <skill id="Polearm" value="50" />
-        <skill id="OneHanded" value="50" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="2" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
     <NPCCharacter id="lord_baltic_07a"
                 name="{=lord_baltic_07a.name}Ontuons"
                 voice="softspoken"
@@ -793,7 +699,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.3368" build="0.6413"  key="0015AC0D00FC3614566BD83E996A76E767CA65962AB4D965C6379C89A9B5967C007A5603079566B9000000000000000000000000000000000000000064F46042"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -840,7 +746,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.4221" build="0.5262"  key="001B680C40E4000D19989B3B6198AA78F8466876928739971A896775C9D7C3A700786603075A66DC000000000000000000000000000000000000000040F43083"  />
     </face>
 	<skills>
         <skill id="Tactics" value="50" />
@@ -883,7 +789,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.9313" build="0.9738"  key="0020980997CC3608C0C6B73484493458A7C68396388C394B446A9CB986B7798E009FE6030997A23900000000000000000000000000000000000000004B243082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -930,7 +836,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.4133" build="0.7226"  key="00154C0980B4001091D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200CB66030C4C962A000000000000000000000000000000000000000041A41043"  />
     </face>
 	<skills>
         <skill id="Tactics" value="50" />
@@ -973,7 +879,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -1020,7 +926,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.17" weight="0.5" build="0.5"  key="00021400800020067C4D97793687877A7577866254C69643C4B647398C95A0370077760307A7497300000000000000000000000000000000000000003AF44003"  />
+    <BodyProperties version="4" age="22" weight="0.2022" build="0.2039"  key="0002640A40CC100D85C1C898D27981B19C9C27A5AB977669D985446B88B67B9A00033603008B56BC00000000000000000000000000000000000000001A040043"  />
     </face>
 	<skills>
         <skill id="Tactics" value="25" />
