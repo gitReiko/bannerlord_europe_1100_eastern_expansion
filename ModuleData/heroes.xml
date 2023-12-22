@@ -41,6 +41,7 @@
 
    <Hero id="lord_baltic_09a" faction="Faction.clan_baltic_09" />
    <Hero id="lord_baltic_09b" faction="Faction.clan_baltic_09" />
+   <Hero id="lord_baltic_09c" father="Hero.lord_baltic_09a" mother="Hero.lord_baltic_09b" faction="Faction.clan_baltic_09" />
 
    
 </Heroes>
