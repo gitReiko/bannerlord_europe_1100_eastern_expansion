@@ -10,7 +10,7 @@
                 age="71"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -57,7 +57,7 @@
                 age="47"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -101,12 +101,12 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_rus_9b"
-                name="{=lord_rus_9b.name}Galina"
+                name="{=lord_rus_9b.name}Hala"
                 voice="softspoken"
                 age="32"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -151,7 +151,7 @@
                 age="42"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -198,7 +198,7 @@
                 age="40"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -245,7 +245,7 @@
                 age="1"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -279,7 +279,7 @@
                 age="44"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -322,12 +322,12 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_polotsk_2b"
-                name="{=lord_polotsk_2b.name}Anastasia"
+                name="{=lord_polotsk_2b.name}Ahata"
                 voice="softspoken"
                 age="26"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -372,7 +372,7 @@
                 age="10"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -418,7 +418,7 @@
                 age="10"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -464,7 +464,7 @@
                 age="3"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -500,7 +500,7 @@
                 age="43"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -547,7 +547,7 @@
                 age="27"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -592,7 +592,7 @@
                 age="20"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -638,7 +638,7 @@
                 age="3"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -674,7 +674,7 @@
                 age="1"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -707,7 +707,7 @@
                 age="32"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -754,7 +754,7 @@
                 age="7"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -799,7 +799,7 @@
                 age="4"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.kryvich"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>

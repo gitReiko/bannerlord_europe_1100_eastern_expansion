@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NPCCharacters>
+	<NPCCharacter id="kryvich_levy"
+		default_group="Infantry"
+		level="6"
+		name="{=kryvich_levy.name}Kryvich Levy"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="20"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="25"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="15"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="15"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_armed_levy"/>
+			<upgrade_target id="NPCCharacter.kryvich_archer_levy"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_armed_levy"
+		default_group="Infantry"
+		level="11"
+		name="{=kryvich_armed_levy.name}Kryvich Armed Levy"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="40"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="40"/>
+			<skill id="TwoHanded" value="20"/>
+			<skill id="Polearm" value="40"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_palkavy"/>
+			<upgrade_target id="NPCCharacter.kryvich_light_vershnik"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
+				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_archer_levy"
+		default_group="Ranged"
+		level="11"
+		name="{=kryvich_archer_levy.name}Kryvich Archer Levy"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="20"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="10"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_palkavy_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_palkavy_archer"
+		default_group="Ranged"
+		level="16"
+		name="{=kryvich_palkavy_archer.name}Kryvich Palkavy Archer"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="85"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="100"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_druzinny_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.woodland_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_druzinny_archer"
+		default_group="Ranged"
+		level="21"
+		name="{=kryvich_druzinny_archer.name}Kryvich Druzinny Archer"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="125"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.woodland_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_palkavy"
+		default_group="Infantry"
+		level="16"
+		name="{=kryvich_palkavy.name}Kryvich Palkavy"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="75"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="75"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="35"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_druzinny"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_light_vershnik"
+		default_group="Cavalry"
+		level="16"
+		name="{=kryvich_light_vershnik.name}Kryvich Light Vershnik"
+		upgrade_requires="ItemCategory.horse"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_vershnik"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.bound_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+				<equipment slot="Horse" id="Item.empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_vershnik"
+		default_group="Cavalry"
+		level="21"
+		name="{=kryvich_vershnik.name}Kryvich Vershnik"
+		upgrade_requires="ItemCategory.war_horse"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="75"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_druzinny"
+		default_group="Infantry"
+		level="21"
+		name="{=kryvich_druzinny.name}Kryvich Druzinny"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+    <NPCCharacter id="kryvich_boyar_son"
+		default_group="Infantry"
+		level="21"
+		name="{=kryvich_boyar_son.name}Kryvich Boyar Son"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="125"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="75"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_pancyrny_boyar"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_pancyrny_boyar"
+		default_group="Infantry"
+		level="26"
+		name="{=kryvich_pancyrny_boyar.name}Kryvich Pancyrny Boyar"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="175"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="200"/>
+			<skill id="TwoHanded" value="125"/>
+			<skill id="Polearm" value="200"/>
+			<skill id="Bow" value="75"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="150"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_pancyrny_boyar_veteran"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.viking_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter id="kryvich_pancyrny_boyar_veteran"
+		default_group="Infantry"
+		level="31"
+		name="{=Kryvich Pancyrny Boyar Veteran}Kryvich Pancyrny Boyar Veteran"
+		occupation="Soldier"
+		culture="Culture.kryvich">
+		<face>
+			<face_key_template value="BodyProperty.villager_kryvich"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="275"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="250"/>
+			<skill id="TwoHanded" value="125"/>
+			<skill id="Polearm" value="300"/>
+			<skill id="Bow" value="75"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="225"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.viking_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
+				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
+				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+</NPCCharacters>

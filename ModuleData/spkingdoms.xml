@@ -11,7 +11,7 @@
 		   color2="ffffffff"
 		   alternative_color="ffd22d30"
 		   alternative_color2="ffffffff"
-		   culture="Culture.rus"
+		   culture="Culture.kryvich"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_a"
 		   name="{=polatsk_kingdom_name}The Polatsk Principality"

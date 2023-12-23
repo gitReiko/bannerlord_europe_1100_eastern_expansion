@@ -63,10 +63,26 @@
       </IncludedGameTypes>
     </XmlNode>
 
-    
+    <XmlNode>
+      <XmlName id="SPCultures" path="spcultures"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
 
     <XmlNode>
       <XmlName id="Kingdoms" path="spkingdoms"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+    <XmlNode>                
+      <XmlName id="NPCCharacters" path="trooptrees"/>
       <IncludedGameTypes>
         <GameType value = "Campaign"/>
         <GameType value = "CampaignStoryMode"/>
