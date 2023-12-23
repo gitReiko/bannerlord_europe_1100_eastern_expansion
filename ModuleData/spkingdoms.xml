@@ -40,11 +40,11 @@
 		   culture="Culture.goldenhorde"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_b"
-		   name="{=polish_kingdom_name}The Baltic Tribes"
-		   short_name="{=polish_kingdom_short_name}Baltic Tribes"
-		   title="{=polish_kingdom_title}The Baltic Tribes"
-		   ruler_title="{=polish_ruler_title}Duke"
-		   text="{=polish_kingdom_text}In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania.">
+		   name="{=baltic_tribes_name}The Baltic Tribes"
+		   short_name="{=baltic_tribes_short_name}Baltic Tribes"
+		   title="{=baltic_tribes_title}The Baltic Tribes"
+		   ruler_title="{=polish_ruler_title}Kunigas"
+		   text="{=baltic_tribes_text}In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania.">
     <relationships>
 
 	</relationships>

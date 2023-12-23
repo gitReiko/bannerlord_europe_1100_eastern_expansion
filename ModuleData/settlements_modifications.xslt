@@ -98,7 +98,7 @@
     </xsl:template>
 
     <xsl:template match="Settlement[@id='village_KR4_4']/@name">
-        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.village_KR4_4}Jonava</xsl:attribute>
+        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.village_KR4_4}Vilkamergė</xsl:attribute>
     </xsl:template>
     <xsl:template match="Settlement/Components/Village[@id='village_comp_KR4_4']/@bound">
         <xsl:attribute name='bound'>Settlement.reiko_baltic_castle_kernave</xsl:attribute>
