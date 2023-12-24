@@ -108,7 +108,16 @@
     </XmlNode>
 
     <XmlNode>
-      <XmlName id="BodyProperties" path="bodyproperties"/>
+      <XmlName id="BodyProperties" path="body_properties"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+    <XmlNode>
+      <XmlName id="partyTemplates" path="party_templates"/>
       <IncludedGameTypes>
         <GameType value = "Campaign"/>
         <GameType value = "CampaignStoryMode"/>
