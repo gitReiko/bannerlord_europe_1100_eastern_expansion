@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="spc_notable_kryvich_merch1" name="{=!}Ironic Kryvich merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_0" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_0" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_merch2" name="{=!}curt Kryvich merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_1" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_merch3" name="{=!}Daring Kryvich merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_2" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <!-- TEMPLATE INFO -->
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <!-- CHARACTER -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_merch4" name="{=!}Softspoken Kryvich merchant" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_2b" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="3" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_merch5" name="{=!}{FIRSTNAME} the Manciple" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_3b" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3b" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_kryvich_1" name="{=!}{FIRSTNAME} the Warehouser" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_5" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_1b" name="{=!}{FIRSTNAME} the Heiress" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_5" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_2" name="{=!}Puritan male preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_4" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_3" name="{=!}Rebellious female preacher" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kryvich" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_5" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!-- Vlandian gang leaders-->
+  <NPCCharacter id="spc_kryvich_gangleader_1" name="{=!}Standard male gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kryvich_gangleader_2" name="{=!}Female gang leader" voice="ironic" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kryvich" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kryvich_gangleader_3" name="{=!}Male gang leader" voice="ironic" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kryvich" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_artisan_1" name="{=!}Kryvich artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_artisan_2" name="{=!}Kryvich artisan 2" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_kryvich_rural_1" name="{=!}Kryvich yeoman" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_kryvich_rural_2" name="{=!}Kryvich yeoman" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+ 
+  <NPCCharacter id="spc_kryvich_headman_1" name="{=!}Kryvich rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kryvich_headman_2" name="{=!}Kryvich conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_kryvich_headman_3" name="{=!}Kryvich devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+ 
+</NPCCharacters>
