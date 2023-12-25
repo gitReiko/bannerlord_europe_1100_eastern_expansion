@@ -1602,10 +1602,10 @@
 			</EquipmentRoster>      
 		</Equipments>
 	</NPCCharacter>
-    <NPCCharacter id="kryvich_boyar_son"
+    <NPCCharacter id="kryvich_druzinnik_son"
 		default_group="Infantry"
 		level="21"
-		name="{=kryvich_boyar_son.name}Kryvich Boyar Son"
+		name="{=kryvich_druzinnik_son.name}Kryvich Druzynnik Son"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1622,7 +1622,7 @@
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.kryvich_pancyrny_boyar"/>
+			<upgrade_target id="NPCCharacter.kryvich_younger_pancyrny_druzynnik"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1631,10 +1631,65 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Body" id="Item.northern_padded_cloth"/>
+				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.strapped_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Body" id="Item.short_padded_robe"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Body" id="Item.short_padded_robe"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.strapped_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
@@ -1646,10 +1701,10 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="kryvich_pancyrny_boyar"
+	<NPCCharacter id="kryvich_younger_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="26"
-		name="{=kryvich_pancyrny_boyar.name}Kryvich Pancyrny Boyar"
+		name="{=kryvich_younger_pancyrny_druzynnik.name}Kryvich Younger Pancyrny Druzynnik"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1666,19 +1721,82 @@
 			<skill id="Throwing" value="150"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.kryvich_pancyrny_boyar_veteran"/>
+			<upgrade_target id="NPCCharacter.kryvich_older_pancyrny_druzynnik"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
@@ -1690,10 +1808,10 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="kryvich_pancyrny_boyar_veteran"
+	<NPCCharacter id="kryvich_older_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="31"
-		name="{=Kryvich Pancyrny Boyar Veteran}Kryvich Pancyrny Boyar Veteran"
+		name="{=kryvich_older_pancyrny_druzynnik.name}Kryvich Older Pancyrny Druzynnik"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1711,15 +1829,78 @@
 		</skills>
 		<Equipments>
 			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
+				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Gloves" id="Item.reinforced_mail_mitten"/>
-				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
