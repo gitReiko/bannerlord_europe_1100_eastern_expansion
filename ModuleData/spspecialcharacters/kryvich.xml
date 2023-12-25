@@ -505,5 +505,50 @@
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <NPCCharacter id="npc_wanderer_equipment_kryvich" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}wanderer_equipment" occupation="NotAssigned" culture="Culture.kryvich">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_wanderer_equipment_kryvich" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_artisan_equipment_kryvich" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}artisan_equipment" occupation="NotAssigned" culture="Culture.kryvich">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_artisan_equipment_kryvich" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_gang_leader_equipment_kryvich" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gang_leader_equipment" occupation="NotAssigned" culture="Culture.kryvich">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_gang_leader_equipment_kryvich" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_preacher_equipment_kryvich" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}preacher_equipment" occupation="NotAssigned" culture="Culture.kryvich">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_preacher_equipment_kryvich" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_merchant_equipment_kryvich" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}merchant_equipment" occupation="NotAssigned" culture="Culture.kryvich">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_merchant_equipment_kryvich" />
+    </Equipments>
+  </NPCCharacter>
  
 </NPCCharacters>
