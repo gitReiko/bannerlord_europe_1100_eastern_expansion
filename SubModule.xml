@@ -125,5 +125,13 @@
       </IncludedGameTypes>
     </XmlNode>
 
+    <XmlNode>
+      <XmlName id="GameText" path="wanderer_strings"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
   </Xmls>
 </Module>

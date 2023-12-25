@@ -2,7 +2,7 @@
 <SPCultures>
   
   <Culture id="kryvich"
-           name="{=kryvich}Kryvich"
+           name="{=kryvich.name}Kryvich"
            is_main_culture="true"
            color="0xff3b6298"
            color2="0xffffffff"
@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_kryvich_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kryvich"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=slavic_text}Slavs are the largest European ethnolinguistic group. They speak the various Slavic languages, belonging to the larger Balto-Slavic branch of the Indo-European languages. Slavs are geographically distributed throughout northern Eurasia, mainly inhabiting Central, Eastern and Southeastern Europe. A large Slavic minority is also scattered across the Baltic states and Central Asia, while a substantial Slavic diaspora is found throughout the Americas, as a result of immigration."
+           text="{=kryvich.text}The Kryvichs are a large Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three subcultures: the similar Polatsk and Smalensk and the more distant Pskov."
            tournament_master="NPCCharacter.tournament_master_rus"
            villager="NPCCharacter.villager_kryvich"
            caravan_master="NPCCharacter.caravan_master_kryvich"
@@ -192,16 +192,16 @@
       <icon id="445" />
     </possible_clan_banner_icon_ids>
     <notable_and_wanderer_templates>
-      <template name="NPCCharacter.spc_wanderer_rus_0" />
-      <template name="NPCCharacter.spc_wanderer_rus_1" />
-      <template name="NPCCharacter.spc_wanderer_rus_2" />
-      <template name="NPCCharacter.spc_wanderer_rus_3" />
-      <template name="NPCCharacter.spc_wanderer_rus_4" />
-      <template name="NPCCharacter.spc_wanderer_rus_5" />
-      <template name="NPCCharacter.spc_wanderer_rus_6" />
-      <template name="NPCCharacter.spc_wanderer_rus_7" />
-      <template name="NPCCharacter.spc_wanderer_rus_8" />
-      <template name="NPCCharacter.spc_wanderer_rus_9" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_0" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_1" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_2" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_3" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_4" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_5" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_6" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_7" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_8" />
+      <template name="NPCCharacter.spc_wanderer_kryvich_9" />
       <template name="NPCCharacter.spc_notable_kryvich_merch1" />
       <template name="NPCCharacter.spc_notable_kryvich_merch2" />
       <template name="NPCCharacter.spc_notable_kryvich_merch3" />
