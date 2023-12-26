@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_kryvich_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kryvich"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=kryvich.text}The Kryvichs are a large Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three subcultures: the similar Polatsk and Smalensk and the more distant Pskov."
+           text="{=kryvich.text}The Kryvichs are a large Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Polatsk, Smolensk and Pskov."
            tournament_master="NPCCharacter.tournament_master_kryvich"
            villager="NPCCharacter.villager_kryvich"
            caravan_master="NPCCharacter.caravan_master_kryvich"

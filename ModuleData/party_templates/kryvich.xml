@@ -43,9 +43,9 @@
       <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.kryvich_archer_levy" />
       <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.kryvich_palkavy" />
       <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.kryvich_palkavy_archer" />
-      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kryvich_druzinnik_son" />
-      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.kryvich_younger_pancyrny_druzynnik" />
-      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kryvich_older_pancyrny_druzynnik" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.kryvich_druzinnik_son" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.kryvich_younger_pancyrny_druzynnik" />
+      <PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.kryvich_light_vershnik" />
     </stacks>
   </MBPartyTemplate>
   

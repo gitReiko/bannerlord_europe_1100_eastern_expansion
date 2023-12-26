@@ -1395,7 +1395,6 @@
 		default_group="Cavalry"
 		level="21"
 		name="{=kryvich_vershnik.name}Kryvich Vershnik"
-		upgrade_requires="ItemCategory.war_horse"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
