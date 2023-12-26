@@ -3,7 +3,7 @@
 <!--Baltic-->
   <string id="str_player_father_name.kryvich" text="{=kryvichfather}Ivaś" />
   <string id="str_player_mother_name.kryvich" text="{=kryvichmother}Janka" />
-  <string id="str_culture_description.kryvich" text="{=kryvichdescription}In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania." />
+  <string id="str_culture_description.kryvich" text="{=kryvichdescription}The Kryvichs are a large Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Polatsk, Smolensk and Pskov. The tribe became part of the modern Belarusians and Russians." />
   <string id="str_faction_ruler_name_with_title.kryvich" text="{=kryvichrulertitle}{RULER.NAME} {?RULER.GENDER}Knyazna{?}Knyaz{\?}" />
   <string id="str_faction_noble_name_with_title.kryvich" text="{=kryvichnobletitle}{RULER.NAME} {?RULER.GENDER}Boyaryna{?}Boyar{\?}" />
   <string id="str_faction_official.kryvich" text="{=kryvichofficial}a boyar" />
