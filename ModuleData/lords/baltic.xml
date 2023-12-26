@@ -49,8 +49,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="pol_lord" />
-        <EquipmentSet id="pol_lord"
+        <EquipmentSet id="baltic_lord" />
+        <EquipmentSet id="baltic_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -90,8 +90,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
   </NPCCharacter> 
@@ -140,8 +140,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -181,8 +181,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
   </NPCCharacter> 
@@ -231,8 +231,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -272,8 +272,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter> 
@@ -322,8 +322,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -363,8 +363,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter> 
@@ -413,8 +413,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -454,8 +454,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter> 
@@ -503,8 +503,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -546,8 +546,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -593,8 +593,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -640,8 +640,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -683,8 +683,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -730,8 +730,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -773,8 +773,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -820,8 +820,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -863,8 +863,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -910,8 +910,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lord" />
-      <EquipmentSet id="pol_lord"
+      <EquipmentSet id="baltic_lord" />
+      <EquipmentSet id="baltic_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -951,8 +951,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -992,8 +992,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="pol_lady" />
-      <EquipmentSet id="pol_lady"
+      <EquipmentSet id="baltic_lady" />
+      <EquipmentSet id="baltic_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

@@ -45,8 +45,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_king" />
-      <EquipmentSet id="rus_king"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -94,8 +94,8 @@
         <Trait id="Authoritarian" value="-1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_king" />
-      <EquipmentSet id="rus_king"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -139,8 +139,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_queen" />
-      <EquipmentSet id="rus_queen"
+      <EquipmentSet id="kryvich_lady" />
+      <EquipmentSet id="kryvich_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -186,8 +186,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -233,8 +233,8 @@
         <Trait id="Authoritarian" value="-2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -267,8 +267,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -315,8 +315,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_king" />
-      <EquipmentSet id="rus_king"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -360,8 +360,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_queen" />
-      <EquipmentSet id="rus_queen"
+      <EquipmentSet id="kryvich_lady" />
+      <EquipmentSet id="kryvich_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -406,8 +406,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -452,8 +452,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -488,8 +488,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -535,8 +535,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -580,8 +580,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lady" />
-      <EquipmentSet id="rus_lady"
+      <EquipmentSet id="kryvich_lady" />
+      <EquipmentSet id="kryvich_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -626,8 +626,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -662,8 +662,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -695,8 +695,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -742,8 +742,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -787,8 +787,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -823,8 +823,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_lord" />
-      <EquipmentSet id="rus_lord"
+      <EquipmentSet id="kryvich_lord" />
+      <EquipmentSet id="kryvich_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
