@@ -109,7 +109,7 @@
       <name name="{=kryvich_male_20}Staś" />
       <name name="{=kryvich_male_21}Taduk" />
       <name name="{=kryvich_male_22}Davyd" />
-      <name name="{=kryvich_male_23}Vasilka" />
+      <name name="{=kryvich_male_23}Maćviej" />
       <name name="{=kryvich_male_24}Vałodša" />
       <name name="{=kryvich_male_25}Viačasłaŭ" />
       <name name="{=kryvich_male_26}Davił" />
@@ -117,6 +117,16 @@
       <name name="{=kryvich_male_28}Viačka" />
       <name name="{=kryvich_male_29}Maŭkold" />
       <name name="{=kryvich_male_30}Alhimont" />
+      <name name="{=kryvich_male_31}Haštoŭt" />
+      <name name="{=kryvich_male_32}Lutavier" />
+      <name name="{=kryvich_male_33}Švintaroh" />
+      <name name="{=kryvich_male_34}Ratmir" />
+      <name name="{=kryvich_male_35}Daraž" />
+      <name name="{=kryvich_male_36}Jamant" />
+      <name name="{=kryvich_male_37}Žyrasłaŭ" />
+      <name name="{=kryvich_male_38}Jarasłaŭ" />
+      <name name="{=kryvich_male_39}Vasil" />
+      <name name="{=kryvich_male_40}Daŭmont" />
     </male_names>
     <female_names>
       <name name="{=kryvich_female_1}Dziunia" />
@@ -147,8 +157,18 @@
       <name name="{=kryvich_female_26}Hardzisłava" />
       <name name="{=kryvich_female_27}Maryja" />
       <name name="{=kryvich_female_28}Zulka" />
-      <name name="{=kryvich_female_29}Кірынія " />
+      <name name="{=kryvich_female_29}Kirynija " />
       <name name="{=kryvich_female_30}Ahafja" />
+      <name name="{=kryvich_female_31}Miłka" />
+      <name name="{=kryvich_female_32}Vierchusłava" />
+      <name name="{=kryvich_female_33}Jeŭpraksija" />
+      <name name="{=kryvich_female_34}Jefrasińnia" />
+      <name name="{=kryvich_female_35}Hita" />
+      <name name="{=kryvich_female_36}Ahrafiena" />
+      <name name="{=kryvich_female_37}Agra" />
+      <name name="{=kryvich_female_38}Cera" />
+      <name name="{=kryvich_female_39}Freija" />
+      <name name="{=kryvich_female_40}Rieta" />
     </female_names>
     <clan_names>
       <name name="{=kryvich_clan_1}Połackija" />
