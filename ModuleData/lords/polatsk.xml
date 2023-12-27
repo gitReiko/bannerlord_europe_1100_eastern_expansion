@@ -45,8 +45,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="kryvich_king" />
+      <EquipmentSet id="kryvich_king"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -94,8 +94,8 @@
         <Trait id="Authoritarian" value="-1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="kryvich_king" />
+      <EquipmentSet id="kryvich_king"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -315,8 +315,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="kryvich_king" />
+      <EquipmentSet id="kryvich_king"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
