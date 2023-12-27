@@ -3,34 +3,6 @@
 
   <!-- New settlements Reiko Baltic Expansion (settlement.xml and scene.xscene) -->
 
-  <Settlement id="reiko_baltic_town_polatsk_village_1" name="{=reiko_baltic_town_polatsk_village_1.name}Dvurečča" posX="1049.500" posY="1248.644" culture="Culture.kryvich" text="{=reiko_baltic_town_polatsk_village_1.text}Dvurečča.">
-    <Components>
-      <Village id="reiko_baltic_town_polatsk_village_comp_1" village_type="VillageType.fisherman" hearth="90" gate_rotation="0.758" bound="Settlement.town_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
-  <Settlement id="reiko_baltic_town_polatsk_village_2" name="{=reiko_baltic_town_polatsk_village_2.name}Latyhaličy" posX="1007.830" posY="1237.660" culture="Culture.kryvich" text="{=reiko_baltic_town_polatsk_village_2.text}Latyhaličy.">
-    <Components>
-      <Village id="reiko_baltic_town_polatsk_village_comp_2" village_type="VillageType.flax_plant" hearth="164" gate_rotation="0.008" bound="Settlement.town_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
   <Settlement id="reiko_baltic_castle_viciebsk" name="{=reiko_baltic_castle_viciebsk.name}Viciebsk" owner="Faction.clan_polotsk_3" posX="1046.270" posY="1258.220" culture="Culture.kryvich" prosperity="1700" gate_posX="1047.225" gate_posY="1257.985">
     <Components>
       <Town id="reiko_baltic_castle_comp_viciebsk" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
@@ -44,7 +16,21 @@
 
   <Settlement id="reiko_baltic_castle_viciebsk_village_1" name="{=reiko_baltic_castle_viciebsk_village_1.name}Taranki" posX="1058.245" posY="1260.280" culture="Culture.kryvich" text="{=reiko_baltic_castle_viciebsk_village_1.text}Dvurečča.">
     <Components>
-      <Village id="reiko_baltic_castle_village_comp_viciebsk_2" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.reiko_baltic_castle_viciebsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_village_comp_viciebsk_1" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.reiko_baltic_castle_viciebsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_baltic_castle_viciebsk_village_2" name="{=reiko_baltic_castle_viciebsk_village_2.name}Dvurečča" posX="1049.500" posY="1248.644" culture="Culture.kryvich" text="{=reiko_baltic_castle_viciebsk_village_2.text}Dvurečča.">
+    <Components>
+      <Village id="reiko_baltic_castle_village_comp_viciebsk_2" village_type="VillageType.fisherman" hearth="90" gate_rotation="0.758" bound="Settlement.reiko_baltic_castle_viciebsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -383,6 +369,20 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_baltic_castle_barysau_village_2" name="{=reiko_baltic_castle_barysau_village_2.name}Lipień" posX="1002.945" posY="1219.70" culture="Culture.kryvich" text="{=reiko_baltic_castle_barysau_village_2.text}Lipień text.">
+    <Components>
+      <Village id="reiko_baltic_castle_barysau_village_comp_2" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_barysau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
   <Settlement id="reiko_baltic_castle_lukoml" name="{=reiko_baltic_castle_lukoml.name}Łukoml Castle" owner="Faction.clan_polotsk_4" posX="1022.450" posY="1239.750" culture="Culture.kryvich" prosperity="1100" gate_posX="1022.060" gate_posY="1240.500">
     <Components>
       <Town id="reiko_baltic_castle_comp_lukoml" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
@@ -394,12 +394,12 @@
     </Locations>
   </Settlement>
 
-    <Settlement id="reiko_baltic_castle_lukoml_village_1" name="{=reiko_baltic_castle_lukoml_village_1.name}Lipień" posX="1002.945" posY="1219.70" culture="Culture.kryvich" text="{=reiko_baltic_castle_lukoml_village_1.text}Lipień text.">
+  <Settlement id="reiko_baltic_castle_lukoml_village_1" name="{=reiko_baltic_castle_lukoml_village_1.name}Latyhaličy" posX="1007.830" posY="1237.660" culture="Culture.kryvich" text="{=reiko_baltic_castle_lukoml_village_1.text}Latyhaličy.">
     <Components>
-      <Village id="reiko_baltic_castle_lukoml_village_comp_1" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_baltic_castle_lukoml_village_comp_1" village_type="VillageType.flax_plant" hearth="164" gate_rotation="0.008" bound="Settlement.reiko_baltic_castle_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_l" />
+      <Location id="village_center" scene_name="sturgia_village_j" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
