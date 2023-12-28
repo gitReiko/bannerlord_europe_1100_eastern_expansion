@@ -83,8 +83,7 @@
       <item id="Item.sturgia_sword_5_t5" />
     </banner_bearer_replacement_weapons>
     <default_policies>
-      <policy id="policy_lawspeakers" />
-      <policy id="policy_precarial_land_tenure" />
+      <policy id="policy_sacred_majesty" />
     </default_policies>
     <male_names>
       <name name="{=kryvich_male_1}Aŭhik" />
@@ -184,7 +183,7 @@
     </clan_names>
     <cultural_feats>
 <feat id="sturgian_cheaper_recruits_infantry" />
-<feat id="vlandian_renown_mercenary_income" />
+<feat id="sturgian_decreased_cohesion_rate" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />
@@ -243,16 +242,10 @@
       <template name="NPCCharacter.spc_kryvich_headman_3" />
     </notable_and_wanderer_templates>
     <lord_templates>
-      <template name="NPCCharacter.spc_lakepike_leader_0" />
-      <template name="NPCCharacter.spc_lakepike_leader_1" />
-      <template name="NPCCharacter.spc_lakepike_leader_2" />
-      <template name="NPCCharacter.spc_lakepike_leader_3" />
+      <template name="NPCCharacter.kryvich_lord" />
     </lord_templates>
     <rebellion_hero_templates>
-      <template name="NPCCharacter.spc_lakepike_leader_0" />
-      <template name="NPCCharacter.spc_lakepike_leader_1" />
-      <template name="NPCCharacter.spc_lakepike_leader_2" />
-      <template name="NPCCharacter.spc_lakepike_leader_3" />
+      <template name="NPCCharacter.kryvich_lord" />
     </rebellion_hero_templates>
     <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
