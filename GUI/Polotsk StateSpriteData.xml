@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SpriteData>
+  <SpriteCategories>
+    <SpriteCategory>
+      <Name>ui_CulturesExpansion</Name>
+      <AlwaysLoad />
+      <SpriteSheetCount>1</SpriteSheetCount>
+      <SpriteSheetSize ID="1" Width="1024" Height="1024" />
+    </SpriteCategory>
+  </SpriteCategories>
+  <SpriteParts>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>kryvich</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>4</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\kryvich</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>385</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+  </SpriteParts>
+  <Sprites>
+    <GenericSprite>
+      <Name>kryvich</Name>
+      <SpritePartName>kryvich</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\kryvich</Name>
+      <SpritePartName>CharacterCreation\Culture\kryvich</SpritePartName>
+    </GenericSprite>
+  </Sprites>
+</SpriteData>
