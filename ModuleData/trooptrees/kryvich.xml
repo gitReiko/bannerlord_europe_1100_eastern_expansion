@@ -1131,7 +1131,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
@@ -1167,8 +1167,8 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-        <equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Cape" id="Item.fur_cloak_b"/>
+        		<equipment slot="Gloves" id="Item.armwraps"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
@@ -1226,7 +1226,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.fur_hood"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.desert_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.battania_noble_bracers"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1274,7 +1274,7 @@
 				<equipment slot="Item0" id="Item.imperial_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.battania_noble_bracers"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1325,7 +1325,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
@@ -1333,8 +1333,8 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
@@ -1627,7 +1627,8 @@
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Head" id="Item.wolfhead"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
 			</EquipmentRoster>
@@ -1665,6 +1666,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
+				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_a"/>
 			</EquipmentRoster>
@@ -1727,7 +1729,7 @@
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1738,7 +1740,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1769,7 +1771,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1831,7 +1833,7 @@
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1842,7 +1844,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
+				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1873,7 +1875,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_a"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>

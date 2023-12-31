@@ -164,7 +164,7 @@
 		<Equipment slot="Item1" id="Item.stronger_reinforced_kite_shield"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 		<Equipment slot="Head" id="Item.closed_goggled_helmet"/>
-		<Equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+		<Equipment slot="Cape" id="Item.wolf_shoulder"/>
 		<Equipment slot="Body" id="Item.northern_brass_lamellar_over_mail"/>
 		<Equipment slot="Gloves" id="Item.northern_plated_gloves"/>
 		<Equipment slot="Leg" id="Item.strapped_mail_chausses"/>
