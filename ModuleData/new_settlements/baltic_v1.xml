@@ -56,7 +56,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_baltic_town_riga_village_4" name="{=reiko_baltic_town_riga_village_4.name}Ropazi" posX="920.560" posY="1287.480" culture="Culture.goldenhorde" text="{=reiko_baltic_town_riga_village_4.name}Ropazi text.">
+  <Settlement id="reiko_baltic_town_riga_village_4" name="{=reiko_baltic_town_riga_village_4.name}Ropaži" posX="920.560" posY="1287.480" culture="Culture.goldenhorde" text="{=reiko_baltic_town_riga_village_4.name}Ropaži text.">
     <Components>
       <Village id="reiko_baltic_town_riga_village_comp_4" village_type="VillageType.flax_plant" hearth="113" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -95,7 +95,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_jersika_village_2" name="{=reiko_baltic_castle_jersika_village_2.name}Ergli" posX="941.860" posY="1293.825" culture="Culture.goldenhorde" text="{=reiko_baltic_castle_jersika_village_2.name}Ergli text.">
+  <Settlement id="reiko_baltic_castle_jersika_village_2" name="{=reiko_baltic_castle_jersika_village_2.name}Ērgli" posX="941.860" posY="1293.825" culture="Culture.goldenhorde" text="{=reiko_baltic_castle_jersika_village_2.name}Ērgli text.">
     <Components>
       <Village id="reiko_baltic_castle_jersika_village_comp_2" village_type="VillageType.wheat_farm" hearth="113" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -120,7 +120,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_jelgava_village_1" name="{=reiko_baltic_castle_jelgava_village_1.name}Saukiena" posX="894.815" posY="1267.850" culture="Culture.goldenhorde" text="{=reiko_baltic_castle_jelgava_village_1.text}Saukiena text.">
+  <Settlement id="reiko_baltic_castle_jelgava_village_1" name="{=reiko_baltic_castle_jelgava_village_1.name}Šaukėnai" posX="894.815" posY="1267.850" culture="Culture.goldenhorde" text="{=reiko_baltic_castle_jelgava_village_1.text}Šaukėnai text.">
     <Components>
       <Village id="reiko_baltic_castle_jelgava_village_comp_1" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -195,7 +195,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_selpils" name="{=reiko_baltic_castle_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde" prosperity="600" gate_posX="932.000" gate_posY="1271.400">
+  <Settlement id="reiko_baltic_castle_selpils" name="{=reiko_baltic_castle_selpils.name}Sēlpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde" prosperity="600" gate_posX="932.000" gate_posY="1271.400">
     <Components>
       <Town id="reiko_baltic_castle_comp_selpils" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -408,7 +408,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_dzisna" name="{=reiko_baltic_castle_dzisna.name}Kapiec Haradok" owner="Faction.clan_rus_9" posX="988.610" posY="1259.730" culture="Culture.kryvich" prosperity="200" gate_posX="988.560" gate_posY="1259.000">
+  <Settlement id="reiko_baltic_castle_dzisna" name="{=reiko_baltic_castle_dzisna.name}Kapiec Haradok Castle" owner="Faction.clan_rus_9" posX="988.610" posY="1259.730" culture="Culture.kryvich" prosperity="200" gate_posX="988.560" gate_posY="1259.000">
     <Components>
       <Town id="reiko_baltic_castle_comp_dzisna" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
