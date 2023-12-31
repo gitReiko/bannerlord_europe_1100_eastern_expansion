@@ -30,7 +30,8 @@
   <EquipmentRoster id="child_education_equipments_stage_1_page_0_branch_3_kryvich">
     <EquipmentSet>
       <Equipment slot="Head" id="Item.northern_fur_cap" />
-      <Equipment slot="Body" id="Item.layered_leather_tunic" /><Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Body" id="Item.layered_leather_tunic" />
+      <Equipment slot="Cape" id="Item.scarf" />
       <Equipment slot="Leg" id="Item.leather_boots" />
     </EquipmentSet>
   </EquipmentRoster>
@@ -86,7 +87,8 @@
   <EquipmentRoster id="child_education_equipments_stage_1_page_1_branch_5_kryvich">
     <EquipmentSet>
       <Equipment slot="Head" id="Item.northern_fur_cap" />
-      <Equipment slot="Body" id="Item.layered_leather_tunic" /><Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Body" id="Item.layered_leather_tunic" />
+      <Equipment slot="Cape" id="Item.scarf" />
       <Equipment slot="Leg" id="Item.leather_boots" />
     </EquipmentSet>
   </EquipmentRoster>
@@ -121,7 +123,8 @@
   <EquipmentRoster id="child_education_equipments_stage_1_page_2_branch_4_kryvich">
     <EquipmentSet>
       <Equipment slot="Head" id="Item.northern_fur_cap" />
-      <Equipment slot="Body" id="Item.layered_leather_tunic" /><Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Body" id="Item.layered_leather_tunic" />
+      <Equipment slot="Cape" id="Item.scarf" />
       <Equipment slot="Leg" id="Item.leather_boots" />
     </EquipmentSet>
   </EquipmentRoster>
@@ -531,7 +534,8 @@
   <EquipmentRoster id="child_education_equipments_stage_4_page_2_branch_2_kryvich">
     <EquipmentSet>
       <Equipment slot="Head" id="Item.northern_fur_cap" />
-      <Equipment slot="Body" id="Item.layered_leather_tunic" /><Equipment slot="Cape" id="Item.scarf" />
+      <Equipment slot="Body" id="Item.layered_leather_tunic" />
+      <Equipment slot="Cape" id="Item.scarf" />
       <Equipment slot="Leg" id="Item.leather_boots" />
     </EquipmentSet>
   </EquipmentRoster>
