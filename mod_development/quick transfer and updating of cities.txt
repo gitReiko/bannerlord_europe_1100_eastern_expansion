@@ -19,15 +19,12 @@ How quick work with settlements.xml
 
 Split the source settlements.xml file into several parts
 
-1) unmodified settlements file
-2) modified settlement file (It's better to keep all changes in one file.)
-3) new settlements file (You can do a lot of them if it's convenient.)
+1) modified settlement xslt file (It's better to keep all changes in one file.)
+2) new settlements files (You can do a lot of them if it's convenient.)
 
 How to update the settlements
-1) do not delete or change anything in the files with modifications and new
-2) copy the new version into the file with unchanged settlements 
-3) remove changed settlements from the file with unchanged settlements using id. Ids can be easily found in the file with modified settlements.
-4) xml file is ready. It remains to fix the scenes
+
+Theoretically, you don't need to update the xml files
 
 -------------------------
 

@@ -1,0 +1,6 @@
+
+1) add modified settlements 
+
+2) add new settlements
+
+3) add new settlements in scenes
