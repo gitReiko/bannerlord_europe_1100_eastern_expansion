@@ -256,55 +256,55 @@
       <EquipmentSet id="spc_notable_sturgia_2b" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_merch5" name="{=!}{FIRSTNAME} the Manciple" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_merch5" name="{=!}Devious female kryvich merchant" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
     </face>
-    <!--<Hero id="spc_notable_sturgia_3b" faction="Kingdom.sturgia" />-->
+    <!--<Hero id="spc_notable_sturgia_3c" faction="Kingdom.sturgia" />-->
     <Traits>
       <Trait id="RusHair" value="1" />
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
-      <Trait id="Generosity" value="1" />
-      <Trait id="Calculating" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
-      <EquipmentSet id="spc_notable_sturgia_3b" />
+      <EquipmentSet id="spc_notable_sturgia_3c" />
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="spc_notable_kryvich_1" name="{=!}{FIRSTNAME} the Warehouser" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_1" name="{=!}Honorable female kryvich merchant" voice="earnest" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.townswoman_sturgia" />
     </face>
-    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <!--<Hero id="spc_notable_sturgia_3" faction="Kingdom.sturgia" />-->
     <Traits>
       <Trait id="RusHair" value="1" />
       <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
-      <EquipmentSet id="spc_notable_sturgia_5" />
+      <EquipmentSet id="spc_notable_sturgia_3" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_1b" name="{=!}{FIRSTNAME} the Heiress" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+
+  <NPCCharacter id="spc_notable_kryvich_1b" name="{=!}Kryvich artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" is_female="true" occupation="Artisan">
     <face>
-      <face_key_template value="BodyProperty.townswoman_sturgia" />
+      <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
-    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
     <Traits>
       <Trait id="RusHair" value="1" />
-      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
-      <EquipmentSet id="spc_notable_sturgia_5" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="spc_notable_kryvich_2" name="{=!}Puritan male preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Preacher">
@@ -372,7 +372,7 @@
       <EquipmentSet id="spc_notable_sturgia_6" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_kryvich_gangleader_3" name="{=!}Male gang leader" voice="ironic" is_template="true" default_group="Infantry" is_female="true" culture="Culture.kryvich" occupation="GangLeader">
+  <NPCCharacter id="spc_kryvich_gangleader_3" name="{=!}Male gang leader" voice="ironic" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="GangLeader">
     <face>
       <face_key_template value="BodyProperty.fighter_kryvich" />
     </face>
