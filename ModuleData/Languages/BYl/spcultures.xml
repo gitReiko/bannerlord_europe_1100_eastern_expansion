@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <string id="kryvich.name" text="Kryvich"/>
-  <string id="kryvich.text" text="The Kryvichs are a large Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Polatsk, Smolensk and Pskov. The tribe became part of the modern Belarusians and Russians."/>
+  <string id="kryvich.name" text="Kryvija"/>
+  <string id="kryvich.text" text="Kryvičy - heta vialiki Ŭschodniejeŭrapiejski plamionny chaŭrus. U asnoŭnym jon składaŭsia sa Słavianskich i Bałtyjskich plamionaŭ. Taksama byli Finskaja i Narmanskaja kampanienty. Z časam chaŭrus padzialiŭsia na try častki: Połackuju, Smalenskuju i Pskoŭskuju. U zachodniaj častki pieravažaŭ Bałtyjska-Słavianski pačatak; u zachodniaj Bałtyjska-Finski. Plemia akazała vialiki ŭpłyŭ na farmavańnia sučasnych Biełaruskaha i Rasiejskaha etnasaŭ."/>
   <string id="kryvich_male_1" text="Aŭhik"/>
   <string id="kryvich_male_2" text="Anisim"/>
   <string id="kryvich_male_3" text="Adzik"/>
@@ -20,7 +20,7 @@
   <string id="kryvich_male_15" text="Radzik"/>
   <string id="kryvich_male_16" text="Ivaś"/>
   <string id="kryvich_male_17" text="Kirył"/>
-  <string id="kryvich_male_18" text="Bračysłaŭ"/>
+  <string id="kryvich_male_18" text="Kastuś"/>
   <string id="kryvich_male_19" text="Ryška"/>
   <string id="kryvich_male_20" text="Staś"/>
   <string id="kryvich_male_21" text="Taduk"/>
@@ -79,13 +79,13 @@
   <string id="kryvich_female_34" text="Jefrasińnia"/>
   <string id="kryvich_female_35" text="Hita"/>
   <string id="kryvich_female_36" text="Ahrafiena"/>
-  <string id="kryvich_female_37" text="Agra"/>
+  <string id="kryvich_female_37" text="Ahra"/>
   <string id="kryvich_female_38" text="Cera"/>
-  <string id="kryvich_female_39" text="Freija"/>
+  <string id="kryvich_female_39" text="Freja"/>
   <string id="kryvich_female_40" text="Rieta"/>
   <string id="kryvich_clan_1" text="Połackija"/>
   <string id="kryvich_clan_2" text="Mienskija"/>
-  <string id="kryvich_clan_3" text="Łukomlskija"/>
+  <string id="kryvich_clan_3" text="Łukomskija"/>
   <string id="kryvich_clan_4" text="Barysaŭskija"/>
   <string id="kryvich_clan_5" text="Smalenskija"/>
   <string id="kryvich_clan_6" text="Brasłaŭskija"/>

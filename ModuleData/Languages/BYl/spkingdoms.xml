@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <string id="polatsk_kingdom_name" text="The Polatsk Principality"/>
-  <string id="polatsk_kingdom_short_name" text="Polatsk"/>
-  <string id="polatsk_kingdom_title" text="Polatsk Principality"/>
-  <string id="polatsk_ruler_title" text="Knyaz"/>
-  <string id="polatsk_kingdom_text" text="In the 8th century the large Balto-Slavic tribal union Kryvichs forms a chiefdom in Polatsk. The established state would exist until 1504. The first known ruler of Polatsk, Ragnvald (Rahvalod), had Norman ancestry. Traditionally it is considered that princedom was a part of Rus, but the state was independent and often fought with Rus when interests came into contact. During the reign of the Usiasłaŭ II the Seer, the Polatsk Principality reached its greatest prosperity. In the second half of the 13th century, the principality became part of the Grand Duchy of Lithuania as an autonomous part."/>
-  <string id="baltic_tribes_name" text="The Baltic Tribes"/>
-  <string id="baltic_tribes_short_name" text="Baltic Tribes"/>
-  <string id="baltic_tribes_title" text="The Baltic Tribes"/>
-  <string id="polish_ruler_title" text="Kunigas"/>
-  <string id="baltic_tribes_text" text="In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania."/>
+  <string id="polatsk_kingdom_name" text="Połackaje Kniastva"/>
+  <string id="polatsk_kingdom_short_name" text="Połack"/>
+  <string id="polatsk_kingdom_title" text="Połackaje Kniastva"/>
+  <string id="polatsk_ruler_title" text="Kniaź"/>
+  <string id="polatsk_kingdom_text" text="U VIII stahodździ bujny Bałtyjska-Słavianski plamionny chaŭrus sfarmavaŭ Połackaje Pravadyrstva. Stvoranaje haspadarstva praisnuje da 1504 hoda. Pieršy viadomy haspadar Połacka, Rahnvald (Rahvałod), mieŭ Narmanskija karani. Tradycyjna ličacca, što kniastva ŭvachodziła ŭ skład Rusi, ale panstva było niezaležnym i časta vajavała z Ruśsiu, kali zacikaŭlenaści sutykalisia. Za čas kiravańnia Ŭsiasłava II Čaradzieja Połackaje Kniastva dasiahnuła najvyšejšaha roskvitu. U druhoj pałovie XIII stahodździa haspadarstva ŭvajšło ŭ skład Vialikaha Kniastva Litoŭskaha na pravach aŭtanomii."/>
+  <string id="baltic_tribes_name" text="Bałtyjskija Plamiony"/>
+  <string id="baltic_tribes_short_name" text="Bałtyjskija Plamiony"/>
+  <string id="baltic_tribes_title" text="Bałtyjskija Plamiony"/>
+  <string id="polish_ruler_title" text="Kunihas"/>
+  <string id="baltic_tribes_text" text="Spačatku ŭnutranaje zmahańnie ŭ XII-XIII stst., potym uvarvańni Rusinaŭ i Palakaŭ, dy narešcie ekspansija Teŭtonskaha Ordena pryviali da amal poŭnaha vyniščeńnia Holadzi, Kuršaŭ i Jaćviahaŭ. Pastupova ŭ XV-XVII stst. Staroprussy Hiermanizavalisia ci Litvanizavalisia, asabliva paśla Refarmacyi ŭ Prusii. Kultury Žamoci, Litvy, Łathałaŭ i Łatvijcaŭ zachavalisia i stali prodkami nasielnictva sučasnych Łatvii, Letuvy i Biełarusi."/>
  </strings>
 </base>

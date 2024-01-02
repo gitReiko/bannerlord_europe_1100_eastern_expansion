@@ -103,7 +103,7 @@
       <name name="{=kryvich_male_15}Radzik" />
       <name name="{=kryvich_male_16}Ivaś" />
       <name name="{=kryvich_male_17}Kirył" />
-      <name name="{=kryvich_male_18}Bračysłaŭ" />
+      <name name="{=kryvich_male_18}Kastuś" />
       <name name="{=kryvich_male_19}Ryška" />
       <name name="{=kryvich_male_20}Staś" />
       <name name="{=kryvich_male_21}Taduk" />
@@ -166,13 +166,13 @@
       <name name="{=kryvich_female_36}Ahrafiena" />
       <name name="{=kryvich_female_37}Agra" />
       <name name="{=kryvich_female_38}Cera" />
-      <name name="{=kryvich_female_39}Freija" />
+      <name name="{=kryvich_female_39}Freja" />
       <name name="{=kryvich_female_40}Rieta" />
     </female_names>
     <clan_names>
       <name name="{=kryvich_clan_1}Połackija" />
       <name name="{=kryvich_clan_2}Mienskija" />
-      <name name="{=kryvich_clan_3}Łukomlskija" />
+      <name name="{=kryvich_clan_3}Łukomskija" />
       <name name="{=kryvich_clan_4}Barysaŭskija" />
       <name name="{=kryvich_clan_5}Smalenskija" />
       <name name="{=kryvich_clan_6}Brasłaŭskija" />
