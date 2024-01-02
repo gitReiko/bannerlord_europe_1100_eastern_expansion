@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <Name value="Polotsk State for Europe 1100"/>
-  <Id value="PolotskStateEurope1100"/>
+  <Name value="Europe 1100 Eastern Europe Expansion"/>
+  <Id value="Europe1100EasternEuropeExpansion"/>
   <Version value="v1.6.4.2"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
