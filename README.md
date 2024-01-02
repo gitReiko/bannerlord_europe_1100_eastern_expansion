@@ -44,4 +44,4 @@ Load order:
 7. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
 8. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
 
-9. Europe 1100 Eastern Europe Expansion
+9. Europe 1100 Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
