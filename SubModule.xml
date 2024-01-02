@@ -2,7 +2,7 @@
 <Module>
   <Name value="Europe 1100 Eastern Europe Expansion"/>
   <Id value="Europe1100EasternEuropeExpansion"/>
-  <Version value="v1.6.4.2"/>
+  <Version value="v1.0.0"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <DependedModules>

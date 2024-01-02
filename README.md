@@ -1,8 +1,12 @@
 
+!!! MOD IS CREATED FOR EUROPA 1100 v1.6.4.2, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+
+The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods.
+
 This mod has two purposes:
 
 1. recreate Eastern Europe for mod Europa 1100
-2. create `easily` transferable settlements of Eastern Europe for the Europe Lemmy Map
+2. create 'easily' transferable settlements of Eastern Europe for the Europe Lemmy Map
 
 The action of the expansion takes place in the same timeline of 1090-1005. Submod also tries to be as historical as possible (lack of historical and archaeological materials) and my competence permits.
 
