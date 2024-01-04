@@ -2,7 +2,7 @@
 <Settlements>
 
 
-    <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_baltic_07" posX="885.228" posY="1218.35" culture="Culture.battania" prosperity="1100" gate_posX="886.400" gate_posY="1216.715" text="{=rei_vl_hrodna.text}Horadzien.">
+    <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_baltic_07" posX="892.790" posY="1216.58" culture="Culture.battania" prosperity="1100" gate_posX="894.026" gate_posY="1214.905" text="{=rei_vl_hrodna.text}Horadzien.">
     <Components>
       <Town id="rei_vl_hrodna_comp" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" />
     </Components>
@@ -23,7 +23,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_hrodna_vil_1" name="{=rei_vl_hrodna_vil_1.name}Birmingham" posX="234.34" posY="1175.052" culture="Culture.english" text="{=rei_vl_hrodna_vil_1.text}Andurn sits in a cleft in the hills overlooking Llyn Tywal, the dark lake. The villagers of these parts tend the forests, harvesting beech, oak and yew for sale to the towns.">
+  <Settlement id="rei_vl_hrodna_vil_1" name="{=rei_vl_hrodna_vil_1.name}Sejny" posX="879.070" posY="1222.400" culture="Culture.english" text="{=rei_vl_hrodna_vil_1.text}Sejny.">
     <Components>
       <Village id="rei_vl_hrodna_vil_1_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
