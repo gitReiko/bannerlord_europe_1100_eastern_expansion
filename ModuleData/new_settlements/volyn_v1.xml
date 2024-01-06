@@ -73,7 +73,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="rei_vo_drohiczyn" name="{=rei_vo_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_polotsk_2" posX="995.270" posY="1233.820" culture="Culture.kryvich" prosperity="1500" gate_posX="878.160" gate_posY="1183.950">
+  <Settlement id="rei_vo_drohiczyn" name="{=rei_vo_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_polotsk_2" posX="878.160" posY="1183.950" culture="Culture.kryvich" prosperity="1500" gate_posX="878.840" gate_posY="1184.410">
     <Components>
       <Town id="rei_vo_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
