@@ -195,7 +195,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_selpils" name="{=reiko_baltic_castle_selpils.name}Sēlpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde" prosperity="600" gate_posX="932.000" gate_posY="1271.400">
+  <Settlement id="reiko_baltic_castle_selpils" name="{=reiko_baltic_castle_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde" prosperity="600" gate_posX="932.000" gate_posY="1271.400">
     <Components>
       <Town id="reiko_baltic_castle_comp_selpils" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
