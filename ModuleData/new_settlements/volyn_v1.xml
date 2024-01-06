@@ -62,7 +62,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_wizna" name="{=rei_vl_wizna.name}Wizna Castle" owner="Faction.clan_poland_5" posX="865.550" posY="1196.193" culture="Culture.polish" prosperity="350" gate_posX="899.802" gate_posY="1199.414">
+  <Settlement id="rei_vl_wizna" name="{=rei_vl_wizna.name}Wizna Castle" owner="Faction.clan_poland_5" posX="865.550" posY="1196.193" culture="Culture.polish" prosperity="350" gate_posX="865.944" gate_posY="1195.525">
     <Components>
       <Town id="rei_vl_wizna_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
