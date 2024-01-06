@@ -73,6 +73,17 @@
     </Locations>
   </Settlement>
 
+  <Settlement id="rei_vo_drohiczyn" name="{=rei_vo_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_polotsk_2" posX="995.270" posY="1233.820" culture="Culture.kryvich" prosperity="1500" gate_posX="878.160" gate_posY="1183.950">
+    <Components>
+      <Town id="rei_vo_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
 
  
 </Settlements>

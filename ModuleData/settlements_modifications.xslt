@@ -164,5 +164,12 @@
         <xsl:attribute name='prosperity'>1300</xsl:attribute>
     </xsl:template>
 
+    <xsl:template match="Settlement[@id='village_KR2_1']/@name">
+        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.village_KR2_1}Hajnówka</xsl:attribute>
+    </xsl:template>
+    <xsl:template match="Settlement/Components/Village[@id='village_comp_KR2_1']/@bound">
+        <xsl:attribute name='bound'>Settlement.rei_vo_drohiczyn</xsl:attribute>
+    </xsl:template>
+
 
 </xsl:stylesheet>
