@@ -9,6 +9,9 @@
     <xsl:template match="Settlement[@id='town_KR5']/@name">
         <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.town_KR5}Połacak</xsl:attribute>
     </xsl:template>
+    <xsl:template match="Settlement/Components/Town[@id='town_comp_KR5']/@level">
+        <xsl:attribute name='level'>1</xsl:attribute>
+    </xsl:template>
     <xsl:template match="Settlement[@id='town_KR5']/@culture">
         <xsl:attribute name='culture'>Culture.kryvich</xsl:attribute>
     </xsl:template>
@@ -63,11 +66,17 @@
         <xsl:attribute name='hearth'>193</xsl:attribute>
     </xsl:template>
 
+    <xsl:template match="Settlement[@id='town_KR4']/@name">
+        <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.town_KR4}Riga</xsl:attribute>
+    </xsl:template>
     <xsl:template match="Settlement[@id='town_KR4']/@prosperity">
         <xsl:attribute name='prosperity'>700</xsl:attribute>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KR4']/@owner">
         <xsl:attribute name='owner'>Faction.clan_baltic_05</xsl:attribute>
+    </xsl:template>
+    <xsl:template match="Settlement/Components/Town[@id='town_comp_KR4']/@level">
+        <xsl:attribute name='level'>1</xsl:attribute>
     </xsl:template>
 
     <xsl:template match="Settlement[@id='village_KR4_1']/@name">
@@ -125,6 +134,9 @@
     <xsl:template match="Settlement[@id='castle_KR4']/@prosperity">
         <xsl:attribute name='prosperity'>370</xsl:attribute>
     </xsl:template>
+    <xsl:template match="Settlement/Components/Town[@id='castle_comp_KR4']/@level">
+        <xsl:attribute name='level'>1</xsl:attribute>
+    </xsl:template>
 
     <xsl:template match="Settlement[@id='castle_village_KR4_1']/@name">
         <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Pažeimenė</xsl:attribute>
@@ -146,6 +158,9 @@
     <xsl:template match="Settlement[@id='castle_K4']/@prosperity">
         <xsl:attribute name='prosperity'>530</xsl:attribute>
     </xsl:template>
+    <xsl:template match="Settlement/Components/Town[@id='castle_comp_K4']/@level">
+        <xsl:attribute name='level'>1</xsl:attribute>
+    </xsl:template>
 
     <xsl:template match="Settlement[@id='castle_village_K4_2']/@name">
         <xsl:attribute name='name'>{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow</xsl:attribute>
@@ -162,6 +177,9 @@
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KR2']/@prosperity">
         <xsl:attribute name='prosperity'>1300</xsl:attribute>
+    </xsl:template>
+    <xsl:template match="Settlement/Components/Town[@id='town_comp_KR2']/@level">
+        <xsl:attribute name='level'>1</xsl:attribute>
     </xsl:template>
 
     <xsl:template match="Settlement[@id='village_KR2_1']/@name">
