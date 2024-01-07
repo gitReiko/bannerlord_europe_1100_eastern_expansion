@@ -179,7 +179,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_busk" name="{=rei_busk.name}Busk Castle" owner="Faction.clan_baltic_06" posX="912.000" posY="1112.800" culture="Culture.goldenhorde" prosperity="750" gate_posX="911.833" gate_posY="1112.000">
+  <Settlement id="rei_busk" name="{=rei_busk.name}Busk Castle" owner="Faction.clan_baltic_06" posX="912.000" posY="1112.800" culture="Culture.goldenhorde" prosperity="450" gate_posX="911.833" gate_posY="1112.000">
     <Components>
       <Town id="rei_busk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -193,6 +193,31 @@
   <Settlement id="rei_busk_vil_1" name="{=rei_busk_vil_1.name}Verba" posX="930.700" posY="1123.360" culture="Culture.kryvich" text="{=rei_busk_vil_1.text}Verba.">
     <Components>
       <Village id="rei_busk_vil_1_comp" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.rei_busk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="rei_belz" name="{=rei_belz.name}Belz Castle" owner="Faction.clan_baltic_2" posX="888.500" posY="1126.080" culture="Culture.goldenhorde" prosperity="400" gate_posX="915.020" gate_posY="1252.360">
+    <Components>
+      <Town id="rei_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="rei_belz_vil_1" name="{=rei_belz_vil_1.name}Korchyn" posX="894.950" posY="1114.320" culture="Culture.kryvich" text="{=rei_belz_vil_1.text}Korchyn.">
+    <Components>
+      <Village id="rei_belz_vil_1_comp" village_type="VillageType.clay_mine" hearth="210" gate_rotation="0.758" bound="Settlement.rei_belz" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
