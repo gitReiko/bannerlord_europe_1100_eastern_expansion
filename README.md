@@ -23,6 +23,9 @@ My future plans
 - start work on the next update (Volyn Principality)
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot. I don't know anything about Estonia, but I understand that I can make a compact kingdom. For that I will need help.
 
+Discussion, suggestions, critics
+https://discordapp.com/channels/1092600980123684964/1193574500034429079
+
 If someone can help me get a better handle on creating a character for a new culture, that would be good.
 
 Settlements for other regions
