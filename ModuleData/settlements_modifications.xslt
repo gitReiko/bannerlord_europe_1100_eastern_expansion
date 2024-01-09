@@ -12,7 +12,7 @@
     <xsl:template match="Settlement[@id='town_KR5']/@culture">
         <xsl:attribute name='culture'>Culture.kryvich</xsl:attribute>
     </xsl:template>
-    <xsl:template match="Settlement[@id='town_KR5']/@prosperity">
+    <xsl:template match="Settlement/Components/Town[@id='town_comp_KR5']/@prosperity">
         <xsl:attribute name='prosperity'>3300</xsl:attribute>
     </xsl:template>
 
@@ -42,7 +42,7 @@
     <xsl:template match="Settlement[@id='castle_KR2']/@culture">
         <xsl:attribute name='culture'>Culture.kryvich</xsl:attribute>
     </xsl:template>
-    <xsl:template match="Settlement[@id='castle_KR2']/@prosperity">
+    <xsl:template match="Settlement/Components/Town[@id='castle_comp_KR2']/@prosperity">
         <xsl:attribute name='prosperity'>1300</xsl:attribute>
     </xsl:template>
     <xsl:template match="Settlement[@id='castle_KR2']/@owner">
@@ -63,7 +63,7 @@
         <xsl:attribute name='hearth'>193</xsl:attribute>
     </xsl:template>
 
-    <xsl:template match="Settlement[@id='town_KR4']/@prosperity">
+    <xsl:template match="Settlement/Components/Town[@id='town_comp_KR4']/@prosperity">
         <xsl:attribute name='prosperity'>700</xsl:attribute>
     </xsl:template>
     <xsl:template match="Settlement[@id='town_KR4']/@owner">
@@ -122,7 +122,7 @@
     <xsl:template match="Settlement[@id='castle_KR4']/@name">
         <xsl:attribute name='name'>{=Settlements.Settlement.ECM.KR.castle_KR4}Merkinė Castle</xsl:attribute>
     </xsl:template>
-    <xsl:template match="Settlement[@id='castle_KR4']/@prosperity">
+    <xsl:template match="Settlement/Components/Town[@id='castle_comp_KR4']/@prosperity">
         <xsl:attribute name='prosperity'>370</xsl:attribute>
     </xsl:template>
 
@@ -143,7 +143,7 @@
     <xsl:template match="Settlement[@id='castle_K4']/@name">
         <xsl:attribute name='name'>{=Settlements.Settlement.ECM.castle_K4}Rethow Castle</xsl:attribute>
     </xsl:template>
-    <xsl:template match="Settlement[@id='castle_K4']/@prosperity">
+    <xsl:template match="Settlement/Components/Town[@id='castle_comp_K4']/@prosperity">
         <xsl:attribute name='prosperity'>530</xsl:attribute>
     </xsl:template>
 
