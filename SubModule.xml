@@ -45,8 +45,6 @@
       </IncludedGameTypes>
     </XmlNode>
 
-
-
     <XmlNode>
       <XmlName id="Settlements" path="new_settlements"/>
       <IncludedGameTypes>
