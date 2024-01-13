@@ -45,14 +45,7 @@
       </IncludedGameTypes>
     </XmlNode>
 
-    <XmlNode>
-      <XmlName id="Settlements" path="settlements_modifications"/>
-      <IncludedGameTypes>
-        <GameType value = "Campaign"/>
-        <GameType value = "CampaignStoryMode"/>
-        <GameType value = "CustomGame"/>
-      </IncludedGameTypes>
-    </XmlNode>
+
 
     <XmlNode>
       <XmlName id="Settlements" path="new_settlements"/>
