@@ -1,0 +1,26 @@
+
+
+town_KR4
+prosperity = 700
+owner = Faction.clan_baltic_05
+level = 1
+
+village_KR4_1
+name = {=Settlements.Settlement.ECM.KR.village_KR4_1}Seda
+hearth = 110
+bound = Settlement.reiko_baltic_town_apuole
+village_type = VillageType.sturgian_horse_ranch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
