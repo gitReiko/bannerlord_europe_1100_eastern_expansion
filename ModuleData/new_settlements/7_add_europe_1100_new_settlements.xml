@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settlements>
+
+    <!--Moved Settlements-->
+	
+	<!--Bulgaria-->
+	
+	 <!--Preslav-->
+  
+    <Settlement id="castle_bg1" name="{=Settlements.Settlement.ECM.castle_bg1}Preslav" owner="Faction.clan_byzantine_11" posX="957" posY="931" culture="Culture.bulgarian" gate_posX="956.7859" gate_posY="929.2465">
+    <Components>
+      <Town id="castle_comp_bg1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.508" prosperity="870" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_castle_004" scene_name_1="empire_castle_004" scene_name_2="empire_castle_004" scene_name_3="empire_castle_004" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+   <Settlement id="castle_village_bg1_1" name="{=Settlements.Settlement.ECM.castle_village_bg1_1}Pliska" posX="967" posY="940" culture="Culture.bulgarian" text="{=ECM_Settlements.Settlement.text.castle_village_EN9_1}Pliska was the first capital of Bulgaria, and according to legend founded by Asparuh of Bulgaria in the late 7th century; this legend is archaeologically unsubstantiated.[1] The site was originally an encampment, with the first tent-shaped buildings at Pliska of uncertain date. No evidence exists of a settlement before the 9th century, and claims that the site dates from Late Antiquity have been contested.">
+    <Components>
+      <Village id="castle_village_comp_bg1_1" village_type="VillageType.iron_mine" hearth="389" gate_rotation="0.008" bound="Settlement.castle_bg1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_x" max_prosperity="70" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Sofia-->
+  
+    <Settlement id="town_bg1" name="{=Settlements.Settlement.ECM.town_bg1}Sredets" owner="Faction.clan_byzantine_2" posX="870" posY="933" culture="Culture.bulgarian" gate_posX="871.2001" gate_posY="934.3504" text="{=ECM_5SpYVtie}The city was conquered by the Byzantine Empire in 1018, following the Byzantine conquest of Bulgaria. Sredets joined the uprising of Peter Delyan in 1040–1041 in a failed attempt to restore Bulgarian independence and was the last stronghold of the rebels, led by the local commander Botko. During the 11th century many Pechenegs were settled down in Sofia region as Byzantine federats.">
+    <Components>
+      <Town id="town_comp_bg1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.808" prosperity="4900" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_h" scene_name_1="empire_town_h" scene_name_2="empire_town_h" scene_name_3="empire_town_h" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="Byzantine_village_ES1_2" name="{=Settlements.Settlement.Byzantine.name.village_ES1_2}Tsepina" posX="899.04" posY="915.616" culture="Culture.bulgarian" text="{=Settlements.Settlement.Byzantine.text.village_ES1_2}The medieval fortress of Tsepina is situated to the north-west of the village and can be accessed by a 6-km asphalt road. It was constructed on the cone-like peak of the same name at an altitude of 1,136 m. The fortress was seized by the Byzantine Empire in the 11th century but was liberated by the Bulgarian Empire during the rule of Kaloyan.">
+    <Components>
+      <Village id="Byzantine_village_comp_ES1_2" village_type="VillageType.wheat_farm" hearth="218" gate_rotation="0.008" bound="Settlement.town_bg1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_village_bg1_1" name="{=Settlements.Settlement.Byzantine.name.village_bg1_1}Philippopolis" posX="908" posY="931" culture="Culture.bulgarian" text="{=Settlements.Settlement.Byzantine.text.village_ES1_2}Philippopolis is one of the names of the ancient city situated where Plovdiv is today. The city became one of the largest and most important in the region and was called the largest and most beautiful of all cities by Lucian.">
+    <Components>
+      <Village id="town_village_comp_bg1_1" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" bound="Settlement.town_bg1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Adrionaple-->
+  
+    <Settlement id="town_bg2" name="{=Settlements.Settlement.ECM.town_bg2}Adrianople" owner="Faction.clan_empire_south_6" posX="940" posY="907" culture="Culture.byzantine" gate_posX="937.6365" gate_posY="907.7235" text="{=ECM_8UJ3cPrZ}The city was founded and named after the Roman emperor Hadrian as Hadrianopolis on the site of the Greek city of Orestias, which was itself founded on an earlier Thracian settlement named Uskudama. The name Adrianople was used in English until the Turkish adoption of the Latin alphabet in 1928, after which Edirne became the internationally recognised name.">
+    <Components>
+      <Town id="town_comp_bg2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.608" prosperity="3900" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_e" scene_name_1="empire_town_e" scene_name_2="empire_town_e" scene_name_3="empire_town_e" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+      <Settlement id="Byzantine_village_ES1_4" name="{=Settlements.Settlement.Byzantine.name.village_ES1_4}Mosynopolis" posX="932" posY="891" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES1_4}Erebulos lies by a lagoon that was formerly part of the Perassic Sea, closed by a recently formed sandspit. Villagers scoop clay from the creek-bottoms here, selling it to the pottery kilns of Danustica and other nearby towns.">
+    <Components>
+      <Village id="Byzantine_village_comp_ES1_4" village_type="VillageType.wheat_farm" hearth="231" gate_rotation="0.008" bound="Settlement.town_bg2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_004" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+    <Settlement id="Byzantine_village_ES3_1" name="{=Settlements.Settlement.Byzantine.name.village_ES3_1}Hayrabolu" posX="964.564" posY="896.438" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES3_1}Canoros sits in the flat southern reaches of the Lycarea plain. This land has been good horse country since even before the Empire came, furnishing the steeds of the Lycarean riders who routed several Calradian armies before their final defeat and absorption into the imperial cavalry.">
+    <Components>
+      <Village id="Byzantine_village_comp_ES3_1" village_type="VillageType.europe_horse_ranch" hearth="202" bound="Settlement.town_bg2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_r" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_village_bg2_1" name="{=Settlements.Settlement.ECM.town_village_bg2_1}Vezins" posX="835" posY="862" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.castle_village_V2_2}In the Escorial Taktikon of c.975, the city is mentioned as the seat of a strategos, and it apparently was the capital of a theme in the 11th century. The city briefly fell to Tsar Samuel of Bulgaria at the end of the 10th century, but the Byzantine emperor Basil II quickly regained it in 1001 since its Bulgarian governor, Dobromir, surrendered the city without a fight. The city is not mentioned again until the late 12th century, when it was briefly held by the Normans (1185) during their invasion of the Byzantine Empire.">
+    <Components>
+      <Village id="town_village_comp_bg2_1" village_type="VillageType.olive_trees" hearth="400" gate_rotation="0.008" bound="Settlement.Byzantine_town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+	<!--Serbia-->
+	
+	  <Settlement id="serbian_castle_1" name="{=Settlements.Settlement.name.serbian_castle_1}Stari Ras" owner="Faction.clan_empire_south_8" posX="769" posY="938" culture="Culture.serbian" gate_posX="768.4722" gate_posY="939.8531">
+    <Components>
+      <Town id="serbian_castle_comp_1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="670" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_castle_b" scene_name_1="empire_castle_b" scene_name_2="empire_castle_b" scene_name_3="empire_castle_b" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+    <Settlement id="serbian_castle_village_1" name="{=Settlements.Settlement.ECM.serbian_castle_village_1}Trgovište" posX="755" posY="931" culture="Culture.serbian" text="{=ECM_Settlements.Settlement.text.serbian_castle_village_1}Eunalica sits on the western shores of Lake Tanaesis. This low-lying country is fine land for the growing of flax.">
+    <Components>
+      <Village id="serbian_castle_comp_village_1" village_type="VillageType.flax_plant" hearth="256" gate_rotation="0.008" bound="Settlement.serbian_castle_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+	
+  
+  <!--Tephrike-->
+  
+    <Settlement id="castle_rum_1" name="{=Settlements.Settlement.Byzantine.name.castle_ES6}Tephrike" owner="Faction.clan_seljuk_2" posX="1235" posY="823" culture="Culture.persian" gate_posX="1236.641" gate_posY="821.7346">
+    <Components>
+      <Town id="castle_comp_rum_1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="670" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_castle_b" scene_name_1="empire_castle_b" scene_name_2="empire_castle_b" scene_name_3="empire_castle_b" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+    <Settlement id="castle_village_rum_1_1" name="{=Settlements.Settlement.castle_village_rum_1_1}Malatya" posX="1242" posY="802" culture="Culture.persian" text="{=ECM_Settlements.Settlement.text.village_V7_2}In the period that followed the Turkish advance into the Byzantine Empire after the defeat at the Battle of Manzikert, Gabriel of Melitene, a Greek Orthodox Armenian who had risen from the ranks of the Byzantine army, governed the city. From 1086 to 1100 he preserved his independence with the aid of the Beylik of the Danishmends. After 1100, he invested heavily on the commanders of the First Crusade, especially Bohemond I of Antioch and Baldwin of Boulogne.">
+    <Components>
+      <Village id="castle_village_comp_rum_1_1" village_type="VillageType.olive_trees" hearth="169" gate_rotation="0.008" bound="Settlement.castle_rum_1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="vlandia_village_m" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Georgia-->
+  
+    <!--Taoskari-->
+  
+    <Settlement id="castle_georgia_1" name="{=Settlements.Settlement.castle_georgia_1}Taoskari" owner="Faction.clan_georgia_2" posX="1360" posY="871" culture="Culture.georgia" gate_posX="1359.392" gate_posY="872.9942">
+    <Components>
+      <Town id="castle_comp_georgia_1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="670" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_castle_b" scene_name_1="empire_castle_b" scene_name_2="empire_castle_b" scene_name_3="empire_castle_b" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+    <Settlement id="Byzantine_village_ES8_2" name="{=Settlements.Settlement.Byzantine.name.village_ES8_2}Akhalkalaki" posX="1376.786" posY="882.858" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES8_2}Akhalkalaki is a village of Koutaïssi. This is among the most fertile of the kingdom and produces a fine crop of wheat.">
+    <Components>
+      <Village id="Byzantine_village_comp_ES8_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108" bound="Settlement.castle_georgia_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_i" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+<!--Ribe-->
+  
+      <Settlement id="town_den_1" name="{=Settlements.Settlement.ECM.town_den_1}Ribe" owner="Faction.clan_danish_1" posX="505.500" posY="1237" culture="Culture.sturgia" gate_posX="507.264" gate_posY="1236.406" text="{=ECM_YERtiSUn}Glasgow, the 'Rock of Glanys', stands on a high crag overlooking the Llyn Tywal, the pool of darkness at the heart of the Battanian lands. It was named after a ancient queen who, legend has it, married in succession five high kings of Battania, bestowing sovereignty upon them. It is the center of the rituals that underpin Battanian kingship, and though not every Battanian high king has ruled from here, all are eager to hold it.">
+    <Components>
+      <Town id="town_comp_den_1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.638" prosperity="4000" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="battania_town_c" scene_name_1="battania_town_c" scene_name_2="battania_town_c" scene_name_3="battania_town_c" />
+      <Location id="arena" scene_name="arena_battania_a" />
+      <Location id="tavern" scene_name="battania_town_house_a_interior_a_tavern" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+      <Location id="house_1" scene_name="battania_town_house_b_interior_b_house" />
+      <Location id="house_2" scene_name="battania_town_house_b_interior_b_house" />
+      <Location id="house_3" scene_name="battania_town_house_b_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_village_den_1_1" name="{=Settlements.Settlement.ECM.town_village_den_1_1}Horsens" posX="525" posY="1243" culture="Culture.sturgia" text="{=ECM_Settlements.Settlement.text.town_village_den_1_1}Alov sits on the edge of the glacial lakes known as the Iltan portages. Villagers cultivate rye and barley on the high ground overlooking the lakes, and the rich black soil of the region compensates for the long winters and short growing season.">
+    <Components>
+      <Village id="town_village_comp_den_1_1" village_type="VillageType.sturgian_horse_ranch" hearth="157" bound="Settlement.town_den_1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="castle_village_S7_2" name="{=Settlements.Settlement.ECM.castle_village_S7_2}Alov" posX="548.292" posY="1238.05" culture="Culture.sturgia" text="{=ECM_Settlements.Settlement.text.village_S5_3}Alov sits on the edge of the glacial lakes known as the Iltan portages. Villagers cultivate rye and barley on the high ground overlooking the lakes, and the rich black soil of the region compensates for the long winters and short growing season.">
+    <Components>
+      <Village id="castle_village_comp_S7_2" village_type="VillageType.wheat_farm" hearth="157" bound="Settlement.town_den_1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+    <Settlement id="village_S7_1" name="{=Settlements.Settlement.ECM.village_S7_1}Naevestad" posX="582" posY="1238" culture="Culture.sturgia" text="{=ECM_Settlements.Settlement.text.village_S7_1}Korsyas sits near the narrowest part of the Bay of Bergen. Villagers fish the waters to the west for cod, char, and other cold-water sea fish that venture into the bay.">
+    <Components>
+      <Village id="village_comp_S7_1" village_type="VillageType.fisherman" hearth="527" gate_rotation="0.758" bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_S7_2" name="{=Settlements.Settlement.ECM.village_S7_2}Roskilde " posX="597" posY="1254" culture="Culture.sturgia" text="{=ECM_Settlements.Settlement.text.village_S7_2}Karbur sits at a plateau on the Kachyar peninsula. Sheltered somewhat by a high ridge to their north, the villagers here raise barley and grain.">
+    <Components>
+      <Village id="village_comp_S7_2" village_type="VillageType.trapper" hearth="296" gate_rotation="0.758" bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--Lund-->
+  
+    <Settlement id="town_den_2" name="{=Settlements.Settlement.ECM.town_den_2}Lund" owner="Faction.clan_danish_5" posX="624" posY="1262" culture="Culture.sturgia" gate_posX="622.7838" gate_posY="1263.77" text="{=ECM_YERtiSUn}Glasgow, the 'Rock of Glanys', stands on a high crag overlooking the Llyn Tywal, the pool of darkness at the heart of the Battanian lands. It was named after a ancient queen who, legend has it, married in succession five high kings of Battania, bestowing sovereignty upon them. It is the center of the rituals that underpin Battanian kingship, and though not every Battanian high king has ruled from here, all are eager to hold it.">
+    <Components>
+      <Town id="town_comp_den_2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.638" prosperity="4000" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="battania_town_c" scene_name_1="battania_town_c" scene_name_2="battania_town_c" scene_name_3="battania_town_c" />
+      <Location id="arena" scene_name="arena_battania_a" />
+      <Location id="tavern" scene_name="battania_town_house_a_interior_a_tavern" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+      <Location id="house_1" scene_name="battania_town_house_b_interior_b_house" />
+      <Location id="house_2" scene_name="battania_town_house_b_interior_b_house" />
+      <Location id="house_3" scene_name="battania_town_house_b_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_village_den_2_1" name="{=Settlements.Settlement.ECM.town_village_den_2_1}Dalby" posX="629" posY="1276" culture="Culture.sturgia" text="{=ECM_Settlements.Settlement.text.town_village_den_2_1}Ferkh lies at the northern edge of the Ircara wildlands, a forest northwest of Lake Laconis. It serves as a base for traders venturing deeper into the woods, brave cold, wolves and the sometimes-hostile, sometimes-friendly peoples of the woods in pursuit of fur, the bounty of the northlands.">
+    <Components>
+      <Village id="town_village_comp_den_2_1" village_type="VillageType.trapper" hearth="403" gate_rotation="0.008" bound="Settlement.town_den_2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+  <!--Mush-->
+  
+    <Settlement id="Seljuk_town_1" name="{=Settlements.Settlement.ECM.Seljuk_town_1}Mush" owner="Faction.clan_seljuk_3" posX="1309" posY="810" culture="Culture.persian" gate_posX="1309.054" gate_posY="811.1557" text="{=GChIoZdd}In the late 8th century Mush, along with the Taron region, came under control of the Armenian Bagratid dynasty, who reconquered it from the Arabs. Mush and the Taron region was captured and annexed to the Byzantine Empire in 969.">
+    <Components>
+      <Town id="Seljuk_town_comp_1" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" prosperity="2100" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="aserai_town_d" scene_name_1="aserai_town_d" scene_name_2="aserai_town_d" scene_name_3="aserai_town_d" />
+      <Location id="arena" scene_name="arena_aserai_a" />
+      <Location id="tavern" scene_name="aserai_tavern_interior" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+      <Location id="house_1" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_2" scene_name="arabian_house_new_a_interior_a_house" />
+      <Location id="house_3" scene_name="arabian_house_new_a_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <Settlement id="Byzantine_castle_village_ES8_2" name="{=Settlements.Settlement.Byzantine.name.castle_village_ES8_2}Siirt" posX="1352.339" posY="793.942" culture="Culture.persian" text="{=Settlements.Settlement.Byzantine.text.village_ES4_2}Popsia in a narrow canyon between the Ornian Rock and the valley of the Ophthys pool. Trees grow tall here in the cool shadows of the hills, and villagers harvest pines for sale as lumber.">
+    <Components>
+      <Village id="Byzantine_castle_village_comp_ES8_2" village_type="VillageType.lumberjack" hearth="203" bound="Settlement.Seljuk_town_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_007" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="Byzantine_castle_village_ES7_1" name="{=Settlements.Settlement.Byzantine.name.castle_village_ES7_1}BINGÖL" posX="1312.663" posY="836.964" culture="Culture.persian" text="{=Settlements.Settlement.Byzantine.text.castle_village_ES7_1}Jogurys lies on the flat western shores of Lake Tanaesis. This land was originally inhabited by nomadic tribes and has come under cultivation only recently. Imperial colonists have made intensive efforts to grow mullberry bushes here to raise silkworms, a lucrative product in this region.">
+    <Components>
+      <Village id="Byzantine_castle_village_comp_ES7_1" village_type="VillageType.wheat_farm" hearth="303" gate_rotation="0.008" bound="Settlement.Seljuk_town_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--Wales-->
+  
+    <Settlement id="castle_wales_1" name="{=Settlements.Settlement.ECM.castle_wales_1}Powis Castle" owner="Faction.clan_english_2" posX="196" posY="1177" culture="Culture.welch" gate_posX="194.7827" gate_posY="1176.776">
+    <Components>
+      <Town id="castle_comp_wales_1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="960" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+    <Settlement id="village_B3_2" name="{=Settlements.Settlement.ECM.village_B3_2}Criccieth" posX="188.888" posY="1180.897" culture="Culture.welch" text="{=ECM_Settlements.Settlement.text.village_B3_2}The earliest recorded form of the place name Criccieth in Welsh is found in Brut y Tywysogion where reference is made to the imprisonment of Gruffudd ap Llywelyn in the castle of Cruceith. The form Cruciaith was used by Iolo Goch in a famous 14th century poem addressed to Sir Hywel y Fwyall, custodian of the castle. There are a number of theories as to the meaning, but the most popular is that it comes from Crug Caeth: caeth may mean prisoner and thus the name could mean prisoner's rock, a reference to the imprisonment of one of Llywelyn ab Iorwerth's sons in the castle by his brother.">
+    <Components>
+      <Village id="village_comp_B3_2" village_type="VillageType.trapper" hearth="250" bound="Settlement.castle_wales_1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_m" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--England-->
+  
+    <Settlement id="town_england_1" name="{=Settlements.Settlement.ECM.town_england_1}York" owner="Faction.clan_english_8" posX="243.6597" posY="1228.062" culture="Culture.english"  gate_posX="243.5484" gate_posY="1228.346" text="{=ECM_aOn6pa0D}Lyon is a common name for hills, promontories, islands and other defensible positions in western Calradia. It refers to a fortified encampment of the Massa, a tribe allied to the the Vlandians who joined their invasion.  Though the Massa moved on, their stay was often so traumatic for a district that the name remained long after their departure. This Lyon was actually founded on the ruins of an imperial town, resettled by Vlandians, and which has supplanted the memory of the community that came before it.">
+    <Components>
+      <Town id="town_comp_england_1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.378" prosperity="4500" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_f" scene_name_1="vlandia_town_f" scene_name_2="vlandia_town_f" scene_name_3="vlandia_town_f" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_england_1_1" name="{=Settlements.Settlement.ECM.town_england_1_1}Durham" posX="238" posY="1245" culture="Culture.english" text="{=ECM_Settlements.Settlement.text.town_england_1_1}Glintor sits overlooking the rapids of the Fiur river, where the waters of Llyn Tywal descend to enter the Bay of Bergen. Horses are raised on the downs, much prized by both raiders and traders from the Sturgian lands to the north.">
+    <Components>
+      <Village id="town_comp_england_1_1" village_type="VillageType.battanian_horse_ranch" hearth="374" gate_rotation="0.008" bound="Settlement.town_england_1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="castle_village_B6_2" name="{=Settlements.Settlement.ECM.castle_village_B6_2}Leeds" posX="251.101" posY="1217.667" culture="Culture.english" text="{=ECM_Settlements.Settlement.text.castle_village_B6_2}Glintor sits overlooking the rapids of the Fiur river, where the waters of Llyn Tywal descend to enter the Bay of Bergen. Horses are raised on the downs, much prized by both raiders and traders from the Sturgian lands to the north.">
+    <Components>
+      <Village id="castle_village_comp_B6_2" village_type="VillageType.wheat_farm" hearth="374" gate_rotation="0.008" bound="Settlement.town_england_1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Palestine-->
+  
+  <!--Antioch-->
+  
+  <Settlement id="town_S5" name="{=Settlements.Settlement.ECM.town_S5}Antioch" owner="Faction.clan_crusade_2" posX="1201.707" posY="765" culture="Culture.byzantine" gate_posX="1198.714" gate_posY="763.1887" text="{=ECM_F5HlQdgf}Antioch was founded near the end of the fourth century BC by Seleucus I Nicator, one of Alexander the Great's generals, as one of the tetrapoleis of Seleucis of Syria. Seleucus encouraged Greeks from all over the Mediterranean to settle in the city. The city's location offered geographical, military, and economic benefits to its occupants; Antioch was heavily involved in the spice trade and laid within close reach of the Silk Road and the Royal Road. The city was the capital of the Seleucid Empire from 240 BC until 63 BC, when the Romans took control, making it the capital of the province of Syria and later of Coele Syria.">
+    <Components>
+      <Town id="town_comp_S5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.308" prosperity="1700" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_e" scene_name_1="empire_town_e" scene_name_2="empire_town_e" scene_name_3="empire_town_e" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+	<Settlement id="village_S5_1" name="{=Settlements.Settlement.ECM.village_S5_1}Tarsus" posX="1169.408" posY="780.88" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_S5_1}The city was under Byzantine rule until 1085.It was thereafter disputed between Latin Crusaders, Byzantines, Seljuk Turks and the Armenians of the Armenian Kingdom of Cilicia.The city was the capital of the Armenian Kingdom of Cilicia between 1080 and 1198. The Armenians became definitive masters until about 1359 when the city was captured by the Ramadanid Emirate and Mamluk Sultanate. Finally, the area was brought under the control of the Ottoman Empire by Selim I in 1516.">
+    <Components>
+      <Village id="village_comp_S5_1" village_type="VillageType.sheep_farm" hearth="530" gate_rotation="0.308" bound="Settlement.town_S5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_h" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="village_S5_2" name="{=Settlements.Settlement.ECM.village_S5_2}Adana" posX="1183.217" posY="778.885" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_S5_2}Suleiman ibn Qutulmish, the founder of the Anatolian Seljuk Sultanate, annexed Adana in his campaign in 1084. During the Crusades, Cilicia had been criss-crossed by invading armies until it was eventually captured by the forces of the Armenian Principality of Cilicia in 1132, under its king, Leo I. It was retaken by Byzantine forces in 1137, but the Armenians regained it again in around 1170.">
+    <Components>
+      <Village id="village_comp_S5_2" village_type="VillageType.cattle_farm" hearth="126" bound="Settlement.town_S5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="Ayyubid_castle_village_A7_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A7_2}Saint Symeon" posX="1192" posY="764" culture="Culture.byzantine" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A7_2}Bunqaz sits at the mouth of the great wadi that divides the Jarjara Escarpment from the Jabal Tamar hills. Villagers sink wells here to tap the wadi's groundwater, using it to irrigate their olive groves.">
+    <Components>
+      <Village id="Ayyubid_castle_village_comp_A7_2" village_type="VillageType.olive_trees" hearth="477" bound="Settlement.town_S5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <Settlement id="Ayyubid_village_A5_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A5_2}Lattaquié" posX="1196.401" posY="754.756" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A5_2}Liwas sits in a broad valley south of the Bahr al-Yeshm. Farmland is limited here, and the land is best known for the horses that are grazed on the desert's short-lived but rich spring grasses.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A5_2" village_type="VillageType.desert_horse_ranch" hearth="150" bound="Settlement.town_S5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_b" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <Settlement id="Ayyubid_village_A7_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_2}Ma'arrat al-Numan" posX="1211.367" posY="742.183" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A7_2}Bait Hatif sits in the floodplain of the Damar river as it cuts through the Jarjara Escarpment. Rocky soil in this district limits irrigation, but horses thrive on the spring grasses of the hills.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A7_2" village_type="VillageType.olive_trees" hearth="219" bound="Settlement.Ayyubid_town_A5" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--Edessa-->
+ <!--
+      <Settlement id="Ayyubid_castle_A7" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A7}Edessa" owner="Faction.clan_crusade_1" posX="1258.958" posY="785.796" culture="Culture.persian" gate_posX="1258.15" gate_posY="787.1001">
+    <Components>
+      <Town id="Ayyubid_castle_comp_A7" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="550" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+    </Locations>
+  </Settlement>
+ -->
+   <Settlement id="Ayyubid_castle_village_A7_3" name="{=Settlements.Settlement.Byzantine.name.castle_village_ES4_2}Bira" posX="1237.755" posY="782.5276" culture="Culture.persian" text="{=Settlements.Settlement.Ayyubid_castle_village_A7_3}Bira settlement text.">
+    <Components>
+      <Village id="Ayyubid_castle_village_comp_A7_3" village_type="VillageType.silk_plant" hearth="378" gate_rotation="0.008" bound="Settlement.Ayyubid_castle_A7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <!--Tripoli-->
+  
+    <Settlement id="Crusader_Castle_2" name="{=Settlements.Settlement.Crusader_Castle_2}Tripoli" owner="Faction.clan_seljuk_3" posX="1194" posY="737" culture="Culture.persian" gate_posX="1194.868" gate_posY="735.1731">
+    <Components>
+      <Town id="Crusader_Castle_comp_2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="850" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_siege_001" scene_name_1="empire_siege_001" scene_name_2="empire_siege_001" scene_name_3="empire_siege_001" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+      <Settlement id="Ayyubid_village_A5_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A5_3}Gibelet" posX="1194.500" posY="730" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A5_3}Waltas sits by the Bahr al-Yeshm, the Jade Sea, in lowlands well suited to the growing of flax.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A5_3" village_type="VillageType.flax_plant" hearth="155" bound="Settlement.Crusader_Castle_2" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+      <Settlement id="Ayyubid_village_A7_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_3}Barut" posX="1192" posY="717" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A7_3}Mabwaz overlooks the Damar River as it weaves through the mesas of the Jarjara Escarpment. Villagers grow wheat and other crops in the silt of the river floodplain.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A7_3" village_type="VillageType.wheat_farm" hearth="235" gate_rotation="0.508" bound="Settlement.Crusader_Castle_2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <!--Caesarea Castle-->
+  
+    <Settlement id="Crusader_Castle_1" name="{=Settlements.Settlement.ECM.Crusader_Castle_1}Caesarea Castle" owner="Faction.clan_crusade_7" posX="1175" posY="673" culture="Culture.byzantine" gate_posX="1176.091" gate_posY="673.7768">
+    <Components>
+      <Town id="Crusader_Castle_comp_1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="590" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="aserai_castle_002" scene_name_1="aserai_castle_002" scene_name_2="aserai_castle_002" scene_name_3="aserai_castle_002" />
+      <Location id="lordshall" scene_name_1="aserai_castle_keep_a_l1_interior" scene_name_2="aserai_castle_keep_a_l2_interior" scene_name_3="aserai_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="aserai_dungeon_a" />
+    </Locations>
+  </Settlement>
+ 
+      <Settlement id="Ayyubid_village_A7_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_4}Tyre" posX="1184.923" posY="691.629" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A7_4}Zalm sits at the Scorched Gates, where the Damar river descends from the Nahasa desert and starts its journey through the Jarjara Escarpment. The silt brought by the river produces bountiful crops of wheat.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A7_4" village_type="VillageType.sheep_farm" hearth="258" gate_rotation="0.508" bound="Settlement.Crusader_Castle_1" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <Settlement id="Ayyubid_village_A2_2" name="{=Settlements.Settlement.ECM.Ayyubid_village_A2_2}Acre" posX="1177.386" posY="681.935" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A2_2}Abu Khih sits along the Nahr al-Kals river on its way to its barren southern reaches. The surrounding lands, an ancient lakebed, are already becoming barren and alkaline, although date-palms still thrive.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A2_2" village_type="VillageType.date_farm" hearth="297" bound="Settlement.Crusader_Castle_1" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+    <Settlement id="Crusader_Castle_village_1_1" name="{=Settlements.Settlement.ECM.Crusader_Castle_village_1_1}Jaffa" posX="1165" posY="659" culture="Culture.persian" text="{=Settlements.Settlement.text.Crusader_Castle_village_1_1}Jamayeh sits on the southern shores of the sea that the Aserai call the Bahr al Yeshm, the Jade Sea. The climate is well-suited to olive trees that thrive despite the short rainy season.">
+    <Components>
+      <Village id="Crusader_Castle_village_comp_1_1" village_type="VillageType.sheep_farm" hearth="610" bound="Settlement.Ayyubid_town_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+  <!--Damascus Settlements-->
+ 
+      <Settlement id="Ayyubid_village_A7_6" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_6}Dion" posX="1207" posY="681" culture="Culture.persian" text="{=ECM_Settlements.Settlement.text.Ayyubid_village_A7_6}Mussum sits near the eastern coast of the Bahr al-Yeshm sea, where the Aserai deserts give way to desert-steppe with scattered acacia and scrub. The villagers here sink wells to water their groves of date palms.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A7_6" village_type="VillageType.olive_trees" hearth="454" gate_rotation="0.108" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+      <Settlement id="Ayyubid_village_A2_3" name="{=Settlements.Settlement.ECM.Ayyubid_village_A2_3}Hippos" posX="1203.631" posY="690.037" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A2_3}Hoqqa sits on the far east of the Aserai lands, on the Tiyagis river. The land is mostly desert-steppe. Barren most of the year except for scrub, it is covered in grass and flowers in the spring and is fine grazing for horses.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+        <Settlement id="Ayyubid_village_A7_5" name="{=Settlements.Settlement.ECM.Ayyubid_village_A7_5}Philadelphia" posX="1201" posY="647" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A7_5}Conquest of the Middle East and Central Asia by Alexander the Great firmly consolidated the influence of Hellenistic culture. The Greeks founded new cities in the area of modern-day Jordan, including Umm Qays, Jerash and Amman. Ptolemy II Philadelphus, the Macedonian ruler of Egypt, who occupied and rebuilt the city, named it Philadelphia.">
+    <Components>
+      <Village id="Ayyubid_village_comp_A7_5" village_type="VillageType.clay_mine" hearth="258" gate_rotation="0.508" bound="Settlement.Ayyubid_town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--Jerusalem Settlements-->
+  
+      <Settlement id="Ayyubid_castle_village_A5_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A5_2}Gaza" posX="1155" posY="641" culture="Culture.persian" text="{=Settlements.Settlement.text.Ayyubid_village_A3_2}Hunab lies in one of the wadis that cut beneath the weathered mesas of the Jarjara Escarpment. Villagers raise horses here, taking advantage of the brief but lush crop of grass that covers the slopes in the spring.">
+    <Components>
+      <Village id="Ayyubid_castle_village_comp_A5_2" village_type="VillageType.fisherman" hearth="370" bound="Settlement.Ayyubid_town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_g" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="Ayyubid_castle_village_A5_3" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A5_3}Arish" posX="1139" posY="627" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A3_3}The foundation of the city is closely linked to the etymology of its name. The explanation given by the classic authors is that it comes from a compound of nose and cut short. Thus modern scholars, following the version given by Seneca, believe that in the 4th century BC, a Persian king, believed to be either Artaxerxes II or Artaxerxes III, conducted a campaign in Syria where he punished people, possibly a tribe, by mutilating their noses. As a result, the places where these people came from or relocated to were given new names that reflected their disfigurement. While the Greek name Rinokoloura may have existed from the outset, it is possible that it was a translation of a name with the same meaning in another language.">
+    <Components>
+      <Village id="Ayyubid_castle_village_comp_A5_3" village_type="VillageType.sheep_farm" hearth="370" bound="Settlement.Ayyubid_castle_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="aserai_village_g" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+  <!--Spain-->
+  
+    <Settlement id="town_spain_1" name="{=Settlements.Settlement.ECM.town_spain_1}Leon" owner="Faction.clan_empire_west_1" posX="143" posY="905" culture="Culture.spanish" gate_posX="143" gate_posY="905" text="{=ECM_5SpYVtie}Sacked by Almanzor in about 987, the city was reconstructed and repopulated by Alfonso V, whose Decree of 1017 regulated its economic life, including the functioning of its markets. León was a way-station for pilgrims on the Camino de Santiago leading to Santiago de Compostela.">
+    <Components>
+      <Town id="town_comp_spain_1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.808" prosperity="4900" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_h" scene_name_1="empire_town_h" scene_name_2="empire_town_h" scene_name_3="empire_town_h" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="castle_village_EW5_1" name="{=Settlements.Settlement.ECM.castle_village_EW5_1}Ponferrada" posX="149.882" posY="895.467" culture="Culture.spanish" text="{=ECM_Settlements.Settlement.text.castle_village_EW5_1}In pre-Roman times the region was populated by the Astures, a Hispano-Celtic Gallaecian people. The modern name of the city derives from the iron reinforcements added to the ancient bridge over the river Sil, commissioned in 1082 by Bishop Osmundo of Astorga to facilitate the crossing of the Sil River to pilgrims in their way to Santiago de Compostela.">
+    <Components>
+      <Village id="castle_village_comp_EW5_1" village_type="VillageType.vineyard" hearth="421" gate_rotation="0.208" bound="Settlement.town_spain_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_b" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="castle_village_EW2_1" name="{=Settlements.Settlement.ECM.castle_village_EW2_1}Ourense" posX="124.556" posY="897.359" culture="Culture.spanish" text="{=ECM_Settlements.Settlement.text.castle_village_EW2_1}The origin of the town can be traced to the Romans and the presence of hot springs called the Burgas. These can still be seen today. There was also the need to fortify the place to protect one of the easiest ways to cross the Miño River.">
+    <Components>
+      <Village id="castle_village_comp_EW2_1" village_type="VillageType.lumberjack" hearth="232" bound="Settlement.town_spain_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_c" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+   <Settlement id="town_spain_2" name="{=Settlements.Settlement.ECM.town_spain_2}Zaragoza" owner="Faction.clan_aserai_3" posX="280" posY="894" culture="Culture.spanish"  gate_posX="280.2401" gate_posY="891.269" text="{=ECM_kghCLS9q}Augustus founded the city as Caesaraugusta between 25 BC and 11 BC, as a colony to settle army veterans from the Cantabrian wars. As a Roman city, it had all the typical public buildings: forum, baths, theatre, and was an important economic centre. Many Roman ruins can still be seen in Zaragoza today.">
+    <Components>
+      <Town id="town_comp_spain_2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_empire_town" gate_rotation="0.808" prosperity="4500" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_d" scene_name_1="empire_town_d" scene_name_2="empire_town_d" scene_name_3="empire_town_d" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="town_spain_2_2" name="{=Settlements.Settlement.ECM.town_spain_2_2}Daroca" posX="259" posY="870" culture="Culture.spanish" text="{=ECM_Settlements.Settlement.text.town_spain_2_2}According to certain writers, the primitive Celtiberian village in this location was named Darek. The Romans named it Agiria, building a strong castle to defend the Laminium road, which passed through the village and connected Zaragoza with Valencia. The Arabs gave it the name Calat-Darawca (862), and possessed it for 400 years, until Alfonso the Battler conquered it in 1120, and in 1141 issued a primitive legal code, which is unknown today. In the 12th century, Ramon Berenguer IV gave it the laws and privileges which made it the capital of the Community of Daroca, which had a great social and military influence in the Middle Ages.">
+    <Components>
+      <Village id="town_comp_spain_2_2" village_type="VillageType.iron_mine" hearth="603" bound="Settlement.town_spain_2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_u" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+ <!--Venice-->
+ 
+   <Settlement id="town_venice_1" name="{=Settlements.Settlement.ECM.town_venice_1}Jatara" owner="Faction.clan_venice_1" posX="665" posY="970" culture="Culture.hungary" gate_posX="668.8492" gate_posY="970.0945" text="{=ECM_wKMo2CUP}Zadar text.">
+    <Components>
+      <Town id="town_comp_venice_1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.408" prosperity="4700" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_q" scene_name_1="empire_town_q" scene_name_2="empire_town_q" scene_name_3="empire_town_q" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="village_ES2_3" name="{=Settlements.Settlement.ECM.village_ES2_3}Pordenone" posX="661.208" posY="1011.957" culture="Culture.italian" text="{=ECM_Settlements.Settlement.text.village_ES2_3}Avalyps sits near the headwaters of the River Calsa in the warm coastal hills of the southern Empire.The dark, well-watered soil here makes this region an imperial breadbasket.">
+    <Components>
+      <Village id="village_comp_ES2_3" village_type="VillageType.wheat_farm" hearth="355" bound="Settlement.town_venice_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_004" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+    <Settlement id="castle_village_ES7_2" name="{=Settlements.Settlement.ECM.castle_village_ES7_2}Senj" posX="661.946" posY="980.459" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_ES7_3}Eunalica sits on the western shores of Lake Tanaesis. This low-lying country is fine land for the growing of flax.">
+    <Components>
+      <Village id="castle_village_ES7_2" village_type="VillageType.flax_plant" hearth="256" gate_rotation="0.008" bound="Settlement.town_venice_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Italy-->
+  
+    <Settlement id="castle_village_ES4_2" name="{=Settlements.Settlement.ECM.castle_village_ES4_2}Orbetello" posX="567.112" posY="931.621" culture="Culture.italian" text="{=ECM_Settlements.Settlement.text.castle_village_ES4_2}Ethemisa sits on the river that the Aserai call the Nahr al-Kals, the Bitter River, and what imperial citizens call the Calsa. Here, the river has just descended from the coastal hills and has not yet reached the alkali plains of the southeast. The lands around produce a fine crop of grain.">
+    <Components>
+      <Village id="castle_village_comp_ES4_2" village_type="VillageType.wheat_farm" hearth="378" gate_rotation="0.008" bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_008" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <!--Poland-->
+  
+    <Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.ECM.castle_village_K4_1}Lublin" posX="817.77" posY="1130.701" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K4_1}Tepes sits overlooking a tributary of the Karakaz, a river that flows from the north into Lake Tanaz, which the Empire calls Tanaesis. This district specializes in the harvest of timber which is floated down the river and sold to the lake towns.">
+    <Components>
+      <Village id="castle_village_comp_K4_1" village_type="VillageType.lumberjack" hearth="465" gate_rotation="0.508" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+ 
+ 
+</Settlements>
