@@ -13,7 +13,7 @@
       <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
-  </Settlement>
+  </Settlement> 
 
   <Settlement id="castle_village_KR4_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_1}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
     <Components>
