@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settlements>
 
+  <!-- 
+    
+    After settlements modifications because some cities and castles defines in modifications.
+  
+    If we define villages before cities and castles, we get crash.
+    
+  -->
+
   <Settlement id="reiko_baltic_town_riga_village_3" name="{=reiko_baltic_town_riga_village_3.name}Carnikava" posX="905.310" posY="1298.400" culture="Culture.goldenhorde" text="{=reiko_baltic_town_riga_village_3.name}Carnikava text.">
     <Components>
       <Village id="reiko_baltic_town_riga_village_comp_3" village_type="VillageType.fisherman" hearth="153" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
