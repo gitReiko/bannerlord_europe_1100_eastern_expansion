@@ -191,29 +191,12 @@
     </CommonAreas>
   </Settlement>
 
-
-
-
-
-
-
-
-  <Settlement id="castle_village_KR4_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_1}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
-    <Components>
-      <Village id="castle_village_comp_KR4_1" village_type="VillageType.trapper" hearth="114" gate_rotation="0.008" bound="Settlement.castle_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
-
-
+  <!-- 
+    village_KR4_3 changes
+    name = Rubeni
+    hearth = 123
+    village_type = swine_farm
+  -->
   <Settlement id="village_KR4_3" name="{=Settlements.Settlement.ECM.KR.village_KR4_3}Rubeni" posX="946.463" posY="1265.349" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_3}Rubeni text.">
     <Components>
       <Village id="village_comp_KR4_3" village_type="VillageType.swine_farm" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_selpils" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
@@ -227,7 +210,12 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
+
+  <!-- 
+    village_KR4_4 changes
+    name = Vilkamergė
+    hearth = 133
+  -->
   <Settlement id="village_KR4_4" name="{=Settlements.Settlement.ECM.KR.village_KR4_4}Vilkamergė" posX="898.023" posY="1250.13" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_4}Vilkamergė.">
     <Components>
       <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
@@ -242,9 +230,146 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    castle_KR4 changes
+    name = Merkinė
+    level = 1
+  -->
+  <Settlement id="castle_KR4" name="{=Settlements.Settlement.ECM.KR.castle_KR4}Merkinė Castle" owner="Faction.clan_baltic_2" posX="902.09" posY="1231.054" culture="Culture.goldenhorde" gate_posX="903.5406" gate_posY="1230.078">
+    <Components>
+      <Town id="castle_comp_KR4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="470" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_003" scene_name_1="sturgia_castle_003" scene_name_2="sturgia_castle_003" scene_name_3="sturgia_castle_003" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    castle_village_KR4_1 changes
+    name = Pažeimenė
+    hearth = 114
+  -->
+  <Settlement id="castle_village_KR4_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_1}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_1}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
+    <Components>
+      <Village id="castle_village_comp_KR4_1" village_type="VillageType.trapper" hearth="114" gate_rotation="0.008" bound="Settlement.castle_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_KR4_2 changes
+    hearth = 133
+  -->
+  <Settlement id="castle_village_KR4_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_2}Panevėžys" posX="925.051" posY="1196.069" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_2}Panevėžys.">
+    <Components>
+      <Village id="castle_village_comp_KR4_2" village_type="VillageType.cattle_farm" hearth="133" gate_rotation="0.008" bound="Settlement.castle_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_h" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_K4 changes
+    name = Rethow
+    level = 1
+  -->
+  <Settlement id="castle_K4" name="{=Settlements.Settlement.ECM.castle_K4}Rethow Castle" owner="Faction.clan_baltic_1" posX="822.776" posY="1221.531" culture="Culture.goldenhorde" gate_posX="820.9154" gate_posY="1220.952">
+    <Components>
+      <Town id="castle_comp_K4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="530" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    castle_village_K4_2 changes
+    name = Cathow
+    hearth = 205
+  -->
+  <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow" posX="842.404" posY="1221.339" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
+    <Components>
+      <Village id="castle_village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="205" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_c" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    town_KR2 changes
+    name = Bieraście
+    prosperity = 1300
+    level = 1
+  -->
+  <Settlement id="town_KR2" name="{=Settlements.Settlement.ECM.KR.town_KR2}Bieraście" owner="Faction.clan_rus_4" posX="910.895" posY="1170.114" culture="Culture.rus" gate_posX="915.3367" gate_posY="1169.991" text="{=ECM_KR_Xom9DeXZ}Volodymyr, which sits on the icy waters of Mazopor bay, was founded by migrants from the Nordlands. Legend holds that the initial wave of Nords arrogantly demanded tribute from the nearby Vakken and Sturgian tribes, who formed an alliance and drove the newcomers back to their ships. But the victors fell out over the spoils, until a canny Nord, Gundar, landed and volunteered to help them fairly divvy up the weapons and armor of his dead kinsmen. The residents recognized Gundar's lordship over the region and his descendants, intermarried with the Sturgians, are today the grand princes of Sturgia.">
+    <Components>
+      <Town id="town_comp_KR2" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" prosperity="1300" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="sturgia_town_c" scene_name_1="sturgia_town_c" scene_name_2="sturgia_town_c" scene_name_3="sturgia_town_c" />
+      <Location id="arena" scene_name="arena_sturgia_a" />
+      <Location id="tavern" scene_name="sturgia_house_b_interior_tavern" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+      <Location id="house_1" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_2" scene_name="sturgia_town_house_d1_interior_b_house" />
+      <Location id="house_3" scene_name="sturgia_town_house_d1_interior_b_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    village_KR2_1 changes
+    name = Hajnówka
+  -->
   <Settlement id="village_KR2_1" name="{=Settlements.Settlement.ECM.KR.village_KR2_1}Hajnówka" posX="883.919" posY="1193.015" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR2_1}Hajnówka.">
     <Components>
       <Village id="village_comp_KR2_1" village_type="VillageType.cattle_farm" hearth="112" gate_rotation="0.008" bound="Settlement.rei_vo_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    village_KR2_2 changes
+    mo changes. necessary to prevent crash. village must be defined after city
+  -->
+  <Settlement id="village_KR2_2" name="{=Settlements.Settlement.ECM.KR.village_KR2_2}Krasnystaw" posX="861.696" posY="1162.636" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR2_2}Krasnystaw.">
+    <Components>
+      <Village id="village_comp_KR2_2" village_type="VillageType.wheat_farm" hearth="322" gate_rotation="0.168" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
