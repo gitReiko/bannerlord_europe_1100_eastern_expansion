@@ -440,7 +440,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_vaukavysk" name="{=rei_vl_vaukavysk.name}Vaŭkavysk Castle" owner="Faction.clan_baltic_06" posX="899.836" posY="1200.157" culture="Culture.goldenhorde"  gate_posX="899.802" gate_posY="1199.414">
+  <Settlement id="rei_vl_vaukavysk" name="{=rei_vl_vaukavysk.name}Vaŭkavysk Castle" owner="Faction.clan_yatvingian_2" posX="899.836" posY="1200.157" culture="Culture.goldenhorde"  gate_posX="899.802" gate_posY="1199.414">
     <Components>
       <Town id="rei_vl_vaukavysk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="750" />
     </Components>
