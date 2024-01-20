@@ -241,7 +241,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_baltic_08" posX="867.259" posY="1215.870" culture="Culture.goldenhorde" gate_posX="867.980" gate_posY="1216.500">
+  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_yatvingian_3" posX="867.259" posY="1215.870" culture="Culture.goldenhorde" gate_posX="867.980" gate_posY="1216.500">
     <Components>
       <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="430" />
     </Components>
@@ -632,7 +632,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_baltic_06" posX="920.730" posY="1205.090" culture="Culture.goldenhorde"  gate_posX="920.780" gate_posY="1204.250">
+  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_yatvingian_4" posX="920.730" posY="1205.090" culture="Culture.goldenhorde"  gate_posX="920.780" gate_posY="1204.250">
     <Components>
       <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="340" />
     </Components>

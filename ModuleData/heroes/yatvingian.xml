@@ -2,9 +2,6 @@
 
 <Heroes>
 
-   <Hero id="lord_baltic_08a" spouse="Hero.lord_baltic_08b" faction="Faction.clan_baltic_08" />
-   <Hero id="lord_baltic_08b" spouse="Hero.lord_baltic_08a" faction="Faction.clan_baltic_08" />
-
    <Hero id="lord_yatvingian_1a" spouse="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" />
    <Hero id="lord_yatvingian_1b" spouse="Hero.lord_yatvingian_1a" faction="Faction.clan_yatvingian_1" />
    <Hero id="lord_yatvingian_1c" father="Hero.lord_yatvingian_1a" mother="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" />
@@ -12,5 +9,12 @@
 
    <Hero id="lord_yatvingian_2a" faction="Faction.clan_yatvingian_2" />
    <Hero id="lord_yatvingian_2b" faction="Faction.clan_yatvingian_2" />
+
+   <Hero id="lord_yatvingian_3a" spouse="Hero.lord_yatvingian_3b" faction="Faction.clan_yatvingian_3" />
+   <Hero id="lord_yatvingian_3b" spouse="Hero.lord_yatvingian_3a" faction="Faction.clan_yatvingian_3" />
+
+   <Hero id="lord_yatvingian_4a" spouse="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" />
+   <Hero id="lord_yatvingian_4b" spouse="Hero.lord_yatvingian_4a" faction="Faction.clan_yatvingian_4" />
+   <Hero id="lord_yatvingian_4с" father="Hero.lord_yatvingian_4a" mother="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" />
    
 </Heroes>
