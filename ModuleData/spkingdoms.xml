@@ -52,5 +52,31 @@
 
 	</policies>
   </Kingdom>
+
+  <Kingdom id="yatvingian"
+		   owner="Hero.lord_yatvingian_3a"
+		   banner_key="11.27.48.1836.1836.767.764.1.0.0.510.101.116.460.266.785.830.0.1.45.510.101.116.460.266.785.700.0.0.315.510.101.116.300.266.734.845.0.0.315.510.101.116.300.266.734.685.0.1.-135.510.101.116.142.266.683.535.0.1.-135.510.101.116.369.266.753.668.0.0.315.510.101.116.369.266.753.862.0.1.-135.510.101.116.142.266.683.995.0.0.315"
+		   primary_banner_color="0xff429081"
+		   secondary_banner_color="0xffeae1da"
+		   label_color="ff429081"
+		   color="ff429081"
+		   color2="ffeae1da"
+		   alternative_color="ff515167"
+		   alternative_color2="ffeae1da"
+		   culture="Culture.goldenhorde"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=yatvingian_kingdom_name}The Yatvingians Principalities"
+		   short_name="{=yatvingian_kingdom_short_name}Yatvingians"
+		   title="{=yatvingian_kingdom_title}Yatvingians Principalities"
+		   ruler_title="{=yatvingian_ruler_title}Knyaz"
+		   text="{=yatvingian_kingdom_text}++">
+    <relationships>
+
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
   
  </Kingdoms>
