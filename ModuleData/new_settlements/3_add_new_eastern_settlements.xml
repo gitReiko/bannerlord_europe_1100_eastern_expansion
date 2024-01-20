@@ -241,9 +241,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_dernen" name="{=reiko_baltic_castle_dernen.name}Dernen Castle" owner="Faction.clan_baltic_08" posX="855.170" posY="1224.120" culture="Culture.goldenhorde" gate_posX="855.260" gate_posY="1223.315">
+  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_baltic_08" posX="867.259" posY="1215.870" culture="Culture.goldenhorde" gate_posX="867.980" gate_posY="1216.500">
     <Components>
-      <Town id="reiko_baltic_castle_comp_dernen" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="430" />
+      <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="430" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
@@ -252,9 +252,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_baltic_castle_dernen_village_1" name="{=reiko_baltic_castle_dernen_village_1.name}Weysse" posX="868.880" posY="1228.510" culture="Culture.goldenhorde" text="{=reiko_baltic_castle_dernen_village_1.text}Weysse.">
+  <Settlement id="reiko_rajgrod_vil_1" name="{=reiko_rajgrod_vil_1.name}Vištytis" posX="868.880" posY="1228.510" culture="Culture.goldenhorde" text="{=reiko_rajgrod_vil_1.text}Vištytis.">
     <Components>
-      <Village id="reiko_baltic_castle_dernen_village_comp_1" village_type="VillageType.cattle_farm" hearth="93" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_dernen" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_rajgrod_vil_1_comp" village_type="VillageType.cattle_farm" hearth="93" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

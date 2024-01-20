@@ -36,9 +36,9 @@
   <string id="reiko_baltic_town_apuole_village_1.text" text="Talsi."/>
   <string id="reiko_baltic_town_apuole_village_2.name" text="Ragaciems"/>
   <string id="reiko_baltic_town_apuole_village_2.text" text="Ragaciems."/>
-  <string id="reiko_baltic_castle_dernen.name" text="Dernen Castle"/>
-  <string id="reiko_baltic_castle_dernen_village_1.name" text="Weysse"/>
-  <string id="reiko_baltic_castle_dernen_village_1.text" text="Weysse."/>
+  <string id="reiko_rajgrod.name" text="Rajgród Castle"/>
+  <string id="reiko_rajgrod_vil_1.name" text="Vištytis"/>
+  <string id="reiko_rajgrod_vil_1.text" text="Vištytis."/>
   <string id="reiko_baltic_castle_meindenewe.name" text="Meindenewe Castle"/>
   <string id="reiko_baltic_castle_meindenewe_village_1.name" text="Tummonis"/>
   <string id="reiko_baltic_castle_meindenewe_village_1.text" text="Tummonis text."/>
