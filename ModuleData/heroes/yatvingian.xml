@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_yatvingian_1" spouse="Hero.lord_yatvingian_2" faction="Faction.clan_yatvingian_1" />
+   <Hero id="lord_yatvingian_2" spouse="Hero.lord_yatvingian_1" faction="Faction.clan_yatvingian_1" />
+   <Hero id="lord_yatvingian_3" father="Hero.lord_yatvingian_1" mother="Hero.lord_yatvingian_2" faction="Faction.clan_yatvingian_1" />
+
+   <Hero id="lord_yatvingian_4" father="Hero.lord_yatvingian_1" mother="Hero.lord_yatvingian_2" faction="Faction.clan_yatvingian_1" />
+   
+</Heroes>

@@ -405,7 +405,7 @@
     </CommonAreas>
   </Settlement>
 
-      <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_baltic_07" posX="892.790" posY="1216.58" culture="Culture.battania"  gate_posX="894.026" gate_posY="1214.905" text="{=rei_vl_hrodna.text}Horadzien.">
+      <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_yatvingian_1" posX="892.790" posY="1216.58" culture="Culture.battania"  gate_posX="894.026" gate_posY="1214.905" text="{=rei_vl_hrodna.text}Horadzien.">
     <Components>
       <Town id="rei_vl_hrodna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1100" />
     </Components>
