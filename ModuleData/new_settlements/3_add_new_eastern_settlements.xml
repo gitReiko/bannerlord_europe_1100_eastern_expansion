@@ -631,5 +631,16 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+
+  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_baltic_06" posX="920.730" posY="1205.090" culture="Culture.goldenhorde"  gate_posX="920.780" gate_posY="1204.250">
+    <Components>
+      <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="340" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
  
 </Settlements>
