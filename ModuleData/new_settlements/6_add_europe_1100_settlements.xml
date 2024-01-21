@@ -5058,7 +5058,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
   <!--
   <Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.ECM.castle_village_K4_1}Lublin" posX="817.77" posY="1130.701" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K4_1}Tepes sits overlooking a tributary of the Karakaz, a river that flows from the north into Lake Tanaz, which the Empire calls Tanaesis. This district specializes in the harvest of timber which is floated down the river and sold to the lake towns.">
     <Components>
@@ -5220,7 +5219,7 @@
     </CommonAreas>
   </Settlement>
   <!-- clan 3, Arkits, lords 5, 9, 15 -->
-  <Settlement id="town_K1" name="{=Settlements.Settlement.ECM.town_K1}Belgrade" owner="Faction.clan_empire_south_8" posX="767.864" posY="973.962" culture="Culture.serbian" gate_posX="764.5681" gate_posY="972.9028" text="{=ECM_YNm9vaHw}Belgrade, the Fortress of the Axe, was settled by the Iltanlar, mountain-dwelling cousins of the Khuzaits. Centuries ago their beys descended into the plains and created the fortress here that guards the portages of Iltan, the network of lakes and rivers that divides the Sturgian lands from the Khuzaits' realm. Bitter winters protected them from the reach of the Empire, but no blast of wind was cutting enough to stop the horsemen of Khan Urkhun, who 40 years ago forced this town to submit to the khanate.">
+  <Settlement id="town_K1" name="{=Settlements.Settlement.ECM.town_K1}Belgrade" owner="Faction.clan_empire_south_8" posX="767.864" posY="973.962" culture="Culture.serbian" gate_posX="764.2687" gate_posY="973.6921" text="{=ECM_YNm9vaHw}Belgrade, the Fortress of the Axe, was settled by the Iltanlar, mountain-dwelling cousins of the Khuzaits. Centuries ago their beys descended into the plains and created the fortress here that guards the portages of Iltan, the network of lakes and rivers that divides the Sturgian lands from the Khuzaits' realm. Bitter winters protected them from the reach of the Empire, but no blast of wind was cutting enough to stop the horsemen of Khan Urkhun, who 40 years ago forced this town to submit to the khanate.">
   <Components>
       <Town id="town_comp_K1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" prosperity="1800" />
     </Components>
@@ -5241,7 +5240,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="village_K1_1" name="{=Settlements.Settlement.ECM.village_K1_1}Osijek" posX="732.126" posY="1000.718" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_K1_1}Fisnar sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
+  <Settlement id="village_K1_1" name="{=Settlements.Settlement.ECM.village_K1_1}Osijek" posX="732.126" posY="1000.718" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K1_1}Fisnar sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
     <Components>
       <Village id="village_comp_K1_1" village_type="VillageType.sheep_farm" hearth="152" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5254,7 +5253,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K1_2" name="{=Settlements.Settlement.ECM.village_K1_2}Ruma" posX="756.161" posY="993.161" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_K1_2}Ulaan sits in the valley of the Karakaz river. The villagers, nomads who have recently been forced by the khans to settle, have learned to grow flax in this low-lying marshy land.">
+  <Settlement id="village_K1_2" name="{=Settlements.Settlement.ECM.village_K1_2}Ruma" posX="756.161" posY="993.161" culture="Culture.serbian" text="{=ECM_Settlements.Settlement.text.village_K1_2}Ulaan sits in the valley of the Karakaz river. The villagers, nomads who have recently been forced by the khans to settle, have learned to grow flax in this low-lying marshy land.">
     <Components>
       <Village id="village_comp_K1_2" village_type="VillageType.olive_trees" hearth="224" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5267,8 +5266,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
-  <Settlement id="village_K1_4" name="{=Settlements.Settlement.ECM.village_K1_4}Dierna" posX="796.926" posY="961.765" culture="Culture.byzantine" text="{=ECM_Settlements.Settlement.text.village_K1_4}Asalig sits at the foot of Bars Dag, one of the peaks that marks the edge of the Devseg plateau. Villagers raise horses in the lower slopes, keeping watch for the snow leopards for which the peak is named.">
+  <Settlement id="village_K1_4" name="{=Settlements.Settlement.ECM.village_K1_4}Dierna" posX="796.926" posY="961.765" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K1_4}Asalig sits at the foot of Bars Dag, one of the peaks that marks the edge of the Devseg plateau. Villagers raise horses in the lower slopes, keeping watch for the snow leopards for which the peak is named.">
     <Components>
       <Village id="village_comp_K1_4" village_type="VillageType.steppe_horse_ranch" hearth="321" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5451,7 +5449,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
   <Settlement id="village_K4_3" name="{=Settlements.Settlement.ECM.village_K4_3}Berestye" posX="843.92" posY="1172.738" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K4_3}Mivanjan sits at the foot of the Sulun Dag mountains, that mark the eastern border of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, raise sheep in the foothills.">
     <Components>
       <Village id="village_comp_K4_3" village_type="VillageType.sheep_farm" hearth="204" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
@@ -7211,7 +7208,7 @@
   </Settlement>
   <Settlement id="Ayyubid_castle_village_A2_1" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A2_1}Al Mouwaylih" posX="1222.594" posY="561.78" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A2_1}Sahel on the far edges of the Aserai lands, on the low-lying Jabal Ashabi mountains. This ridge catches rainclouds coming off the Bahr al-Yeshm sea and are brushed by monsoons from the southeast, allowing cistern-watered fields of millet and wheat.">
     <Components>
-      <Village id="Ayyubid_castle_village_comp_A2_1" village_type="VillageType.wheat_farm" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="Ayyubid_castle_village_comp_A2_1" village_type="VillageType.silver_mine" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_e" />
@@ -7224,7 +7221,7 @@
   </Settlement>
   <Settlement id="Ayyubid_castle_village_A2_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A2_2}Al Wajh" posX="1200.087" posY="541.068" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A2_2}Asmait lies in a nook of the Jabal Ashabi mountains, bordered to the south by the deep desert. Villagers trap floods running down the hills during rare rainstorms, using the water to grow date palms and other crops.">
     <Components>
-      <Village id="Ayyubid_castle_village_comp_A2_2" village_type="VillageType.date_farm" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="Ayyubid_castle_village_comp_A2_2" village_type="VillageType.clay_mine" hearth="401" gate_rotation="0.108" bound="Settlement.Ayyubid_castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_c" />
@@ -7284,7 +7281,7 @@
   </Settlement>
   <Settlement id="Ayyubid_village_A1_4" name="{=Settlements.Settlement.ECM.Ayyubid_village_A1_4}Umluj" posX="1204.492" posY="530.423" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_4}Hiblet sits at the base of the granite outcrop known as the Jabal Tamar. Rainwater trapped in cracks in the rock is diverted to the village's date-palm gardens.">
     <Components>
-      <Village id="Ayyubid_village_comp_A1_4" village_type="VillageType.date_farm" hearth="183" bound="Settlement.Ayyubid_town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="Ayyubid_village_comp_A1_4" village_type="VillageType.sheep_farm" hearth="183" bound="Settlement.Ayyubid_town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_e" />
@@ -7321,7 +7318,7 @@
   </Settlement>
   <Settlement id="Ayyubid_castle_village_A1_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A1_2}Afif" posX="1270.156" posY="492.008" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_village_A1_3}Fanab sits in a low promontory between the bay that the Aserai call the Gulf of Shariz and the inner sea of the Bahr al-Yeshm.  The seawinds bring just enough rain to support the cultivation of olive trees.">
     <Components>
-      <Village id="Ayyubid_castle_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="137" bound="Settlement.Ayyubid_castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="Ayyubid_castle_village_comp_A1_2" village_type="VillageType.silver_mine" hearth="137" bound="Settlement.Ayyubid_castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_e" />
@@ -8377,7 +8374,7 @@
     </CommonAreas>
   </Settlement>
   -->
-  <Settlement id="Byzantine_town_ES9" name="{=Settlements.Settlement.Byzantine.name.town_ES9}Konya" owner="Faction.clan_rum_1" posX="1094.756" posY="805.066" culture="Culture.byzantine" gate_posX="1096.547" gate_posY="806.8701" text="{=biz_RL2vacqv}Konya is a city located in the central region of Turkey.">
+  <Settlement id="Byzantine_town_ES9" name="{=Settlements.Settlement.Byzantine.name.town_ES9}Konya" owner="Faction.clan_rum_1" posX="1094.756" posY="805.066" culture="Culture.byzantine" gate_posX="1096.547" gate_posY="806.8701" text="{=biz_qAsnH9yp}Konya is a city located in the central region of Turkey.">
     <Components>
       <Town id="Byzantine_town_comp_ES9" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508" prosperity="2600" />
     </Components>
@@ -9313,7 +9310,6 @@
     </CommonAreas>
   </Settlement>
   <!-- Probably derives from a tribe -->
-  
   <!-- From Battanian Car Gryff, Gryf's fortress -->
   <Settlement id="village_KR1_3" name="{=Settlements.Settlement.ECM.KR.village_KR1_3}Tchornobyl" posX="1058.429" posY="1167.098" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_3}Tchornobyl.">
     <Components>
@@ -9329,9 +9325,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Coastal towns, Raganvad, White Fortress -->
-  
   <!-- Mar's fortress -->
-  
   <!-- Dvor mouth -->
   <Settlement id="castle_village_KR6_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR6_2}Viljandi" posX="945.365" posY="1306.085" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR2_3}Viljandi.">
     <Components>
@@ -9396,7 +9390,6 @@
   <!-- Akon's place -->
   <!-- Olek's Faction -->
   <!-- Ravenfield -->
-  
   <!-- Storm cape-->
   <!-- Borcha's hill-->
   <Settlement id="castle_village_KR8_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR8_2}Rostov Veliki" posX="1267.236" posY="1287.4" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR4_2}Rostov Veliki.">
@@ -9412,13 +9405,9 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-
   <!-- Name of a local clan hero-->
-  
-  <!-- High ford -->
-  
+  <!-- High ford --> 
   <!-- Little bull -->
-  
   <Settlement id="castle_village_KR7_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR7_2}Orel" posX="1141.185" posY="1174.14" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR5_3}Orel.">
     <Components>
       <Village id="castle_village_comp_KR7_2" village_type="VillageType.wheat_farm" hearth="157" bound="Settlement.castle_KR7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
@@ -9552,7 +9541,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <!-- Sami People  -->
+   <!-- Sami People  -->
  <!--
   <Settlement id="castle_SAM1" name="{=Settlements.Settlement.ECM.SAM.castle_SAM1}Hämeenlinna Castle" owner="Faction.clan_sami_1" posX="863.1" posY="1389.978" culture="Culture.sami" gate_posX="863.4372" gate_posY="1388.106">
     <Components>
