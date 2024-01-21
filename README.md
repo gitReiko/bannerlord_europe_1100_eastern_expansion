@@ -1,5 +1,5 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.1, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.3, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
