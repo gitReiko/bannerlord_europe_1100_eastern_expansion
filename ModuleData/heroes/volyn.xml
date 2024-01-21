@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_volyan_1a" faction="Faction.clan_volyn_1" />
+
+   <Hero id="lord_volyan_2a" faction="Faction.clan_volyn_2" />
+
+   <Hero id="lord_volyan_3a" faction="Faction.clan_volyn_3" />
+
+   <Hero id="lord_volyan_4a" faction="Faction.clan_volyn_4" />
+   
+</Heroes>
