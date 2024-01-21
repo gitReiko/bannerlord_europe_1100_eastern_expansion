@@ -8,7 +8,7 @@
                 age="51"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -54,7 +54,7 @@
                 age="35"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -99,7 +99,7 @@
                 age="15"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -145,7 +145,7 @@
                 age="3"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -178,7 +178,7 @@
                 age="37"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -224,7 +224,7 @@
                 age="25"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -407,7 +407,7 @@
                 age="36"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -452,7 +452,7 @@
                 age="7"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
