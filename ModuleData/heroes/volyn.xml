@@ -8,7 +8,11 @@
    <Hero id="lord_volyan_1d" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volyn_1"  />
    <Hero id="lord_volyan_1e" faction="Faction.clan_volyn_1" text="{=lord_volyan_1e.text}According to Karamzin Davyd Igorovich had a nephew Mstislav. Who helped Davyd to besiege Volodymyr, and then sought fame and fortune in the sea." />
 
-   <Hero id="lord_volyan_2a" faction="Faction.clan_volyn_2" />
+   <Hero id="lord_volyan_2a" spouse="Hero.lord_volyan_2b" faction="Faction.clan_volyn_2" />
+   <Hero id="lord_volyan_2b" spouse="Hero.lord_volyan_2a" faction="Faction.clan_volyn_2" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
+   <Hero id="lord_volyan_2c" faction="Faction.clan_volyn_2" />
+   <Hero id="lord_volyan_2d" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volyn_2"  />
+   <Hero id="lord_volyan_2e" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volyn_2"  />
 
    <Hero id="lord_volyan_3a" faction="Faction.clan_volyn_3" />
 
