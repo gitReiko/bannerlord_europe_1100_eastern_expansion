@@ -582,7 +582,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_busk" name="{=rei_busk.name}Busk Castle" owner="Faction.clan_volyn_1" posX="912.000" posY="1112.800" culture="Culture.rus"  gate_posX="911.833" gate_posY="1112.000">
+  <Settlement id="rei_busk" name="{=rei_busk.name}Busk Castle" owner="Faction.clan_volyn_5" posX="912.000" posY="1112.800" culture="Culture.rus"  gate_posX="911.833" gate_posY="1112.000">
     <Components>
       <Town id="rei_busk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="450" />
     </Components>
