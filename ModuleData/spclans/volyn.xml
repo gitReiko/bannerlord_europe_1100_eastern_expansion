@@ -3,7 +3,7 @@
 
   <Faction id="clan_volyn_1"
            name="{=clan_volyn_1.name}Davyd Igorovich"
-           tier="6"
+           tier="5"
            owner="Hero.lord_volyan_1a"
            culture="Culture.rus"
            super_faction="Kingdom.volyn"

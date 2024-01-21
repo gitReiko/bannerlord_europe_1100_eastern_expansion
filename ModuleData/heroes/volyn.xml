@@ -14,7 +14,9 @@
    <Hero id="lord_volyan_2d" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volyn_2"  />
    <Hero id="lord_volyan_2e" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volyn_2"  />
 
-   <Hero id="lord_volyan_3a" faction="Faction.clan_volyn_3" />
+   <Hero id="lord_volyan_3a" spouse="Hero.lord_volyan_3b" faction="Faction.clan_volyn_3" />
+   <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volyn_3" />
+   <Hero id="lord_volyan_3c" father="Hero.lord_volyan_3a" mother="Hero.lord_volyan_3b" faction="Faction.clan_volyn_3" text="{=lord_volyan_3c.text}It is known that the knyaz had children, one of whom was a daughter." />
 
    <Hero id="lord_volyan_4a" faction="Faction.clan_volyn_4" />
 
