@@ -11,5 +11,15 @@
   <string id="baltic_tribes_title" text="The Baltic Tribes"/>
   <string id="polish_ruler_title" text="Kunigas"/>
   <string id="baltic_tribes_text" text="In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania."/>
+  <string id="yatvingian_kingdom_name" text="The Yatvingians Principalities"/>
+  <string id="yatvingian_kingdom_short_name" text="Yatvingians"/>
+  <string id="yatvingian_kingdom_title" text="Yatvingians Principalities"/>
+  <string id="yatvingian_ruler_title" text="Knyaz"/>
+  <string id="yatvingian_kingdom_text" text="This faction is a reconstruction.  {newline} Thanks to Ptolemy, we know about the Yatviangian culture from the 2nd century. In the 11th-12th centuries, the Western Baltic culture can be traced on the territory of modern western Belarus and the neighboring Polish and Lithuanian lands. Settlements of this culture are mixed with settlements of other Baltic and Slavic cultures. Slavic settlement in the region archeologically starts from the 10th century. In the 12th century, Slavs, especially from the Dregovichs tribal union, are archaeologically massively present in the region. Slavic culture is mostly urban. Many settlements are fortified closer to the 11th or 12th century. This fact and absence of devastation of settlements allows to speak about peaceful Balto-Slavic coexistence. {newline} There are many archaeological settlements in 1100 in the Paniamońnie region. Some of them are quite rich. The first reliable written sources about these towns date back to the 13th century. They are associated with the attempt of the Volyn Principality to conquer this region. {newline} The chronicle Principality of Grodno was probably located in the modern Davyd-Haradok, which was built by Davyd Igorevich in 1100. Later, his son Usevolod became the first knyaz of Haradok. {newline} Rus long enough tried to impose a tribute on Yatviangians. The territory around modern Brest was conquered by Rus in the 12th century. In the 13th century Mazovia, Volhynia and Cumans made a joint campaign against the Yatvyags. Which tells us something about the power of the Yatviangians. {newline} The expansion of the Teutonic Order and Volhynia in the 13th century pushed the local population to ally with Lithuania. {newline} A centralized state did not exist. There were many settlements and knyaz. Each of which was equal to the other."/>
+  <string id="volyn_kingdom_name" text="The Volyń Principality"/>
+  <string id="volyn_kingdom_short_name" text="Volyń"/>
+  <string id="volyn_kingdom_title" text="Volyń Principality"/>
+  <string id="volyn_ruler_title" text="Knyaz"/>
+  <string id="volyn_kingdom_text" text="++"/>
  </strings>
 </base>

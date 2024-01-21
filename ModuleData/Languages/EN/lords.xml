@@ -18,8 +18,6 @@
   <string id="lord_baltic_06b.name" text="Velta"/>
   <string id="lord_baltic_07a.name" text="Ontuons"/>
   <string id="lord_baltic_07b.name" text="Aiste"/>
-  <string id="lord_yatvingian_3a.name" text="Nebijast"/>
-  <string id="lord_yatvingian_3b.name" text="Pacia"/>
   <string id="lord_baltic_09a.name" text="Nameisis"/>
   <string id="lord_baltic_09b.name" text="Vasara"/>
   <string id="lord_baltic_09c.name" text="Freija"/>
@@ -42,5 +40,33 @@
   <string id="lord_polotsk_4a.name" text="Raścisłaŭ"/>
   <string id="lord_polotsk_4b.name" text="Maŭkold"/>
   <string id="lord_polotsk_4c.name" text="Davił"/>
+  <!--input/lords/volyn.xml-->
+  <string id="lord_volyan_1a.name" text="Davyd Igorovich"/>
+  <string id="lord_volyan_1b.name" text="Maria*"/>
+  <string id="lord_volyan_1c.name" text="Vsevolodko Davydovich"/>
+  <string id="lord_volyan_1d.name" text="Igor Davydovich"/>
+  <string id="lord_volyan_1e.name" text="Mstislav*"/>
+  <string id="lord_volyan_2a.name" text="Jarasłaŭ Jarapołčyč"/>
+  <string id="lord_volyan_2b.name" text="Marylia*"/>
+  <string id="lord_volyan_2c.name" text="Viačaslaŭ Jarapołčyč"/>
+  <string id="lord_volyan_2d.name" text="Usievaladak Jaraslavavič"/>
+  <string id="lord_volyan_2e.name" text="Juryj Jaraslavavič"/>
+  <string id="lord_volyan_3a.name" text="Sviatoslav Davydovich"/>
+  <string id="lord_volyan_3b.name" text="Anna Svyatopolkovna"/>
+  <string id="lord_volyan_3c.name" text="Ksenia Sviatoslavovna*"/>
+  <string id="lord_volyan_4a.name" text="Ivan*"/>
+  <string id="lord_volyan_5a.name" text="Mechislav Davydovich"/>
+  <!--input/lords/yatvingian.xml-->
+  <string id="lord_yatvingian_1a.name" text="Januk*"/>
+  <string id="lord_yatvingian_1b.name" text="Zofja*"/>
+  <string id="lord_yatvingian_1c.name" text="Mikałaj*"/>
+  <string id="lord_yatvingian_1d.name" text="Hanna*"/>
+  <string id="lord_yatvingian_2a.name" text="Nebijast*"/>
+  <string id="lord_yatvingian_2b.name" text="Ajkał*"/>
+  <string id="lord_yatvingian_3a.name" text="Mondun*"/>
+  <string id="lord_yatvingian_3b.name" text="Pacia*"/>
+  <string id="lord_yatvingian_4a.name" text="Borut*"/>
+  <string id="lord_yatvingian_4b.name" text="Miłana*"/>
+  <string id="lord_yatvingian_4с.name" text="Jundiła*"/>
  </strings>
 </base>
