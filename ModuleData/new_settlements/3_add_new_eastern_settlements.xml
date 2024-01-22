@@ -266,6 +266,20 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="881.390" posY="1207.365" culture="Culture.goldenhorde" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
+    <Components>
+      <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.cattle_farm" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
   <Settlement id="reiko_baltic_castle_meindenewe" name="{=reiko_baltic_castle_meindenewe.name}Meindenewe Castle" owner="Faction.clan_baltic_1" posX="788.250" posY="1214.950" culture="Culture.goldenhorde" gate_posX="787.610" gate_posY="1213.865">
     <Components>
       <Town id="reiko_baltic_castle_comp_meindenewe" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="470"  />
@@ -429,6 +443,20 @@
   <Settlement id="rei_vl_hrodna_vil_1" name="{=rei_vl_hrodna_vil_1.name}Sejny" posX="879.070" posY="1222.400" culture="Culture.goldenhorde" text="{=rei_vl_hrodna_vil_1.text}Sejny.">
     <Components>
       <Village id="rei_vl_hrodna_vil_1_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="rei_vl_hrodna_vil_2" name="{=rei_vl_hrodna_vil_2.name}Astryna" posX="907.205" posY="1218.040" culture="Culture.goldenhorde" text="{=rei_vl_hrodna_vil_2.text}Astryna.">
+    <Components>
+      <Village id="rei_vl_hrodna_vil_2_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="battania_village_j" />
