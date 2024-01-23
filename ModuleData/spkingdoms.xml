@@ -63,7 +63,7 @@
 		   color2="ffeae1da"
 		   alternative_color="ff515167"
 		   alternative_color2="ffeae1da"
-		   culture="Culture.goldenhorde"
+		   culture="Culture.yatvingian"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_a"
 		   name="{=yatvingian_kingdom_name}The Yatvingians Principalities"

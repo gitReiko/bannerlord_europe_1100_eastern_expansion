@@ -241,7 +241,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_yatvingian_3" posX="867.259" posY="1215.870" culture="Culture.goldenhorde" gate_posX="867.980" gate_posY="1216.500">
+  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_yatvingian_3" posX="867.259" posY="1215.870" culture="Culture.yatvingian" gate_posX="867.980" gate_posY="1216.500">
     <Components>
       <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="430" />
     </Components>
@@ -252,7 +252,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod_vil_1" name="{=reiko_rajgrod_vil_1.name}Vištytis" posX="868.880" posY="1228.510" culture="Culture.goldenhorde" text="{=reiko_rajgrod_vil_1.text}Vištytis.">
+  <Settlement id="reiko_rajgrod_vil_1" name="{=reiko_rajgrod_vil_1.name}Vištytis" posX="868.880" posY="1228.510" culture="Culture.yatvingian" text="{=reiko_rajgrod_vil_1.text}Vištytis.">
     <Components>
       <Village id="reiko_rajgrod_vil_1_comp" village_type="VillageType.cattle_farm" hearth="93" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -266,7 +266,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="881.390" posY="1207.365" culture="Culture.goldenhorde" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
+  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="881.390" posY="1207.365" culture="Culture.yatvingian" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
     <Components>
       <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.cattle_farm" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -419,7 +419,7 @@
     </CommonAreas>
   </Settlement>
 
-      <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_yatvingian_1" posX="892.790" posY="1216.58" culture="Culture.goldenhorde"  gate_posX="894.026" gate_posY="1214.905" text="{=rei_vl_hrodna.text}Horadzien.">
+      <Settlement id="rei_vl_hrodna" name="{=rei_vl_hrodna.name}Horadzien" owner="Faction.clan_yatvingian_1" posX="892.790" posY="1216.58" culture="Culture.yatvingian"  gate_posX="894.026" gate_posY="1214.905" text="{=rei_vl_hrodna.text}Horadzien.">
     <Components>
       <Town id="rei_vl_hrodna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1100" />
     </Components>
@@ -440,7 +440,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_hrodna_vil_1" name="{=rei_vl_hrodna_vil_1.name}Sejny" posX="879.070" posY="1222.400" culture="Culture.goldenhorde" text="{=rei_vl_hrodna_vil_1.text}Sejny.">
+  <Settlement id="rei_vl_hrodna_vil_1" name="{=rei_vl_hrodna_vil_1.name}Sejny" posX="879.070" posY="1222.400" culture="Culture.yatvingian" text="{=rei_vl_hrodna_vil_1.text}Sejny.">
     <Components>
       <Village id="rei_vl_hrodna_vil_1_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -454,7 +454,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_hrodna_vil_2" name="{=rei_vl_hrodna_vil_2.name}Astryna" posX="907.205" posY="1218.040" culture="Culture.goldenhorde" text="{=rei_vl_hrodna_vil_2.text}Astryna.">
+  <Settlement id="rei_vl_hrodna_vil_2" name="{=rei_vl_hrodna_vil_2.name}Astryna" posX="907.205" posY="1218.040" culture="Culture.yatvingian" text="{=rei_vl_hrodna_vil_2.text}Astryna.">
     <Components>
       <Village id="rei_vl_hrodna_vil_2_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -468,7 +468,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="rei_vl_vaukavysk" name="{=rei_vl_vaukavysk.name}Vaŭkavysk Castle" owner="Faction.clan_yatvingian_2" posX="899.836" posY="1200.157" culture="Culture.goldenhorde"  gate_posX="899.802" gate_posY="1199.414">
+  <Settlement id="rei_vl_vaukavysk" name="{=rei_vl_vaukavysk.name}Vaŭkavysk Castle" owner="Faction.clan_yatvingian_2" posX="899.836" posY="1200.157" culture="Culture.yatvingian"  gate_posX="899.802" gate_posY="1199.414">
     <Components>
       <Town id="rei_vl_vaukavysk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="750" />
     </Components>
@@ -479,7 +479,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="rei_vl_vaukavysk_vil_1" name="{=rei_vl_vaukavysk_vil_1.name}Narewka" posX="896.054" posY="1186.393" culture="Culture.goldenhorde" text="{=rei_vl_vaukavysk_vil_1.text}Narewka.">
+  <Settlement id="rei_vl_vaukavysk_vil_1" name="{=rei_vl_vaukavysk_vil_1.name}Narewka" posX="896.054" posY="1186.393" culture="Culture.yatvingian" text="{=rei_vl_vaukavysk_vil_1.text}Narewka.">
     <Components>
       <Village id="rei_vl_vaukavysk_vil_1_comp" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.rei_vl_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -504,7 +504,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="rei_vo_drohiczyn" name="{=rei_vo_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volyn_2" posX="878.160" posY="1183.950" culture="Culture.rus"  gate_posX="878.840" gate_posY="1184.410">
+  <Settlement id="rei_vo_drohiczyn" name="{=rei_vo_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volyn_2" posX="878.160" posY="1183.950" culture="Culture.yatvingian"  gate_posX="878.840" gate_posY="1184.410">
     <Components>
       <Town id="rei_vo_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1500" />
     </Components>
@@ -660,7 +660,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_yatvingian_4" posX="920.730" posY="1205.090" culture="Culture.goldenhorde"  gate_posX="920.780" gate_posY="1204.250">
+  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_yatvingian_4" posX="920.730" posY="1205.090" culture="Culture.yatvingian"  gate_posX="920.780" gate_posY="1204.250">
     <Components>
       <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="340" />
     </Components>
