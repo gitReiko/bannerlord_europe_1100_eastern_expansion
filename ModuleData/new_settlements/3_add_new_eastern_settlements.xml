@@ -268,7 +268,7 @@
 
   <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="881.390" posY="1207.365" culture="Culture.yatvingian" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
     <Components>
-      <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.cattle_farm" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.trapper" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -456,7 +456,7 @@
 
   <Settlement id="rei_vl_hrodna_vil_2" name="{=rei_vl_hrodna_vil_2.name}Astryna" posX="907.205" posY="1218.040" culture="Culture.yatvingian" text="{=rei_vl_hrodna_vil_2.text}Astryna.">
     <Components>
-      <Village id="rei_vl_hrodna_vil_2_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+      <Village id="rei_vl_hrodna_vil_2_comp" village_type="VillageType.wheat_farm" hearth="145" bound="Settlement.rei_vl_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="battania_village_j" />
@@ -538,7 +538,7 @@
 
   <Settlement id="rei_vo_volodymyr_vil_1" name="{=rei_vo_volodymyr_vil_1.name}Turiisk" posX="915.750" posY="1147.500" culture="Culture.rus" text="{=rei_vo_volodymyr_vil_1.text}Turiisk.">
     <Components>
-      <Village id="rei_vo_volodymyr_vil_1_comp" village_type="VillageType.clay_mine" hearth="250" gate_rotation="0.758" bound="Settlement.rei_vo_volodymyr" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="rei_vo_volodymyr_vil_1_comp" village_type="VillageType.wheat_farm" hearth="250" gate_rotation="0.758" bound="Settlement.rei_vo_volodymyr" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -563,10 +563,24 @@
 
   <Settlement id="rei_lutsk_vil_1" name="{=rei_lutsk_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.rus" text="{=rei_lutsk_vil_1.text}Kolky.">
     <Components>
-      <Village id="rei_lutsk_vil_1_comp" village_type="VillageType.clay_mine" hearth="250" gate_rotation="0.758" bound="Settlement.rei_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="rei_lutsk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="250" gate_rotation="0.758" bound="Settlement.rei_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_lutsk_vil_2" name="{=reiko_lutsk_vil_2.name}Horokhiv" posX="914.207" posY="1130.130" culture="Culture.yatvingian" text="{=reiko_lutsk_vil_2.text}Horokhiv.">
+    <Components>
+      <Village id="reiko_lutsk_vil_2_comp" village_type="VillageType.wheat_farm" hearth="245" bound="Settlement.rei_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
@@ -623,7 +637,7 @@
 
   <Settlement id="rei_busk_vil_1" name="{=rei_busk_vil_1.name}Verba" posX="930.700" posY="1123.360" culture="Culture.rus" text="{=rei_busk_vil_1.text}Verba.">
     <Components>
-      <Village id="rei_busk_vil_1_comp" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.rei_busk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="rei_busk_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="230" gate_rotation="0.758" bound="Settlement.rei_busk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -648,7 +662,7 @@
 
   <Settlement id="rei_belz_vil_1" name="{=rei_belz_vil_1.name}Korchyn" posX="894.950" posY="1114.320" culture="Culture.rus" text="{=rei_belz_vil_1.text}Korchyn.">
     <Components>
-      <Village id="rei_belz_vil_1_comp" village_type="VillageType.clay_mine" hearth="210" gate_rotation="0.758" bound="Settlement.rei_belz" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="rei_belz_vil_1_comp" village_type="VillageType.flax_plant" hearth="210" gate_rotation="0.758" bound="Settlement.rei_belz" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

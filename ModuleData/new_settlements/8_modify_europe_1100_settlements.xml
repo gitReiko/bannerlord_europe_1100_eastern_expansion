@@ -304,11 +304,12 @@
   <!-- 
     castle_village_K4_2 changes
     name = Cathow
+    village type = sturgian_horse_ranch
     hearth = 205
   -->
   <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow" posX="842.404" posY="1221.339" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
     <Components>
-      <Village id="castle_village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="205" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="castle_village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="205" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_c" />
@@ -355,7 +356,7 @@
   -->
   <Settlement id="village_KR2_1" name="{=Settlements.Settlement.ECM.KR.village_KR2_1}Hajnówka" posX="883.919" posY="1193.015" culture="Culture.yatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_1}Hajnówka.">
     <Components>
-      <Village id="village_comp_KR2_1" village_type="VillageType.cattle_farm" hearth="112" gate_rotation="0.008" bound="Settlement.rei_vo_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.rei_vo_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -369,11 +370,13 @@
 
   <!-- 
     village_KR2_2 changes
+    name = Wisznice
+    village type = fisherman
     culture = yatvingian
   -->
-  <Settlement id="village_KR2_2" name="{=Settlements.Settlement.ECM.KR.village_KR2_2}Krasnystaw" posX="861.696" posY="1162.636" culture="Culture.yatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_2}Krasnystaw.">
+  <Settlement id="village_KR2_2" name="{=Settlements.Settlement.ECM.KR.village_KR2_2}Wisznice" posX="861.696" posY="1162.636" culture="Culture.yatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_2}Wisznice.">
     <Components>
-      <Village id="village_comp_KR2_2" village_type="VillageType.wheat_farm" hearth="322" gate_rotation="0.168" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR2_2" village_type="VillageType.fisherman" hearth="322" gate_rotation="0.168" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
