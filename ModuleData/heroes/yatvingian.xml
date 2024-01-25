@@ -2,19 +2,23 @@
 
 <Heroes>
 
-   <Hero id="lord_yatvingian_1a" spouse="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" />
-   <Hero id="lord_yatvingian_1b" spouse="Hero.lord_yatvingian_1a" faction="Faction.clan_yatvingian_1" />
-   <Hero id="lord_yatvingian_1c" father="Hero.lord_yatvingian_1a" mother="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" />
-   <Hero id="lord_yatvingian_1d" father="Hero.lord_yatvingian_1a" mother="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" />
+   <Hero id="lord_yatvingian_1a" spouse="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_1b" spouse="Hero.lord_yatvingian_1a" faction="Faction.clan_yatvingian_1" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_1c" father="Hero.lord_yatvingian_1a" mother="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_1d" father="Hero.lord_yatvingian_1a" mother="Hero.lord_yatvingian_1b" faction="Faction.clan_yatvingian_1" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
 
-   <Hero id="lord_yatvingian_2a" faction="Faction.clan_yatvingian_2" />
-   <Hero id="lord_yatvingian_2b" faction="Faction.clan_yatvingian_2" />
+   <Hero id="lord_yatvingian_2a" faction="Faction.clan_yatvingian_2" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_2b" faction="Faction.clan_yatvingian_2" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_2c" faction="Faction.clan_yatvingian_2" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
 
-   <Hero id="lord_yatvingian_3a" spouse="Hero.lord_yatvingian_3b" faction="Faction.clan_yatvingian_3" />
-   <Hero id="lord_yatvingian_3b" spouse="Hero.lord_yatvingian_3a" faction="Faction.clan_yatvingian_3" />
+   <Hero id="lord_yatvingian_3a" spouse="Hero.lord_yatvingian_3b" faction="Faction.clan_yatvingian_3" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_3b" spouse="Hero.lord_yatvingian_3a" faction="Faction.clan_yatvingian_3" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_3c" faction="Faction.clan_yatvingian_3" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_3d" father="Hero.lord_yatvingian_3a" mother="Hero.lord_yatvingian_3b" faction="Faction.clan_yatvingian_3" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_3e" father="Hero.lord_yatvingian_3a" mother="Hero.lord_yatvingian_3b" faction="Faction.clan_yatvingian_3" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
 
-   <Hero id="lord_yatvingian_4a" spouse="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" />
-   <Hero id="lord_yatvingian_4b" spouse="Hero.lord_yatvingian_4a" faction="Faction.clan_yatvingian_4" />
-   <Hero id="lord_yatvingian_4с" father="Hero.lord_yatvingian_4a" mother="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" />
+   <Hero id="lord_yatvingian_4a" spouse="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_4b" spouse="Hero.lord_yatvingian_4a" faction="Faction.clan_yatvingian_4" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_yatvingian_4с" father="Hero.lord_yatvingian_4a" mother="Hero.lord_yatvingian_4b" faction="Faction.clan_yatvingian_4" text="{=lord_yatvingian.text}Not a historical character. Created for the reconstruction of the Baltic region." />
    
 </Heroes>

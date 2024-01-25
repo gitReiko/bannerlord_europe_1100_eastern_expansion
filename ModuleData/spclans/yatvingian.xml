@@ -3,7 +3,7 @@
 
   <Faction id="clan_yatvingian_1"
            name="{=clan_yatvingian_1.name}Horadzien Jatviaź*"
-           tier="4"
+           tier="3"
            owner="Hero.lord_yatvingian_1a"
            culture="Culture.yatvingian"
            super_faction="Kingdom.yatvingian"
@@ -19,7 +19,7 @@
 
   <Faction id="clan_yatvingian_3"
            name="{=clan_yatvingian_3.name}Rajgród Jatviaź*"
-           tier="3"
+           tier="5"
            owner="Hero.lord_yatvingian_3a"
            culture="Culture.yatvingian"
            super_faction="Kingdom.yatvingian"
