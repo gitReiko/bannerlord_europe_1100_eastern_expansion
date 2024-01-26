@@ -15,16 +15,16 @@
   <string id="clan_baltic_3.name" text="Latgalians"/>
   <string id="clan_baltic_06.name" text="Selonians"/>
   <string id="clan_baltic_05.name" text="Livonians"/>
-  <!--input/spclans/volyn.xml-->
-  <string id="clan_volyn_1.name" text="Davyd Igorovich"/>
-  <string id="clan_volyn_2.name" text="Jarasłaŭ Jarapołčyč"/>
-  <string id="clan_volyn_3.name" text="Sviatoslav Davydovich"/>
-  <string id="clan_volyn_4.name" text="Belz Pasadnik"/>
-  <string id="clan_volyn_5.name" text="Mechislav Davydovich"/>
-  <!--input/spclans/yatvingian.xml-->
-  <string id="clan_yatvingian_1.name" text="Horadzien Jatviaź*"/>
-  <string id="clan_yatvingian_2.name" text="Vaŭkavysk Jatviaź*"/>
-  <string id="clan_yatvingian_3.name" text="Rajgród Jatviaź*"/>
-  <string id="clan_yatvingian_4.name" text="Slonim Jatviaź*"/>
+  <!--input/spclans/volhynia.xml-->
+  <string id="clan_volhynia_1.name" text="Davyd Igorovich"/>
+  <string id="clan_volhynia_2.name" text="Jarasłaŭ Jarapołčyč"/>
+  <string id="clan_volhynia_3.name" text="Sviatoslav Davydovich"/>
+  <string id="clan_volhynia_4.name" text="Belz Pasadnik"/>
+  <string id="clan_volhynia_5.name" text="Mechislav Davydovich"/>
+  <!--input/spclans/jatvingian.xml-->
+  <string id="clan_jatvingian_1.name" text="Horadzien Jatviaź*"/>
+  <string id="clan_jatvingian_2.name" text="Vaŭkavysk Jatviaź*"/>
+  <string id="clan_jatvingian_3.name" text="Rajgród Jatviaź*"/>
+  <string id="clan_jatvingian_4.name" text="Slonim Jatviaź*"/>
  </strings>
 </base>

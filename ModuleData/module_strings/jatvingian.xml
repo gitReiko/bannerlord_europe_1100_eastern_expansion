@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.jatvingian" text="{=jatvingianfather}Borut" />
+  <string id="str_player_mother_name.jatvingian" text="{=jatvingianmother}Hanna" />
+  <string id="str_culture_description.jatvingian" text="{=jatvingiandescription}Jatvingians have been known since the 2nd century. The Jatvingians are probably descended from the Neuri. Described territory of the Neuri coincides with the Jatvingians toponymy and hydronymy. The Jatvingians culture is Western Baltic. Slavs archeologically come to the Jatvingians region since the 10th century. In the 12th century, the Jatvingians consist of various Baltic and Slavic tribes. Especially heavily Jatvingians are mixed with the Balto-Slavic Tribal Union of the Dregovichs. The absence of fortifications at neighboring settlements of different cultures indicates about peaceful coexistence." />
+  <string id="str_faction_ruler_name_with_title.jatvingian" text="{=jatvingianrulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.jatvingian" text="{=jatvingiannobletitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_official.jatvingian" text="{=jatvingianofficial}knyaz" />
+  <string id="str_faction_official.jatvingian_f" text="{=jatvingianofficialf}knyazna" />
+  <string id="str_faction_ruler.jatvingian" text="{=jatvingianruler}Knyaz" />
+  <string id="str_faction_ruler.jatvingian_f" text="{=jatvingianrulerf}Knyazna" />
+  <string id="str_faction_ruler_term_in_speech.jatvingian" text="{=jatvingianrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.jatvingian" text="{=jatvingianfactionadjective}Jatvingian" />
+  <string id="str_short_term_for_faction.jatvingian" text="{=jatvingianfactionshortterm}Jatvingian" />
+  <string id="str_faction_formal_name_for_culture.jatvingian" text="{=jatvingianfactionformalname}The Jatvingians Principalities" />
+  <string id="str_faction_informal_name_for_culture.jatvingian" text="{=jatvingianfactioninformalname}the Jatvingians Principalities" />
+  <string id="str_adjective_for_culture.jatvingian" text="{=jatvingiancultureadjective}Jatvingian" />
+  <string id="str_neutral_term_for_culture.jatvingian" text="{=jatvingiancultureneutralterm}Jatvingian" />
+  <string id="str_culture_rich_name.jatvingian" text="{=jatvingianmembers}Jatvingian" />	
+	
+</strings>

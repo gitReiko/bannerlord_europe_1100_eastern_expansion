@@ -20,7 +20,7 @@ My future plans
 
 - take a rest
 - update my translations
-- start work on the next update (Volyn Principality)
+- start work on the next update (Volhynia Principality)
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot. I don't know anything about Estonia, but I understand that I can make a compact kingdom. For that I will need help.
 
 Discussion, suggestions, critics

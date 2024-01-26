@@ -2,13 +2,13 @@
 
 <NPCCharacters>
 
-    <NPCCharacter id="lord_yatvingian_1a"
-                name="{=lord_yatvingian_1a.name}Januk*"
+    <NPCCharacter id="lord_jatvingian_1a"
+                name="{=lord_jatvingian_1a.name}Januk*"
                 voice="softspoken"
                 age="51"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -48,13 +48,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_1b"
-                name="{=lord_yatvingian_1b.name}Zofja*"
+    <NPCCharacter id="lord_jatvingian_1b"
+                name="{=lord_jatvingian_1b.name}Zofja*"
                 voice="softspoken"
                 age="35"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -93,13 +93,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_1c"
-                name="{=lord_yatvingian_1c.name}Mikałaj*"
+    <NPCCharacter id="lord_jatvingian_1c"
+                name="{=lord_jatvingian_1c.name}Mikałaj*"
                 voice="softspoken"
                 age="15"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -139,13 +139,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_1d"
-                name="{=lord_yatvingian_1d.name}Hanna*"
+    <NPCCharacter id="lord_jatvingian_1d"
+                name="{=lord_jatvingian_1d.name}Hanna*"
                 voice="softspoken"
                 age="3"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -172,13 +172,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_2a"
-                name="{=lord_yatvingian_2a.name}Nebijast*"
+    <NPCCharacter id="lord_jatvingian_2a"
+                name="{=lord_jatvingian_2a.name}Nebijast*"
                 voice="softspoken"
                 age="37"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -218,13 +218,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_2b"
-                name="{=lord_yatvingian_2b.name}Ajkał*"
+    <NPCCharacter id="lord_jatvingian_2b"
+                name="{=lord_jatvingian_2b.name}Ajkał*"
                 voice="softspoken"
                 age="25"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -264,13 +264,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_2c"
-                name="{=lord_yatvingian_2c.name}Šutr*"
+    <NPCCharacter id="lord_jatvingian_2c"
+                name="{=lord_jatvingian_2c.name}Šutr*"
                 voice="softspoken"
                 age="17"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -310,13 +310,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_3a"
-                name="{=lord_yatvingian_3a.name}Mondun*"
+    <NPCCharacter id="lord_jatvingian_3a"
+                name="{=lord_jatvingian_3a.name}Mondun*"
                 voice="softspoken"
                 age="42"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -357,13 +357,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_3b"
-                name="{=lord_yatvingian_3b.name}Pacia*"
+    <NPCCharacter id="lord_jatvingian_3b"
+                name="{=lord_jatvingian_3b.name}Pacia*"
                 voice="softspoken"
                 age="29"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -400,13 +400,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_3c"
-                name="{=lord_yatvingian_3c.name}Hunihard*"
+    <NPCCharacter id="lord_jatvingian_3c"
+                name="{=lord_jatvingian_3c.name}Hunihard*"
                 voice="softspoken"
                 age="24"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -447,13 +447,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_3d"
-                name="{=lord_yatvingian_3d.name}Hunihard*"
+    <NPCCharacter id="lord_jatvingian_3d"
+                name="{=lord_jatvingian_3d.name}Hunihard*"
                 voice="softspoken"
                 age="7"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -493,13 +493,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_3e"
-                name="{=lord_yatvingian_3e.name}Jeŭna*"
+    <NPCCharacter id="lord_jatvingian_3e"
+                name="{=lord_jatvingian_3e.name}Jeŭna*"
                 voice="softspoken"
                 age="17"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -536,13 +536,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_4a"
-                name="{=lord_yatvingian_4a.name}Borut*"
+    <NPCCharacter id="lord_jatvingian_4a"
+                name="{=lord_jatvingian_4a.name}Borut*"
                 voice="softspoken"
                 age="41"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -583,13 +583,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_4b"
-                name="{=lord_yatvingian_4b.name}Miłana*"
+    <NPCCharacter id="lord_jatvingian_4b"
+                name="{=lord_jatvingian_4b.name}Miłana*"
                 voice="softspoken"
                 age="36"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -628,13 +628,13 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_yatvingian_4с"
-                name="{=lord_yatvingian_4с.name}Jundiła*"
+    <NPCCharacter id="lord_jatvingian_4с"
+                name="{=lord_jatvingian_4с.name}Jundiła*"
                 voice="softspoken"
                 age="7"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.yatvingian"
+                culture="Culture.jatvingian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>

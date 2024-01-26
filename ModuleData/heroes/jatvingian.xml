@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_jatvingian_1a" spouse="Hero.lord_jatvingian_1b" faction="Faction.clan_jatvingian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_1b" spouse="Hero.lord_jatvingian_1a" faction="Faction.clan_jatvingian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_1c" father="Hero.lord_jatvingian_1a" mother="Hero.lord_jatvingian_1b" faction="Faction.clan_jatvingian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_1d" father="Hero.lord_jatvingian_1a" mother="Hero.lord_jatvingian_1b" faction="Faction.clan_jatvingian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+   <Hero id="lord_jatvingian_2a" faction="Faction.clan_jatvingian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_2b" faction="Faction.clan_jatvingian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_2c" faction="Faction.clan_jatvingian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+   <Hero id="lord_jatvingian_3a" spouse="Hero.lord_jatvingian_3b" faction="Faction.clan_jatvingian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_3b" spouse="Hero.lord_jatvingian_3a" faction="Faction.clan_jatvingian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_3c" faction="Faction.clan_jatvingian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_3d" father="Hero.lord_jatvingian_3a" mother="Hero.lord_jatvingian_3b" faction="Faction.clan_jatvingian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_3e" father="Hero.lord_jatvingian_3a" mother="Hero.lord_jatvingian_3b" faction="Faction.clan_jatvingian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+   <Hero id="lord_jatvingian_4a" spouse="Hero.lord_jatvingian_4b" faction="Faction.clan_jatvingian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_4b" spouse="Hero.lord_jatvingian_4a" faction="Faction.clan_jatvingian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_jatvingian_4с" father="Hero.lord_jatvingian_4a" mother="Hero.lord_jatvingian_4b" faction="Faction.clan_jatvingian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   
+</Heroes>

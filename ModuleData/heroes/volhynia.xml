@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_volyan_1a" spouse="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_1" />
+   <Hero id="lord_volyan_1b" spouse="Hero.lord_volyan_1a" faction="Faction.clan_volhynia_1" text="{=lord_volyan_1b.text}Davyd's wife according to one version. The only thing we know for sure is that Davyd had a wife." />
+   <Hero id="lord_volyan_1c" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_1"  />
+   <Hero id="lord_volyan_1d" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_1"  />
+   <Hero id="lord_volyan_1e" faction="Faction.clan_volhynia_1" text="{=lord_volyan_1e.text}According to Karamzin Davyd Igorovich had a nephew Mstislav. Who helped Davyd to besiege Volodymyr, and then sought fame and fortune in the sea." />
+
+   <Hero id="lord_volyan_2a" spouse="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2" />
+   <Hero id="lord_volyan_2b" spouse="Hero.lord_volyan_2a" faction="Faction.clan_volhynia_2" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
+   <Hero id="lord_volyan_2c" faction="Faction.clan_volhynia_2" />
+   <Hero id="lord_volyan_2d" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2"  />
+   <Hero id="lord_volyan_2e" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2"  />
+
+   <Hero id="lord_volyan_3a" spouse="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" />
+   <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volhynia_3" />
+   <Hero id="lord_volyan_3c" father="Hero.lord_volyan_3a" mother="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3c.text}It is known that the knyaz had children, one of whom was a daughter." />
+
+   <Hero id="lord_volyan_4a" faction="Faction.clan_volhynia_4" />
+
+   <Hero id="lord_volyan_5a" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_5"  />
+   
+</Heroes>

@@ -40,7 +40,7 @@
   <string id="lord_polotsk_4a.name" text="Raścisłaŭ"/>
   <string id="lord_polotsk_4b.name" text="Maŭkold"/>
   <string id="lord_polotsk_4c.name" text="Davił"/>
-  <!--input/lords/volyn.xml-->
+  <!--input/lords/volhynia.xml-->
   <string id="lord_volyan_1a.name" text="Davyd Igorovich"/>
   <string id="lord_volyan_1b.name" text="Maria*"/>
   <string id="lord_volyan_1c.name" text="Vsevolodko Davydovich"/>
@@ -56,17 +56,17 @@
   <string id="lord_volyan_3c.name" text="Ksenia Sviatoslavovna*"/>
   <string id="lord_volyan_4a.name" text="Ivan*"/>
   <string id="lord_volyan_5a.name" text="Mechislav Davydovich"/>
-  <!--input/lords/yatvingian.xml-->
-  <string id="lord_yatvingian_1a.name" text="Januk*"/>
-  <string id="lord_yatvingian_1b.name" text="Zofja*"/>
-  <string id="lord_yatvingian_1c.name" text="Mikałaj*"/>
-  <string id="lord_yatvingian_1d.name" text="Hanna*"/>
-  <string id="lord_yatvingian_2a.name" text="Nebijast*"/>
-  <string id="lord_yatvingian_2b.name" text="Ajkał*"/>
-  <string id="lord_yatvingian_3a.name" text="Mondun*"/>
-  <string id="lord_yatvingian_3b.name" text="Pacia*"/>
-  <string id="lord_yatvingian_4a.name" text="Borut*"/>
-  <string id="lord_yatvingian_4b.name" text="Miłana*"/>
-  <string id="lord_yatvingian_4с.name" text="Jundiła*"/>
+  <!--input/lords/jatvingian.xml-->
+  <string id="lord_jatvingian_1a.name" text="Januk*"/>
+  <string id="lord_jatvingian_1b.name" text="Zofja*"/>
+  <string id="lord_jatvingian_1c.name" text="Mikałaj*"/>
+  <string id="lord_jatvingian_1d.name" text="Hanna*"/>
+  <string id="lord_jatvingian_2a.name" text="Nebijast*"/>
+  <string id="lord_jatvingian_2b.name" text="Ajkał*"/>
+  <string id="lord_jatvingian_3a.name" text="Mondun*"/>
+  <string id="lord_jatvingian_3b.name" text="Pacia*"/>
+  <string id="lord_jatvingian_4a.name" text="Borut*"/>
+  <string id="lord_jatvingian_4b.name" text="Miłana*"/>
+  <string id="lord_jatvingian_4с.name" text="Jundiła*"/>
  </strings>
 </base>
