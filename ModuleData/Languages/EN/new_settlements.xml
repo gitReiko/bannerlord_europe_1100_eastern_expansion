@@ -54,32 +54,32 @@
   <string id="reiko_baltic_castle_dzisna.name" text="Kapiec Haradok Castle"/>
   <string id="reiko_baltic_castle_dzisna_village_1.name" text="Prazaroki"/>
   <string id="reiko_baltic_castle_dzisna_village_1.text" text="Prazaroki."/>
-  <string id="rei_vl_hrodna.name" text="Horadzien"/>
-  <string id="rei_vl_hrodna.text" text="Horadzien."/>
-  <string id="rei_vl_hrodna_vil_1.name" text="Sejny"/>
-  <string id="rei_vl_hrodna_vil_1.text" text="Sejny."/>
-  <string id="rei_vl_vaukavysk.name" text="Vaŭkavysk Castle"/>
-  <string id="rei_vl_vaukavysk_vil_1.name" text="Narewka"/>
-  <string id="rei_vl_vaukavysk_vil_1.text" text="Narewka."/>
-  <string id="rei_vl_wizna.name" text="Wizna Castle"/>
-  <string id="rei_vo_drohiczyn.name" text="Drohiczyn Castle"/>
-  <string id="rei_vo_volodymyr.name" text="Volodymyr"/>
-  <string id="rei_vo_volodymyr.text" text="Volodymyr"/>
-  <string id="rei_vo_volodymyr_vil_1.name" text="Turiisk"/>
-  <string id="rei_vo_volodymyr_vil_1.text" text="Turiisk."/>
-  <string id="rei_lutsk.name" text="Lutsk"/>
-  <string id="rei_lutsk_vil_1.name" text="Kolky"/>
-  <string id="rei_lutsk_vil_1.text" text="Kolky."/>
-  <string id="rei_vo_dorogobuzh.name" text="Dorogobuzh"/>
-  <string id="rei_vo_dorogobuzh.text" text="Dorogobuzh"/>
-  <string id="rei_vo_dorogobuzh_vil_1.name" text="Lipki"/>
-  <string id="rei_vo_dorogobuzh_vil_1.text" text="Lipki."/>
-  <string id="rei_busk.name" text="Busk Castle"/>
-  <string id="rei_busk_vil_1.name" text="Verba"/>
-  <string id="rei_busk_vil_1.text" text="Verba."/>
-  <string id="rei_belz.name" text="Belz Castle"/>
-  <string id="rei_belz_vil_1.name" text="Korchyn"/>
-  <string id="rei_belz_vil_1.text" text="Korchyn."/>
+  <string id="reiko_hrodna.name" text="Horadzien"/>
+  <string id="reiko_hrodna.text" text="Horadzien."/>
+  <string id="reiko_hrodna_vil_1.name" text="Sejny"/>
+  <string id="reiko_hrodna_vil_1.text" text="Sejny."/>
+  <string id="reiko_vaukavysk.name" text="Vaŭkavysk Castle"/>
+  <string id="reiko_vaukavysk_vil_1.name" text="Narewka"/>
+  <string id="reiko_vaukavysk_vil_1.text" text="Narewka."/>
+  <string id="reiko_wizna.name" text="Wizna Castle"/>
+  <string id="reiko_drohiczyn.name" text="Drohiczyn Castle"/>
+  <string id="reiko_volodymyr.name" text="Volodymyr"/>
+  <string id="reiko_volodymyr.text" text="Volodymyr"/>
+  <string id="reiko_volodymyr_vil_1.name" text="Turiisk"/>
+  <string id="reiko_volodymyr_vil_1.text" text="Turiisk."/>
+  <string id="reiko_lutsk.name" text="Lutsk"/>
+  <string id="reiko_lutsk_vil_1.name" text="Kolky"/>
+  <string id="reiko_lutsk_vil_1.text" text="Kolky."/>
+  <string id="reiko_dorogobuzh.name" text="Dorogobuzh"/>
+  <string id="reiko_dorogobuzh.text" text="Dorogobuzh"/>
+  <string id="reiko_dorogobuzh_vil_1.name" text="Lipki"/>
+  <string id="reiko_dorogobuzh_vil_1.text" text="Lipki."/>
+  <string id="reiko_busk.name" text="Busk Castle"/>
+  <string id="reiko_busk_vil_1.name" text="Verba"/>
+  <string id="reiko_busk_vil_1.text" text="Verba."/>
+  <string id="reiko_belz.name" text="Belz Castle"/>
+  <string id="reiko_belz_vil_1.name" text="Korchyn"/>
+  <string id="reiko_belz_vil_1.text" text="Korchyn."/>
   <string id="reiko_slonim.name" text="Slonim Castle"/>
   <!--input/new_settlements/8_modify_europe_1100_settlements.xml-->
   <string id="Settlements.Settlement.ECM.KR.town_KR5" text="Połacak"/>

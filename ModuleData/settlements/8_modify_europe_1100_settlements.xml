@@ -175,11 +175,11 @@
     name = Łomża
     hearth = 87
     village_type = sturgian_horse_ranch
-    bound = rei_vl_wizna
+    bound = reiko_wizna
   -->
   <Settlement id="village_K4_2" name="{=Settlements.Settlement.ECM.village_K4_2}Łomża" posX="837.283" posY="1187.775" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K4_2}Ransam in the southeastern plains of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, specialize in the rearing of horses.">
      <Components>
-      <Village id="village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="87" bound="Settlement.rei_vl_wizna" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="87" bound="Settlement.reiko_wizna" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_l" />
@@ -353,10 +353,11 @@
     village_KR2_1 changes
     name = Hajnówka
     culture = jatvingian
+    bound = reiko_drohiczyn
   -->
   <Settlement id="village_KR2_1" name="{=Settlements.Settlement.ECM.KR.village_KR2_1}Hajnówka" posX="883.919" posY="1193.015" culture="Culture.jatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_1}Hajnówka.">
     <Components>
-      <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.rei_vo_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.reiko_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

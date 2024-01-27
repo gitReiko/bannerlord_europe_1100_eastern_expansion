@@ -105,7 +105,7 @@
 
   <Settlement id="village_K4_2" name="{=Settlements.Settlement.ECM.village_K4_2}Sentane" posX="837.283" posY="1187.775" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_K4_2}Ransam in the southeastern plains of the Devseg plateau. Villagers, who not long ago still lived a nomadic lifestyle, specialize in the rearing of horses.">
      <Components>
-      <Village id="village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="87" bound="Settlement.rei_vl_wizna" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="87" bound="Settlement.reiko_wizna" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_l" />
