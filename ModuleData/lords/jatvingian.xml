@@ -3,7 +3,7 @@
 <NPCCharacters>
 
     <NPCCharacter id="lord_jatvingian_1a"
-                name="{=lord_jatvingian_1a.name}Januk*"
+                name="{=lord_jatvingian_1a.name}Vojdat*"
                 voice="softspoken"
                 age="51"
                 is_female="false"
@@ -12,7 +12,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4306" build="0.2207"  key="00185C0D008832427CA85A995465769983445869A891D79588A3227C79C785D60073660307A6878800000000000000000000000000000000000000003EEC1042"  />
+    <BodyProperties version="4" age="22" weight="0.7219" build="0.6422"  key="0002900400FC278249B3368A777D7599BCA59A8ABB75B78959E6C8666A6737B8009AB6030977758D0000000000000000000000000000000000000000272C1082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -49,7 +49,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_1b"
-                name="{=lord_jatvingian_1b.name}Zofja*"
+                name="{=lord_jatvingian_1b.name}Maryja*"
                 voice="softspoken"
                 age="35"
                 is_female="true"
@@ -58,7 +58,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.3164" build="0.573"  key="0015780B80FC100D4B2C649B396C76848987EB4AD393837C618AA839579987B70089560308959849000000000000000000000000000000000000000045142003"  />
+    <BodyProperties version="4" age="22" weight="0.2223" build="0.1986"  key="0013580B80A0200ABB4B7BB9648A78A7CF7BB6889B39ACA2A54887A5B9B7267900B336030B5689B6000000000000000000000000000000000000000035744003"  />
     </face>
 	<skills>
         <skill id="Tactics" value="50" />
@@ -103,7 +103,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4306" build="0.2207"  key="00185C0D008832427CA85A995465769983445869A891D79588A3227C79C785D60073660307A6878800000000000000000000000000000000000000003EEC1042"  />
+    <BodyProperties version="4" age="22" weight="0.3657" build="0.9355"  key="00159805402C21529A4873CA5B6491C97730967392284889275B82979E6C6AD4006E5603067C99A6000000000000000000000000000000000000000062C42082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -140,7 +140,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_1d"
-                name="{=lord_jatvingian_1d.name}Hanna*"
+                name="{=lord_jatvingian_1d.name}Anna*"
                 voice="softspoken"
                 age="3"
                 is_female="true"
@@ -149,7 +149,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.3164" build="0.573"  key="0015780B80FC100D4B2C649B396C76848987EB4AD393837C618AA839579987B70089560308959849000000000000000000000000000000000000000045142003"  />
+    <BodyProperties version="4" age="22" weight="0.3071" build="0.5907"  key="00185808002C1001564B869D7748BC373992A466917C65142A1DC38286A879B80079560307A9E6A5000000000000000000000000000000000000000068EC3083"  />
     </face>
 	<skills>
         <skill id="Charm" value="15" />
@@ -173,7 +173,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_2a"
-                name="{=lord_jatvingian_2a.name}Nebijast*"
+                name="{=lord_jatvingian_2a.name}Niabiast*"
                 voice="softspoken"
                 age="37"
                 is_female="false"
@@ -182,7 +182,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4306" build="0.2207"  key="00185C0D008832427CA85A995465769983445869A891D79588A3227C79C785D60073660307A6878800000000000000000000000000000000000000003EEC1042"  />
+    <BodyProperties version="4" age="22" weight="0.1003" build="0.2238"  key="0000B406C0B4200279C79414625CA77DA94A64974646DB46AB8A553A6D87C7C700A326030A42778100000000000000000000000000000000000000003D543086"  />
     </face>
 	<skills>
         <skill id="Engineering" value="75" />
@@ -228,7 +228,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4306" build="0.2207"  key="00185C0D008832427CA85A995465769983445869A891D79588A3227C79C785D60073660307A6878800000000000000000000000000000000000000003EEC1042"  />
+    <BodyProperties version="4" age="22" weight="0.2762" build="0.588"  key="000DC00A40B4260236E984486B7E6CED51A846391C67818E58671AD652D845820089460308386B4500000000000000000000000000000000000000001D0470C6"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -274,7 +274,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4306" build="0.2207"  key="00185C0D008832427CA85A995465769983445869A891D79588A3227C79C785D60073660307A6878800000000000000000000000000000000000000003EEC1042"  />
+    <BodyProperties version="4" age="22" weight="0.1003" build="0.2238"  key="0000B40800B420D279C7941452536779A94A649746466B46A68A553A6D87C77700A326030A42778100000000000000000000000000000000000000003D543086"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -320,7 +320,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.9313" build="0.9738"  key="0020980997CC3608C0C6B73484493458A7C68396388C394B446A9CB986B7798E009FE6030997A23900000000000000000000000000000000000000004B243082"  />
+    <BodyProperties version="4" age="22" weight="0.696" build="0.7762"  key="0005C00B80FC3385B254438B84484A7C9587C4695A7A4564EA7B638C44B9AB7C00BCA6030BCC63AB000000000000000000000000000000000000000021744004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -358,7 +358,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_3b"
-                name="{=lord_jatvingian_3b.name}Pacia*"
+                name="{=lord_jatvingian_3b.name}Jeŭna*"
                 voice="softspoken"
                 age="29"
                 is_female="true"
@@ -367,7 +367,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4133" build="0.7226"  key="00154C0980B4001091D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200CB66030C4C962A000000000000000000000000000000000000000041A41043"  />
+    <BodyProperties version="4" age="22" weight="0.6497" build="0.5139"  key="00059C0B80FC30C2B2544369B447487A958764695B7845649A7B638944B9A8770098A603099963AB000000000000000000000000000000000000000021244002"  />
     </face>
 	<skills>
         <skill id="Tactics" value="50" />
@@ -401,7 +401,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_3c"
-                name="{=lord_jatvingian_3c.name}Hunihard*"
+                name="{=lord_jatvingian_3c.name}Komat*"
                 voice="softspoken"
                 age="24"
                 is_female="false"
@@ -410,7 +410,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.9313" build="0.9738"  key="0020980997CC3608C0C6B73484493458A7C68396388C394B446A9CB986B7798E009FE6030997A23900000000000000000000000000000000000000004B243082"  />
+    <BodyProperties version="4" age="22" weight="0.6497" build="0.5139"  key="00059C0B80FC30C2B2544369B447487A958764695B7845649A7B638944B9A8770098A603099963AB000000000000000000000000000000000000000021244002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -448,7 +448,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_3d"
-                name="{=lord_jatvingian_3d.name}Hunihard*"
+                name="{=lord_jatvingian_3d.name}Jaščełt*"
                 voice="softspoken"
                 age="7"
                 is_female="false"
@@ -457,7 +457,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.9313" build="0.9738"  key="0020980997CC3608C0C6B73484493458A7C68396388C394B446A9CB986B7798E009FE6030997A23900000000000000000000000000000000000000004B243082"  />
+    <BodyProperties version="4" age="22" weight="0.8194" build="0.3225"  key="0005D00B80FC3082B254436984474B7C958764695A784564EA7B638944B9AB7C00B5C6030B9C63AB000000000000000000000000000000000000000021744004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="25" />
@@ -494,7 +494,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_3e"
-                name="{=lord_jatvingian_3e.name}Jeŭna*"
+                name="{=lord_jatvingian_3e.name}Aldona*"
                 voice="softspoken"
                 age="17"
                 is_female="true"
@@ -503,7 +503,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4133" build="0.7226"  key="00154C0980B4001091D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200CB66030C4C962A000000000000000000000000000000000000000041A41043"  />
+    <BodyProperties version="4" age="22" weight="0.4028" build="0.3225"  key="0005D00B80FC1001B254436984474B7C958764695A784564EA7B638944B9AB7C00B566030B9C63AB000000000000000000000000000000000000000021743083"  />
     </face>
 	<skills>
         <skill id="Tactics" value="100" />
@@ -546,7 +546,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.9313" build="0.9738"  key="0020980997CC3608C0C6B73484493458A7C68396388C394B446A9CB986B7798E009FE6030997A23900000000000000000000000000000000000000004B243082"  />
+    <BodyProperties version="4" age="22" weight="0.6497" build="0.5139"  key="00059C0B80FC30C2B2544369B447487A958764695B7845649A7B638944B9A8770098A603099963AB000000000000000000000000000000000000000021244002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -584,7 +584,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_4b"
-                name="{=lord_jatvingian_4b.name}Miłana*"
+                name="{=lord_jatvingian_4b.name}Danuta*"
                 voice="softspoken"
                 age="36"
                 is_female="true"
@@ -593,7 +593,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.3164" build="0.573"  key="0015780B80FC100D4B2C649B396C76848987EB4AD393837C618AA839579987B70089560308959849000000000000000000000000000000000000000045142003"  />
+    <BodyProperties version="4" age="22" weight="0.6497" build="0.5139"  key="00059C0B80FC30C2B2544369B447487A958764695B7845649A7B638944B9A8770098A603099963AB000000000000000000000000000000000000000021244002"  />
     </face>
 	<skills>
         <skill id="Medicine" value="100" />
@@ -629,7 +629,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_jatvingian_4с"
-                name="{=lord_jatvingian_4с.name}Jundiła*"
+                name="{=lord_jatvingian_4с.name}Elžbeta*"
                 voice="softspoken"
                 age="7"
                 is_female="true"
@@ -638,7 +638,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.3164" build="0.573"  key="0015780B80FC100D4B2C649B396C76848987EB4AD393837C618AA839579987B70089560308959849000000000000000000000000000000000000000045142003"  />
+    <BodyProperties version="4" age="22" weight="0.6497" build="0.5139"  key="00059C0B80FC30C2B2544369B447487A958764695B7845649A7B638944B9A8770098A603099963AB000000000000000000000000000000000000000021244002"  />
     </face>
 	<skills>
         <skill id="Medicine" value="50" />
