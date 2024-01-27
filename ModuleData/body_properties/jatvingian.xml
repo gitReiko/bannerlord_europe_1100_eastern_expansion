@@ -1,0 +1,69 @@
+<BodyProperties>
+
+  <BodyProperty id="fighter_jatvingian">
+    <BodyPropertiesMin version="4"
+      age="25.57"
+      weight="0.3164"
+      build="0.2485"
+      key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
+    <BodyPropertiesMax version="4"
+      age="39"
+      weight="0.7223"
+      build="0.7052"
+      key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
+  </BodyProperty>
+
+  <BodyProperty id="townsman_jatvingian">
+    <BodyPropertiesMin version="4"
+      age="25.57"
+      weight="0.3164"
+      build="0.2485"
+      key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
+    <BodyPropertiesMax version="4"
+      age="69.94"
+      weight="0.9923"
+      build="0.7052"
+      key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
+  </BodyProperty>
+
+  <BodyProperty id="villager_jatvingian">
+    <BodyPropertiesMin version="4"
+      age="25.57"
+      weight="0.3164"
+      build="0.2485"
+      key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
+    <BodyPropertiesMax version="4"
+      age="69.94"
+      weight="0.9923"
+      build="0.7052"
+      key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
+  </BodyProperty>
+
+  <!--Wanderer Body Types-->
+  <BodyProperty id="wanderer_jatvingian">
+    <BodyPropertiesMin version="4"
+                       age="22.15"
+                       weight="0.3164"
+                       build="0.1219"
+                       key="00052008000000010070030000001603003300110010200000000001010000000042500304010000000000000000000000000000000000000000000064900000"  />
+  <BodyPropertiesMax version="4"
+                  age="80.15"
+                  weight="0.9244"
+                  build="0.7608"
+                  key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF00CBE0030CFFFFEF000000000000000000000000000000000000000061909105"  />
+  </BodyProperty>
+  
+  <BodyProperty id="wanderer_female_jatvingian">
+    <BodyPropertiesMin version="4"
+                       age="22.05"
+                       weight="0.2918"
+                       build="0.2886"
+                       key="0000600990000001227101022221000240008203101023225532432173535432004446030401121200000000000000000000000000000000000000000A940001" />
+    <BodyPropertiesMax version="4"
+                       age="22.27"
+                       weight="0.831"
+                       build="0.838"
+                       key="0020F80FD2B4300FFE7EFEEEEDFFFFEFEFFE9EEFEFF8FFEEFFFFEFEE8FFEFFFE00CDC6030CFEFFFF0000000000000000000000000000000000000000699490C4"  />
+  </BodyProperty>
+
+</BodyProperties>
