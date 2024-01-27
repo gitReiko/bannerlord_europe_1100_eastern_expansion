@@ -154,11 +154,11 @@
     name = Seda
     hearth = 110
     village_type = sturgian_horse_ranch
-    bound = reiko_baltic_town_apuole
+    bound = reiko_apuole
   -->
   <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Seda" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Seda.">
     <Components>
-      <Village id="village_comp_KR4_1" village_type="VillageType.sturgian_horse_ranch" hearth="110" gate_rotation="0.758" bound="Settlement.reiko_baltic_town_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_1" village_type="VillageType.sturgian_horse_ranch" hearth="110" gate_rotation="0.758" bound="Settlement.reiko_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -196,10 +196,11 @@
     name = Rubeni
     hearth = 123
     village_type = swine_farm
+    bount = reiko_selpils
   -->
   <Settlement id="village_KR4_3" name="{=Settlements.Settlement.ECM.KR.village_KR4_3}Rubeni" posX="946.463" posY="1265.349" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_3}Rubeni text.">
     <Components>
-      <Village id="village_comp_KR4_3" village_type="VillageType.swine_farm" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_selpils" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_3" village_type="VillageType.swine_farm" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_selpils" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
@@ -215,10 +216,11 @@
     village_KR4_4 changes
     name = Vilkamergė
     hearth = 133
+    bound = reiko_kernave
   -->
   <Settlement id="village_KR4_4" name="{=Settlements.Settlement.ECM.KR.village_KR4_4}Vilkamergė" posX="898.023" posY="1250.13" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_4}Vilkamergė.">
     <Components>
-      <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_baltic_castle_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

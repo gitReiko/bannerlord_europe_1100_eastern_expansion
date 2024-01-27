@@ -19,41 +19,41 @@
   <string id="reiko_baltic_castle_jelgava_village_1.text" text="Šaukėnai text."/>
   <string id="reiko_baltic_castle_braslau.name" text="Brasłaŭ"/>
   <string id="reiko_baltic_castle_braslau_village_1.name" text="Rosica"/>
-  <string id="reiko_baltic_castle_siaule.name" text="Šiauliai Castle"/>
-  <string id="reiko_baltic_castle_siaule_village_1.name" text="Kulautuva"/>
-  <string id="reiko_baltic_castle_siaule_village_1.text" text="Kulautuva."/>
-  <string id="reiko_baltic_castle_kernave.name" text="Kernavė Castle"/>
-  <string id="reiko_baltic_castle_selpils.name" text="Selpils Castle"/>
-  <string id="reiko_baltic_castle_merkine_village_1.name" text="Misa"/>
-  <string id="reiko_baltic_castle_merkine_village_1.text" text="Misa."/>
-  <string id="reiko_baltic_town_apuole.name" text="Apuolė"/>
+  <string id="reiko_siaule.name" text="Šiauliai Castle"/>
+  <string id="reiko_siaule_vil_1.name" text="Kulautuva"/>
+  <string id="reiko_siaule_vil_1.text" text="Kulautuva."/>
+  <string id="reiko_kernave.name" text="Kernavė Castle"/>
+  <string id="reiko_selpils.name" text="Selpils Castle"/>
+  <string id="reiko_kernave_vil_1.name" text="Misa"/>
+  <string id="reiko_kernave_vil_1.text" text="Misa."/>
+  <string id="reiko_apuole.name" text="Apuolė"/>
   <string id="a0MVffcN" text="Backstreet"/>
   <string id="LWHIVshb" text="Clearing"/>
   <string id="Rr1cy5Sk" text="Waterfront"/>
-  <string id="reiko_baltic_town_apuole_village_1.name" text="Talsi"/>
-  <string id="reiko_baltic_town_apuole_village_1.text" text="Talsi."/>
-  <string id="reiko_baltic_town_apuole_village_2.name" text="Ragaciems"/>
-  <string id="reiko_baltic_town_apuole_village_2.text" text="Ragaciems."/>
+  <string id="reiko_apuole_vil_1.name" text="Talsi"/>
+  <string id="reiko_apuole_vil_1.text" text="Talsi."/>
+  <string id="reiko_apuole_vil_2.name" text="Ragaciems"/>
+  <string id="reiko_apuole_vil_2.text" text="Ragaciems."/>
   <string id="reiko_rajgrod.name" text="Rajgród Castle"/>
   <string id="reiko_rajgrod_vil_1.name" text="Vištytis"/>
   <string id="reiko_rajgrod_vil_1.text" text="Vištytis."/>
-  <string id="reiko_baltic_castle_meindenewe.name" text="Meindenewe Castle"/>
-  <string id="reiko_baltic_castle_meindenewe_village_1.name" text="Tummonis"/>
-  <string id="reiko_baltic_castle_meindenewe_village_1.text" text="Tummonis text."/>
-  <string id="reiko_baltic_castle_lanzania.name" text="Lanzania Castle"/>
+  <string id="reiko_meindenewe.name" text="Meindenewe Castle"/>
+  <string id="reiko_meindenewe_vil_1.name" text="Tummonis"/>
+  <string id="reiko_meindenewe_vil_1.text" text="Tummonis text."/>
+  <string id="reiko_lanzania.name" text="Lanzania Castle"/>
   <string id="castle_lanzania_village_1.name" text="Orneta"/>
-  <string id="reiko_baltic_castle_lanzania_village_1.text" text="Orneta text."/>
-  <string id="reiko_baltic_castle_barysau.name" text="Barysaŭ Castle"/>
-  <string id="reiko_baltic_castle_barysau_village_1.name" text="Turyn"/>
-  <string id="reiko_baltic_castle_barysau_village_1.text" text="Turyn."/>
-  <string id="reiko_baltic_castle_barysau_village_2.name" text="Lipień"/>
-  <string id="reiko_baltic_castle_barysau_village_2.text" text="Lipień text."/>
-  <string id="reiko_baltic_castle_lukoml.name" text="Łukoml Castle"/>
-  <string id="reiko_baltic_castle_lukoml_village_1.name" text="Latyhaličy"/>
-  <string id="reiko_baltic_castle_lukoml_village_1.text" text="Latyhaličy."/>
-  <string id="reiko_baltic_castle_dzisna.name" text="Kapiec Haradok Castle"/>
-  <string id="reiko_baltic_castle_dzisna_village_1.name" text="Prazaroki"/>
-  <string id="reiko_baltic_castle_dzisna_village_1.text" text="Prazaroki."/>
+  <string id="reiko_lanzania_vil_1.text" text="Orneta text."/>
+  <string id="reiko_barysau.name" text="Barysaŭ Castle"/>
+  <string id="reiko_barysau_vil_1.name" text="Turyn"/>
+  <string id="reiko_barysau_vil_1.text" text="Turyn."/>
+  <string id="reiko_barysau_vil_2.name" text="Lipień"/>
+  <string id="reiko_barysau_vil_2.text" text="Lipień text."/>
+  <string id="reiko_lukoml.name" text="Łukoml Castle"/>
+  <string id="reiko_lukoml_vil_1.name" text="Latyhaličy"/>
+  <string id="reiko_lukoml_vil_1.text" text="Latyhaličy."/>
+  <string id="reiko_dzisna.name" text="Kapiec Haradok Castle"/>
+  <string id="reiko_dzisna_vil_1.name" text="Prazaroki"/>
+  <string id="reiko_dzisna_vil_1.text" text="Prazaroki."/>
   <string id="reiko_hrodna.name" text="Horadzien"/>
   <string id="reiko_hrodna.text" text="Horadzien."/>
   <string id="reiko_hrodna_vil_1.name" text="Sejny"/>
