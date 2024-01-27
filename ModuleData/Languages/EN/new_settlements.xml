@@ -2,23 +2,23 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
   <!--input/new_settlements/3_add_new_eastern_settlements.xml-->
-  <string id="reiko_baltic_castle_viciebsk.name" text="Viciebsk"/>
-  <string id="reiko_baltic_castle_viciebsk_village_1.name" text="Taranki"/>
-  <string id="reiko_baltic_castle_viciebsk_village_1.text" text="Dvurečča."/>
+  <string id="reiko_viciebsk.name" text="Viciebsk"/>
+  <string id="reiko_viciebsk_vil_1.name" text="Taranki"/>
+  <string id="reiko_viciebsk_vil_1.text" text="Dvurečča."/>
   <string id="fOUsLdZR" text="Pasture"/>
   <string id="66Mzk0NZ" text="Thicket"/>
   <string id="iXA5SttU" text="Bog"/>
-  <string id="reiko_baltic_castle_viciebsk_village_2.name" text="Dvurečča"/>
-  <string id="reiko_baltic_castle_viciebsk_village_2.text" text="Dvurečča."/>
-  <string id="reiko_baltic_castle_jersika.name" text="Jersika Castle"/>
-  <string id="reiko_baltic_castle_jersika_village_1.name" text="Dagda"/>
-  <string id="reiko_baltic_castle_jersika_village_1.text" text="Dagda."/>
-  <string id="reiko_baltic_castle_jersika_village_2.name" text="Ergli"/>
-  <string id="reiko_baltic_castle_jelgava.name" text="Jelgava Castle"/>
-  <string id="reiko_baltic_castle_jelgava_village_1.name" text="Šaukėnai"/>
-  <string id="reiko_baltic_castle_jelgava_village_1.text" text="Šaukėnai text."/>
-  <string id="reiko_baltic_castle_braslau.name" text="Brasłaŭ"/>
-  <string id="reiko_baltic_castle_braslau_village_1.name" text="Rosica"/>
+  <string id="reiko_viciebsk_vil_2.name" text="Dvurečča"/>
+  <string id="reiko_viciebsk_vil_2.text" text="Dvurečča."/>
+  <string id="reiko_jersika.name" text="Jersika Castle"/>
+  <string id="reiko_jersika_vil_1.name" text="Dagda"/>
+  <string id="reiko_jersika_vil_1.text" text="Dagda."/>
+  <string id="reiko_jersika_vil_2.name" text="Ergli"/>
+  <string id="reiko_jelgava.name" text="Jelgava Castle"/>
+  <string id="reiko_jelgava_vil_1.name" text="Šaukėnai"/>
+  <string id="reiko_jelgava_vil_1.text" text="Šaukėnai text."/>
+  <string id="reiko_braslau.name" text="Brasłaŭ"/>
+  <string id="reiko_braslau_vil_1.name" text="Rosica"/>
   <string id="reiko_siaule.name" text="Šiauliai Castle"/>
   <string id="reiko_siaule_vil_1.name" text="Kulautuva"/>
   <string id="reiko_siaule_vil_1.text" text="Kulautuva."/>
@@ -118,7 +118,7 @@
   <string id="Settlements.Settlement.ECM.KR.village_KR2_2" text="Krasnystaw"/>
   <string id="ECM_Settlements.Settlement.text.village_KR2_2" text="Krasnystaw."/>
   <!--input/new_settlements/9_add_eastern_settlements_for_europe_1100.xml-->
-  <string id="reiko_baltic_town_riga_village_3.name" text="Carnikava"/>
-  <string id="reiko_baltic_town_riga_village_4.name" text="Ropaži"/>
+  <string id="reiko_riga_vil_3.name" text="Carnikava"/>
+  <string id="reiko_riga_vil_4.name" text="Ropaži"/>
  </strings>
 </base>
