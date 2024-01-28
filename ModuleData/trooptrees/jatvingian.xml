@@ -1019,7 +1019,7 @@
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-      <upgrade_target id="NPCCharacter.jatvingian_heavy_spearman"/>
+      <upgrade_target id="NPCCharacter.jatvingian_noble_heavy_spearman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1103,10 +1103,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="jatvingian_heavy_spearman"
+  <NPCCharacter id="jatvingian_noble_heavy_spearman"
 		default_group="Infantry"
 		level="26"
-		name="{=jatvingian_heavy_spearman.name}Jatvingian Heavy Spearman"
+		name="{=jatvingian_noble_heavy_spearman.name}Jatvingian Noble Heavy Spearman"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
