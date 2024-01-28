@@ -151,6 +151,15 @@
     </XmlNode>
 
     <XmlNode>
+      <XmlName id="EquipmentRosters" path="lord_equipment_sets"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
+    <XmlNode>
       <XmlName id="EquipmentRosters" path="sandbox_equipment_sets"/>
       <IncludedGameTypes>
         <GameType value = "Campaign"/>

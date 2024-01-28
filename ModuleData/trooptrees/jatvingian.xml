@@ -1154,7 +1154,7 @@
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.ulfhednar_helm_b"/>
-        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
+        		<equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
 				<equipment slot="Body" id="Item.TV_sturgia_armor_f"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1165,7 +1165,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
-        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f"/>
+        		<equipment slot="Cape" id="Item.AR_wolf_shoulder_f"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1261,7 +1261,7 @@
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.ulfhednar_helm_b"/>
-        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
+        		<equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1272,7 +1272,7 @@
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
-        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f"/>
+        		<equipment slot="Cape" id="Item.AR_wolf_shoulder_f"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
@@ -1442,11 +1442,6 @@
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="25"/>
 		</skills>
-    <!--
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.kryvich_vershnik"/>
-		</upgrade_targets>
-    -->
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>

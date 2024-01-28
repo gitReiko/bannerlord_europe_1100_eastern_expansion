@@ -42,8 +42,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_king" />
-      <EquipmentSet id="kryvich_king"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -87,8 +87,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -133,8 +133,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -166,8 +166,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -212,8 +212,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -258,8 +258,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -304,8 +304,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -351,8 +351,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_king" />
+      <EquipmentSet id="jatvingian_king"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -394,8 +394,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -441,8 +441,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -487,8 +487,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -530,8 +530,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -577,8 +577,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lord" />
-      <EquipmentSet id="kryvich_lord"
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -622,8 +622,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -665,8 +665,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
