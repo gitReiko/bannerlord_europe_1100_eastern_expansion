@@ -743,6 +743,7 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.jatvingian_armed_volunteer"/>
+      <upgrade_target id="NPCCharacter.jatvingian_scout"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -753,7 +754,6 @@
 			</EquipmentRoster>
       <EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item2" id="Item.throwing_stone"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
@@ -921,7 +921,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.wolfhead"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -932,7 +932,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -942,7 +942,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.wolfhead"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
@@ -952,7 +952,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.vlandia_lance_2_t4"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
         <equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
@@ -963,7 +963,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.fur_hood"/>
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
@@ -972,7 +972,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.vlandia_lance_2_t4"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -981,7 +981,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
-        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
 				<equipment slot="Head" id="Item.fur_hood"/>
 				<equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -1316,6 +1316,110 @@
 				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="jatvingian_scout"
+		default_group="Cavalry"
+		level="11"
+		name="{=jatvingian_scout.name}Jatvingian Scout"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="40"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="40"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="40"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+    <!--
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.jatvingian_drab"/>
+		</upgrade_targets>
+    -->
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.western_spear_2_t2"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+				<equipment slot="Gloves" id="Item.armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.fur_hood"/>
+				<equipment slot="Cape" id="Item.female_scarf"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+        <equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+        <equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+				<equipment slot="HorseHarness" id="Item.light_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.rough_tied_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
