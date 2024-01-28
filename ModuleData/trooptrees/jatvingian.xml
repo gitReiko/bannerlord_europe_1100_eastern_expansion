@@ -1019,7 +1019,7 @@
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-      <upgrade_target id="NPCCharacter.jatvingian_noble_heavy_spearman"/>
+      <upgrade_target id="NPCCharacter.jatvingian_river_raider"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1103,10 +1103,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="jatvingian_noble_heavy_spearman"
+  <NPCCharacter id="jatvingian_river_raider"
 		default_group="Infantry"
 		level="26"
-		name="{=jatvingian_noble_heavy_spearman.name}Jatvingian Noble Heavy Spearman"
+		name="{=jatvingian_river_raider.name}Jatvingian River Raider"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
@@ -1116,17 +1116,15 @@
 			<skill id="Athletics" value="175"/>
 			<skill id="Riding" value="0"/>
 			<skill id="OneHanded" value="200"/>
-			<skill id="TwoHanded" value="125"/>
+			<skill id="TwoHanded" value="150"/>
 			<skill id="Polearm" value="200"/>
 			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="125"/>
+			<skill id="Throwing" value="150"/>
 		</skills>
-    <!--
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.kryvich_older_pancyrny_druzynnik"/>
+			<upgrade_target id="NPCCharacter.jatvingian_warlord"/>
 		</upgrade_targets>
-    -->
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
@@ -1190,6 +1188,113 @@
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
+				<equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="jatvingian_warlord"
+		default_group="Infantry"
+		level="31"
+		name="{=jatvingian_warlord.name}Jatvingian Warlord"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="275"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="250"/>
+			<skill id="TwoHanded" value="175"/>
+			<skill id="Polearm" value="300"/>
+			<skill id="Bow" value="75"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="225"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.ulfhednar_helm"/>
+				<equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
+				<equipment slot="Body" id="Item.hauberk"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.ulfhednar_helm_b"/>
+        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f2"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
+				<equipment slot="Item1" id="Item.viking_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+        <equipment slot="Cape" id="Item.AR_wolf_shoulder_f"/>
+				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
+				<equipment slot="Item1" id="Item.leather_round_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.wolfhelmet"/>
+				<equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
+				<equipment slot="Item1" id="Item.heavy_round_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
 			</EquipmentRoster>
