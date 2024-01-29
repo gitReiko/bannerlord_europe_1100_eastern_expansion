@@ -742,8 +742,9 @@
 			<skill id="Throwing" value="15"/>
 		</skills>
 		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.jatv_dregovian_archer"/>
 			<upgrade_target id="NPCCharacter.jatvingian_armed_volunteer"/>
-      <upgrade_target id="NPCCharacter.jatvingian_scout"/>
+      		<upgrade_target id="NPCCharacter.jatvingian_scout"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1430,7 +1431,7 @@
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="75"/>
@@ -1526,6 +1527,177 @@
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
 				<equipment slot="Leg" id="Item.TV_battania_boots_j"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="jatv_dregovian_archer"
+		default_group="Ranged"
+		level="11"
+		name="{=jatv_dregovian_archer.name}Dregovian Archer"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="20"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="10"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.jatv_dregovian_experienced_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.padded_leather_cape"/>
+				<equipment slot="Cape" id="Item.female_scarf"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.padded_leather_cape"/>
+        		<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="jatv_dregovian_experienced_archer"
+		default_group="Ranged"
+		level="16"
+		name="{=jatv_dregovian_experienced_archer.name}Dregovian Experienced Archer"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="85"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="100"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.jatv_dregovian_pancyrny_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.padded_leather_cape"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.padded_leather_cape"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="jatv_dregovian_pancyrny_archer"
+		default_group="Ranged"
+		level="21"
+		name="{=kryvich_palkavy_archer_veteran.name}Dregovian Pancyrny Archer"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="100"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="150"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.jatv_dregovian_pancyrny_archer_veteran"/>
+		</upgrade_targets>
+		<Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.blunt_arrows"/>
+				<equipment slot="Item3" id="Item.blunt_arrows"/>
+				<equipment slot="Head" id="Item.nordic_leather_cap"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="jatv_dregovian_pancyrny_archer_veteran"
+		default_group="Ranged"
+		level="26"
+		name="{=jatv_dregovian_pancyrny_archer_veteran.name}Dregovian Pancyrny Archer Veteran"
+		occupation="Soldier"
+		culture="Culture.jatvingian">
+		<face>
+			<face_key_template value="BodyProperty.villager_jatvingian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="150"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="125"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="175"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.blunt_arrows"/>
+				<equipment slot="Item3" id="Item.blunt_arrows"/>
+				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Gloves" id="Item.highland_gloves"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat"/>
+				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
