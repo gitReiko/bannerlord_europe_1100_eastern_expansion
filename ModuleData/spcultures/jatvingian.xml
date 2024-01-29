@@ -16,13 +16,13 @@
            town_edge_number="4"
            encounter_background_mesh="encounter_sturgia"
            faction_banner_key="11.40.48.1836.1836.767.764.1.0.0.510.141.116.318.281.959.786.0.1.90.510.141.116.318.281.568.786.0.1.90.510.141.116.490.281.764.941.0.1.0.510.141.116.449.281.764.735.0.1.90.510.141.116.299.281.764.778.0.1.45.510.141.116.299.281.764.778.0.1.135"
-           villager_party_template="PartyTemplate.villager_kryvich_template"
-           default_party_template="PartyTemplate.kingdom_hero_party_kryvich_template"
-           elite_caravan_party_template="PartyTemplate.elite_caravan_template_kryvich"
-           caravan_party_template="PartyTemplate.caravan_template_kryvich"
-           militia_party_template="PartyTemplate.militia_kryvich_template"
-           rebels_party_template="PartyTemplate.rebels_kryvich_template"
-           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kryvich"
+           villager_party_template="PartyTemplate.villager_jatvingian_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_jatvingian_template"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_jatvingian"
+           caravan_party_template="PartyTemplate.caravan_template_jatvingian"
+           militia_party_template="PartyTemplate.militia_jatvingian_template"
+           rebels_party_template="PartyTemplate.rebels_jatvingian_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_jatvingian"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
            text="{=jatvingian.text}Jatvingians have been known since the 2nd century. The Jatvingians are probably descended from the Neuri. Described territory of the Neuri coincides with the Jatvingians toponymy and hydronymy. The Jatvingians culture is Western Baltic. Slavs archeologically come to the Jatvingians region since the 10th century. In the 12th century, the Jatvingians consist of various Baltic and Slavic tribes. Especially heavily Jatvingians are mixed with the Balto-Slavic Tribal Union of the Dregovichs. The absence of fortifications at neighboring settlements of different cultures indicates about peaceful coexistence. The Jatvingians are one of the largest tribes that formed the modern Belarusian ethnos. They had a great influence on Belarusian culture and created many features (dziekaniye and tsekaniye). The Jatvingians were also involved in the forming of the modern Polish and Lithuanian ethnoses."
            tournament_master="NPCCharacter.tournament_master_jatvingian"
@@ -232,10 +232,10 @@
       <template name="NPCCharacter.spc_jatvingian_headman_3" />
     </notable_and_wanderer_templates>
     <lord_templates>
-      <template name="NPCCharacter.kryvich_lord" />
+      <template name="NPCCharacter.jatvingian_lord" />
     </lord_templates>
     <rebellion_hero_templates>
-      <template name="NPCCharacter.kryvich_lord" />
+      <template name="NPCCharacter.jatvingian_lord" />
     </rebellion_hero_templates>
     <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />

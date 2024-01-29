@@ -1,0 +1,60 @@
+<partyTemplates>
+
+    <MBPartyTemplate id="villager_jatvingian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_jatvingian" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="rebels_jatvingian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.paniamonian_volunteer" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="caravan_template_jatvingian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_jatvingian" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_jatvingian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_jatvingian" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="elite_caravan_template_jatvingian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_jatvingian" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_jatvingian" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_jatvingian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_jatvingian" />
+    </stacks>
+  </MBPartyTemplate>
+  
+    <MBPartyTemplate id="militia_jatvingian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.jatvingian_armed_volunteer" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.jatv_dregovian_archer" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="kingdom_hero_party_jatvingian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.paniamonian_volunteer" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.jatvingian_armed_volunteer" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.jatv_dregovian_archer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.jatvingian_drab" />
+      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.jatv_dregovian_experienced_archer" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.jatvingian_experienced_drab" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.jatvingian_river_raider" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.jatvingian_light_horseman" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.jatvingian_scout" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  <MBPartyTemplate id="vassal_reward_troops_jatvingian" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="5" troop="NPCCharacter.jatvingian_river_raider" />
+      <PartyTemplateStack min_value="5" max_value="3" troop="NPCCharacter.jatvingian_warlord" />
+    </stacks>
+  </MBPartyTemplate>
+
+</partyTemplates>
