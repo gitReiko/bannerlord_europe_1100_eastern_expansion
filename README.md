@@ -1,5 +1,7 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.3, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.4, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+
+!!! Warning. Mod now requires Open Source Armory.
 
 The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
@@ -24,7 +26,7 @@ My future plans
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot. I don't know anything about Estonia, but I understand that I can make a compact kingdom. For that I will need help.
 
 Discussion, suggestions, critics
-https://discordapp.com/channels/1092600980123684964/1193574500034429079
+https://discord.com/invite/kdYtRCGvWb
 
 If someone can help me get a better handle on creating a character for a new culture, that would be good.
 
@@ -44,7 +46,10 @@ Load order:
 5. StoryMode
 
 6. Banner Color Persistence https://www.nexusmods.com/mountandblade2bannerlord/mods/2637
-7. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
-8. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
+7. Open Source Armory https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+8. Open Source Saddlery https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+9. Open Source Weaponry https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+10. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
+11. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
 
-9. Europe 1100 Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
+12. Europe 1100 Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
