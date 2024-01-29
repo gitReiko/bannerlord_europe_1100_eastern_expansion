@@ -897,7 +897,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EW8_1" name="{=Settlements.Settlement.ECM.castle_village_EW8_1}Mequinenza" posX="299.587" posY="897.398" culture="Culture.vlandia" text="{=ECM_Settlements.Settlement.text.castle_village_EW8_1}In Roman times the old Octogesa was settled and would be located near the actual place of the town. During the decay of the Roman Empire, Octogesa was conquered by the Gothic army and later conquered by the Berber tribe of the Miknasa, which would give its name to the town. It was known in Andalusian times as Miknasa al-Zaytun, or Miknasa of the Olives, a title also given to Meknes, a Moroccan city of the same etymology.">
+  <Settlement id="castle_village_EW8_1" name="{=Settlements.Settlement.ECM.castle_village_EW8_1}Mequinenza" posX="299.587" posY="897.398" culture="Culture.spanish" text="{=ECM_Settlements.Settlement.text.castle_village_EW8_1}In Roman times the old Octogesa was settled and would be located near the actual place of the town. During the decay of the Roman Empire, Octogesa was conquered by the Gothic army and later conquered by the Berber tribe of the Miknasa, which would give its name to the town. It was known in Andalusian times as Miknasa al-Zaytun, or Miknasa of the Olives, a title also given to Meknes, a Moroccan city of the same etymology.">
     <Components>
       <Village id="village_comp_EW8_1" village_type="VillageType.silver_mine" hearth="201" bound="Settlement.castle_EW8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -4928,7 +4928,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_B7" name="{=Settlements.Settlement.ECM.town_B7}Galway" owner="Faction.clan_battania_5" posX="68.197" posY="1190.061" culture="Culture.battania" gate_posX="70.43307" gate_posY="1191.591" text="{=ECM_47Az7i4mz}Galway sits on the coast of the Atlantic Ocean, in the west of Ireland Island.">
+  <Settlement id="town_B7" name="{=Settlements.Settlement.ECM.town_B7}Galway" owner="Faction.clan_battania_3" posX="68.197" posY="1190.061" culture="Culture.battania" gate_posX="70.43307" gate_posY="1191.591" text="{=ECM_47Az7i4mz}Galway sits on the coast of the Atlantic Ocean, in the west of Ireland Island.">
     <Components>
       <Town id="town_comp_B7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="3800" />
     </Components>
@@ -7510,7 +7510,7 @@
     </CommonAreas>
   </Settlement>
 -->
- <Settlement id="Ayyubid_castle_A7" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A7}Ravanda Castle" owner="Faction.clan_crusade_1" posX="1214.908" posY="777.566" culture="Culture.ayyubid" gate_posX="1216.384" gate_posY="776.5944">
+ <Settlement id="Ayyubid_castle_A7" name="{=Settlements.Settlement.ECM.Ayyubid_castle_A7}Edessa Castle" owner="Faction.clan_crusade_1" posX="1258.958" posY="785.796" culture="Culture.ayyubid" gate_posX="1258.141" gate_posY="787.0217">
     <Components>
       <Town id="Ayyubid_castle_comp_A7" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="550" />
     </Components>
@@ -8286,7 +8286,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="Byzantine_village_ES7_1" name="{=Settlements.Settlement.Byzantine.name.village_ES7_1}Tovuz" posX="1432.409" posY="878.187" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES7_1}Tovuz is a village of Tbilissi. This is among the most fertile of the kingdom and produces a fine crop of wheat.">
+  <Settlement id="Byzantine_village_ES7_1" name="{=Settlements.Settlement.Byzantine.name.village_ES7_1}Tovuz" posX="1432.409" posY="878.187" culture="Culture.georgia" text="{=Settlements.Settlement.Byzantine.text.village_ES7_1}Tovuz is a village of Tbilissi. This is among the most fertile of the kingdom and produces a fine crop of wheat.">
     <Components>
       <Village id="Byzantine_village_comp_ES7_1" village_type="VillageType.sheep_farm" hearth="268" gate_rotation="0.008" bound="Settlement.Byzantine_town_ES7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -8299,7 +8299,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="Byzantine_village_ES7_2" name="{=Settlements.Settlement.Byzantine.name.village_ES7_2}Sevan" posX="1423.494" posY="867.898" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES7_2}Sevan is a village of Tbilissi. Fishermen sail out into the sea for tuna and sardines.">
+  <Settlement id="Byzantine_village_ES7_2" name="{=Settlements.Settlement.Byzantine.name.village_ES7_2}Sevan" posX="1423.494" posY="867.898" culture="Culture.georgia" text="{=Settlements.Settlement.Byzantine.text.village_ES7_2}Sevan is a village of Tbilissi. Fishermen sail out into the sea for tuna and sardines.">
     <Components>
       <Village id="Byzantine_village_comp_ES7_3" village_type="VillageType.fisherman" hearth="223" gate_rotation="0.308" bound="Settlement.Byzantine_town_ES7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -8346,7 +8346,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="Byzantine_village_ES8_1" name="{=Settlements.Settlement.Byzantine.name.village_ES8_1}Poti" posX="1337.385" posY="921.141" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES8_1}Poti is a village of Koutaïssi. Decent clay can be found in the small streams that rush down from the hills.">
+  <Settlement id="Byzantine_village_ES8_1" name="{=Settlements.Settlement.Byzantine.name.village_ES8_1}Poti" posX="1337.385" posY="921.141" culture="Culture.georgia" text="{=Settlements.Settlement.Byzantine.text.village_ES8_1}Poti is a village of Koutaïssi. Decent clay can be found in the small streams that rush down from the hills.">
     <Components>
       <Village id="Byzantine_village_comp_ES8_1" village_type="VillageType.fisherman" hearth="248" gate_rotation="0.258" bound="Settlement.Byzantine_town_ES8" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>

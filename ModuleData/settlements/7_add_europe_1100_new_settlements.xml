@@ -218,7 +218,7 @@
     </Locations>
   </Settlement>
   
-    <Settlement id="Byzantine_village_ES8_2" name="{=Settlements.Settlement.Byzantine.name.village_ES8_2}Akhalkalaki" posX="1376.786" posY="882.858" culture="Culture.byzantine" text="{=Settlements.Settlement.Byzantine.text.village_ES8_2}Akhalkalaki is a village of Koutaïssi. This is among the most fertile of the kingdom and produces a fine crop of wheat.">
+    <Settlement id="Byzantine_village_ES8_2" name="{=Settlements.Settlement.Byzantine.name.village_ES8_2}Akhalkalaki" posX="1376.786" posY="882.858" culture="Culture.georgia" text="{=Settlements.Settlement.Byzantine.text.village_ES8_2}Akhalkalaki is a village of Koutaïssi. This is among the most fertile of the kingdom and produces a fine crop of wheat.">
     <Components>
       <Village id="Byzantine_village_comp_ES8_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108" bound="Settlement.castle_georgia_1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -350,7 +350,7 @@
  
   <!--Mush-->
   
-    <Settlement id="Seljuk_town_1" name="{=Settlements.Settlement.ECM.Seljuk_town_1}Mush" owner="Faction.clan_seljuk_3" posX="1309" posY="810" culture="Culture.persian" gate_posX="1309.054" gate_posY="811.1557" text="{=GChIoZdd}In the late 8th century Mush, along with the Taron region, came under control of the Armenian Bagratid dynasty, who reconquered it from the Arabs. Mush and the Taron region was captured and annexed to the Byzantine Empire in 969.">
+    <Settlement id="Seljuk_town_1" name="{=Settlements.Settlement.ECM.Seljuk_town_1}Mush" owner="Faction.clan_seljuk_3" posX="1309" posY="809.500" culture="Culture.persian" gate_posX="1309.054" gate_posY="811.1557" text="{=GChIoZdd}In the late 8th century Mush, along with the Taron region, came under control of the Armenian Bagratid dynasty, who reconquered it from the Arabs. Mush and the Taron region was captured and annexed to the Byzantine Empire in 969.">
     <Components>
       <Town id="Seljuk_town_comp_1" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" prosperity="2100" />
     </Components>
@@ -642,7 +642,7 @@
   
     <!--Caesarea Castle-->
   
-    <Settlement id="Crusader_Castle_1" name="{=Settlements.Settlement.ECM.Crusader_Castle_1}Caesarea Castle" owner="Faction.clan_crusade_7" posX="1175" posY="673" culture="Culture.byzantine" gate_posX="1176.091" gate_posY="673.7768">
+    <Settlement id="Crusader_Castle_1" name="{=Settlements.Settlement.ECM.Crusader_Castle_1}Caesarea Castle" owner="Faction.clan_crusade_7" posX="1173.500" posY="672.500" culture="Culture.byzantine" gate_posX="1176.091" gate_posY="673.7768">
     <Components>
       <Town id="Crusader_Castle_comp_1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="590" />
     </Components>
