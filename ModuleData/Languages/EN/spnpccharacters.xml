@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <!--input/spnpccharacters/kryvich.xml-->
+  <!--input/spnpccharacters/jatvingian.xml-->
   <string id="CsjtWt1g" text="Tavern Keeper"/>
   <string id="twCIejxn" text="Game Host"/>
   <string id="zfCoeglY" text="Musician"/>
@@ -19,7 +19,7 @@
   <string id="femaleinfant" text="Infant"/>
   <string id="femalechild" text="Child"/>
   <string id="femaleteenager" text="Teenager"/>
-  <string id="village_woman_kryvich.name" text="Kryvich Peasant"/>
+  <string id="village_woman_jatvingian.name" text="Jatvingian Peasant"/>
   <string id="275LD0Gh" text="Shop Worker"/>
   <string id="muu5cofb" text="Townsman"/>
   <string id="AlmaRAib" text="Rural Notable Notary"/>
@@ -33,5 +33,7 @@
   <string id="bNnQt4jN" text="Blacksmith"/>
   <string id="XgjXfmM1" text="Prison Guard"/>
   <string id="guardnoun" text="Guard"/>
+  <!--input/spnpccharacters/kryvich.xml-->
+  <string id="village_woman_kryvich.name" text="Kryvich Peasant"/>
  </strings>
 </base>

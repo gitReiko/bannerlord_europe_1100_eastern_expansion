@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <!--input/new_settlements/3_add_new_eastern_settlements.xml-->
+  <!--input/settlements/3_add_new_eastern_settlements.xml-->
   <string id="reiko_viciebsk.name" text="Viciebsk"/>
   <string id="reiko_viciebsk_vil_1.name" text="Taranki"/>
   <string id="reiko_viciebsk_vil_1.text" text="Dvurečča."/>
@@ -14,6 +14,7 @@
   <string id="reiko_jersika_vil_1.name" text="Dagda"/>
   <string id="reiko_jersika_vil_1.text" text="Dagda."/>
   <string id="reiko_jersika_vil_2.name" text="Ergli"/>
+  <string id="reiko_jersika_vil_2.text" text="Ergli text."/>
   <string id="reiko_jelgava.name" text="Jelgava Castle"/>
   <string id="reiko_jelgava_vil_1.name" text="Šaukėnai"/>
   <string id="reiko_jelgava_vil_1.text" text="Šaukėnai text."/>
@@ -23,9 +24,9 @@
   <string id="reiko_siaule_vil_1.name" text="Kulautuva"/>
   <string id="reiko_siaule_vil_1.text" text="Kulautuva."/>
   <string id="reiko_kernave.name" text="Kernavė Castle"/>
-  <string id="reiko_selpils.name" text="Selpils Castle"/>
   <string id="reiko_kernave_vil_1.name" text="Misa"/>
   <string id="reiko_kernave_vil_1.text" text="Misa."/>
+  <string id="reiko_selpils.name" text="Selpils Castle"/>
   <string id="reiko_apuole.name" text="Apuolė"/>
   <string id="a0MVffcN" text="Backstreet"/>
   <string id="LWHIVshb" text="Clearing"/>
@@ -37,11 +38,13 @@
   <string id="reiko_rajgrod.name" text="Rajgród Castle"/>
   <string id="reiko_rajgrod_vil_1.name" text="Vištytis"/>
   <string id="reiko_rajgrod_vil_1.text" text="Vištytis."/>
+  <string id="reiko_rajgrod_vil_2.name" text="Sokółka"/>
+  <string id="reiko_rajgrod_vil_2.text" text="Sokółka."/>
   <string id="reiko_meindenewe.name" text="Meindenewe Castle"/>
   <string id="reiko_meindenewe_vil_1.name" text="Tummonis"/>
   <string id="reiko_meindenewe_vil_1.text" text="Tummonis text."/>
   <string id="reiko_lanzania.name" text="Lanzania Castle"/>
-  <string id="castle_lanzania_village_1.name" text="Orneta"/>
+  <string id="reiko_lanzania_vil_1.name" text="Orneta"/>
   <string id="reiko_lanzania_vil_1.text" text="Orneta text."/>
   <string id="reiko_barysau.name" text="Barysaŭ Castle"/>
   <string id="reiko_barysau_vil_1.name" text="Turyn"/>
@@ -58,6 +61,8 @@
   <string id="reiko_hrodna.text" text="Horadzien."/>
   <string id="reiko_hrodna_vil_1.name" text="Sejny"/>
   <string id="reiko_hrodna_vil_1.text" text="Sejny."/>
+  <string id="reiko_hrodna_vil_2.name" text="Astryna"/>
+  <string id="reiko_hrodna_vil_2.text" text="Astryna."/>
   <string id="reiko_vaukavysk.name" text="Vaŭkavysk Castle"/>
   <string id="reiko_vaukavysk_vil_1.name" text="Narewka"/>
   <string id="reiko_vaukavysk_vil_1.text" text="Narewka."/>
@@ -70,6 +75,8 @@
   <string id="reiko_lutsk.name" text="Lutsk"/>
   <string id="reiko_lutsk_vil_1.name" text="Kolky"/>
   <string id="reiko_lutsk_vil_1.text" text="Kolky."/>
+  <string id="reiko_lutsk_vil_2.name" text="Horokhiv"/>
+  <string id="reiko_lutsk_vil_2.text" text="Horokhiv."/>
   <string id="reiko_dorogobuzh.name" text="Dorogobuzh"/>
   <string id="reiko_dorogobuzh.text" text="Dorogobuzh"/>
   <string id="reiko_dorogobuzh_vil_1.name" text="Lipki"/>
@@ -81,7 +88,7 @@
   <string id="reiko_belz_vil_1.name" text="Korchyn"/>
   <string id="reiko_belz_vil_1.text" text="Korchyn."/>
   <string id="reiko_slonim.name" text="Slonim Castle"/>
-  <!--input/new_settlements/8_modify_europe_1100_settlements.xml-->
+  <!--input/settlements/8_modify_europe_1100_settlements.xml-->
   <string id="Settlements.Settlement.ECM.KR.town_KR5" text="Połacak"/>
   <string id="ECM_KR_F5HlQdgf" text="Połacak sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors."/>
   <string id="Settlements.Settlement.ECM.KR.village_KR5_1" text="Hłubokaje"/>
@@ -115,9 +122,9 @@
   <string id="ECM_KR_Xom9DeXZ" text="Volodymyr, which sits on the icy waters of Mazopor bay, was founded by migrants from the Nordlands. Legend holds that the initial wave of Nords arrogantly demanded tribute from the nearby Vakken and Sturgian tribes, who formed an alliance and drove the newcomers back to their ships. But the victors fell out over the spoils, until a canny Nord, Gundar, landed and volunteered to help them fairly divvy up the weapons and armor of his dead kinsmen. The residents recognized Gundar's lordship over the region and his descendants, intermarried with the Sturgians, are today the grand princes of Sturgia."/>
   <string id="Settlements.Settlement.ECM.KR.village_KR2_1" text="Hajnówka"/>
   <string id="ECM_Settlements.Settlement.text.village_KR2_1" text="Hajnówka."/>
-  <string id="Settlements.Settlement.ECM.KR.village_KR2_2" text="Krasnystaw"/>
-  <string id="ECM_Settlements.Settlement.text.village_KR2_2" text="Krasnystaw."/>
-  <!--input/new_settlements/9_add_eastern_settlements_for_europe_1100.xml-->
+  <string id="Settlements.Settlement.ECM.KR.village_KR2_2" text="Wisznice"/>
+  <string id="ECM_Settlements.Settlement.text.village_KR2_2" text="Wisznice."/>
+  <!--input/settlements/9_add_eastern_settlements_for_europe_1100.xml-->
   <string id="reiko_riga_vil_3.name" text="Carnikava"/>
   <string id="reiko_riga_vil_4.name" text="Ropaži"/>
  </strings>
