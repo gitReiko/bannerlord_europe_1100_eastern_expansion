@@ -52,7 +52,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_rus_9a"
-                name="{=lord_rus_9a.name}Rahvałod"
+                name="{=lord_rus_9a.name}Rahvałod Usiasłavavič"
                 voice="softspoken"
                 age="47"
                 is_female="false"
@@ -101,7 +101,7 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_rus_9b"
-                name="{=lord_rus_9b.name}Hala"
+                name="{=lord_rus_9b.name}Hala*"
                 voice="softspoken"
                 age="32"
                 is_female="true"
@@ -146,7 +146,7 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_rus_9c"
-                name="{=lord_rus_9c.name}Raman"
+                name="{=lord_rus_9c.name}Raman Usiasłavič"
                 voice="softspoken"
                 age="42"
                 is_female="false"
@@ -193,7 +193,7 @@
     </NPCCharacter>
   
     <NPCCharacter id="lord_rus_9d"
-                name="{=lord_rus_9d.name}Davyd"
+                name="{=lord_rus_9d.name}Davyd Usiasłavič"
                 voice="softspoken"
                 age="40"
                 is_female="false"
@@ -240,7 +240,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_rus_9f"
-                name="{=lord_rus_9f.name}Ivan"
+                name="{=lord_rus_9f.name}Ivan Rahvałodavič"
                 voice="softspoken"
                 age="1"
                 is_female="false"
@@ -274,7 +274,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_2a"
-                name="{=lord_polotsk_2a.name}Hleb"
+                name="{=lord_polotsk_2a.name}Hleb Usiasłavavič"
                 voice="softspoken"
                 age="44"
                 is_female="false"
@@ -322,7 +322,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_polotsk_2b"
-                name="{=lord_polotsk_2b.name}Ahata"
+                name="{=lord_polotsk_2b.name}Ahata*"
                 voice="softspoken"
                 age="26"
                 is_female="true"
@@ -367,7 +367,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_2c"
-                name="{=lord_polotsk_2c.name}Raścisłaŭ"
+                name="{=lord_polotsk_2c.name}Raścisłaŭ Hlebavič"
                 voice="softspoken"
                 age="10"
                 is_female="false"
@@ -413,7 +413,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_2d"
-                name="{=lord_polotsk_2d.name}Vaładar"
+                name="{=lord_polotsk_2d.name}Vaładar Hlebavič"
                 voice="softspoken"
                 age="10"
                 is_female="false"
@@ -459,7 +459,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_2e"
-                name="{=lord_polotsk_2c.name}Usievaład"
+                name="{=lord_polotsk_2c.name}Usievaład Hlebavič"
                 voice="softspoken"
                 age="3"
                 is_female="false"
@@ -495,7 +495,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_3a"
-                name="{=lord_polotsk_3a.name}Sviatasłaŭ"
+                name="{=lord_polotsk_3a.name}Śviatasłaŭ Usiasłavavič"
                 voice="softspoken"
                 age="43"
                 is_female="false"
@@ -542,7 +542,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_polotsk_3b"
-                name="{=lord_polotsk_3b.name}Safija"
+                name="{=lord_polotsk_3b.name}Pradsłava*"
                 voice="softspoken"
                 age="27"
                 is_female="true"
@@ -587,7 +587,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_3c"
-                name="{=lord_polotsk_3c.name}Vasilka"
+                name="{=lord_polotsk_3c.name}Vasilka Śviatasłavič"
                 voice="softspoken"
                 age="20"
                 is_female="false"
@@ -633,7 +633,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_3d"
-                name="{=lord_polotsk_3d.name}Viačka"
+                name="{=lord_polotsk_3d.name}Viačka Śviatasłavič"
                 voice="softspoken"
                 age="3"
                 is_female="false"
@@ -669,7 +669,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_3e"
-                name="{=lord_polotsk_3e.name}Davyd"
+                name="{=lord_polotsk_3e.name}Davyd Śviatasłavič"
                 voice="softspoken"
                 age="1"
                 is_female="false"
@@ -702,7 +702,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_4a"
-                name="{=lord_polotsk_4a.name}Raścisłaŭ"
+                name="{=lord_polotsk_4a.name}Raścisłaŭ Usiasłavavič"
                 voice="softspoken"
                 age="32"
                 is_female="false"
@@ -749,7 +749,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_4b"
-                name="{=lord_polotsk_4b.name}Maŭkold"
+                name="{=lord_polotsk_4b.name}Maŭkold Raścisłavavič"
                 voice="softspoken"
                 age="7"
                 is_female="false"
@@ -794,7 +794,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_polotsk_4c"
-                name="{=lord_polotsk_4c.name}Davił"
+                name="{=lord_polotsk_4c.name}Davił Raścisłavavič"
                 voice="softspoken"
                 age="4"
                 is_female="false"
