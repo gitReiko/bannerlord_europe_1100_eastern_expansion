@@ -2,7 +2,6 @@
 
 <Heroes>
 
-   <!--Polotsk Lords-->
 
    <Hero id="lord_polotsk_1a" faction="Faction.clan_rus_9" text="{=lord_polotsk_1a.text}During the reign of Usiasłaŭ II the Seer Polatsk Principality reached its greatest dawn. The ruler subjugated all the tribes along the river Western Dvina (Daugava). Latgalians, Selonians and Livonians paid tribute and participated in military campaigns. Was able to defend Polotsk from Rus. Despite numerous wars Rus could not conquer Polotsk or part of its territory. The prince became a Seer (Čarodiej) in Old Rus and Belarusian folklore. According to legend, he was born as a result of a magic ritual and could turn into a wolf and other animals to quickly run around his lands." />
    <Hero id="lord_rus_9a" spouse="Hero.lord_rus_9b" faction="Faction.clan_rus_9" father="Hero.lord_polotsk_1a" text="{=lord_rus_9a.text}Son of Usiasłaŭ II the Seer, who became Prince of Polatsk after his father's death. After the campaign against the Yotvingians he founded the castle of Barysaŭ in 1102. The construction of this castle on the border of his principality is probably connected with the expansion of his brother Hleb." />
@@ -10,6 +9,9 @@
    <Hero id="lord_rus_9c" faction="Faction.clan_rus_9" father="Hero.lord_polotsk_1a" />
    <Hero id="lord_rus_9d" faction="Faction.clan_rus_9" father="Hero.lord_polotsk_1a" />
    <Hero id="lord_rus_9f" faction="Faction.clan_rus_9" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" />
+   <Hero id="lord_rus_9g" faction="Faction.clan_rus_9" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" />
+   <Hero id="lord_rus_9h" faction="Faction.clan_rus_9" father="Hero.lord_rus_9a" mother="Hero.lord_rus_9b" text="{=lord_rus_9h.text}A legendary prince known from late 16th century sources. Added to prevent character autogeneration. According to sources was the ancestor of the Lithuanian dynasty. Modern science completely rejects it." />
+
 
    <Hero id="lord_polotsk_2a" spouse="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2" father="Hero.lord_polotsk_1a" text="{=lord_polotsk_2a.text}One of the oldest sons of Usiasłaŭ II the Seer. After the death of his father he waged wars with some of his brothers to expand his holding - the Principality of Minsk. Participated with his brothers in an unsuccessful military campaign against the Semigallians. Waged wars with Vladimir II Monomakh, which ended for Hleb in captivity and death."  />
    <Hero id="lord_polotsk_2b" spouse="Hero.lord_polotsk_2a" faction="Faction.clan_polotsk_2" text="{=lord_polotsk_2b.text}The knyaz had a wife, but nothing is known about her."  />
@@ -17,26 +19,32 @@
    <Hero id="lord_polotsk_2d" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    <Hero id="lord_polotsk_2e" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
 
+
    <Hero id="lord_polotsk_3a" spouse="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3" father="Hero.lord_polotsk_1a" text="{=lord_polotsk_3a.text}Son of Usiasłaŭ II the Seer, who became Prince of Viciebsk after his father's death. No information about his activities has been preserved. Probably led together with his brothers anti-Rus activity. Had five children." />
    <Hero id="lord_polotsk_3b" spouse="Hero.lord_polotsk_3a" faction="Faction.clan_polotsk_3" text="{=lord_polotsk_3b.text}The knyaz had a wife, but nothing is known about her." />
    <Hero id="lord_polotsk_3c" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
    <Hero id="lord_polotsk_3d" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
    <Hero id="lord_polotsk_3e" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
 
+
    <Hero id="lord_polotsk_4a" father="Hero.lord_polotsk_1a" faction="Faction.clan_polotsk_4" text="{=lord_polotsk_4a.text}One of Usiasłaŭ II the Seer sons. After his death he received some holding, probably Lukoml. In the Moscow Resurrection Chronicle, the genus of Lithuanian princes (Gediminids) is derived from the children of this prince. But it is most likely a later forgery for claiming Lithuanian lands." />
    <Hero id="lord_polotsk_4b" father="Hero.lord_polotsk_4a" faction="Faction.clan_polotsk_4"  />
    <Hero id="lord_polotsk_4c" father="Hero.lord_polotsk_4a" faction="Faction.clan_polotsk_4"  />
 
-   <Hero id="lord_baltic_05a" spouse="Hero.lord_baltic_05b" faction="Faction.clan_baltic_05" />
-   <Hero id="lord_baltic_05b" spouse="Hero.lord_baltic_05a" faction="Faction.clan_baltic_05" />
+
+   <Hero id="lord_baltic_3c" father="Hero.lord_baltic_3a" mother="Hero.lord_baltic_3b" faction="Faction.clan_baltic_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+
+
+   <Hero id="lord_baltic_05a" spouse="Hero.lord_baltic_05b" faction="Faction.clan_baltic_05" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_baltic_05b" spouse="Hero.lord_baltic_05a" faction="Faction.clan_baltic_05" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
    <Hero id="lord_baltic_05c" faction="Faction.clan_baltic_05" />
-
-   <Hero id="lord_baltic_06a" spouse="Hero.lord_baltic_06b" faction="Faction.clan_baltic_06" />
-   <Hero id="lord_baltic_06b" spouse="Hero.lord_baltic_06a" faction="Faction.clan_baltic_06" />
-
+   <Hero id="lord_baltic_05d" father="Hero.lord_baltic_05a" mother="Hero.lord_baltic_05b" faction="Faction.clan_baltic_05" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_baltic_05e" father="Hero.lord_baltic_05a" mother="Hero.lord_baltic_05b" faction="Faction.clan_baltic_05" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
 
 
-
+   <Hero id="lord_baltic_06a" spouse="Hero.lord_baltic_06b" faction="Faction.clan_baltic_06" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_baltic_06b" spouse="Hero.lord_baltic_06a" faction="Faction.clan_baltic_06" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_baltic_06c" father="Hero.lord_baltic_06a" mother="Hero.lord_baltic_06b" faction="Faction.clan_baltic_06" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
 
    
 </Heroes>
