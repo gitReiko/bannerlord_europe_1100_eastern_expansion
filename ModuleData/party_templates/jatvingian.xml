@@ -8,7 +8,7 @@
 	
   <MBPartyTemplate id="rebels_jatvingian_template" >
     <stacks>
-      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.paniamonian_volunteer" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.jatvingian_volunteer" />
     </stacks>
   </MBPartyTemplate>
 
@@ -38,7 +38,7 @@
 	
   <MBPartyTemplate id="kingdom_hero_party_jatvingian_template" >
     <stacks>
-      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.paniamonian_volunteer" />
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.jatvingian_volunteer" />
       <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.jatvingian_armed_volunteer" />
       <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.jatv_dregovian_archer" />
       <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.jatvingian_drab" />

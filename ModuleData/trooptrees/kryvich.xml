@@ -1308,6 +1308,9 @@
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="35"/>
 		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.kryvich_druzinnik_son"/>
+		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
