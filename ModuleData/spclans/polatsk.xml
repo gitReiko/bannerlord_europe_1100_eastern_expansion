@@ -43,7 +43,7 @@
            owner="Hero.lord_baltic_3a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
-           banner_key="11.48.48.1836.1836.767.764.1.0.0.505.27.116.250.250.765.764.0.0.135.505.48.116.160.160.765.764.0.0.135.510.27.116.550.300.766.766.0.0.45.510.27.116.150.300.889.575.0.0.135.510.27.116.150.300.643.957.0.0.135.510.27.116.550.300.765.764.0.0.135.510.27.116.150.300.640.575.0.0.225.510.27.116.150.300.889.954.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />	
+           banner_key="11.83.48.1836.1836.767.764.1.0.0.505.27.116.250.250.765.764.0.0.135.505.48.116.160.160.765.764.0.0.135.510.27.116.550.300.766.766.0.0.45.510.27.116.150.300.889.575.0.0.135.510.27.116.150.300.643.957.0.0.135.510.27.116.550.300.765.764.0.0.135.510.27.116.150.300.640.575.0.0.225.510.27.116.150.300.889.954.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />	
 
   <Faction id="clan_baltic_06"
            name="{=clan_baltic_06.name}Selonians"
