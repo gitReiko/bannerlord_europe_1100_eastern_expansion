@@ -35,7 +35,7 @@
 
   <Faction id="clan_volhynia_5"
            name="{=clan_volhynia_5.name}Mechislav Davydovich"
-           tier="2"
+           tier="3"
            owner="Hero.lord_volyan_5a"
            culture="Culture.rus"
            super_faction="Kingdom.volhynia"
