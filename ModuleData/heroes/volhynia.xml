@@ -7,6 +7,7 @@
    <Hero id="lord_volyan_1c" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_1"  />
    <Hero id="lord_volyan_1d" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_1"  />
    <Hero id="lord_volyan_1e" faction="Faction.clan_volhynia_1" text="{=lord_volyan_1e.text}According to Karamzin Davyd Igorovich had a nephew Mstislav. Who helped Davyd to besiege Volodymyr, and then sought fame and fortune in the sea." />
+   <Hero id="lord_volyan_1f" faction="Faction.clan_volhynia_1" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
 
    <Hero id="lord_volyan_2a" spouse="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2" />
    <Hero id="lord_volyan_2b" spouse="Hero.lord_volyan_2a" faction="Faction.clan_volhynia_2" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
@@ -18,8 +19,12 @@
    <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volhynia_3" />
    <Hero id="lord_volyan_3c" father="Hero.lord_volyan_3a" mother="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3c.text}It is known that the knyaz had children, one of whom was a daughter." />
 
-   <Hero id="lord_volyan_4a" faction="Faction.clan_volhynia_4" />
+   <Hero id="lord_volyan_4a" spouse="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
+   <Hero id="lord_volyan_4b" spouse="Hero.lord_volyan_4a" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
+   <Hero id="lord_volyan_4с" father="Hero.lord_volyan_4a" mother="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
+   <Hero id="lord_volyan_4d" father="Hero.lord_volyan_4a" mother="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
 
    <Hero id="lord_volyan_5a" father="Hero.lord_volyan_1a" mother="Hero.lord_volyan_1b" faction="Faction.clan_volhynia_5"  />
+   <Hero id="lord_volyan_5b" faction="Faction.clan_volhynia_5" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar."  />
    
 </Heroes>
