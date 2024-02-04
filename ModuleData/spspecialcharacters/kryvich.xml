@@ -180,7 +180,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="spc_notable_kryvich_merch1" name="{=!}Ironic Kryvich merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_merch1" name="{=!}Ironic Kryvian merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -198,7 +198,7 @@
       <EquipmentSet id="spc_notable_sturgia_0" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_merch2" name="{=!}curt Kryvich merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_merch2" name="{=!}curt Kryvian merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -217,7 +217,7 @@
       <EquipmentSet id="spc_notable_sturgia_1" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_merch3" name="{=!}Daring Kryvich merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_merch3" name="{=!}Daring Kryvian merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -237,7 +237,7 @@
       <EquipmentSet id="spc_notable_sturgia_2" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_merch4" name="{=!}Softspoken Kryvich merchant" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
+  <NPCCharacter id="spc_notable_kryvich_merch4" name="{=!}Softspoken Kryvian merchant" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Merchant">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -292,7 +292,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="spc_notable_kryvich_1b" name="{=!}Kryvich artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" is_female="true" occupation="Artisan">
+  <NPCCharacter id="spc_notable_kryvich_1b" name="{=!}Kryvian artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" is_female="true" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -388,7 +388,7 @@
       <EquipmentSet id="spc_notable_sturgia_6" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_artisan_1" name="{=!}Kryvich artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
+  <NPCCharacter id="spc_notable_kryvich_artisan_1" name="{=!}Kryvian artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -403,7 +403,7 @@
       <EquipmentSet id="spc_notable_sturgia_8" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_artisan_2" name="{=!}Kryvich artisan 2" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
+  <NPCCharacter id="spc_notable_kryvich_artisan_2" name="{=!}Kryvian artisan 2" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="Artisan">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -419,7 +419,7 @@
     </Equipments>
   </NPCCharacter>
 
-  <NPCCharacter id="spc_notable_kryvich_rural_1" name="{=!}Kryvich yeoman" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_kryvich_rural_1" name="{=!}Kryvian yeoman" voice="curt" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -436,7 +436,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_notable_kryvich_rural_2" name="{=!}Kryvich yeoman" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
+  <NPCCharacter id="spc_notable_kryvich_rural_2" name="{=!}Kryvian yeoman" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.kryvich" occupation="RuralNotable">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -454,7 +454,7 @@
     </Equipments>
   </NPCCharacter>
  
-  <NPCCharacter id="spc_kryvich_headman_1" name="{=!}Kryvich rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+  <NPCCharacter id="spc_kryvich_headman_1" name="{=!}Kryvian rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -471,7 +471,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_kryvich_headman_2" name="{=!}Kryvich conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+  <NPCCharacter id="spc_kryvich_headman_2" name="{=!}Kryvian conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
@@ -488,7 +488,7 @@
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spc_kryvich_headman_3" name="{=!}Kryvich devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
+  <NPCCharacter id="spc_kryvich_headman_3" name="{=!}Kryvian devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.kryvich" occupation="Headman">
     <face>
       <face_key_template value="BodyProperty.villager_kryvich" />
     </face>

@@ -38,7 +38,7 @@
                 default_group="Infantry"
                 is_female="true"
                 level="1"
-                name="{=townswoman_kryvich.name}Kryvich Townswoman"
+                name="{=townswoman_kryvich.name}Kryvian Townswoman"
                 occupation="Townsfolk"
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -250,7 +250,7 @@
   <NPCCharacter id="fighter_kryvich"
                 default_group="Infantry"
                 level="1"
-                name="{=!}Kryvich Fighter"
+                name="{=!}Kryvian Fighter"
                 occupation="Villager"
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
@@ -537,7 +537,7 @@
                 default_group="Infantry"
                 is_hero="false"
                 level="16"
-                name="{=!}Kryvich civilian sets for noncombatant ladies, woods"
+                name="{=!}Kryvian civilian sets for noncombatant ladies, woods"
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">

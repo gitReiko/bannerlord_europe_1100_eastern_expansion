@@ -747,7 +747,7 @@
                 default_group="Infantry"
                 is_female="true"
                 level="1"
-                name="{=village_woman_kryvich.name}Kryvich Peasant"
+                name="{=village_woman_kryvich.name}Kryvian Peasant"
                 occupation="Villager"
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">

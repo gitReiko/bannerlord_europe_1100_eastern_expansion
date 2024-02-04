@@ -4,7 +4,7 @@
 	<NPCCharacter id="villager_kryvich"
                 default_group="Infantry"
                 level="1"
-                name="{=villager_kryvich.name}Kryvich Peasant"
+                name="{=villager_kryvich.name}Kryvian Peasant"
                 occupation="Villager"
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
@@ -148,7 +148,7 @@
   <NPCCharacter id="caravan_master_kryvich"
                 default_group="Infantry"
                 level="26"
-                name="{=caravan_master_kryvich.name}Kryvich Caravan Master"
+                name="{=caravan_master_kryvich.name}Kryvian Caravan Master"
                 occupation="CaravanGuard"
                 culture="Culture.kryvich">
     <face>
@@ -234,7 +234,7 @@
    <NPCCharacter id="caravan_guard_kryvich"
                 default_group="Cavalry"
                 level="21"
-                name="{=caravan_guard_kryvich.name}Kryvich Caravan Guard"
+                name="{=caravan_guard_kryvich.name}Kryvian Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.kryvich">
@@ -357,7 +357,7 @@
   <NPCCharacter id="veteran_caravan_guard_kryvich"
                 default_group="Cavalry"
                 level="26"
-                name="{=veteran_caravan_guard_kryvich.name}Kryvich Veteran Caravan Guard"
+                name="{=veteran_caravan_guard_kryvich.name}Kryvian Veteran Caravan Guard"
                 occupation="CaravanGuard"
                 culture="Culture.kryvich">
     <face>
@@ -493,7 +493,7 @@
   <NPCCharacter id="armed_trader_kryvich"
                 default_group="Ranged"
                 level="16"
-                name="{=armed_trader_kryvich.name}Kryvich Armed Trader"
+                name="{=armed_trader_kryvich.name}Kryvian Armed Trader"
                 occupation="CaravanGuard"
                 culture="Culture.kryvich"
                 is_basic_troop="true">
@@ -602,7 +602,7 @@
    <NPCCharacter id="caravan_guard_kryvich"
                 default_group="Cavalry"
                 level="21"
-                name="{=caravan_guard_kryvich.name}Kryvich Caravan Guard"
+                name="{=caravan_guard_kryvich.name}Kryvian Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
                 culture="Culture.kryvich">
@@ -725,7 +725,7 @@
 	<NPCCharacter id="kryvich_levy"
 		default_group="Infantry"
 		level="6"
-		name="{=kryvich_levy.name}Kryvich Levy"
+		name="{=kryvich_levy.name}Kryvian Levy"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -803,7 +803,7 @@
 	<NPCCharacter id="kryvich_scout"
 		default_group="Cavalry"
 		level="11"
-		name="{=kryvich_scout.name}Kryvich Scout"
+		name="{=kryvich_scout.name}Kryvian Scout"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -907,7 +907,7 @@
 	<NPCCharacter id="kryvich_armed_levy"
 		default_group="Infantry"
 		level="11"
-		name="{=kryvich_armed_levy.name}Kryvich Armed Levy"
+		name="{=kryvich_armed_levy.name}Kryvian Armed Levy"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1001,7 +1001,7 @@
 	<NPCCharacter id="kryvich_archer_levy"
 		default_group="Ranged"
 		level="11"
-		name="{=kryvich_archer_levy.name}Kryvich Archer Levy"
+		name="{=kryvich_archer_levy.name}Kryvian Archer Levy"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1096,7 +1096,7 @@
 	<NPCCharacter id="kryvich_palkavy_archer"
 		default_group="Ranged"
 		level="16"
-		name="{=kryvich_palkavy_archer.name}Kryvich Palkavy Archer"
+		name="{=kryvich_palkavy_archer.name}Kryvian Palkavy Archer"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1193,7 +1193,7 @@
 	<NPCCharacter id="kryvich_palkavy_archer_veteran"
 		default_group="Ranged"
 		level="21"
-		name="{=kryvich_palkavy_archer_veteran.name}Kryvich Palkavy Archer Veteran"
+		name="{=kryvich_palkavy_archer_veteran.name}Kryvian Palkavy Archer Veteran"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1288,7 +1288,7 @@
 	<NPCCharacter id="kryvich_palkavy"
 		default_group="Infantry"
 		level="16"
-		name="{=kryvich_palkavy.name}Kryvich Palkavy"
+		name="{=kryvich_palkavy.name}Kryvian Palkavy"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1387,7 +1387,7 @@
 	<NPCCharacter id="kryvich_light_vershnik"
 		default_group="Cavalry"
 		level="16"
-		name="{=kryvich_light_vershnik.name}Kryvich Light Vershnik"
+		name="{=kryvich_light_vershnik.name}Kryvian Light Vershnik"
 		upgrade_requires="ItemCategory.horse"
 		occupation="Soldier"
 		culture="Culture.kryvich">
@@ -1494,7 +1494,7 @@
 	<NPCCharacter id="kryvich_vershnik"
 		default_group="Cavalry"
 		level="21"
-		name="{=kryvich_vershnik.name}Kryvich Vershnik"
+		name="{=kryvich_vershnik.name}Kryvian Vershnik"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1604,7 +1604,7 @@
     <NPCCharacter id="kryvich_druzinnik_son"
 		default_group="Infantry"
 		level="21"
-		name="{=kryvich_druzinnik_son.name}Kryvich Druzynnik Son"
+		name="{=kryvich_druzinnik_son.name}Kryvian Druzynnik Son"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1707,7 +1707,7 @@
 	<NPCCharacter id="kryvich_younger_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="26"
-		name="{=kryvich_younger_pancyrny_druzynnik.name}Kryvich Younger Pancyrny Druzynnik"
+		name="{=kryvich_younger_pancyrny_druzynnik.name}Kryvian Younger Pancyrny Druzynnik"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
@@ -1814,7 +1814,7 @@
 	<NPCCharacter id="kryvich_older_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="31"
-		name="{=kryvich_older_pancyrny_druzynnik.name}Kryvich Older Pancyrny Druzynnik"
+		name="{=kryvich_older_pancyrny_druzynnik.name}Kryvian Older Pancyrny Druzynnik"
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
