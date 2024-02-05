@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.volhynia" text="{=volhyniafather}Danylo" />
+  <string id="str_player_mother_name.volhynia" text="{=volhyniamother}Maria" />
+  <string id="str_culture_description.volhynia" text="{=volhyniadescription}++" />
+  <string id="str_faction_ruler_name_with_title.volhynia" text="{=volhyniarulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.volhynia" text="{=volhynianobletitle}{?RULER.GENDER}Pasadnica{?}Pasadnik{\?} {RULER.NAME}" />
+  <string id="str_faction_official.volhynia" text="{=volhyniaofficial}pasadnik" />
+  <string id="str_faction_official.volhynia_f" text="{=volhyniaofficialf}pasadnica" />
+  <string id="str_faction_ruler.volhynia" text="{=volhyniaruler}Knyaz" />
+  <string id="str_faction_ruler.volhynia_f" text="{=volhyniarulerf}Knyazna" />
+  <string id="str_faction_ruler_term_in_speech.volhynia" text="{=volhyniarulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.volhynia" text="{=volhyniafactionadjective}Volhynian" />
+  <string id="str_short_term_for_faction.volhynia" text="{=volhyniafactionshortterm}Volhynian" />
+  <string id="str_faction_formal_name_for_culture.volhynia" text="{=volhyniafactionformalname}The Volhynia Principality" />
+  <string id="str_faction_informal_name_for_culture.volhynia" text="{=volhyniafactioninformalname}the Volhynia Principality" />
+  <string id="str_adjective_for_culture.volhynia" text="{=volhyniacultureadjective}Volhynian" />
+  <string id="str_neutral_term_for_culture.volhynia" text="{=volhyniacultureneutralterm}Volhynian" />
+  <string id="str_culture_rich_name.volhynia" text="{=volhyniamembers}Volhynian" />	
+	
+</strings>

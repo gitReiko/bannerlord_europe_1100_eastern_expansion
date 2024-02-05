@@ -13,7 +13,7 @@
            melee_elite_militia_troop="NPCCharacter.kryvich_palkavy"
            ranged_elite_militia_troop="NPCCharacter.kryvich_palkavy_archer"
            can_have_settlement="true"
-           town_edge_number="4"
+           town_edge_number="16"
            encounter_background_mesh="encounter_sturgia"
            faction_banner_key="11.40.48.1836.1836.767.764.1.0.0.510.141.116.318.281.959.786.0.1.90.510.141.116.318.281.568.786.0.1.90.510.141.116.490.281.764.941.0.1.0.510.141.116.449.281.764.735.0.1.90.510.141.116.299.281.764.778.0.1.45.510.141.116.299.281.764.778.0.1.135"
            villager_party_template="PartyTemplate.villager_kryvich_template"
