@@ -2,7 +2,7 @@
 
   <string id="str_player_father_name.volhynia" text="{=volhyniafather}Danylo" />
   <string id="str_player_mother_name.volhynia" text="{=volhyniamother}Maria" />
-  <string id="str_culture_description.volhynia" text="{=volhyniadescription}++" />
+  <string id="str_culture_description.volhynia" text="{=volhyniadescription}On the territory of western Rus in the 7-8th century lived tribes of Volhynians and White Croats. In the 10th century, the Volhynia Principality would be formed in the region. In the 11th century, the Peremyshl and Terebovlia Principalities would separate from it, later they would form the Principality of  Galicia. In 1100 the locals are not yet considered as Rus, they pay tribute to Rus. But after the collapse of the Rus Proto-Empire in 1240 (invasion of Mongols) the state and its dynasty was saved in the western part. In 1253 Knyaz Danylo Romanovych of Galicia was crowned as King of Rus. The state Rus will exist till 1349 and will disappear together with death of the last member of a dynasty. The local population will form the Rusyns ethnos, which still exists today." />
   <string id="str_faction_ruler_name_with_title.volhynia" text="{=volhyniarulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
   <string id="str_faction_noble_name_with_title.volhynia" text="{=volhynianobletitle}{?RULER.GENDER}Pasadnica{?}Pasadnik{\?} {RULER.NAME}" />
   <string id="str_faction_official.volhynia" text="{=volhyniaofficial}pasadnik" />

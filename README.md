@@ -36,6 +36,11 @@ It's possible, but at the moment I plan to focus on Eastern Europe. With a focus
 
 ATTENTION!!! The mod is strictly tied to the version of the main mod Europe 1100, and most likely will work only with the version for which it was created.
 
+Compatibility with Erik's Troops
+
+Just to place the Eastern Europe after Erik's Troops. 
+https://www.nexusmods.com/mountandblade2bannerlord/mods/5475 
+
 Load order:
 
 1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006

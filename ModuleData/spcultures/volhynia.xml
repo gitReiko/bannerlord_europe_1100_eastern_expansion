@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_jatvingian_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_jatvingian"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=volhynia.text}++."
+           text="{=volhynia.text}On the territory of western Rus in the 7-8th century lived tribes of Volhynians and White Croats. In the 10th century, the Volhynia Principality would be formed in the region. In the 11th century, the Peremyshl and Terebovlia Principalities would separate from it, later they would form the Principality of  Galicia. In 1100 the locals are not yet considered as Rus, they pay tribute to Rus. But after the collapse of the Rus Proto-Empire in 1240 (invasion of Mongols) the state and its dynasty was saved in the western part. In 1253 Knyaz Danylo Romanovych of Galicia was crowned as King of Rus. The state Rus will exist till 1349 and will disappear together with death of the last member of a dynasty. The local population will form the Rusyns ethnos, which still exists today."
            tournament_master="NPCCharacter.tournament_master_jatvingian"
            villager="NPCCharacter.villager_jatvingian"
            caravan_master="NPCCharacter.caravan_master_jatvingian"
@@ -86,90 +86,80 @@
       <policy id="policy_council_of_the_commons" />
     </default_policies>
     <male_names>
-      <name name="{=jatvingian_male_1}Šutr" />
-      <name name="{=jatvingian_male_2}Ściehut" />
-      <name name="{=jatvingian_male_3}Mondun" />
-      <name name="{=jatvingian_male_4}Zibr" />
-      <name name="{=jatvingian_male_5}Niebr" />
-      <name name="{=jatvingian_male_6}Skamond" />
-      <name name="{=jatvingian_male_7}Borut" />
-      <name name="{=jatvingian_male_8}Jaščełt" />
-      <name name="{=jatvingian_male_9}Ściekint" />
-      <name name="{=jatvingian_male_10}Komiet" />
-      <name name="{=jatvingian_male_11}Jundził" />
-      <name name="{=jatvingian_male_12}Mintele" />
-      <name name="{=jatvingian_male_13}Šurpa" />
-      <name name="{=jatvingian_male_14}Mudziejka" />
-      <name name="{=jatvingian_male_15}Pieściła" />
-      <name name="{=jatvingian_male_16}Ajkał" />
-      <name name="{=jatvingian_male_17}Komat" />
-      <name name="{=jatvingian_male_18}Skałamiend" />
-      <name name="{=jatvingian_male_19}Niabiast" />
-      <name name="{=jatvingian_male_20}Daŭmont" />
-      <name name="{=jatvingian_male_21}Vicień" />
-      <name name="{=jatvingian_male_22}Skumand" />
-      <name name="{=jatvingian_male_23}Videvut" />
-      <name name="{=jatvingian_male_24}Karybut" />
-      <name name="{=jatvingian_male_25}Lubart" />
-      <name name="{=jatvingian_male_26}Jaŭnut" />
-      <name name="{=jatvingian_male_27}Narymont" />
-      <name name="{=jatvingian_male_28}Andrej" />
-      <name name="{=jatvingian_male_29}Uładzimir" />
-      <name name="{=jatvingian_male_30}Kanstancin" />
-      <name name="{=jatvingian_male_31}Siamion" />
-      <name name="{=jatvingian_male_32}Vasil" />
-      <name name="{=jatvingian_male_33}Juryj" />
-      <name name="{=jatvingian_male_34}Vojdat" />
-      <name name="{=jatvingian_male_35}Śviatapołk" />
-      <name name="{=jatvingian_male_36}Iziasłaŭ" />
-      <name name="{=jatvingian_male_37}Viačasłaŭ" />
-      <name name="{=jatvingian_male_38}Jarapołk" />
-      <name name="{=jatvingian_male_39}Hleb" />
-      <name name="{=jatvingian_male_40}Jarasłaŭ" />
+      <name name="{=volhynia_male_1}Volodymyr" />
+      <name name="{=volhynia_male_2}Yaroslav" />
+      <name name="{=volhynia_male_3}Rostislav" />
+      <name name="{=volhynia_male_4}Volodar" />
+      <name name="{=volhynia_male_5}Vasylko" />
+      <name name="{=volhynia_male_6}Yaropolk" />
+      <name name="{=volhynia_male_7}Illya" />
+      <name name="{=volhynia_male_8}Ruryk" />
+      <name name="{=volhynia_male_9}Vsevolod" />
+      <name name="{=volhynia_male_10}Izyaslav" />
+      <name name="{=volhynia_male_11}Ivan" />
+      <name name="{=volhynia_male_12}Volodymyrko" />
+      <name name="{=volhynia_male_13}Mykola" />
+      <name name="{=volhynia_male_14}Igor" />
+      <name name="{=volhynia_male_15}Oleg" />
+      <name name="{=volhynia_male_16}Roman" />
+      <name name="{=volhynia_male_17}Svyatoslav" />
+      <name name="{=volhynia_male_18}Vladyslav" />
+      <name name="{=volhynia_male_19}Danylo" />
+      <name name="{=volhynia_male_20}Iraklii" />
+      <name name="{=volhynia_male_21}Lev" />
+      <name name="{=volhynia_male_22}Kostyantyn" />
+      <name name="{=volhynia_male_23}Mikhailo" />
+      <name name="{=volhynia_male_24}Andryi" />
+      <name name="{=volhynia_male_25}Sudyslav" />
+      <name name="{=volhynia_male_26}Dmitro" />
+      <name name="{=volhynia_male_27}Jyroslav" />
+      <name name="{=volhynia_male_28}Grygoryi" />
+      <name name="{=volhynia_male_29}Dobroslav" />
+      <name name="{=volhynia_male_30}Vyacheslav" />
     </male_names>
     <female_names>
-      <name name="{=jatvingian_female_1}Aldona" />
-      <name name="{=jatvingian_female_2}Anastasija" />
-      <name name="{=jatvingian_female_3}Elžbeta" />
-      <name name="{=jatvingian_female_4}Jaŭfimija" />
-      <name name="{=jatvingian_female_5}Maryja" />
-      <name name="{=jatvingian_female_6}Lizavieta" />
-      <name name="{=jatvingian_female_7}Kunihunda" />
-      <name name="{=jatvingian_female_8}Ahrypina" />
-      <name name="{=jatvingian_female_9}Alaksandra" />
-      <name name="{=jatvingian_female_10}Kiena" />
-      <name name="{=jatvingian_female_11}Alena" />
-      <name name="{=jatvingian_female_12}Minihajła" />
-      <name name="{=jatvingian_female_13}Jadviha" />
-      <name name="{=jatvingian_female_14}Fieadora" />
-      <name name="{=jatvingian_female_15}Jefrasińnia" />
-      <name name="{=jatvingian_female_16}Jeŭna" />
-      <name name="{=jatvingian_female_17}Danuta" />
-      <name name="{=jatvingian_female_18}Haŭdziemunda" />
-      <name name="{=jatvingian_female_19}Anna" />
-      <name name="{=jatvingian_female_20}Ahafija" />
-      <name name="{=jatvingian_female_21}Iryna" />
-      <name name="{=jatvingian_female_22}Sbysłava" />
-      <name name="{=jatvingian_female_23}Malfryda" />
-      <name name="{=jatvingian_female_24}Pradsłava" />
-      <name name="{=jatvingian_female_25}Lubarta" />
-      <name name="{=jatvingian_female_26}Jaŭnuta" />
-      <name name="{=jatvingian_female_27}Narymonta" />
-      <name name="{=jatvingian_female_28}Łuhviena" />
-      <name name="{=jatvingian_female_29}Macilda " />
-      <name name="{=jatvingian_female_30}Anastaśsia" />
+      <name name="{=volhynia_female_1}Anna" />
+      <name name="{=volhynia_female_2}Aleksandra" />
+      <name name="{=volhynia_female_3}Oda" />
+      <name name="{=volhynia_female_4}Ingegerd" />
+      <name name="{=volhynia_female_5}Lanka" />
+      <name name="{=volhynia_female_6}Ilona" />
+      <name name="{=volhynia_female_7}Iryna" />
+      <name name="{=volhynia_female_8}Olena" />
+      <name name="{=volhynia_female_9}Sofia" />
+      <name name="{=volhynia_female_10}Maria" />
+      <name name="{=volhynia_female_11}Anastasia" />
+      <name name="{=volhynia_female_12}Evdokia" />
+      <name name="{=volhynia_female_13}Filip" />
+      <name name="{=volhynia_female_14}Olga" />
+      <name name="{=volhynia_female_15}Efrosynia" />
+      <name name="{=volhynia_female_16}Visheslava" />
+      <name name="{=volhynia_female_17}Fedora" />
+      <name name="{=volhynia_female_18}Nastaska" />
+      <name name="{=volhynia_female_19}Ryksa" />
+      <name name="{=volhynia_female_20}Pereyaslava" />
+      <name name="{=volhynia_female_21}Ustynia" />
+      <name name="{=volhynia_female_22}Svyatoslava" />
+      <name name="{=volhynia_female_23}Gremislava" />
+      <name name="{=volhynia_female_24}Dobrava" />
+      <name name="{=volhynia_female_25}Ganna" />
+      <name name="{=volhynia_female_26}Dobroslava" />
+      <name name="{=volhynia_female_27}Rostislava" />
+      <name name="{=volhynia_female_28}Vladyslava" />
+      <name name="{=volhynia_female_29}Jyroslava" />
+      <name name="{=volhynia_female_30}Agafia" />
     </female_names>
     <clan_names>
-      <name name="{=jatvingian_clan_1}Palaksianie" />
-      <name name="{=jatvingian_clan_2}Sudava" />
-      <name name="{=jatvingian_clan_3}Dainava" />
-      <name name="{=jatvingian_clan_4}Vaŭkavyskija" />
-      <name name="{=jatvingian_clan_5}Drachičynskija" />
-      <name name="{=jatvingian_clan_6}Słonimskija" />
-      <name name="{=jatvingian_clan_7}Turejskija" />
-      <name name="{=jatvingian_clan_8}Śvisłackija" />
-      <name name="{=jatvingian_clan_9}Lidzkija" />
-      <name name="{=jatvingian_clan_10}Rajhradzian" />
+      <name name="{=volhynia_clan_1}Yaropolkovichy" />
+      <name name="{=volhynia_clan_2}Vsevolodovichy" />
+      <name name="{=volhynia_clan_3}Romanovichy" />
+      <name name="{=volhynia_clan_4}Danylovichy" />
+      <name name="{=volhynia_clan_5}Jyroslavichy" />
+      <name name="{=volhynia_clan_6}Dobroslavichy" />
+      <name name="{=volhynia_clan_7}Vasylkovichy" />
+      <name name="{=volhynia_clan_8}Ivanovichy" />
+      <name name="{=volhynia_clan_9}Olegovichy" />
+      <name name="{=volhynia_clan_10}Svyatoslavichy" />
     </clan_names>
     <cultural_feats>
 <feat id="sturgian_cheaper_recruits_infantry" />
