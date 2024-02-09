@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_0_jatvingian"
-                name = "{=!}stage_2_page_0_branch_0_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_0_volhynian"
+                name = "{=!}stage_2_page_0_branch_0_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>
@@ -24,17 +24,17 @@
       <EquipmentRoster civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_1_jatvingian"
-                name = "{=!}stage_2_page_0_branch_1_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_1_volhynian"
+                name = "{=!}stage_2_page_0_branch_1_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>
@@ -46,17 +46,17 @@
       <EquipmentRoster civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_2_jatvingian"
-                name = "{=!}stage_2_page_0_branch_2_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_2_volhynian"
+                name = "{=!}stage_2_page_0_branch_2_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>
@@ -68,17 +68,17 @@
       <EquipmentRoster civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_3_jatvingian"
-                name = "{=!}stage_2_page_0_branch_3_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_3_volhynian"
+                name = "{=!}stage_2_page_0_branch_3_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>
@@ -90,17 +90,17 @@
       <EquipmentRoster civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_4_jatvingian"
-                name = "{=!}stage_2_page_0_branch_4_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_4_volhynian"
+                name = "{=!}stage_2_page_0_branch_4_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>
@@ -112,17 +112,17 @@
       <EquipmentRoster civilian="true"/>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_5_jatvingian"
-                name = "{=!}stage_2_page_0_branch_5_jatvingian"
+  <NPCCharacter id= "child_education_templates_stage_2_page_0_branch_5_volhynian"
+                name = "{=!}stage_2_page_0_branch_5_volhynian"
                 age = "45"
                 default_group = "Infantry"
                 is_hero = "false"
                 occupation = "Lord"
-                culture = "Culture.jatvingian"
+                culture = "Culture.volhynian"
                 skill_template = "SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value = "BodyProperty.fighter_jatvingian" />
+      <face_key_template value = "BodyProperty.fighter_volhynian" />
     </face>
     <skills/>
     <Equipments>

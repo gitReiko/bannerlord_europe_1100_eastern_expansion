@@ -515,7 +515,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_volodymyr" name="{=reiko_volodymyr.name}Volodymyr" owner="Faction.clan_volhynia_1" posX="899.216" posY="1137.680" culture="Culture.volhynia"  gate_posX="900.877" gate_posY="1133.970" text="{=reiko_volodymyr.text}Volodymyr">
+  <Settlement id="reiko_volodymyr" name="{=reiko_volodymyr.name}Volodymyr" owner="Faction.clan_volhynia_1" posX="899.216" posY="1137.680" culture="Culture.volhynian"  gate_posX="900.877" gate_posY="1133.970" text="{=reiko_volodymyr.text}Volodymyr">
     <Components>
       <Town id="reiko_volodymyr_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="3000" />
     </Components>
@@ -536,7 +536,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_volodymyr_vil_1" name="{=reiko_volodymyr_vil_1.name}Turiisk" posX="915.750" posY="1147.500" culture="Culture.volhynia" text="{=reiko_volodymyr_vil_1.text}Turiisk.">
+  <Settlement id="reiko_volodymyr_vil_1" name="{=reiko_volodymyr_vil_1.name}Turiisk" posX="915.750" posY="1147.500" culture="Culture.volhynian" text="{=reiko_volodymyr_vil_1.text}Turiisk.">
     <Components>
       <Village id="reiko_volodymyr_vil_1_comp" village_type="VillageType.wheat_farm" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_volodymyr" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -550,7 +550,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Lutsk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynia"  gate_posX="928.090" gate_posY="1136.710">
+  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Lutsk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynian"  gate_posX="928.090" gate_posY="1136.710">
     <Components>
       <Town id="reiko_lutsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" prosperity="1100" />
     </Components>
@@ -561,7 +561,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_lutsk_vil_1" name="{=reiko_lutsk_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.volhynia" text="{=reiko_lutsk_vil_1.text}Kolky.">
+  <Settlement id="reiko_lutsk_vil_1" name="{=reiko_lutsk_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.volhynian" text="{=reiko_lutsk_vil_1.text}Kolky.">
     <Components>
       <Village id="reiko_lutsk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -575,7 +575,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_lutsk_vil_2" name="{=reiko_lutsk_vil_2.name}Horokhiv" posX="914.207" posY="1130.130" culture="Culture.volhynia" text="{=reiko_lutsk_vil_2.text}Horokhiv.">
+  <Settlement id="reiko_lutsk_vil_2" name="{=reiko_lutsk_vil_2.name}Horokhiv" posX="914.207" posY="1130.130" culture="Culture.volhynian" text="{=reiko_lutsk_vil_2.text}Horokhiv.">
     <Components>
       <Village id="reiko_lutsk_vil_2_comp" village_type="VillageType.wheat_farm" hearth="245" bound="Settlement.reiko_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -589,7 +589,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_dorogobuzh" name="{=reiko_dorogobuzh.name}Dorogobuzh" owner="Faction.clan_volhynia_1" posX="949.380" posY="1133.040" culture="Culture.volhynia"  gate_posX="946.330" gate_posY="1135.440" text="{=reiko_dorogobuzh.text}Dorogobuzh">
+  <Settlement id="reiko_dorogobuzh" name="{=reiko_dorogobuzh.name}Dorogobuzh" owner="Faction.clan_volhynia_1" posX="949.380" posY="1133.040" culture="Culture.volhynian"  gate_posX="946.330" gate_posY="1135.440" text="{=reiko_dorogobuzh.text}Dorogobuzh">
     <Components>
       <Town id="reiko_dorogobuzh_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1300" />
     </Components>
@@ -610,7 +610,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_dorogobuzh_vil_1" name="{=reiko_dorogobuzh_vil_1.name}Lipki" posX="961.851" posY="1132.663" culture="Culture.volhynia" text="{=reiko_dorogobuzh_vil_1.text}Lipki.">
+  <Settlement id="reiko_dorogobuzh_vil_1" name="{=reiko_dorogobuzh_vil_1.name}Lipki" posX="961.851" posY="1132.663" culture="Culture.volhynian" text="{=reiko_dorogobuzh_vil_1.text}Lipki.">
     <Components>
       <Village id="reiko_dorogobuzh_vil_1_comp" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.reiko_dorogobuzh" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -624,7 +624,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_busk" name="{=reiko_busk.name}Busk Castle" owner="Faction.clan_volhynia_5" posX="912.000" posY="1112.800" culture="Culture.volhynia"  gate_posX="911.833" gate_posY="1112.000">
+  <Settlement id="reiko_busk" name="{=reiko_busk.name}Busk Castle" owner="Faction.clan_volhynia_5" posX="912.000" posY="1112.800" culture="Culture.volhynian"  gate_posX="911.833" gate_posY="1112.000">
     <Components>
       <Town id="reiko_busk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="450" />
     </Components>
@@ -635,7 +635,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_busk_vil_1" name="{=reiko_busk_vil_1.name}Verba" posX="930.700" posY="1123.360" culture="Culture.volhynia" text="{=reiko_busk_vil_1.text}Verba.">
+  <Settlement id="reiko_busk_vil_1" name="{=reiko_busk_vil_1.name}Verba" posX="930.700" posY="1123.360" culture="Culture.volhynian" text="{=reiko_busk_vil_1.text}Verba.">
     <Components>
       <Village id="reiko_busk_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="230" gate_rotation="0.758" bound="Settlement.reiko_busk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -649,7 +649,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.500" posY="1126.080" culture="Culture.volhynia"  gate_posX="888.940" gate_posY="1126.750">
+  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.500" posY="1126.080" culture="Culture.volhynian"  gate_posX="888.940" gate_posY="1126.750">
     <Components>
       <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="400" />
     </Components>
@@ -660,7 +660,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_belz_vil_1" name="{=reiko_belz_vil_1.name}Korchyn" posX="894.950" posY="1114.320" culture="Culture.volhynia" text="{=reiko_belz_vil_1.text}Korchyn.">
+  <Settlement id="reiko_belz_vil_1" name="{=reiko_belz_vil_1.name}Korchyn" posX="894.950" posY="1114.320" culture="Culture.volhynian" text="{=reiko_belz_vil_1.text}Korchyn.">
     <Components>
       <Village id="reiko_belz_vil_1_comp" village_type="VillageType.flax_plant" hearth="210" gate_rotation="0.758" bound="Settlement.reiko_belz" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

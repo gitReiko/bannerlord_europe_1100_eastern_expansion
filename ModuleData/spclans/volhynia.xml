@@ -5,7 +5,7 @@
            name="{=clan_volhynia_1.name}Davyd Igorovich"
            tier="5"
            owner="Hero.lord_volyan_1a"
-           culture="Culture.rus"
+           culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
            banner_key="11.83.48.1836.1836.767.764.1.0.0.510.11.40.250.220.955.795.0.0.90.510.11.40.250.220.573.795.0.0.90.510.11.40.470.220.764.909.0.0.0.510.11.40.405.220.765.667.0.0.90.510.11.40.220.220.765.570.0.0.0.510.11.40.150.220.765.697.0.0.0.512.11.40.240.163.764.839.0.0.0.512.83.40.95.65.764.839.0.0.0.510.11.40.60.220.692.838.0.0.0.510.11.40.60.220.836.838.0.0.0.510.11.40.230.220.913.764.0.1.51.510.11.40.230.220.614.764.0.0.308.510.83.40.120.220.585.681.0.0.308.510.83.40.120.220.943.681.0.1.51.510.83.40.120.220.984.689.0.1.90.510.83.40.120.220.544.689.0.1.90.510.11.40.120.220.739.953.0.0.308.510.11.40.120.220.789.953.0.1.51.504.11.40.80.72.764.985.0.1.180" text="{=clan_volhynia_1.text}Representing the Davyd Igorovich family. The coat of arms is a hypothetical reconstruction* based on the seal of Davyd Igorovich's grandfather and modern coat of arms of the Volodymyr-Volhynia district." />
 
@@ -21,7 +21,7 @@
            name="{=clan_volhynia_3.name}Sviatoslav Davydovich"
            tier="3"
            owner="Hero.lord_volyan_3a"
-           culture="Culture.rus"
+           culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
            banner_key="11.141.48.1836.1836.768.765.1.0.0.510.11.149.329.220.764.864.0.0.0.510.11.149.100.220.764.912.0.0.90.510.11.149.290.220.632.750.0.0.90.510.11.149.290.220.896.750.0.0.90.510.11.149.150.220.629.702.0.0.0.510.11.149.80.220.764.602.0.0.45" text="{=clan_volhynia_3.text}Representing the Sviatoslav Davydovich family. The coat of arms is the seal of Knyaz Sviatoslav Davydovich." />
 
@@ -29,7 +29,7 @@
            name="{=clan_volhynia_4.name}Belz Pasadnik"
            tier="3"
            owner="Hero.lord_volyan_4a"
-           culture="Culture.rus"
+           culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
            banner_key="11.83.48.1836.1836.767.764.1.0.0.504.11.40.150.353.764.844.0.0.0.504.11.40.150.353.764.684.0.1.180.504.11.40.150.353.844.764.0.0.90.504.11.40.150.353.684.764.0.1.270.510.11.40.150.275.764.764.0.0.0.510.11.40.150.275.764.764.0.0.90.506.83.40.85.224.824.881.0.0.21.506.83.40.85.224.704.881.0.1.339.506.83.40.85.224.704.647.0.0.21.506.83.40.85.224.824.647.0.1.339.506.83.40.85.224.881.704.0.1.111.506.83.40.85.224.647.704.0.0.249.506.83.40.85.224.647.824.0.1.111.506.83.40.85.224.881.824.0.0.249" text="{=clan_volhynia_4.text}This clan is non-historical. Representing knyaz Davyd Igorovich's pasadnik in the town of Belz. The clan's coat of arms is the coat of arms of Volhynia." />
 
@@ -37,7 +37,7 @@
            name="{=clan_volhynia_5.name}Mechislav Davydovich"
            tier="3"
            owner="Hero.lord_volyan_5a"
-           culture="Culture.rus"
+           culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
            banner_key="11.83.48.1836.1836.767.764.1.0.0.510.11.40.250.220.955.795.0.0.90.510.11.40.250.220.573.795.0.0.90.510.11.40.470.220.764.909.0.0.0.510.11.40.405.220.765.667.0.0.90.510.11.40.220.220.765.570.0.0.0.510.11.40.150.220.765.697.0.0.0.512.11.40.240.163.764.839.0.0.0.512.83.40.95.65.764.839.0.0.0.510.11.40.60.220.692.838.0.0.0.510.11.40.60.220.836.838.0.0.0.510.11.40.230.220.614.764.0.0.308.510.83.40.120.220.585.681.0.0.308.510.83.40.120.220.544.689.0.1.90.510.11.40.120.220.739.953.0.0.308.510.11.40.120.220.789.953.0.1.51.504.11.40.80.72.764.985.0.1.180.510.11.40.120.220.955.757.0.0.0.510.11.40.120.220.909.838.0.0.0" text="{=clan_volhynia_5.text}Representing the Mechislav Davydovich family. The coat of arms is a hypothetical reconstruction* based on the seal of Davyd Igorovich's grandfather and modern coat of arms of the Volodymyr-Volhynia district." />
 		   
