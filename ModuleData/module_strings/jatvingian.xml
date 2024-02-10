@@ -12,8 +12,8 @@
   <string id="str_faction_ruler_term_in_speech.jatvingian" text="{=jatvingianrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
   <string id="str_adjective_for_faction.jatvingian" text="{=jatvingianfactionadjective}Jatvingian" />
   <string id="str_short_term_for_faction.jatvingian" text="{=jatvingianfactionshortterm}Jatvingian" />
-  <string id="str_faction_formal_name_for_culture.jatvingian" text="{=jatvingianfactionformalname}The Jatvingian Tribal Principalities Union" />
-  <string id="str_faction_informal_name_for_culture.jatvingian" text="{=jatvingianfactioninformalname}the Jatvingian Tribal Principalities Union" />
+  <string id="str_faction_formal_name_for_culture.jatvingian" text="{=jatvingianfactionformalname}The Jatvingian Tribal Principalities" />
+  <string id="str_faction_informal_name_for_culture.jatvingian" text="{=jatvingianfactioninformalname}the Jatvingian Tribal Principalities" />
   <string id="str_adjective_for_culture.jatvingian" text="{=jatvingiancultureadjective}Jatvingian" />
   <string id="str_neutral_term_for_culture.jatvingian" text="{=jatvingiancultureneutralterm}Jatvingian" />
   <string id="str_culture_rich_name.jatvingian" text="{=jatvingianmembers}Jatvingian" />	

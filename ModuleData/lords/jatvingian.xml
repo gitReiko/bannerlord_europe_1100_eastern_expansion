@@ -671,6 +671,144 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_jatvingian_5a"
+                name="{=lord_jatvingian_5a.name}Pieściła*"
+                voice="softspoken"
+                age="29"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.jatvingian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3642" build="0.5139"  key="0005AC0AD1FC228293554369A447487A95876469597845649A7963894599A87700C856030C7663A80000000000000000000000000000000000000000218C4002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_jatvingian_5b"
+                name="{=lord_jatvingian_5b.name}Jaŭnuta*"
+                voice="softspoken"
+                age="24"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.jatvingian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.4028" build="0.3333"  key="0002400A408820069166988B7678899AA72AA9CA6488A5C86A7397678858A4B40095660309BB86970000000000000000000000000000000000000000632C20C3"  />
+    </face>
+	<skills>
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="50" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="25" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="jatvingian_lady" />
+      <EquipmentSet id="jatvingian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_jatvingian_5c"
+                name="{=lord_jatvingian_5c.name}Narymont*"
+                voice="softspoken"
+                age="13"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.jatvingian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.5571" build="0.5139"  key="0005740C40FC2604855563699467487896886469587865659A7963874589A87700988603094663880000000000000000000000000000000000000000213C7004"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="25" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="25" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="50" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="100" />
+        <skill id="TwoHanded" value="25" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="jatvingian_lord" />
+      <EquipmentSet id="jatvingian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
 
 
   
