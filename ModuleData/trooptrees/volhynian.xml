@@ -728,10 +728,7 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.volhynian_armed_levy"/>
-      <!--
-			<upgrade_target id="NPCCharacter.kryvich_archer_levy"/>
-			<upgrade_target id="NPCCharacter.kryvich_scout"/>
-      -->
+			<upgrade_target id="NPCCharacter.volhynian_levy_archer"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -747,7 +744,7 @@
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
@@ -764,7 +761,7 @@
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Body" id="Item.heavy_nordic_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
       </EquipmentRoster>
@@ -870,7 +867,7 @@
   <NPCCharacter id="volhynian_levy_woj"
 		default_group="Infantry"
 		level="16"
-		name="{=volhynian_armed_levy.name}Volhynian Levy Woj"
+		name="{=volhynian_levy_woj.name}Volhynian Levy Woj"
 		occupation="Soldier"
 		culture="Culture.volhynian">
 		<face>
@@ -888,6 +885,7 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.volhynian_experienced_levy_woj"/>
+      <upgrade_target id="NPCCharacter.volhynian_light_levy_horseman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -984,7 +982,7 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.volhynian_foot_younger_druzynnik"/>
-      <upgrade_target id="NPCCharacter.volhynian_levy_light_horseman"/>
+      <upgrade_target id="NPCCharacter.volhynian_younger_druzynnik"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1148,10 +1146,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-  <NPCCharacter id="volhynian_levy_light_horseman"
+  <NPCCharacter id="volhynian_light_levy_horseman"
 		default_group="Infantry"
-		level="16"
-		name="{=volhynian_armed_levy.name}Volhynian Levy Light Horseman"
+		level="21"
+		name="{=volhynian_light_levy_horseman.name}Volhynian Light Levy Horseman"
 		occupation="Soldier"
 		culture="Culture.volhynian">
 		<face>
@@ -1277,11 +1275,14 @@
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="50"/>
 		</skills>
+    <upgrade_targets>
+			<upgrade_target id="NPCCharacter.volhynian_older_druzynnik"/>
+		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
         <equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
         <equipment slot="Head" id="Item.tv_vlandia_helmet_c3" />
         <equipment slot="Body" id="Item.nordic_hauberk" />
         <equipment slot="Leg" id="Item.mail_chausses" />
@@ -1331,7 +1332,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-        <equipment slot="Item1" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.tv_vlandia_helmet_c3" />
         <equipment slot="Cape" id="Item.DZ_vlandia_shoulders_b"/>
@@ -1342,7 +1343,7 @@
       </EquipmentRoster>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
-        <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
+        <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.tv_vlandia_helmet_b3" />
 				<equipment slot="Body" id="Item.nordic_hauberk"/>
@@ -1383,17 +1384,17 @@
 			<EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
         <equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
         <equipment slot="Head" id="Item.TV_sturgia_helmet_g2" />
         <equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
         <equipment slot="Body" id="Item.DZ_sturgia_armor_b2" />
         <equipment slot="Gloves" id="Item.AR_empire_gloves_b"/>
         <equipment slot="Leg" id="Item.AR_empire_boots_a" />
-        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.vlandia_sword_1_t2" />
+        <equipment slot="Item0" id="Item.vlandia_sword_3_t4" />
         <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_closed" />
@@ -1401,11 +1402,11 @@
         <equipment slot="Body" id="Item.DZ_sturgia_armor_b" />
         <equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_a"/>
         <equipment slot="Leg" id="Item.AR_empire_boots_a" />
-        <equipment slot="Horse" id="Item.t3_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
         <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
 				<equipment slot="Head" id="Item.sturgian_helmet_b_close"/>
@@ -1413,11 +1414,11 @@
 				<equipment slot="Body" id="Item.DZ_sturgia_armor_b3"/>
         <equipment slot="Gloves" id="Item.AR_empire_gloves_b"/>
 				<equipment slot="Leg" id="Item.AR_empire_boots_a"/>
-        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.vlandia_sword_2_t3"/>
+        <equipment slot="Item0" id="Item.broad_arming_sword_t4"/>
         <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_with_closed_mail" />
@@ -1425,7 +1426,7 @@
 				<equipment slot="Body" id="Item.DZ_sturgia_armor_a"/>
         <equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_a"/>
 				<equipment slot="Leg" id="Item.AR_empire_boots_a"/>
-        <equipment slot="Horse" id="Item.t3_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
@@ -1437,23 +1438,23 @@
 				<equipment slot="Body" id="Item.DZ_sturgia_armor_a3"/>
         <equipment slot="Gloves" id="Item.AR_empire_gloves_b"/>
 				<equipment slot="Leg" id="Item.AR_empire_boots_a"/>
-        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-        <equipment slot="Item1" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+        <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_closed" />
         <equipment slot="Cape" id="Item.TV_sturgia_shoulders_b"/>
 				<equipment slot="Body" id="Item.DZ_sturgia_armor_a2"/>
         <equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_a"/>
 				<equipment slot="Leg" id="Item.AR_empire_boots_a"/>
-        <equipment slot="Horse" id="Item.t3_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
+        <equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
         <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
         <equipment slot="Head" id="Item.sturgian_helmet_b_close" />
@@ -1461,12 +1462,286 @@
 				<equipment slot="Body" id="Item.DZ_sturgia_armor_b2"/>
         <equipment slot="Gloves" id="Item.AR_empire_gloves_b"/>
 				<equipment slot="Leg" id="Item.AR_empire_boots_a"/>
-        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+        <equipment slot="Horse" id="Item.noble_horse_imperial"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
       </EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
 				<equipment slot="Head" id="Item.arming_coif"/>
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="volhynian_levy_archer"
+		default_group="Ranged"
+		level="11"
+		name="{=volhynian_armed_levy.name}Volhynian Levy Archer"
+		occupation="Soldier"
+		culture="Culture.volhynian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_volhynian"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="30"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="25"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="20"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="15"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.volhynian_experienced_levy_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Body" id="Item.heavy_nordic_tunic" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Body" id="Item.nordic_tunic" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.nordic_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.heavy_nordic_coat"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="volhynian_experienced_levy_archer"
+		default_group="Ranged"
+		level="16"
+		name="{=volhynian_experienced_levy_archer.name}Volhynian Experienced Levy Archer"
+		occupation="Soldier"
+		culture="Culture.volhynian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_volhynian"/>
+		</face>
+    <skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="40"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.volhynian_pancyrny_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3" />
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+        <equipment slot="Body" id="Item.imperial_padded_cloth" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2" />
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.arming_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+        <equipment slot="Body" id="Item.northern_padded_gambeson" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.desert_padded_cloth"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.arming_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Head" id="Item.arming_coif"/>
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="volhynian_pancyrny_archer"
+		default_group="Ranged"
+		level="21"
+		name="{=volhynian_pancyrny_archer.name}Volhynian Pancyrny Archer"
+		occupation="Soldier"
+		culture="Culture.volhynian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_volhynian"/>
+		</face>
+    <skills >
+			<skill id="Athletics" value="75"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="60"/>
+			<skill id="TwoHanded" value="35"/>
+			<skill id="Polearm" value="35"/>
+			<skill id="Bow" value="75"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="35"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3" />
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.laced_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+        <equipment slot="Body" id="Item.nordic_hauberk" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2" />
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+        <equipment slot="Body" id="Item.mail_shirt" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.TV_vlandia_armor_h2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.laced_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.hauberk"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.nordic_fur_cap" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.hauberk"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.laced_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
         <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
