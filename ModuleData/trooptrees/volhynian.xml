@@ -1147,7 +1147,7 @@
 	</NPCCharacter>
 
   <NPCCharacter id="volhynian_light_levy_horseman"
-		default_group="Infantry"
+		default_group="Cavalry"
 		level="21"
 		name="{=volhynian_light_levy_horseman.name}Volhynian Light Levy Horseman"
 		occupation="Soldier"
@@ -1257,7 +1257,7 @@
 	</NPCCharacter>
 
   <NPCCharacter id="volhynian_younger_druzynnik"
-		default_group="Infantry"
+		default_group="Cavalry"
 		level="26"
 		name="{=volhynian_younger_druzynnik.name}Volhynian Younger Druzynnik"
 		occupation="Soldier"
@@ -1362,7 +1362,7 @@
 	</NPCCharacter>
 
   <NPCCharacter id="volhynian_older_druzynnik"
-		default_group="Infantry"
+		default_group="Cavalry"
 		level="31"
 		name="{=volhynian_older_druzynnik.name}Volhynian Older Druzynnik"
 		occupation="Soldier"
