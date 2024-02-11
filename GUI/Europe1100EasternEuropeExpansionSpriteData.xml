@@ -5,13 +5,13 @@
       <Name>ui_CulturesExpansion</Name>
       <AlwaysLoad />
       <SpriteSheetCount>1</SpriteSheetCount>
-      <SpriteSheetSize ID="1" Width="1024" Height="1024" />
+      <SpriteSheetSize ID="1" Width="4096" Height="1024" />
     </SpriteCategory>
   </SpriteCategories>
   <SpriteParts>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>kryvich</Name>
+      <Name>jatvingian</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>4</SheetX>
@@ -20,22 +20,74 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>CharacterCreation\Culture\kryvich</Name>
+      <Name>kryvich</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>385</SheetX>
       <SheetY>4</SheetY>
       <CategoryName>ui_CulturesExpansion</CategoryName>
     </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>volhynian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>766</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\jatvingian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>1147</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\kryvich</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>1528</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\volhynian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>1909</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
   </SpriteParts>
   <Sprites>
+    <GenericSprite>
+      <Name>jatvingian</Name>
+      <SpritePartName>jatvingian</SpritePartName>
+    </GenericSprite>
     <GenericSprite>
       <Name>kryvich</Name>
       <SpritePartName>kryvich</SpritePartName>
     </GenericSprite>
     <GenericSprite>
+      <Name>volhynian</Name>
+      <SpritePartName>volhynian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\jatvingian</Name>
+      <SpritePartName>CharacterCreation\Culture\jatvingian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
       <Name>CharacterCreation\Culture\kryvich</Name>
       <SpritePartName>CharacterCreation\Culture\kryvich</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\volhynian</Name>
+      <SpritePartName>CharacterCreation\Culture\volhynian</SpritePartName>
     </GenericSprite>
   </Sprites>
 </SpriteData>
