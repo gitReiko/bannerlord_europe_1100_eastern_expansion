@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentSets>
+
+  <EquipmentSet id="volhynian_king" culture="Culture.volhynian">
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
+        <Equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+        <Equipment slot="Head" id="Item.TV_sturgia_helmet_g" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
+        <Equipment slot="Body" id="Item.DZ_sturgia_armor_b2" />
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+        <Equipment slot="Leg" id="Item.TV_sturgia_boots_a" />
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.vlandia_sword_3_t4" />
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.AR_sturgia_helmet_m" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_b"/>
+        <Equipment slot="Body" id="Item.DZ_sturgia_armor_b" />
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+        <Equipment slot="Leg" id="Item.TV_sturgia_boots_a" />
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+        <Equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet"/>
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_b3"/>
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.broad_arming_sword_t4"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_with_closed_mail" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_b"/>
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_a"/>
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+		<Equipment slot="Body" id="Item.battania_civil_c"/>
+		<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentSet>
+
+  <EquipmentSet id="volhynian_lord" culture="Culture.volhynian">
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
+        <Equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_with_closed_mail" />
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_a"/>
+		<Equipment slot="Cape" id="Item.TV_sturgia_shoulders_b"/>
+		<Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+        <Equipment slot="Leg" id="Item.TV_sturgia_boots_a" />
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.nasalhelm_over_mail" />
+		<Equipment slot="Body" id="Item.hauberk"/>
+		<Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet"/>
+		<Equipment slot="Body" id="Item.TV_vlandia_armor_h2"/>
+		<Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet_closed" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_b"/>
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_a2"/>
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_d"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.sturgian_helmet_b_close" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_b2"/>
+        <Equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+		<Equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+		<Equipment slot="Body" id="Item.battania_civil_c"/>
+		<Equipment slot="Gloves" id="Item.highland_gloves"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+		<Equipment slot="Body" id="Item.battania_civil_c"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentSet>
+
+  <EquipmentSet id="volhynian_lady" culture="Culture.volhynian">
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
+        <Equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+        <Equipment slot="Head" id="Item.tv_vlandia_helmet_c3" />
+        <Equipment slot="Body" id="Item.nordic_hauberk" />
+		<Equipment slot="Gloves" id="Item.highland_gloves"/>
+        <Equipment slot="Leg" id="Item.sturgia_boots_b" />
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+        <Equipment slot="Head" id="Item.nasalhelm_over_mail" />
+		<Equipment slot="Body" id="Item.hauberk"/>
+		<Equipment slot="Gloves" id="Item.highland_gloves"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_2_t3"/>
+        <Equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet"/>
+		<Equipment slot="Body" id="Item.TV_vlandia_armor_h2"/>
+		<Equipment slot="Gloves" id="Item.highland_gloves"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.sturgia_sword_4_t4" />
+        <Equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+        <Equipment slot="Head" id="Item.TV_sturgia_helmet_g" />
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
+        <Equipment slot="Body" id="Item.DZ_sturgia_armor_b2" />
+        <Equipment slot="Gloves" id="Item.highland_gloves"/>
+        <Equipment slot="Leg" id="Item.sturgia_boots_b" />
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet>
+	<EquipmentSet>
+        <Equipment slot="Item0" id="Item.vlandia_sword_4_t4"/>
+        <Equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
+		<Equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
+		<Equipment slot="Head" id="Item.ao_sturgian_feathered_helmet"/>
+        <Equipment slot="Cape" id="Item.TV_sturgia_shoulders_e"/>
+		<Equipment slot="Body" id="Item.DZ_sturgia_armor_b3"/>
+        <Equipment slot="Gloves" id="Item.highland_gloves"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
+        <Equipment slot="Horse" id="Item.noble_horse_imperial"/>
+		<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+	</EquipmentSet> 
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+		<Equipment slot="Head" id="Item.headscarf"/>
+		<Equipment slot="Body" id="Item.laced_dress"/>
+		<Equipment slot="Leg" id="Item.ladys_shoe"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+		<Equipment slot="Body" id="Item.vlandian_dress"/>
+		<Equipment slot="Leg" id="Item.ladys_shoe"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentSet>
+
+</EquipmentSets>
