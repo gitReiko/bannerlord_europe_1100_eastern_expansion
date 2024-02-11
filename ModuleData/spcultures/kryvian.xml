@@ -262,9 +262,10 @@
       <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
     </tournament_team_templates_four_participant>
     <basic_mercenary_troops>
-      <template name="NPCCharacter.eastern_mercenary" />
-      <template name="NPCCharacter.western_mercenary" />
-      <template name="NPCCharacter.sword_sisters_sister_t3" />
+      <template name="NPCCharacter.nordic_huscarl" />
+      <template name="NPCCharacter.baltic_tribesman" />
+      <template name="NPCCharacter.baltic_ukininkas" />
+      <template name="NPCCharacter.jatv_dregovian_archer" />
     </basic_mercenary_troops>
   </Culture>
   
