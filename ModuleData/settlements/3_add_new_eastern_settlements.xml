@@ -3,7 +3,7 @@
 
   <!-- New settlements Reiko Baltic Expansion (settlement.xml and scene.xscene) -->
 
-  <Settlement id="reiko_viciebsk" name="{=reiko_viciebsk.name}Viciebsk" owner="Faction.clan_polotsk_3" posX="1046.270" posY="1258.220" culture="Culture.kryvich" gate_posX="1047.225" gate_posY="1257.985">
+  <Settlement id="reiko_viciebsk" name="{=reiko_viciebsk.name}Vidbiesk" owner="Faction.clan_polotsk_3" posX="1046.270" posY="1258.220" culture="Culture.kryvich" gate_posX="1047.225" gate_posY="1257.985">
     <Components>
       <Town id="reiko_viciebsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1700" />
     </Components>
@@ -131,7 +131,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Šiauliai Castle" owner="Faction.clan_baltic_07" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" gate_posX="878.800" gate_posY="1249.050">
+  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Saule Castle" owner="Faction.clan_baltic_07" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" gate_posX="878.800" gate_posY="1249.050">
     <Components>
       <Town id="reiko_siaule_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908"  prosperity="460" />
     </Components>
@@ -156,7 +156,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_kernave" name="{=reiko_kernave.name}Kernavė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
+  <Settlement id="reiko_kernave" name="{=reiko_kernave.name}Vilkmergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
     <Components>
       <Town id="reiko_kernave_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
@@ -241,7 +241,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgród Castle" owner="Faction.clan_jatvingian_3" posX="867.259" posY="1215.870" culture="Culture.jatvingian" gate_posX="867.980" gate_posY="1216.500">
+  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgrod Castle" owner="Faction.clan_jatvingian_3" posX="867.259" posY="1215.870" culture="Culture.jatvingian" gate_posX="867.980" gate_posY="1216.500">
     <Components>
       <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="430" />
     </Components>
@@ -419,7 +419,7 @@
     </CommonAreas>
   </Settlement>
 
-      <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horadzien" owner="Faction.clan_jatvingian_1" posX="892.790" posY="1216.58" culture="Culture.jatvingian"  gate_posX="894.026" gate_posY="1214.905" text="{=reiko_hrodna.text}Horadzien.">
+      <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horodnia" owner="Faction.clan_jatvingian_1" posX="892.790" posY="1216.58" culture="Culture.jatvingian"  gate_posX="894.026" gate_posY="1214.905" text="{=reiko_hrodna.text}Horodnia.">
     <Components>
       <Town id="reiko_hrodna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1100" />
     </Components>
@@ -550,7 +550,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Lutsk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynian"  gate_posX="928.090" gate_posY="1136.710">
+  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Luchesk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynian"  gate_posX="928.090" gate_posY="1136.710">
     <Components>
       <Town id="reiko_lutsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" prosperity="1100" />
     </Components>
@@ -589,7 +589,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_dorogobuzh" name="{=reiko_dorogobuzh.name}Dorogobuzh" owner="Faction.clan_volhynia_1" posX="949.380" posY="1133.040" culture="Culture.volhynian"  gate_posX="946.330" gate_posY="1135.440" text="{=reiko_dorogobuzh.text}Dorogobuzh">
+  <Settlement id="reiko_dorogobuzh" name="{=reiko_dorogobuzh.name}Dorogobuzhets" owner="Faction.clan_volhynia_1" posX="949.380" posY="1133.040" culture="Culture.volhynian"  gate_posX="946.330" gate_posY="1135.440" text="{=reiko_dorogobuzh.text}Dorogobuzhets">
     <Components>
       <Town id="reiko_dorogobuzh_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1300" />
     </Components>
@@ -674,7 +674,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Slonim Castle" owner="Faction.clan_jatvingian_4" posX="920.730" posY="1205.090" culture="Culture.jatvingian"  gate_posX="920.780" gate_posY="1204.250">
+  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Usłonim Castle" owner="Faction.clan_jatvingian_4" posX="920.730" posY="1205.090" culture="Culture.jatvingian"  gate_posX="920.780" gate_posY="1204.250">
     <Components>
       <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="340" />
     </Components>

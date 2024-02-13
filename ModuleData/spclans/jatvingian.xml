@@ -2,7 +2,7 @@
 <Factions>
 
   <Faction id="clan_jatvingian_1"
-           name="{=clan_jatvingian_1.name}Horadzien Jatva*"
+           name="{=clan_jatvingian_1.name}Horodnia Jatva*"
            tier="3"
            owner="Hero.lord_jatvingian_1a"
            culture="Culture.jatvingian"
@@ -32,7 +32,7 @@
   />
 
   <Faction id="clan_jatvingian_4"
-           name="{=clan_jatvingian_4.name}Slonim Jatva*"
+           name="{=clan_jatvingian_4.name}Usłonim Jatva*"
            tier="3"
            owner="Hero.lord_jatvingian_4a"
            culture="Culture.jatvingian"

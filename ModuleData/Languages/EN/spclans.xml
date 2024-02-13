@@ -8,11 +8,11 @@
   <string id="clan_baltic_07.name" text="Samogitian"/>
   <string id="clan_baltic_09.name" text="Semigallians"/>
   <!--input/spclans/jatvingian.xml-->
-  <string id="clan_jatvingian_1.name" text="Horadzien Jatviaź*"/>
+  <string id="clan_jatvingian_1.name" text="Horodnia Jatviaź*"/>
   <string id="clan_jatvingian.text" text="This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "/>
   <string id="clan_jatvingian_2.name" text="Vaŭkavysk Jatviaź*"/>
-  <string id="clan_jatvingian_3.name" text="Rajgród Jatviaź*"/>
-  <string id="clan_jatvingian_4.name" text="Slonim Jatviaź*"/>
+  <string id="clan_jatvingian_3.name" text="Rajgrod Jatviaź*"/>
+  <string id="clan_jatvingian_4.name" text="Usłonim Jatviaź*"/>
   <!--input/spclans/polatsk.xml-->
   <string id="clan_rus_9.name" text="Usiasłaŭ II the Seer"/>
   <string id="clan_polotsk_2.name" text="Hleb Usiasłavič"/>

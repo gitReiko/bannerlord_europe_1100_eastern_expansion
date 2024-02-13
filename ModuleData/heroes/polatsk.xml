@@ -20,7 +20,7 @@
    <Hero id="lord_polotsk_2e" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
 
 
-   <Hero id="lord_polotsk_3a" spouse="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3" father="Hero.lord_polotsk_1a" text="{=lord_polotsk_3a.text}Son of Usiasłaŭ II the Seer, who became Prince of Viciebsk after his father's death. No information about his activities has been preserved. Probably led together with his brothers anti-Rus activity. Had five children." />
+   <Hero id="lord_polotsk_3a" spouse="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3" father="Hero.lord_polotsk_1a" text="{=lord_polotsk_3a.text}Son of Usiasłaŭ II the Seer, who became Prince of Vidbiesk after his father's death. No information about his activities has been preserved. Probably led together with his brothers anti-Rus activity. Had five children." />
    <Hero id="lord_polotsk_3b" spouse="Hero.lord_polotsk_3a" faction="Faction.clan_polotsk_3" text="{=lord_polotsk_3b.text}The knyaz had a wife, but nothing is known about her." />
    <Hero id="lord_polotsk_3c" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />
    <Hero id="lord_polotsk_3d" father="Hero.lord_polotsk_3a" mother="Hero.lord_polotsk_3b" faction="Faction.clan_polotsk_3"  />

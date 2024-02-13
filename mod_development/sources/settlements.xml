@@ -8454,7 +8454,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mensk Castle" owner="Faction.clan_rus_9" posX="974.031" posY="1223.842" culture="Culture.rus" prosperity="830" gate_posX="974.3494" gate_posY="1221.992">
+  <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mieńsk Castle" owner="Faction.clan_rus_9" posX="974.031" posY="1223.842" culture="Culture.rus" prosperity="830" gate_posX="974.3494" gate_posY="1221.992">
     <Components>
       <Town id="castle_comp_KR2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -8850,7 +8850,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Storm cape-->
-  <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Šiauliai" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Šiauliai.">
+  <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Saule" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Saule.">
     <Components>
       <Village id="village_comp_KR4_1" village_type="VillageType.fisherman" hearth="440" gate_rotation="0.758" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

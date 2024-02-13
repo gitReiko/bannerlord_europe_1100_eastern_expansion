@@ -3,12 +3,12 @@
 
   <!-- 
     town_KR5 changes
-    name = Połacak
+    name = Połack
     culture = kryvich
     prosperity = 3300
     level = 1
   -->
-  <Settlement id="town_KR5" name="{=Settlements.Settlement.ECM.KR.town_KR5}Połacak" owner="Faction.clan_rus_9" posX="1006.619" posY="1262.744" culture="Culture.kryvich" gate_posX="1009.594" gate_posY="1259.58" text="{=ECM_KR_F5HlQdgf}Połacak sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
+  <Settlement id="town_KR5" name="{=Settlements.Settlement.ECM.KR.town_KR5}Połack" owner="Faction.clan_rus_9" posX="1006.619" posY="1262.744" culture="Culture.kryvich" gate_posX="1009.594" gate_posY="1259.58" text="{=ECM_KR_F5HlQdgf}Połack sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors.">
     <Components>
       <Town id="town_comp_KR5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" prosperity="3300" />
     </Components>
@@ -70,11 +70,12 @@
 
   <!-- 
     castle_KR2 changes
+    name = Mieńsk
     culture = kryvich
     prosperity = 1300
     owner = clan_polotsk_2
   -->
-  <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mensk Castle" owner="Faction.clan_polotsk_2" posX="974.031" posY="1223.842" culture="Culture.kryvich" gate_posX="974.3494" gate_posY="1221.992">
+  <Settlement id="castle_KR2" name="{=Settlements.Settlement.ECM.KR.castle_KR2}Mieńsk Castle" owner="Faction.clan_polotsk_2" posX="974.031" posY="1223.842" culture="Culture.kryvich" gate_posX="974.3494" gate_posY="1221.992">
     <Components>
       <Town id="castle_comp_KR2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1300" />
     </Components>
@@ -87,10 +88,10 @@
 
   <!-- 
     castle_village_KR2_1 changes
-    name = Slucak
+    name = Słučiesk
     hearth = 170
   -->
-  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Slucak" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Slucak.">
+  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Słučiesk" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Słučiesk.">
     <Components>
       <Village id="castle_village_comp_KR2_1" village_type="VillageType.wheat_farm" hearth="170" gate_rotation="0.258" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -214,11 +215,11 @@
 
   <!-- 
     village_KR4_4 changes
-    name = Vilkamergė
+    name = Šėta
     hearth = 133
     bound = reiko_kernave
   -->
-  <Settlement id="village_KR4_4" name="{=Settlements.Settlement.ECM.KR.village_KR4_4}Vilkamergė" posX="898.023" posY="1250.13" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_4}Vilkamergė.">
+  <Settlement id="village_KR4_4" name="{=Settlements.Settlement.ECM.KR.village_KR4_4}Šėta" posX="898.023" posY="1250.13" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_4}Šėta.">
     <Components>
       <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -234,10 +235,10 @@
 
   <!-- 
     castle_KR4 changes
-    name = Merkinė
+    name = Alita
     level = 1
   -->
-  <Settlement id="castle_KR4" name="{=Settlements.Settlement.ECM.KR.castle_KR4}Merkinė Castle" owner="Faction.clan_jatvingian_5" posX="902.09" posY="1231.054" culture="Culture.goldenhorde" gate_posX="903.5406" gate_posY="1230.078">
+  <Settlement id="castle_KR4" name="{=Settlements.Settlement.ECM.KR.castle_KR4}Alita Castle" owner="Faction.clan_jatvingian_5" posX="902.09" posY="1231.054" culture="Culture.goldenhorde" gate_posX="903.5406" gate_posY="1230.078">
     <Components>
       <Town id="castle_comp_KR4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="470" />
     </Components>

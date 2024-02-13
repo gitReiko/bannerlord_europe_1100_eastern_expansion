@@ -161,15 +161,15 @@
     </female_names>
     <clan_names>
       <name name="{=jatvingian_clan_1}Palaksianie" />
-      <name name="{=jatvingian_clan_2}Sudava" />
-      <name name="{=jatvingian_clan_3}Dainava" />
+      <name name="{=jatvingian_clan_2}Dernenian" />
+      <name name="{=jatvingian_clan_3}Merkinian" />
       <name name="{=jatvingian_clan_4}Vaŭkavyskija" />
       <name name="{=jatvingian_clan_5}Drachičynskija" />
       <name name="{=jatvingian_clan_6}Słonimskija" />
       <name name="{=jatvingian_clan_7}Turejskija" />
       <name name="{=jatvingian_clan_8}Śvisłackija" />
       <name name="{=jatvingian_clan_9}Lidzkija" />
-      <name name="{=jatvingian_clan_10}Rajhradzian" />
+      <name name="{=jatvingian_clan_10}Rajgradian" />
     </clan_names>
     <cultural_feats>
 <feat id="sturgian_cheaper_recruits_infantry" />
