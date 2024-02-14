@@ -23,7 +23,7 @@
   <string id="reiko_siaule.name" text="Saule Castle"/>
   <string id="reiko_siaule_vil_1.name" text="Kulautuva"/>
   <string id="reiko_siaule_vil_1.text" text="Kulautuva."/>
-  <string id="reiko_kernave.name" text="Vilkmergė Castle"/>
+  <string id="reiko_kernave.name" text="Vilkamergė Castle"/>
   <string id="reiko_kernave_vil_1.name" text="Misa"/>
   <string id="reiko_kernave_vil_1.text" text="Misa."/>
   <string id="reiko_selpils.name" text="Selpils Castle"/>
@@ -110,7 +110,7 @@
   <string id="ECM_Settlements.Settlement.text.village_KR4_3" text="Rubeni text."/>
   <string id="Settlements.Settlement.ECM.KR.village_KR4_4" text="Šėta"/>
   <string id="ECM_Settlements.Settlement.text.village_KR4_4" text="Šėta."/>
-  <string id="Settlements.Settlement.ECM.KR.castle_KR4" text="Alita Castle"/>
+  <string id="Settlements.Settlement.ECM.KR.castle_KR4" text="Kovno Castle"/>
   <string id="Settlements.Settlement.ECM.KR.castle_village_KR4_1" text="Pažeimenė"/>
   <string id="ECM_Settlements.Settlement.text.castle_village_KR4_1" text="Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south."/>
   <string id="Settlements.Settlement.ECM.KR.castle_village_KR4_2" text="Volka"/>

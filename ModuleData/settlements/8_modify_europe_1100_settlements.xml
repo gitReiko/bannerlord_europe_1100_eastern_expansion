@@ -235,10 +235,10 @@
 
   <!-- 
     castle_KR4 changes
-    name = Alita
+    name = Kovno
     level = 1
   -->
-  <Settlement id="castle_KR4" name="{=Settlements.Settlement.ECM.KR.castle_KR4}Alita Castle" owner="Faction.clan_jatvingian_5" posX="902.09" posY="1231.054" culture="Culture.goldenhorde" gate_posX="903.5406" gate_posY="1230.078">
+  <Settlement id="castle_KR4" name="{=Settlements.Settlement.ECM.KR.castle_KR4}Kovno Castle" owner="Faction.clan_jatvingian_5" posX="902.09" posY="1231.054" culture="Culture.goldenhorde" gate_posX="903.5406" gate_posY="1230.078">
     <Components>
       <Town id="castle_comp_KR4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="470" />
     </Components>

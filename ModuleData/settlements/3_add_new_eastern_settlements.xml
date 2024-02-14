@@ -156,7 +156,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_kernave" name="{=reiko_kernave.name}Vilkmergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
+  <Settlement id="reiko_kernave" name="{=reiko_kernave.name}Vilkamergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
     <Components>
       <Town id="reiko_kernave_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
@@ -685,7 +685,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volyn Castle" owner="Faction.clan_volhynia_1" posX="866.950" posY="1134.050" culture="Culture.goldenhorde"  gate_posX="932.000" gate_posY="1271.400">
+  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volyn Castle" owner="Faction.clan_volhynia_1" posX="866.950" posY="1134.050" culture="Culture.goldenhorde"  gate_posX="866.350" gate_posY="1134.500">
     <Components>
       <Town id="reiko_volyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="600" />
     </Components>
@@ -696,9 +696,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_volyn_vil_1" name="{=reiko_volyn_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.volhynian" text="{=reiko_volyn_vil_1.text}Kolky.">
+  <Settlement id="reiko_volyn_vil_1" name="{=reiko_volyn_vil_1.name}Zabuzhzhia" posX="868.730" posY="1149.425" culture="Culture.volhynian" text="{=reiko_volyn_vil_1.text}Zabuzhzhia.">
     <Components>
-      <Village id="reiko_volyn_vil_1_comp" village_type="VillageType.cattle_farm" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_volyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_volyn_vil_1_comp" village_type="VillageType.sheep_farm" hearth="300" gate_rotation="0.758" bound="Settlement.reiko_volyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
