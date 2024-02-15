@@ -685,7 +685,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volyn Castle" owner="Faction.clan_volhynia_1" posX="866.950" posY="1134.050" culture="Culture.goldenhorde"  gate_posX="866.350" gate_posY="1134.500">
+  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volyn Castle" owner="Faction.clan_volhynia_1" posX="866.950" posY="1134.050" culture="Culture.volhynian"  gate_posX="866.350" gate_posY="1134.500">
     <Components>
       <Town id="reiko_volyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="600" />
     </Components>
@@ -702,6 +702,41 @@
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_novgorodok" name="{=reiko_novgorodok.name}Novgorodok" owner="Faction.clan_jatvingian_5" posX="937.740" posY="1208.600" culture="Culture.jatvingian" gate_posX="940.501" gate_posY="1211.520" text="{=reiko_novgorodok.text}Novgorodok">
+    <Components>
+      <Town id="reiko_novgorodok_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1800" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_novgorodok_vil_1" name="{=reiko_novgorodok_vil_1.name}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.jatvingian" text="{=reiko_novgorodok_vil_1.text}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
+    <Components>
+      <Village id="reiko_novgorodok_vil_1_comp" village_type="VillageType.trapper" hearth="114" gate_rotation="0.008" bound="Settlement.reiko_novgorodok" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
