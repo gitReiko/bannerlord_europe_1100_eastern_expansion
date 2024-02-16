@@ -710,9 +710,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_novgorodok" name="{=reiko_novgorodok.name}Novgorodok" owner="Faction.clan_jatvingian_5" posX="937.740" posY="1208.600" culture="Culture.jatvingian" gate_posX="940.501" gate_posY="1211.520" text="{=reiko_novgorodok.text}Novgorodok">
+  <Settlement id="reiko_navahradak" name="{=reiko_navahradak.name}Novgorodok" owner="Faction.clan_jatvingian_5" posX="937.740" posY="1208.600" culture="Culture.jatvingian" gate_posX="940.501" gate_posY="1211.520" text="{=reiko_navahradak.text}Novgorodok">
     <Components>
-      <Town id="reiko_novgorodok_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1800" />
+      <Town id="reiko_navahradak_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1800" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
       <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
@@ -731,9 +731,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_novgorodok_vil_1" name="{=reiko_novgorodok_vil_1.name}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.jatvingian" text="{=reiko_novgorodok_vil_1.text}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
+  <Settlement id="reiko_navahradak_vil_1" name="{=reiko_navahradak_vil_1.name}Pažeimenė" posX="942.281" posY="1244.956" culture="Culture.jatvingian" text="{=reiko_navahradak_vil_1.text}Pažeimenė sits in a broaded forested valley looking down on the Galcha river. The villagers in these parts are expert trappers, hunting marten, fox and rabbit for the rich pelts much in demand in the south.">
     <Components>
-      <Village id="reiko_novgorodok_vil_1_comp" village_type="VillageType.trapper" hearth="114" gate_rotation="0.008" bound="Settlement.reiko_novgorodok" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_navahradak_vil_1_comp" village_type="VillageType.trapper" hearth="114" gate_rotation="0.008" bound="Settlement.reiko_navahradak" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
