@@ -164,12 +164,12 @@
       <name name="{=jatvingian_clan_2}Dainova" />
       <name name="{=jatvingian_clan_3}Merkinian" />
       <name name="{=jatvingian_clan_4}Vaŭkavyskija" />
-      <name name="{=jatvingian_clan_5}Drachičynskija" />
-      <name name="{=jatvingian_clan_6}Słonimskija" />
+      <name name="{=jatvingian_clan_5}Drochičynskija" />
+      <name name="{=jatvingian_clan_6}Usłonimskija" />
       <name name="{=jatvingian_clan_7}Turejskija" />
       <name name="{=jatvingian_clan_8}Śvisłackija" />
       <name name="{=jatvingian_clan_9}Lidzkija" />
-      <name name="{=jatvingian_clan_10}Rajgradian" />
+      <name name="{=jatvingian_clan_10}Rajgrodian" />
     </clan_names>
     <cultural_feats>
 <feat id="battanian_forest_speed" />

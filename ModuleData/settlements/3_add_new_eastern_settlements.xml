@@ -156,9 +156,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_kernave" name="{=reiko_kernave.name}Vilkamergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
+  <Settlement id="reiko_vilkomerge" name="{=reiko_vilkomerge.name}Vilkamergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
     <Components>
-      <Town id="reiko_kernave_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1100" />
+      <Town id="reiko_vilkomerge_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
@@ -167,9 +167,9 @@
     </Locations>
   </Settlement>
 
-    <Settlement id="reiko_kernave_vil_1" name="{=reiko_kernave_vil_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.goldenhorde" text="{=reiko_kernave_vil_1.text}Misa.">
+    <Settlement id="reiko_vilkomerge_vil_1" name="{=reiko_vilkomerge_vil_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.goldenhorde" text="{=reiko_vilkomerge_vil_1.text}Misa.">
     <Components>
-      <Village id="reiko_kernave_vil_1_comp" village_type="VillageType.trapper" hearth="134" gate_rotation="0.008" bound="Settlement.reiko_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_vilkomerge_vil_1_comp" village_type="VillageType.trapper" hearth="134" gate_rotation="0.008" bound="Settlement.reiko_vilkomerge" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />

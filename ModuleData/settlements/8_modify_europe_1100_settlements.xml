@@ -217,11 +217,11 @@
     village_KR4_4 changes
     name = Šėta
     hearth = 133
-    bound = reiko_kernave
+    bound = reiko_vilkomerge
   -->
   <Settlement id="village_KR4_4" name="{=Settlements.Settlement.ECM.KR.village_KR4_4}Šėta" posX="898.023" posY="1250.13" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_4}Šėta.">
     <Components>
-      <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_kernave" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_4" village_type="VillageType.iron_mine" hearth="133" gate_rotation="0.408" bound="Settlement.reiko_vilkomerge" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

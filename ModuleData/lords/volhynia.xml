@@ -842,7 +842,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_5a"
-                name="{=lord_volyan_5a.name}Mechislav Davydovich"
+                name="{=lord_volyan_5a.name}Mechyslav Davydovich"
                 voice="softspoken"
                 age="19"
                 is_female="false"
