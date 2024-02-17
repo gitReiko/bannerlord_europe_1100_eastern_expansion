@@ -20,7 +20,11 @@
 		   ruler_title="{=polish_ruler_title}Kunigas"
 		   text="{=baltic_tribes_text}In the 12th and 13th centuries, internal struggles and invasions by Ruthenians and Poles, and later the expansion of the Teutonic Order, resulted in an almost complete annihilation of the Galindians, Curonians, and Yotvingians. Gradually, Old Prussians became Germanized or Lithuanized between the 15th and 17th centuries, especially after the Reformation in Prussia. The cultures of the Lithuanians and Latgalians/Latvians survived and became the ancestors of the populations of the modern-day countries of Latvia and Lithuania.">
     <relationships>
-
+		<relationship kingdom="Kingdom.rus" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.volhynia" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.polotsk" value="50" isAtWar="false" />
+		<relationship kingdom="Kingdom.poland" value="-25" isAtWar="false" />
+		<relationship kingdom="Kingdom.jatvingian" value="50" isAtWar="false" />
 	</relationships>
     <policies>
 

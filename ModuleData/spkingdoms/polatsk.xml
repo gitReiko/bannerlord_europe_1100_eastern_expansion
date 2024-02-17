@@ -20,7 +20,9 @@
 		   ruler_title="{=polatsk_ruler_title}Knyaz"
 		   text="{=polatsk_kingdom_text}In the 8th century the large Balto-Slavic tribal union Kryvichs forms a chiefdom in Polatsk. The established state would exist until 1504. The first known ruler of Polatsk, Ragnvald (Rahvalod), had Norman ancestry. Traditionally it is considered that princedom was a part of Rus, but the state was independent and often fought with Rus when interests came into contact. During the reign of the Usiasłaŭ II the Seer, the Polatsk Principality reached its greatest prosperity. In the second half of the 13th century, the principality became part of the Grand Duchy of Lithuania as an autonomous part.">
     <relationships>
-
+		<relationship kingdom="Kingdom.rus" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.volhynia" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.goldenhorde" value="50" isAtWar="false" />
 	</relationships>
     <policies>
 
