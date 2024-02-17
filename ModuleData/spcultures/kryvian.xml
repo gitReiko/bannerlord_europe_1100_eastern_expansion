@@ -242,10 +242,10 @@
       <template name="NPCCharacter.spc_kryvich_headman_3" />
     </notable_and_wanderer_templates>
     <lord_templates>
-      <template name="NPCCharacter.kryvich_lord" />
+      <template name="NPCCharacter.kryvian_rebel_lord" />
     </lord_templates>
     <rebellion_hero_templates>
-      <template name="NPCCharacter.kryvich_lord" />
+      <template name="NPCCharacter.kryvian_rebel_lord" />
     </rebellion_hero_templates>
     <tournament_team_templates_one_participant>
       <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />

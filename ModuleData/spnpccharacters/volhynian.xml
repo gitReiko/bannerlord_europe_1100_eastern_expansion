@@ -1251,7 +1251,7 @@
                 culture="Culture.empire"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_volhynian" />
     </face>
     <skills>
       <skill id="OneHanded"
@@ -2351,7 +2351,7 @@
                 culture="Culture.volhynian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_volhynian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2956,7 +2956,7 @@
                 culture="Culture.volhynian"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_sturgia" />
+      <face_key_template value="BodyProperty.fighter_volhynian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>

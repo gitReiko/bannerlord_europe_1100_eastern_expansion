@@ -163,7 +163,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <skills></skills>
     <Equipments>
@@ -426,7 +426,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <skills></skills>
     <!-- Uses village hair -->
@@ -460,7 +460,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <skills></skills>
     <Equipments>
@@ -628,7 +628,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -657,7 +657,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -700,7 +700,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -752,7 +752,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.townswoman_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1251,7 +1251,7 @@
                 culture="Culture.empire"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
     <skills>
       <skill id="OneHanded"
@@ -2351,7 +2351,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_kryvich" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">

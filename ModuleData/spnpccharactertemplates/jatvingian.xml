@@ -11,7 +11,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="npc_wanderer_equipment_template_sturgia" />
@@ -27,7 +27,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="npc_armed_wanderer_equipment_template_jatvingian" />
@@ -256,7 +256,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.fighter_sturgia" />
+      <face_key_template value="BodyProperty.fighter_jatvingian" />
       <!--face_key value="0000012000000000000000000001700000000000000000000000000000000000000a160400000000000000000000000000000000000000000000000000f80000" max_value="00118bfa00002914eff88effeefffffbfecfff888ee3feeff7efffcefffffeff000ff7afffffffef000000000000000000000000000000000000000001c88140" /-->
       <!--<hair_tags>
         <hair_tag name="Bowl" />
@@ -286,7 +286,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" />
@@ -303,7 +303,7 @@
                 is_template="true"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="sturgia_troop_civilian_template_t1" />
@@ -320,7 +320,7 @@
                 is_template="true"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="sturgia_troop_civilian_template_t2" />
@@ -337,7 +337,7 @@
                 is_template="true"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Equipments>
       <EquipmentSet id="sturgia_troop_civilian_template_t3" />
@@ -353,7 +353,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -370,7 +370,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -387,7 +387,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -404,7 +404,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -421,7 +421,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -438,7 +438,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -455,7 +455,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits>
       <!-- Deprecate -->
@@ -474,7 +474,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -491,7 +491,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -508,7 +508,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -525,7 +525,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
@@ -542,7 +542,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 is_template="true">
     <face>
-      <face_key_template value="BodyProperty.villager_sturgia" />
+      <face_key_template value="BodyProperty.villager_jatvingian" />
     </face>
     <Traits></Traits>
     <Equipments>
