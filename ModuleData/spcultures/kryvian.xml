@@ -183,7 +183,7 @@
     </clan_names>
     <cultural_feats>
 <feat id="sturgian_cheaper_recruits_infantry" />
-<feat id="sturgian_decreased_cohesion_rate" />
+<feat id="aserai_cheaper_caravans" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />

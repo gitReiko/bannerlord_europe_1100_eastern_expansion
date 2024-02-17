@@ -1,0 +1,41 @@
+
+Cities placed in two files settlements.xml and scene.xscene
+
+-------------------------
+
+For fast update always save previous version of source files (from Europe Lemmy Map or Europe 1100).
+
+Having the sources of the previous version we can always compare it with the current version and see the changes. This can help you solve a non-standard problem more quickly.
+
+Remember now it is easy to save the sources, but after some time it may be very difficult or impossible to find the right version of the sources.
+
+-------------------------
+
+The absence of modified settlements greatly simplifies the process of updating or transferring.
+
+-------------------------
+
+How quick work with settlements.xml
+
+Split the source settlements.xml file into several parts
+
+1) modified settlement xslt file (It's better to keep all changes in one file.)
+2) new settlements files (You can do a lot of them if it's convenient.)
+
+How to update the settlements
+
+Theoretically, you don't need to update the xml files
+
+-------------------------
+
+How quick work with scene.xscene
+
+1) add new settlements to the end of the settlement block of the scene file
+2) store all new settlements in a separate file from which you can quickly copy them
+3) store all modified settlements in a separate file from which you can quickly copy them
+
+How to update the settlements
+1) delete all changed settlements by id from the new version of the file
+2) add the modified settlements from the saved file to the end of the settlement block of the scene file
+3) add the new settlements from the saved file to the end of the settlement block of the scene file
+4) scene file is ready. In theory, everything should work. If something doesn't work you need to use debugging and source comparison.

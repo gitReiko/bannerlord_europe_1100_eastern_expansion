@@ -172,8 +172,8 @@
       <name name="{=jatvingian_clan_10}Rajgradian" />
     </clan_names>
     <cultural_feats>
-<feat id="sturgian_cheaper_recruits_infantry" />
-<feat id="sturgian_decreased_cohesion_rate" />
+<feat id="battanian_forest_speed" />
+<feat id="battanian_militia_production" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />
