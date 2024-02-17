@@ -2,7 +2,7 @@
 <Factions>
 
   <Faction id="clan_jatvingian_1"
-           name="{=clan_jatvingian_1.name}Horodnia Jatva*"
+           name="{=clan_jatvingian_1.name}Horodnia Principality*"
            tier="3"
            owner="Hero.lord_jatvingian_1a"
            culture="Culture.jatvingian"
@@ -12,7 +12,7 @@
   />
 
   <Faction id="clan_jatvingian_2"
-           name="{=clan_jatvingian_2.name}Vaŭkavysk Jatva*"
+           name="{=clan_jatvingian_2.name}Vaŭkavysk Principality*"
            tier="3"
            owner="Hero.lord_jatvingian_2a"
            culture="Culture.jatvingian"
@@ -22,7 +22,7 @@
   />	
 
   <Faction id="clan_jatvingian_3"
-           name="{=clan_jatvingian_3.name}Sūduva*"
+           name="{=clan_jatvingian_3.name}Rajgrod Principality*"
            tier="5"
            owner="Hero.lord_jatvingian_3a"
            culture="Culture.jatvingian"
@@ -32,7 +32,7 @@
   />
 
   <Faction id="clan_jatvingian_4"
-           name="{=clan_jatvingian_4.name}Usłonim Jatva*"
+           name="{=clan_jatvingian_4.name}Usłonim Principality*"
            tier="3"
            owner="Hero.lord_jatvingian_4a"
            culture="Culture.jatvingian"
@@ -42,7 +42,7 @@
   />
 
   <Faction id="clan_jatvingian_5"
-           name="{=clan_jatvingian_5.name}Dainava*"
+           name="{=clan_jatvingian_5.name}Novgorodok Principality*"
            tier="3"
            owner="Hero.lord_jatvingian_5a"
            culture="Culture.jatvingian"
