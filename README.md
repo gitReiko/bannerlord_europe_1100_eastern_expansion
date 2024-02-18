@@ -5,6 +5,12 @@
 
 The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
+Update 1.1
+
+- 2 new kigdoms and cultures
+- critical bugfix occurring during the rebellion of mod cultures
+- many other changes
+
 This mod has two purposes:
 
 1. recreate Eastern Europe for mod Europa 1100
@@ -21,11 +27,12 @@ What does the mod add at this point:
 
 My future plans
 
-- add Galician kigdom (Peremyshl + Terebovlia principalities)
-- rework Baltic tribes to several cultures and kingdoms
+- add Galician kigdom (Peremyshl + Terebovlia principalities).
+- rework Baltic tribes to several cultures and kingdoms (Prussian, Lithuanian, Latvian, Aestian). Will be very pleased to get info about these cultures in Discord.
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
 Discussion, suggestions, critics
+
 https://discord.com/invite/kdYtRCGvWb
 
 If someone can help me get a better handle on creating a character for a new culture, that would be good.
