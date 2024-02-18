@@ -49,8 +49,6 @@
   <string id="reiko_barysau.name" text="Barysaŭ Castle"/>
   <string id="reiko_barysau_vil_1.name" text="Turyn"/>
   <string id="reiko_barysau_vil_1.text" text="Turyn."/>
-  <string id="reiko_barysau_vil_2.name" text="Lipień"/>
-  <string id="reiko_barysau_vil_2.text" text="Lipień text."/>
   <string id="reiko_lukoml.name" text="Łukoml Castle"/>
   <string id="reiko_lukoml_vil_1.name" text="Latyhaličy"/>
   <string id="reiko_lukoml_vil_1.text" text="Latyhaličy."/>
@@ -72,11 +70,11 @@
   <string id="reiko_volodymyr.text" text="Volodymyr"/>
   <string id="reiko_volodymyr_vil_1.name" text="Turiisk"/>
   <string id="reiko_volodymyr_vil_1.text" text="Turiisk."/>
+  <string id="reiko_volodymyr_vil_2.name" text="Horokhiv"/>
+  <string id="reiko_volodymyr_vil_2.text" text="Horokhiv."/>
   <string id="reiko_lutsk.name" text="Luchesk"/>
   <string id="reiko_lutsk_vil_1.name" text="Kolky"/>
   <string id="reiko_lutsk_vil_1.text" text="Kolky."/>
-  <string id="reiko_volodymyr_vil_2.name" text="Horokhiv"/>
-  <string id="reiko_volodymyr_vil_2.text" text="Horokhiv."/>
   <string id="reiko_dorogobuzh.name" text="Dorogobuzhets"/>
   <string id="reiko_dorogobuzh.text" text="Dorogobuzhets"/>
   <string id="reiko_dorogobuzh_vil_1.name" text="Lipki"/>
@@ -88,6 +86,13 @@
   <string id="reiko_belz_vil_1.name" text="Korchyn"/>
   <string id="reiko_belz_vil_1.text" text="Korchyn."/>
   <string id="reiko_slonim.name" text="Usłonim Castle"/>
+  <string id="reiko_volyn.name" text="Volyn Castle"/>
+  <string id="reiko_volyn_vil_1.name" text="Zabuzhzhia"/>
+  <string id="reiko_volyn_vil_1.text" text="Zabuzhzhia."/>
+  <string id="reiko_navahradak.name" text="Novgorodok"/>
+  <string id="reiko_navahradak.text" text="Novgorodok"/>
+  <string id="reiko_navahradak_vil_1.name" text="Bakunova"/>
+  <string id="reiko_navahradak_vil_1.text" text="Bakunova"/>
   <!--input/settlements/8_modify_europe_1100_settlements.xml-->
   <string id="Settlements.Settlement.ECM.KR.town_KR5" text="Połack"/>
   <string id="ECM_KR_F5HlQdgf" text="Połack sits in the western foothills of Mount Iltan, on the eastern borders of the Sturgian lands. This region has long stood aloof from the power struggles of the other Sturgian principalities. Its people are known as wanderers, traders, horse breeders and fur-trappers. The local aristocracy has occasionally exchanged princesses with the steppe tribes to the east to firm up a truce or a trade pact, and proudly includes the names of several great khans on their list of ancestors."/>
@@ -124,8 +129,18 @@
   <string id="ECM_Settlements.Settlement.text.village_KR2_1" text="Hajnówka."/>
   <string id="Settlements.Settlement.ECM.KR.village_KR2_2" text="Wisznice"/>
   <string id="ECM_Settlements.Settlement.text.village_KR2_2" text="Wisznice."/>
+  <string id="Settlements.Settlement.ECM.KR.town_KR3" text="Halych"/>
+  <string id="ECM_KR_pbHXtJ82" text="Halych sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake."/>
+  <string id="Settlements.Settlement.ECM.KR.village_KR3_1" text="Lviv"/>
+  <string id="ECM_Settlements.Settlement.text.village_KR3_1" text="Lviv."/>
+  <string id="Settlements.Settlement.ECM.KR.village_KR3_2" text="Terebovlia"/>
+  <string id="ECM_Settlements.Settlement.text.village_KR3_2" text="Terebovlia."/>
   <!--input/settlements/9_add_eastern_settlements_for_europe_1100.xml-->
   <string id="reiko_riga_vil_3.name" text="Carnikava"/>
   <string id="reiko_riga_vil_4.name" text="Ropaži"/>
+  <string id="reiko_polack_vil_1.name" text="Lipień"/>
+  <string id="reiko_polack_vil_1.text" text="Lipień text."/>
+  <string id="reiko_brest_vil_1.name" text="Hanna"/>
+  <string id="reiko_brest_vil_1.text" text="Hanna"/>
  </strings>
 </base>
