@@ -1,5 +1,5 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.4, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.5, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 !!! Warning. Mod now requires Open Source Armory.
 
@@ -8,22 +8,22 @@ The mod on this page will be updated to match the Europe 1100 version on Steam. 
 This mod has two purposes:
 
 1. recreate Eastern Europe for mod Europa 1100
-2. create 'easily' transferable settlements of Eastern Europe for the Europe Lemmy Map
+2. create transferable settlements of Eastern Europe for the Europe Lemmy Map
 
 The action of the expansion takes place in the same timeline of 1090-1005. Submod also tries to be as historical as possible (lack of historical and archaeological materials) and my competence permits.
 
 What does the mod add at this point:
 
 - many settlements
-- one new kingdom and culture (Polatsk Principality)
-- greatly expands and improves the kingdom of the Baltic Tribes
+- 3 kingdoms (Polatsk, Jatvingian, Volhynia)
+- 3 cultures (Kryvian, Jatvingian, Volhynia)
+- expand baltic culture (will be reworked to several cultures and kingdoms)
 
 My future plans
 
-- take a rest
-- update my translations
-- start work on the next update (Volhynia Principality)
-- planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot. I don't know anything about Estonia, but I understand that I can make a compact kingdom. For that I will need help.
+- add Galician kigdom (Peremyshl + Terebovlia principalities)
+- rework Baltic tribes to several cultures and kingdoms
+- planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
 Discussion, suggestions, critics
 https://discord.com/invite/kdYtRCGvWb
