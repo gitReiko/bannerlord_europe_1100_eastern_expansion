@@ -9,7 +9,8 @@
            super_faction="Kingdom.jatvingian"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.505.10.40.40.267.763.723.0.1.90.505.10.40.40.401.763.756.0.1.0.503.101.40.86.86.763.723.0.0.180.506.10.40.70.40.873.723.0.1.90.506.10.40.70.40.652.723.0.1.90.506.10.40.70.40.763.586.0.1.90.506.10.40.70.40.763.930.0.1.90.505.101.40.40.40.907.697.0.0.45.505.101.40.40.40.907.750.0.0.45.505.101.40.40.40.942.724.0.0.-226.505.101.40.40.40.618.697.0.0.45.505.101.40.40.40.618.750.0.0.45.505.101.40.40.40.583.724.0.0.-226.505.101.40.40.40.738.550.0.0.-226.505.101.40.40.40.791.551.0.0.-226.505.101.40.42.40.763.516.0.0.-226.505.101.40.40.40.738.966.0.0.-226.505.101.40.40.40.791.967.0.0.-226.505.101.40.40.40.763.1000.0.0.-226"
            text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
-  />
+  color="FF515167" color2="FF429081" alternative_color="FF515167" alternative_color2="FF429081"
+  />	
 
   <Faction id="clan_jatvingian_2"
            name="{=clan_jatvingian_2.name}Vaŭkavysk Principality*"
@@ -19,7 +20,8 @@
            super_faction="Kingdom.jatvingian"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.10.116.470.300.764.797.0.0.45.510.10.116.470.300.764.797.0.1.315.510.10.116.470.300.766.532.0.0.45.510.10.116.470.300.766.532.0.1.315.505.27.116.470.300.879.434.0.1.315.505.27.116.470.300.593.493.0.0.45.510.10.116.470.300.764.764.0.0.90.510.10.116.233.200.839.574.0.0.45.510.10.116.269.200.855.614.0.0.45"
            text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
-  />	
+  color="FF429081" color2="FFeae1da" alternative_color="FF429081" alternative_color2="FFeae1da"
+  />		
 
   <Faction id="clan_jatvingian_3"
            name="{=clan_jatvingian_3.name}Rajgrod Principality*"
@@ -29,7 +31,8 @@
            super_faction="Kingdom.jatvingian"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.101.116.460.266.785.830.0.1.45.510.101.116.460.266.785.700.0.0.315.510.101.116.300.266.734.845.0.0.315.510.101.116.300.266.734.685.0.1.-135.510.101.116.142.266.683.535.0.1.-135.510.101.116.369.266.753.668.0.0.315.510.101.116.369.266.753.862.0.1.-135.510.101.116.142.266.683.995.0.0.315"
            text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
-  />
+  color="FFeae1da" color2="FF515167" alternative_color="FFeae1da" alternative_color2="FF515167"
+  />	
 
   <Faction id="clan_jatvingian_4"
            name="{=clan_jatvingian_4.name}Usłonim Principality*"
@@ -39,7 +42,8 @@
            super_faction="Kingdom.jatvingian"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.101.116.550.300.764.764.0.0.90.510.101.116.300.300.764.764.0.1.315.510.101.116.300.300.764.764.0.0.-135"
            text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
-  />
+  color="FFeae1da" color2="FF515167" alternative_color="FFeae1da" alternative_color2="FF515167"
+  />	
 
   <Faction id="clan_jatvingian_5"
            name="{=clan_jatvingian_5.name}Novgorodok Principality*"
@@ -49,6 +53,7 @@
            super_faction="Kingdom.jatvingian"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.10.116.443.282.765.764.0.0.90.510.10.116.188.282.708.632.0.0.45.510.10.116.188.282.821.632.0.1.315.504.10.116.140.115.764.581.0.1.0"
            text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
+  color="FF429081" color2="FFeae1da" alternative_color="FF429081" alternative_color2="FFeae1da"
   />
 		   
 

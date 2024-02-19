@@ -8,7 +8,9 @@
            culture="Culture.kryvich"
            super_faction="Kingdom.polotsk"
            is_noble="true"
-           banner_key="11.12.48.1836.1836.767.764.1.0.0.510.26.116.318.281.960.786.0.1.90.510.26.116.318.281.568.786.0.1.90.510.26.116.490.281.764.941.0.1.0.510.26.116.449.281.764.735.0.1.90.510.26.116.299.281.764.778.0.1.45.510.26.116.299.281.764.778.0.1.135" text="{=clan_rus_9.text}Representing the Usiasłaŭ II the Seer and Rahvałod Usiasłavavič families. The coat of arms is the seal of Knyaz Usiasłaŭ II the Seer." />
+           banner_key="11.12.48.1836.1836.767.764.1.0.0.510.26.116.318.281.960.786.0.1.90.510.26.116.318.281.568.786.0.1.90.510.26.116.490.281.764.941.0.1.0.510.26.116.449.281.764.735.0.1.90.510.26.116.299.281.764.778.0.1.45.510.26.116.299.281.764.778.0.1.135" text="{=clan_rus_9.text}Representing the Usiasłaŭ II the Seer and Rahvałod Usiasłavavič families. The coat of arms is the seal of Knyaz Usiasłaŭ II the Seer."
+           color="FF224277" color2="FFe7d3ba" alternative_color="FF224277" alternative_color2="FFe7d3ba" 
+           />
 
   <Faction id="clan_polotsk_2"
            name="{=clan_polotsk_2.name}Hleb Usiasłavič"
@@ -17,7 +19,9 @@
            culture="Culture.kryvich"
            super_faction="Kingdom.polotsk"
            is_noble="true"
-           banner_key="11.12.48.1836.1836.767.764.1.0.0.510.26.149.367.248.816.851.0.0.150.510.26.149.367.248.710.851.0.0.30.510.26.149.325.248.948.780.0.0.90.510.26.149.325.248.580.780.0.0.90.510.26.149.457.248.764.931.0.0.0.503.26.149.85.85.865.758.0.1.45.503.26.149.85.85.661.758.0.1.45.510.26.149.351.248.764.666.0.0.90.510.26.149.160.248.817.969.0.0.30.510.26.149.160.248.710.969.0.0.330" text="{=clan_polotsk_2.text}Representing the Hleb Usiasłavič family. The coat of arms is the seal of his brother Knyaz Rahvałod Usiasłavavič." />
+           banner_key="11.12.48.1836.1836.767.764.1.0.0.510.26.149.367.248.816.851.0.0.150.510.26.149.367.248.710.851.0.0.30.510.26.149.325.248.948.780.0.0.90.510.26.149.325.248.580.780.0.0.90.510.26.149.457.248.764.931.0.0.0.503.26.149.85.85.865.758.0.1.45.503.26.149.85.85.661.758.0.1.45.510.26.149.351.248.764.666.0.0.90.510.26.149.160.248.817.969.0.0.30.510.26.149.160.248.710.969.0.0.330" text="{=clan_polotsk_2.text}Representing the Hleb Usiasłavič family. The coat of arms is the seal of his brother Knyaz Rahvałod Usiasłavavič."
+           color="FF224277" color2="FFe7d3ba" alternative_color="FF224277" alternative_color2="FFe7d3ba"
+            />
 
   <Faction id="clan_polotsk_3"
            name="{=clan_polotsk_3.name}Śviatasłaŭ Usiasłavič"
@@ -26,7 +30,9 @@
            culture="Culture.kryvich"
            super_faction="Kingdom.polotsk"
            is_noble="true"
-           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.349.266.962.822.0.1.90.510.26.116.349.266.568.822.0.1.90.510.26.116.488.266.765.982.0.1.0.510.26.116.253.266.764.868.0.1.0.510.26.116.141.266.857.926.0.1.90.510.26.116.141.266.670.926.0.1.90.510.26.116.372.266.765.695.0.1.90.510.26.116.191.266.765.607.0.1.0" text="{=clan_polotsk_3.text}Representing the Śviatasłaŭ Usiasłavič family. The coat of arms is a hypothetical reconstruction based on the symbiosis of his family's coats of arms and the later coat of arms of the town of Polatsk." />
+           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.349.266.962.822.0.1.90.510.26.116.349.266.568.822.0.1.90.510.26.116.488.266.765.982.0.1.0.510.26.116.253.266.764.868.0.1.0.510.26.116.141.266.857.926.0.1.90.510.26.116.141.266.670.926.0.1.90.510.26.116.372.266.765.695.0.1.90.510.26.116.191.266.765.607.0.1.0" text="{=clan_polotsk_3.text}Representing the Śviatasłaŭ Usiasłavič family. The coat of arms is a hypothetical reconstruction based on the symbiosis of his family's coats of arms and the later coat of arms of the town of Polatsk." 
+           color="FF8d2a1c" color2="FFe7d3ba" alternative_color="FF8d2a1c" alternative_color2="FFe7d3ba"
+            />
 
   <Faction id="clan_polotsk_4"
            name="{=clan_polotsk_4.name}Raścisłaŭ Usiasłavič"
@@ -35,7 +41,9 @@
            culture="Culture.kryvich"
            super_faction="Kingdom.polotsk"
            is_noble="true"
-           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.27.346.264.959.812.0.1.90.510.26.27.346.264.569.812.0.1.90.510.26.27.485.264.764.971.0.1.0.510.26.27.251.264.763.857.0.1.0.510.26.27.140.264.855.916.0.1.90.510.26.27.140.264.670.916.0.1.90.510.26.27.369.264.764.686.0.1.90.510.26.27.282.264.764.700.0.1.135.510.26.27.282.264.764.700.0.1.45" text="{=clan_polotsk_4.text}Representing the Raścisłaŭ Usiasłavič family. The coat of arms is a hypothetical reconstruction based on the symbiosis of his family's coats of arms and the later coat of arms of the town of Polatsk." />
+           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.27.346.264.959.812.0.1.90.510.26.27.346.264.569.812.0.1.90.510.26.27.485.264.764.971.0.1.0.510.26.27.251.264.763.857.0.1.0.510.26.27.140.264.855.916.0.1.90.510.26.27.140.264.670.916.0.1.90.510.26.27.369.264.764.686.0.1.90.510.26.27.282.264.764.700.0.1.135.510.26.27.282.264.764.700.0.1.45" text="{=clan_polotsk_4.text}Representing the Raścisłaŭ Usiasłavič family. The coat of arms is a hypothetical reconstruction based on the symbiosis of his family's coats of arms and the later coat of arms of the town of Polatsk." 
+           color="FF8d2a1c" color2="FFe7d3ba" alternative_color="FF8d2a1c" alternative_color2="FFe7d3ba"
+            />
 
   <Faction id="clan_baltic_3"
            name="{=clan_baltic_3.name}Latgalians"
@@ -43,7 +51,9 @@
            owner="Hero.lord_baltic_3a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
-           banner_key="11.14.48.1836.1836.767.764.1.0.0.505.26.116.250.250.765.764.0.0.135.505.14.116.160.160.765.764.0.0.135.510.26.116.550.300.766.766.0.0.45.510.26.116.150.300.889.575.0.0.135.510.26.116.150.300.643.957.0.0.135.510.26.116.550.300.765.764.0.0.135.510.26.116.150.300.640.575.0.0.225.510.26.116.150.300.889.954.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />	
+           banner_key="11.14.48.1836.1836.767.764.1.0.0.505.26.116.250.250.765.764.0.0.135.505.14.116.160.160.765.764.0.0.135.510.26.116.550.300.766.766.0.0.45.510.26.116.150.300.889.575.0.0.135.510.26.116.150.300.643.957.0.0.135.510.26.116.550.300.765.764.0.0.135.510.26.116.150.300.640.575.0.0.225.510.26.116.150.300.889.954.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FFe7d3ba" color2="FF8d2a1c" alternative_color="FFe7d3ba" alternative_color2="FF8d2a1c"
+           />	
 
   <Faction id="clan_baltic_06"
            name="{=clan_baltic_06.name}Selonians"
@@ -51,7 +61,9 @@
            owner="Hero.lord_baltic_06a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
-           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.550.300.764.764.0.0.0.510.26.116.150.300.944.764.0.0.90.510.26.116.150.300.584.764.0.0.90.510.26.116.550.300.764.763.0.0.89.510.26.116.150.300.764.583.0.0.179.510.26.116.150.300.763.943.0.0.179" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />
+           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.550.300.764.764.0.0.0.510.26.116.150.300.944.764.0.0.90.510.26.116.150.300.584.764.0.0.90.510.26.116.550.300.764.763.0.0.89.510.26.116.150.300.764.583.0.0.179.510.26.116.150.300.763.943.0.0.179" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FFe7d3ba" color2="FF8d2a1c" alternative_color="FFe7d3ba" alternative_color2="FF8d2a1c"
+           />	
 
   <Faction id="clan_baltic_05"
            name="{=clan_baltic_05.name}Livonians"
@@ -59,6 +71,8 @@
            owner="Hero.lord_baltic_05a"
            culture="Culture.goldenhorde"
            super_faction="Kingdom.polotsk"
-           banner_key="11.126.48.1836.1836.767.764.1.0.0.510.26.116.514.233.768.729.0.0.90.510.26.116.467.233.768.589.0.0.0.510.26.116.467.233.768.760.0.0.0.510.26.116.233.233.959.762.0.1.270.510.26.116.77.233.940.674.0.1.0.510.26.116.77.233.940.850.0.1.0.510.26.116.233.233.863.762.0.1.270.510.26.116.77.233.845.674.0.1.0.510.26.116.77.233.845.850.0.1.0.510.26.116.233.233.673.762.0.0.90.510.26.116.77.233.692.674.0.0.0.510.26.116.77.233.692.850.0.0.0.510.26.116.233.233.576.762.0.0.90.510.26.116.77.233.596.674.0.0.0.510.26.116.77.233.596.850.0.0.0.510.26.116.233.233.768.942.0.0.0.510.26.116.77.233.681.962.0.0.90.510.26.116.77.233.699.998.0.0.0.510.26.116.77.233.854.962.0.1.270.510.26.116.77.233.836.998.0.1.0.510.26.116.101.233.832.548.0.0.90.510.26.116.101.233.957.548.0.0.90.510.26.116.101.233.895.548.0.0.90.510.26.116.101.233.640.548.0.0.90.510.26.116.101.233.578.548.0.0.90.510.26.116.101.233.703.548.0.0.90" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />
+           banner_key="11.126.48.1836.1836.767.764.1.0.0.510.26.116.514.233.768.729.0.0.90.510.26.116.467.233.768.589.0.0.0.510.26.116.467.233.768.760.0.0.0.510.26.116.233.233.959.762.0.1.270.510.26.116.77.233.940.674.0.1.0.510.26.116.77.233.940.850.0.1.0.510.26.116.233.233.863.762.0.1.270.510.26.116.77.233.845.674.0.1.0.510.26.116.77.233.845.850.0.1.0.510.26.116.233.233.673.762.0.0.90.510.26.116.77.233.692.674.0.0.0.510.26.116.77.233.692.850.0.0.0.510.26.116.233.233.576.762.0.0.90.510.26.116.77.233.596.674.0.0.0.510.26.116.77.233.596.850.0.0.0.510.26.116.233.233.768.942.0.0.0.510.26.116.77.233.681.962.0.0.90.510.26.116.77.233.699.998.0.0.0.510.26.116.77.233.854.962.0.1.270.510.26.116.77.233.836.998.0.1.0.510.26.116.101.233.832.548.0.0.90.510.26.116.101.233.957.548.0.0.90.510.26.116.101.233.895.548.0.0.90.510.26.116.101.233.640.548.0.0.90.510.26.116.101.233.578.548.0.0.90.510.26.116.101.233.703.548.0.0.90" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FF35671c" color2="FF8d2a1c" alternative_color="FF35671c" alternative_color2="FF8d2a1c"
+           />	
 		   
 </Factions>
