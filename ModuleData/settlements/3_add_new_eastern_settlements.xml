@@ -731,9 +731,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_terebovlia" name="{=reiko_terebovlia.name}Terebovlia Castle" owner="Faction.clan_rus_3" posX="935.880" posY="1100.170" culture="Culture.volhynian" gate_posX="936.770" gate_posY="1098.990">
+  <Settlement id="reiko_terebovlia" name="{=reiko_terebovlia.name}Terebovlia Castle" owner="Faction.clan_rus_8" posX="934.280" posY="1102.570" culture="Culture.volhynian" gate_posX="934.915" gate_posY="1101.502">
     <Components>
-      <Town id="reiko_terebovlia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1500" />
+      <Town id="reiko_terebovlia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1600" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />

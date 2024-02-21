@@ -439,10 +439,11 @@
 
   <!-- 
     village_KR3_2 changes
+    name = Olenivka
     culture = volhynia
     bound = reiko_terebovlia
   -->
-  <Settlement id="village_KR3_2" name="{=Settlements.Settlement.ECM.KR.village_KR3_2}Terebovlia" posX="946.233" posY="1100.8" culture="Culture.volhynian" text="{=ECM_Settlements.Settlement.text.village_KR3_2}Terebovlia.">
+  <Settlement id="village_KR3_2" name="{=Settlements.Settlement.ECM.KR.village_KR3_2}Olenivka" posX="946.233" posY="1100.8" culture="Culture.volhynian" text="{=ECM_Settlements.Settlement.text.village_KR3_2}Olenivka.">
     <Components>
       <Village id="village_comp_KR3_2" village_type="VillageType.fisherman" hearth="161" gate_rotation="0.908" bound="Settlement.reiko_terebovlia" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
