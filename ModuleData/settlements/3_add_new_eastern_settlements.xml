@@ -742,7 +742,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_rus_8" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="934.915" gate_posY="1101.502">
+  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_rus_8" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="860.690" gate_posY="1098.730">
     <Components>
       <Town id="reiko_drohobych_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="550" />
     </Components>
