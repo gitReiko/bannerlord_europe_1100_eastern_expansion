@@ -742,7 +742,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_rus_8" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="860.690" gate_posY="1098.730">
+  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_rus_8" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="861.800" gate_posY="1099.755">
     <Components>
       <Town id="reiko_drohobych_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="550" />
     </Components>
@@ -753,9 +753,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_drohobych_vil_1" name="{=reiko_drohobych_vil_1.name}Bilokrynytsia" posX="922.270" posY="1089.925" culture="Culture.volhynian" text="{=reiko_drohobych_vil_1.name}Bilokrynytsia.">
+  <Settlement id="reiko_drohobych_vil_1" name="{=reiko_drohobych_vil_1.name}Stryi" posX="876.220" posY="1092.485" culture="Culture.volhynian" text="{=reiko_drohobych_vil_1.name}Stryi.">
     <Components>
-      <Village id="reiko_drohobych_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="197" gate_rotation="0.408" bound="Settlement.reiko_drohobych" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_drohobych_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="397" gate_rotation="0.408" bound="Settlement.reiko_drohobych" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
