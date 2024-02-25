@@ -792,6 +792,28 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_peremyshl" name="{=reiko_peremyshl.name}Peremyshl" owner="Faction.clan_rus_8" posX="842.865" posY="1127.150" culture="Culture.volhynian" gate_posX="842.865" gate_posY="1127.150" text="{=reiko_peremyshl.text}Peremyshl">
+    <Components>
+      <Town id="reiko_peremyshl_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1800" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <!--
   <Settlement id="reiko_peremyshl" name="{=reiko_peremyshl.name}Peremyshl" owner="Faction.clan_rus_8" posX="841.865" posY="1126.150" culture="Culture.volhynian" gate_posX="282.9245" gate_posY="1160.744" text="{=reiko_peremyshl.text}Peremyshl.">
     <Components>
       <Town id="reiko_peremyshl_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1700" />
@@ -812,6 +834,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
+  -->
 
   <Settlement id="reiko_peremyshl_vil_1" name="{=reiko_peremyshl_vil_1.name}Northampton" posX="273.925" posY="1174.064" culture="Culture.volhynian" text="{=reiko_peremyshl_vil_1.text}Northampton.">
     <Components>
