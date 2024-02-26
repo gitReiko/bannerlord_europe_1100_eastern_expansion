@@ -792,7 +792,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_peremyshl" name="{=reiko_peremyshl.name}Peremyshl" owner="Faction.clan_rus_8" posX="842.865" posY="1127.150" culture="Culture.volhynian" gate_posX="842.865" gate_posY="1127.150" text="{=reiko_peremyshl.text}Peremyshl">
+  <Settlement id="reiko_peremyshl" name="{=reiko_peremyshl.name}Peremyshl" owner="Faction.clan_rus_8" posX="842.000" posY="1126.000" culture="Culture.volhynian" gate_posX="845.747" gate_posY="1128.010" text="{=reiko_peremyshl.text}Peremyshl">
     <Components>
       <Town id="reiko_peremyshl_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="1800" />
     </Components>
