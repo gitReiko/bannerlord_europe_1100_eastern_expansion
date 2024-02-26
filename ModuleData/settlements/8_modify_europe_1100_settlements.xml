@@ -422,11 +422,12 @@
   <!-- 
     village_KR3_1 changes
     name = Zarichchia
+    bound = reiko_peremyshl
     culture = volhynia
   -->
   <Settlement id="village_KR3_1" name="{=Settlements.Settlement.ECM.KR.village_KR3_1}Zarichchia" posX="868.067" posY="1113.278" culture="Culture.volhynian" text="{=ECM_Settlements.Settlement.text.village_KR3_1}Zarichchia.">
     <Components>
-      <Village id="village_comp_KR3_1" village_type="VillageType.cattle_farm" hearth="185" gate_rotation="0.008" bound="Settlement.town_KR3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR3_1" village_type="VillageType.wheat_farm" hearth="185" gate_rotation="0.008" bound="Settlement.reiko_peremyshl" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
