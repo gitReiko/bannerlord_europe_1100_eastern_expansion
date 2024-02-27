@@ -635,14 +635,14 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.500" posY="1126.080" culture="Culture.volhynian"  gate_posX="888.940" gate_posY="1126.750">
+  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.800" posY="1126.380" culture="Culture.volhynian"  gate_posX="889.240" gate_posY="1127.050">
     <Components>
-      <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="400" />
+      <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="400" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sturgia_castle_c" scene_name_1="sturgia_castle_c" scene_name_2="sturgia_castle_c" scene_name_3="sturgia_castle_c" />
-      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="sturgia_dungeon_a" />
+      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
     </Locations>
   </Settlement>
 
