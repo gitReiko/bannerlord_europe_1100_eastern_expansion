@@ -395,10 +395,11 @@
   <!-- 
     town_KR3 changes
     culture = volhynia
+    owner = clan_halych_3
     prosperity = 700
     level = 1
   -->
-  <Settlement id="town_KR3" name="{=Settlements.Settlement.ECM.KR.town_KR3}Halych" owner="Faction.clan_rus_8" posX="899.016" posY="1088.137" culture="Culture.volhynian" gate_posX="903.4154" gate_posY="1087.109" text="{=ECM_KR_pbHXtJ82}Halych sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
+  <Settlement id="town_KR3" name="{=Settlements.Settlement.ECM.KR.town_KR3}Halych" owner="Faction.clan_halych_3" posX="899.016" posY="1088.137" culture="Culture.volhynian" gate_posX="903.4154" gate_posY="1087.109" text="{=ECM_KR_pbHXtJ82}Halych sits on the eastern shores of Lake Laconis. Long before the Sturgians formed themselves into a principality it was a holy site for the forest tribes, who worshipped their gods and ancestors in the sacred oak trees of the nearby woods. Today, it is an emporium for fur trappers and woodsmen who prowl the Ircara wildlands to the east, and the primeval peace of the forests is drowned out by the sounds of bartering, saws, and the unloading of ships at the lake.">
     <Components>
       <Town id="town_comp_KR3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.008" prosperity="700" />
     </Components>

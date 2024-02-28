@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_halych_1a" faction="Faction.clan_halych_1" text="{=lord_halych_1a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1084 together with Volodar Rostyslavych first captured Volodymyr and then blocked the trade route to Byzantium. In 1086 has joined to the brother Rurik and began to rule in Zvenygorod. In 1097 at the Liubech Congress legally confirmed the possession of the Principality of Peremyshl." />
+
+   <Hero id="lord_halych_2a" faction="Faction.clan_halych_2" text="{=lord_halych_2a.text}In 1122 after the death of his father he received the principality of Peremyshl. In the same year he defended against the Polish army. In 1125-1126 he first defended Peremyshl from his younger brother, then himself attacked Zvenygorod. Was forced to retreat because of the Hungarian king. He ruled in Peremyshl until the end of his life." />
+
+   <Hero id="lord_halych_3a" faction="Faction.clan_halych_3" text="{=lord_halych_3a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1086 has joined to the brother Rurik and began to rule in Terebovlia. His son Volodymyrko in 1141 will unite the White Croatian principalities into a single Principality of Halych." />
+
+   <Hero id="lord_halych_4a" faction="Faction.clan_halych_4" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+
+</Heroes>
