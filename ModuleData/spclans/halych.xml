@@ -7,7 +7,7 @@
            owner="Hero.lord_halych_1a"
            culture="Culture.volhynian"
            super_faction="Kingdom.halych"
-           banner_key="11.99.48.1836.1836.768.765.1.0.0.510.111.40.329.220.763.826.0.0.0.510.111.40.550.220.764.752.0.0.90.510.111.40.250.220.614.724.0.0.100.510.111.40.250.220.914.724.0.1.260.510.111.40.159.220.764.889.0.0.0.510.111.40.105.220.764.949.0.0.0" text="{=clan_halych_1.text}+++" 
+           banner_key="11.99.48.1836.1836.768.765.1.0.0.510.111.40.329.220.763.826.0.0.0.510.111.40.550.220.764.752.0.0.90.510.111.40.250.220.614.724.0.0.100.510.111.40.250.220.914.724.0.1.260.510.111.40.159.220.764.889.0.0.0.510.111.40.105.220.764.949.0.0.0" text="{=clan_halych_1.text}Representing the Volodar Rostyslavych family. The coat of arms is a hypothetical reconstruction* based on the seal of close relative of Igor Vasylkovych." 
            color="453d38" color2="dfdedc" alternative_color="453d38" alternative_color2="dfdedc"
     />
 
@@ -17,7 +17,7 @@
            owner="Hero.lord_halych_2a"
            culture="Culture.volhynian"
            super_faction="Kingdom.halych"
-           banner_key="11.111.48.1836.1836.768.765.1.0.0.510.99.40.329.220.763.826.0.0.0.510.99.40.550.220.764.752.0.0.90.510.99.40.250.220.614.724.0.0.100.510.99.40.250.220.914.724.0.1.260.510.99.40.150.220.612.707.0.0.10.510.99.40.159.220.764.889.0.0.0.510.99.40.105.220.764.949.0.0.0" text="{=clan_halych_2.text}+++" 
+           banner_key="11.111.48.1836.1836.768.765.1.0.0.510.99.40.329.220.763.826.0.0.0.510.99.40.550.220.764.752.0.0.90.510.99.40.250.220.614.724.0.0.100.510.99.40.250.220.914.724.0.1.260.510.99.40.150.220.612.707.0.0.10.510.99.40.159.220.764.889.0.0.0.510.99.40.105.220.764.949.0.0.0" text="{=clan_halych_2.text}Representing the Rostyslav Volodarovich family. The coat of arms is a hypothetical reconstruction* based on the seal of close relative of Igor Vasylkovych." 
            color="dfdedc" color2="453d38" alternative_color="dfdedc" alternative_color2="453d38"
     />
 
@@ -27,7 +27,7 @@
            owner="Hero.lord_halych_3a"
            culture="Culture.volhynian"
            super_faction="Kingdom.halych"
-           banner_key="11.111.48.1836.1836.768.765.1.0.0.510.99.40.329.220.763.826.0.0.0.510.99.40.550.220.764.752.0.0.90.510.99.40.250.220.614.724.0.0.100.510.99.40.250.220.914.724.0.1.260.510.99.40.150.220.764.929.0.0.0" text="{=clan_halych_3.text}+++" 
+           banner_key="11.111.48.1836.1836.768.765.1.0.0.510.99.40.329.220.763.826.0.0.0.510.99.40.550.220.764.752.0.0.90.510.99.40.250.220.614.724.0.0.100.510.99.40.250.220.914.724.0.1.260.510.99.40.150.220.764.929.0.0.0" text="{=clan_halych_3.text}Representing the Vasylko Rostyslavych family. The coat of arms is the seal of his son Knyaz Igor Vasylkovych." 
            color="dfdedc" color2="453d38" alternative_color="dfdedc" alternative_color2="453d38"
     />
 
@@ -37,8 +37,8 @@
            owner="Hero.lord_halych_4a"
            culture="Culture.volhynian"
            super_faction="Kingdom.halych"
-           banner_key="11.43.19.1836.1836.768.788.1.0.-30.103.99.116.402.402.744.728.0.0.0" text="{=clan_halych_4.text}+++" 
-           color="ebdcbb" color2="453d38" alternative_color="ebdcbb" alternative_color2="453d38"
+           banner_key="11.17.19.1836.1836.768.788.1.0.-30.103.99.116.402.402.744.728.0.0.0" text="{=clan_halych_4.text}This clan is non-historical. Representing Halych boyars in Druhyi Bych city. The clan's coat of arms is the coat of arms of Halych principality." 
+           color="eed690" color2="453d38" alternative_color="eed690" alternative_color2="453d38"
     />
 		   
 </Factions>
