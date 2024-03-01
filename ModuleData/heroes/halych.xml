@@ -2,12 +2,28 @@
 
 <Heroes>
 
-   <Hero id="lord_halych_1a" faction="Faction.clan_halych_1" text="{=lord_halych_1a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1084 together with Volodar Rostyslavych first captured Volodymyr and then blocked the trade route to Byzantium. In 1086 has joined to the brother Rurik and began to rule in Zvenygorod. In 1097 at the Liubech Congress legally confirmed the possession of the Principality of Peremyshl." />
+   <Hero id="lord_halych_1a" faction="Faction.clan_halych_1" spouse="Hero.lord_halych_1b" mother="Hero.lord_halych_1c" text="{=lord_halych_1a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1084 together with Volodar Rostyslavych first captured Volodymyr and then blocked the trade route to Byzantium. In 1086 has joined to the brother Rurik and began to rule in Zvenigorod. In 1097 at the Liubech Congress legally confirmed the possession of the Principality of Peremyshl." />
+   <Hero id="lord_halych_1b" faction="Faction.clan_halych_1" spouse="Hero.lord_halych_1a" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
+   <Hero id="lord_halych_1c" faction="Faction.clan_halych_1" />
+   <Hero id="lord_halych_1d" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />
+   <Hero id="lord_halych_1e" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />
+   <Hero id="lord_halych_1f" faction="Faction.clan_halych_1" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+   <Hero id="lord_halych_1g" faction="Faction.clan_halych_1" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
 
-   <Hero id="lord_halych_2a" faction="Faction.clan_halych_2" text="{=lord_halych_2a.text}In 1122 after the death of his father he received the principality of Peremyshl. In the same year he defended against the Polish army. In 1125-1126 he first defended Peremyshl from his younger brother, then himself attacked Zvenygorod. Was forced to retreat because of the Hungarian king. He ruled in Peremyshl until the end of his life." />
+   <Hero id="lord_halych_2a" faction="Faction.clan_halych_2" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" text="{=lord_halych_2a.text}In 1122 after the death of his father he received the principality of Peremyshl. In the same year he defended against the Polish army. In 1125-1126 he first defended Peremyshl from his younger brother, then himself attacked Zvenigorod. Was forced to retreat because of the Hungarian king. He ruled in Peremyshl until the end of his life." />
+   <Hero id="lord_halych_2b" faction="Faction.clan_halych_2" />
+   <Hero id="lord_halych_2c" faction="Faction.clan_halych_2" />
 
-   <Hero id="lord_halych_3a" faction="Faction.clan_halych_3" text="{=lord_halych_3a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1086 has joined to the brother Rurik and began to rule in Terebovlia. His son Volodymyrko in 1141 will unite the White Croatian principalities into a single Principality of Halych." />
+   <Hero id="lord_halych_3a" faction="Faction.clan_halych_3" spouse="Hero.lord_halych_3b" mother="Hero.lord_halych_1c" text="{=lord_halych_3a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1086 has joined to the brother Rurik and began to rule in Terebovlia. His son Volodymyrko in 1141 will unite the White Croatian principalities into a single Principality of Halych." />
+   <Hero id="lord_halych_3b" faction="Faction.clan_halych_3" spouse="Hero.lord_halych_3a" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
+   <Hero id="lord_halych_3c" faction="Faction.clan_halych_3" father="Hero.lord_halych_3a" mother="Hero.lord_halych_3b" />
+   <Hero id="lord_halych_3d" faction="Faction.clan_halych_3" father="Hero.lord_halych_3a" mother="Hero.lord_halych_3b" />
+   <Hero id="lord_halych_3e" faction="Faction.clan_halych_3" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
 
-   <Hero id="lord_halych_4a" faction="Faction.clan_halych_4" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+   <Hero id="lord_halych_4a" faction="Faction.clan_halych_4" spouse="Hero.lord_halych_4b" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+   <Hero id="lord_halych_4b" faction="Faction.clan_halych_4" spouse="Hero.lord_halych_4a" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+   <Hero id="lord_halych_4c" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
+   <Hero id="lord_halych_4d" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
+   <Hero id="lord_halych_4e" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
 
 </Heroes>

@@ -49,6 +49,267 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_halych_1b"
+                name="{=lord_halych_1b.name}Ganna*"
+                voice="softspoken"
+                age="27"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="OneHanded" value="40" />
+        <skill id="Riding" value="75" />
+        <skill id="Athletics" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_1c"
+                name="{=lord_halych_1c.name}Ilona of Hungary"
+                voice="softspoken"
+                age="49"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Riding" value="100" />
+        <skill id="Athletics" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_1d"
+                name="{=lord_halych_1d.name}Iryna Volodarivna"
+                voice="softspoken"
+                age="12"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="25" />
+        <skill id="Engineering" value="25" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="25" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Polearm" value="50" />
+        <skill id="Riding" value="75" />
+        <skill id="Athletics" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_1e"
+                name="{=lord_halych_1e.name}Volodymyrko Volodarovich"
+                voice="softspoken"
+                age="1"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Steward" value="5" />
+        <skill id="Charm" value="10" />
+        <skill id="Scouting" value="5" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_1f"
+                name="{=lord_halych_1f.name}Iraklyi*"
+                voice="softspoken"
+                age="46"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_1g"
+                name="{=lord_halych_1g.name}Mikhailo*"
+                voice="softspoken"
+                age="34"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="225" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_halych_2a"
                 name="{=lord_halych_2a.name}Volodar Rostyslavych"
                 voice="softspoken"
@@ -85,6 +346,100 @@
         <Trait id="Honor" value="1" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_2b"
+                name="{=lord_halych_2b.name}Jyroslav*"
+                voice="softspoken"
+                age="44"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_2c"
+                name="{=lord_halych_2c.name}Yaropolk*"
+                voice="softspoken"
+                age="28"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
@@ -143,6 +498,181 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_halych_3b"
+                name="{=lord_halych_3b.name}Aleksandra*"
+                voice="softspoken"
+                age="24"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="25" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Riding" value="125" />
+        <skill id="Athletics" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_3c"
+                name="{=lord_halych_3c.name}Rostyslav Vasylkovich"
+                voice="softspoken"
+                age="6"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Medicine" value="15" />
+        <skill id="Leadership" value="30" />
+        <skill id="Steward" value="50" />
+        <skill id="Charm" value="25" />
+        <skill id="Roguery" value="25" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="75" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="75" />
+        <skill id="TwoHanded" value="15" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_3d"
+                name="{=lord_halych_3d.name}Igor Vasylkovich"
+                voice="softspoken"
+                age="3"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Leadership" value="25" />
+        <skill id="Steward" value="25" />
+        <skill id="Charm" value="25" />
+        <skill id="Roguery" value="40" />
+        <skill id="Scouting" value="25" />
+        <skill id="Tactics" value="10" />
+        <skill id="Athletics" value="35" />
+        <skill id="Throwing" value="15" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_3e"
+                name="{=lord_halych_3e.name}Grygoryi*"
+                voice="softspoken"
+                age="57"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="250" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_halych_4a"
                 name="{=lord_halych_4a.name}Vladyslav*"
                 voice="softspoken"
@@ -186,6 +716,187 @@
     <Equipments>
       <EquipmentSet id="volhynian_lord" />
       <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_4b"
+                name="{=lord_halych_4b.name}Fedora*"
+                voice="softspoken"
+                age="41"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Bow" value="150" />
+        <skill id="OneHanded" value="75" />
+        <skill id="Riding" value="150" />
+        <skill id="Athletics" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_4c"
+                name="{=lord_halych_4c.name}Filip*"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_4d"
+                name="{=lord_halych_4d.name}Andryi*"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.6921" build="0.689"  key="0005AC0800000303797664884966BB9B64A9866295A0967774414A498A83468600AAA6030AA7B7A500000000000000000000000000000000000000003D3C2005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_halych_4e"
+                name="{=lord_halych_4e.name}Maria*"
+                voice="softspoken"
+                age="17"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4799" build="0.2485"  key="0008000E40B4100386A66476488A6DAC653ECC6586879685B7A6448A88BB468400647603066777A8000000000000000000000000000000000000000062D410C3"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Riding" value="150" />
+        <skill id="Athletics" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

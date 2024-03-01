@@ -767,9 +767,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_zvenygorod" name="{=reiko_zvenygorod.name}Zvenygorod Castle" owner="Faction.clan_halych_2" posX="881.528" posY="1108.920" culture="Culture.volhynian" gate_posX="880.480" gate_posY="1108.600">
+  <Settlement id="reiko_zvenigorod" name="{=reiko_zvenigorod.name}Zvenigorod Castle" owner="Faction.clan_halych_2" posX="881.528" posY="1108.920" culture="Culture.volhynian" gate_posX="880.480" gate_posY="1108.600">
     <Components>
-      <Town id="reiko_zvenygorod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1160" />
+      <Town id="reiko_zvenigorod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1160" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
@@ -778,9 +778,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_zvenygorod_vil_1" name="{=reiko_zvenygorod_vil_1.name}Duliby" posX="890.319" posY="1098.960" culture="Culture.volhynian" text="{=reiko_zvenygorod_vil_1.text}Duliby">
+  <Settlement id="reiko_zvenigorod_vil_1" name="{=reiko_zvenigorod_vil_1.name}Duliby" posX="890.319" posY="1098.960" culture="Culture.volhynian" text="{=reiko_zvenigorod_vil_1.text}Duliby">
     <Components>
-      <Village id="reiko_zvenygorod_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="174" gate_rotation="0.008" bound="Settlement.reiko_zvenygorod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_zvenigorod_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="174" gate_rotation="0.008" bound="Settlement.reiko_zvenigorod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
