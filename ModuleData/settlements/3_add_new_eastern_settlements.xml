@@ -202,9 +202,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_apuole" name="{=reiko_apuole.name}Apuolė" owner="Faction.clan_baltic_4" posX="862.030" posY="1253.080" culture="Culture.goldenhorde" gate_posX="865.416" gate_posY="1249.950" text="{=reiko_apuole.name}Apuolė, the 'Horse of the Ford,' is nowhere near a river. But Battanian bards love nothing more than an incongruous place-name around which a legend can be woven. In this case the hero Ochlaigan, who was foretold to defeat the seven sons of Glanys in seven duels near seven fords, encountered the last of his enemies here. He slit his horse's throat and crossed over the stream of blood that gushed forth, defeating his last enemy and fulfiling the prophecy.">
+  <Settlement id="reiko_sparnene" name="{=reiko_sparnene.name}Spārnene" owner="Faction.clan_baltic_4" posX="865.846" posY="1260.070" culture="Culture.goldenhorde" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_sparnene.name}Spārnene.">
     <Components>
-      <Town id="reiko_apuole_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="2300" />
+      <Town id="reiko_sparnene_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
       <Location id="center" scene_name="battania_town_d" scene_name_1="battania_town_d" scene_name_2="battania_town_d" scene_name_3="battania_town_d" />
@@ -223,9 +223,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_apuole_vil_1" name="{=reiko_apuole_vil_1.name}Talsi" posX="877.700" posY="1257.140" culture="Culture.goldenhorde" text="{=reiko_apuole_vil_1.text}Talsi.">
+  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Talsi" posX="877.700" posY="1257.140" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_1.text}Talsi.">
     <Components>
-      <Village id="reiko_apuole_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_sparnene_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
@@ -237,9 +237,9 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_apuole_vil_2" name="{=reiko_apuole_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.goldenhorde" text="{=reiko_apuole_vil_2.text}Ragaciems.">
+    <Settlement id="reiko_sparnene_vil_2" name="{=reiko_sparnene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_2.text}Ragaciems.">
     <Components>
-      <Village id="reiko_apuole_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_apuole" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_sparnene_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
