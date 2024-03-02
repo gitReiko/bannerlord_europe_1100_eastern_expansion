@@ -152,14 +152,14 @@
 
   <!-- 
     village_KR4_1 changes
-    name = Seda
+    name = Siluva
     hearth = 110
     village_type = sturgian_horse_ranch
-    bound = reiko_sparnene
+    bound = reiko_raseiniai
   -->
-  <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Seda" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Seda.">
+  <Settlement id="village_KR4_1" name="{=Settlements.Settlement.ECM.KR.village_KR4_1}Siluva" posX="867.09" posY="1240.777" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_1}Siluva.">
     <Components>
-      <Village id="village_comp_KR4_1" village_type="VillageType.sturgian_horse_ranch" hearth="110" gate_rotation="0.758" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR4_1" village_type="VillageType.sturgian_horse_ranch" hearth="110" gate_rotation="0.758" bound="Settlement.reiko_raseiniai" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
