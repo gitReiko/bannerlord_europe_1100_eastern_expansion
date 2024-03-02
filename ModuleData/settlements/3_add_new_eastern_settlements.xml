@@ -251,7 +251,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgrod Castle" owner="Faction.clan_jatvingian_3" posX="867.259" posY="1215.870" culture="Culture.jatvingian" gate_posX="867.980" gate_posY="1216.500">
+  <Settlement id="reiko_rajgrod" name="{=reiko_rajgrod.name}Rajgrod Castle" owner="Faction.clan_jatvingian_3" posX="854.968" posY="1214.567" culture="Culture.jatvingian" gate_posX="855.326" gate_posY="1214.756">
     <Components>
       <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="550" />
     </Components>
