@@ -262,7 +262,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="881.390" posY="1207.365" culture="Culture.jatvingian" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
+  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="875.120" posY="1207.760" culture="Culture.jatvingian" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
     <Components>
       <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.trapper" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_rajgrod" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
