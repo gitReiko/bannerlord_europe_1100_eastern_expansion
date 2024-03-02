@@ -102,7 +102,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_jelgava_vil_1" name="{=reiko_jelgava_vil_1.name}Šaukėnai" posX="894.815" posY="1267.850" culture="Culture.goldenhorde" text="{=reiko_jelgava_vil_1.text}Šaukėnai text.">
+  <Settlement id="reiko_jelgava_vil_1" name="{=reiko_jelgava_vil_1.name}Atpūta" posX="885.055" posY="1260.200" culture="Culture.goldenhorde" text="{=reiko_jelgava_vil_1.text}Atpūta.">
     <Components>
       <Village id="reiko_jelgava_vil_1_comp" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -223,7 +223,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Talsi" posX="877.700" posY="1257.140" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_1.text}Talsi.">
+  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Auce" posX="853.513" posY="1252.536" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_1.text}Auce.">
     <Components>
       <Village id="reiko_sparnene_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
