@@ -401,7 +401,7 @@
     </CommonAreas>
   </Settlement>
 
-      <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horodnia" owner="Faction.clan_jatvingian_1" posX="892.790" posY="1216.58" culture="Culture.jatvingian"  gate_posX="894.026" gate_posY="1214.905" text="{=reiko_hrodna.text}Horodnia.">
+      <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horodnia" owner="Faction.clan_jatvingian_1" posX="892.015" posY="1212.170" culture="Culture.jatvingian"  gate_posX="893.161" gate_posY="1210.482" text="{=reiko_hrodna.text}Horodnia.">
     <Components>
       <Town id="reiko_hrodna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1100" />
     </Components>
