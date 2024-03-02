@@ -91,7 +91,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_baltic_09" posX="879.525" posY="1266.150" culture="Culture.goldenhorde"  gate_posX="879.786" gate_posY="1264.812">
+  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_baltic_09" posX="885.352" posY="1271.515" culture="Culture.goldenhorde"  gate_posX="886.039" gate_posY="1271.724">
     <Components>
       <Town id="reiko_jelgava_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>
