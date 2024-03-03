@@ -90,100 +90,100 @@
       <policy id="policy_precarial_land_tenure" />
     </default_policies>
     <male_names>
-<name name="{=baltic_male_1}Mindovg" />
-<name name="{=baltic_male_2}Algirdas" />
-<name name="{=baltic_male_3}Andrius" />
-<name name="{=baltic_male_4}Birutėnas" />
-<name name="{=baltic_male_5}Dainius" />
-<name name="{=baltic_male_6}Daumantas" />
-<name name="{=baltic_male_7}Gediminas" />
-<name name="{=baltic_male_8}Irmantas" />
-<name name="{=baltic_male_9}Jurgis" />
-<name name="{=baltic_male_10}Kęstas" />
-<name name="{=baltic_male_11}Leonas" />
-<name name="{=baltic_male_12}Lukiškis" />
-<name name="{=baltic_male_13}Mindaugas" />
-<name name="{=baltic_male_14}Noreikas" />
-<name name="{=baltic_male_15}Povilas" />
-<name name="{=baltic_male_16}Romaldas" />
-<name name="{=baltic_male_17}Rimantas" />
-<name name="{=baltic_male_18}Saulius" />
-<name name="{=baltic_male_19}Skirmantas" />
-<name name="{=baltic_male_20}Stanislovas" />
-<name name="{=baltic_male_21}Tautvilas" />
-<name name="{=baltic_male_22}Tumas" />
-<name name="{=baltic_male_23}Ugnius" />
-<name name="{=baltic_male_24}Valdimantas" />
-<name name="{=baltic_male_25}Vaidotas" />
-<name name="{=baltic_male_26}Vidmantas" />
-<name name="{=baltic_male_27}Zigmantas" />
-<name name="{=baltic_male_28}Žydrūnas" />
-<name name="{=baltic_male_29}Algimantas" />
-<name name="{=baltic_male_30}Birutis" />
-<name name="{=baltic_male_31}Kazimieras" />
-<name name="{=baltic_male_32}Edvardas" />
-<name name="{=baltic_male_33}Mykolas" />
-<name name="{=baltic_male_34}Kajetonas" />
-<name name="{=baltic_male_35}Vytautas" />
-<name name="{=baltic_male_36}Gedgaudas" />
-<name name="{=baltic_male_37}Vykintas" />
-<name name="{=baltic_male_38}Laurynas" />
+      <name name="{=lithuanian_male_1}Mindovg" />
+      <name name="{=lithuanian_male_2}Rukla" />
+      <name name="{=lithuanian_male_3}Voišalk" />
+      <name name="{=lithuanian_male_4}Rupek" />
+      <name name="{=lithuanian_male_5}Troniata" />
+      <name name="{=lithuanian_male_6}Švarn" />
+      <name name="{=lithuanian_male_7}Vikint" />
+      <name name="{=lithuanian_male_8}Lengven" />
+      <name name="{=lithuanian_male_9}Dausprung" />
+      <name name="{=lithuanian_male_10}Tautvil" />
+      <name name="{=lithuanian_male_11}Edivid" />
+      <name name="{=lithuanian_male_12}Skirmon" />
+      <name name="{=lithuanian_male_13}Erdivil" />
+      <name name="{=lithuanian_male_14}Gedimin" />
+      <name name="{=lithuanian_male_15}Montvid" />
+      <name name="{=lithuanian_male_16}Narimant" />
+      <name name="{=lithuanian_male_17}Kestut" />
+      <name name="{=lithuanian_male_18}Javnut" />
+      <name name="{=lithuanian_male_19}Karyat" />
+      <name name="{=lithuanian_male_20}Lubart" />
+      <name name="{=lithuanian_male_21}Jogaila" />
+      <name name="{=lithuanian_male_22}Skirgaila" />
+      <name name="{=lithuanian_male_23}Vitaut" />
+      <name name="{=lithuanian_male_24}Švitrigaila" />
+      <name name="{=lithuanian_male_25}Žygimant" />
+      <name name="{=lithuanian_male_26}Karibut" />
+      <name name="{=lithuanian_male_27}Lugven" />
+      <name name="{=lithuanian_male_28}Karigaila" />
+      <name name="{=lithuanian_male_29}Vigant" />
+      <name name="{=lithuanian_male_30}Vaidot" />
+      <name name="{=lithuanian_male_31}Daugird" />
+      <name name="{=lithuanian_male_32}Radvila" />
+      <name name="{=lithuanian_male_33}Manvid" />
+      <name name="{=lithuanian_male_34}Valimant" />
+      <name name="{=lithuanian_male_35}Sudimant" />
+      <name name="{=lithuanian_male_36}Gaštold" />
+      <name name="{=lithuanian_male_37}Talivoiš" />
+      <name name="{=lithuanian_male_38}Voiteh" />
     </male_names>
     <female_names>
-<name name="{=baltic_female_1}Aldona" />
-<name name="{=baltic_female_2}Aldute" />
-<name name="{=baltic_female_3}Aldvila" />
-<name name="{=baltic_female_4}Birutė" />
-<name name="{=baltic_female_5}Daina" />
-<name name="{=baltic_female_6}Dovilė" />
-<name name="{=baltic_female_7}Genė" />
-<name name="{=baltic_female_8}Giedra" />
-<name name="{=baltic_female_9}Ignė" />
-<name name="{=baltic_female_10}Jadvyga" />
-<name name="{=baltic_female_11}Janina" />
-<name name="{=baltic_female_12}Jokūbė" />
-<name name="{=baltic_female_13}Jūratė" />
-<name name="{=baltic_female_14}Kamile" />
-<name name="{=baltic_female_15}Kotryna" />
-<name name="{=baltic_female_16}Laima" />
-<name name="{=baltic_female_17}Liucija" />
-<name name="{=baltic_female_18}Mantė" />
-<name name="{=baltic_female_19}Marijona" />
-<name name="{=baltic_female_20}Milda" />
-<name name="{=baltic_female_21}Morta" />
-<name name="{=baltic_female_22}Ona" />
-<name name="{=baltic_female_23}Rasa" />
-<name name="{=baltic_female_24}Rūpinta" />
-<name name="{=baltic_female_25}Sigita" />
-<name name="{=baltic_female_26}Sofija" />
-<name name="{=baltic_female_27}Stanislava" />
-<name name="{=baltic_female_28}Teklė" />
-<name name="{=baltic_female_29}Uršulė" />
-<name name="{=baltic_female_30}Vanda" />
-<name name="{=baltic_female_31}Vilija" />
-<name name="{=baltic_female_32}Zita" />
-<name name="{=baltic_female_33}Zofija" />
-<name name="{=baltic_female_34}Žygimanta" />
-<name name="{=baltic_female_35}Živilė" />
-<name name="{=baltic_female_36}Žygimantė" />
-<name name="{=baltic_female_37}Krivė" />
-<name name="{=baltic_female_38}Ieva" />
+      <name name="{=lithuanian_female_1}Morta" />
+      <name name="{=lithuanian_female_2}Agna" />
+      <name name="{=lithuanian_female_3}Evna" />
+      <name name="{=lithuanian_female_4}Aldona" />
+      <name name="{=lithuanian_female_5}Aigusta" />
+      <name name="{=lithuanian_female_6}Drąsutė" />
+      <name name="{=lithuanian_female_7}Elžbeta" />
+      <name name="{=lithuanian_female_8}Burvilė" />
+      <name name="{=lithuanian_female_9}Vilkė" />
+      <name name="{=lithuanian_female_10}Žara" />
+      <name name="{=lithuanian_female_11}Žemuogė" />
+      <name name="{=lithuanian_female_12}Živilė" />
+      <name name="{=lithuanian_female_13}Jūratė" />
+      <name name="{=lithuanian_female_14}Birutė" />
+      <name name="{=lithuanian_female_15}Agrypina" />
+      <name name="{=lithuanian_female_16}Vainutė" />
+      <name name="{=lithuanian_female_17}Danyta" />
+      <name name="{=lithuanian_female_18}Mantė" />
+      <name name="{=lithuanian_female_19}Darota" />
+      <name name="{=lithuanian_female_20}Milda" />
+      <name name="{=lithuanian_female_21}Morta" />
+      <name name="{=lithuanian_female_22}Ona" />
+      <name name="{=lithuanian_female_23}Rasa" />
+      <name name="{=lithuanian_female_24}Rūpinta" />
+      <name name="{=lithuanian_female_25}Sigita" />
+      <name name="{=lithuanian_female_26}Vaidutė" />
+      <name name="{=lithuanian_female_27}Gailė" />
+      <name name="{=lithuanian_female_28}Teklė" />
+      <name name="{=lithuanian_female_29}Uršulė" />
+      <name name="{=lithuanian_female_30}Vanda" />
+      <name name="{=lithuanian_female_31}Guoda" />
+      <name name="{=lithuanian_female_32}Zita" />
+      <name name="{=lithuanian_female_33}Judrė" />
+      <name name="{=lithuanian_female_34}Jorūnė" />
+      <name name="{=lithuanian_female_35}Meda" />
+      <name name="{=lithuanian_female_36}Radvilė" />
+      <name name="{=lithuanian_female_37}Krivė" />
+      <name name="{=lithuanian_female_38}Sniega" />
     </female_names>
     <clan_names>
-<name name="{=baltic_clan_1}Baltušis" />
-<name name="{=baltic_clan_2}Grybas" />
-<name name="{=baltic_clan_3}Medekša" />
-<name name="{=baltic_clan_4}Vilkas" />
-<name name="{=baltic_clan_5}Kraujalis" />
-<name name="{=baltic_clan_6}Žemaitis" />
-<name name="{=baltic_clan_7}Molėtis" />
-<name name="{=baltic_clan_8}Kunigaitis" />
-<name name="{=baltic_clan_9}Tarnaitis" />
-<name name="{=baltic_clan_10}Sruoga" />
+      <name name="{=lithuanian_clan_1}Radziwił" />
+      <name name="{=lithuanian_clan_2}Sapega" />
+      <name name="{=lithuanian_clan_3}Pac" />
+      <name name="{=lithuanian_clan_4}Kesgaila" />
+      <name name="{=lithuanian_clan_5}Gedimin" />
+      <name name="{=lithuanian_clan_6}Vitaut" />
+      <name name="{=lithuanian_clan_7}Narimant" />
+      <name name="{=lithuanian_clan_8}Švarn" />
+      <name name="{=lithuanian_clan_9}Kestut" />
+      <name name="{=lithuanian_clan_10}Mindovg" />
     </clan_names>
     <cultural_feats>
-<feat id="sturgian_cheaper_recruits_infantry" />
-<feat id="vlandian_renown_mercenary_income" />
+      <feat id="sturgian_cheaper_recruits_infantry" />
+      <feat id="vlandian_renown_mercenary_income" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />
