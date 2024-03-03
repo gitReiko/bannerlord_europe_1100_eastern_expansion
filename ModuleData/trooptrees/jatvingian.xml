@@ -1748,7 +1748,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_d"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1768,7 +1768,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_e2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1778,7 +1778,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_d"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1798,7 +1798,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_e2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1848,7 +1848,7 @@
 				<equipment slot="Item1" id="Item.noble_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_d"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1868,7 +1868,7 @@
 				<equipment slot="Item1" id="Item.noble_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_e2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1878,7 +1878,7 @@
 				<equipment slot="Item1" id="Item.noble_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_with_mail"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_d"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1898,7 +1898,7 @@
 				<equipment slot="Item1" id="Item.noble_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Item3" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+				<equipment slot="Head" id="Item.DZ_vlandia_helmet_e2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>

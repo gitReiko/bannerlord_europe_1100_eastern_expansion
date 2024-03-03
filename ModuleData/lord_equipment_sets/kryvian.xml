@@ -123,7 +123,7 @@
 	<EquipmentSet>
 		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
 		<Equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
-		<Equipment slot="Head" id="Item.pointed_skullcap_over_laced_coif"/>
+		<Equipment slot="Head" id="Item.DZ_vlandia_helmet_e2"/>
 		<Equipment slot="Body" id="Item.mail_shirt"/>
 		<Equipment slot="Gloves" id="Item.highland_gloves"/>
 		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
