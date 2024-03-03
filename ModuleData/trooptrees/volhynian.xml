@@ -1151,6 +1151,7 @@
 		level="21"
 		name="{=volhynian_light_levy_horseman.name}Volhynian Light Levy Horseman"
 		occupation="Soldier"
+    upgrade_requires="ItemCategory.horse"
 		culture="Culture.volhynian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_volhynian"/>
@@ -1366,6 +1367,7 @@
 		level="31"
 		name="{=volhynian_older_druzynnik.name}Volhynian Older Druzynnik"
 		occupation="Soldier"
+    upgrade_requires="ItemCategory.war_horse"
 		culture="Culture.volhynian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_volhynian"/>
