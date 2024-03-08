@@ -1,0 +1,59 @@
+<partyTemplates>
+
+    <MBPartyTemplate id="villager_lithuanian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_lithuanian" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="rebels_lithuanian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_volunteer" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="caravan_template_lithuanian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_lithuanian" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_lithuanian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_lithuanian" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="elite_caravan_template_lithuanian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_lithuanian" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_lithuanian" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_lithuanian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_lithuanian" />
+    </stacks>
+  </MBPartyTemplate>
+  
+    <MBPartyTemplate id="militia_lithuanian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_armed_volunteer" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_bowman" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="kingdom_hero_party_lithuanian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.lithuanian_volunteer" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.lithuanian_armed_volunteer" />
+      <PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.lithuanian_bowman" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.lithuanian_spearman" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.zemaitian_experienced_skirmisher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.zemaitian_heavy_skirmisher" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lithuanian_noble_horseman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_heavy_spearman" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  <MBPartyTemplate id="vassal_reward_troops_lithuanian" >
+    <stacks>
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.lithuanian_heavy_spearman" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.lithuanian_veteran_heavy_spearman" />
+    </stacks>
+  </MBPartyTemplate>
+
+</partyTemplates>

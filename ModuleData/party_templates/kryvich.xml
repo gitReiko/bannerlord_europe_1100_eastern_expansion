@@ -52,8 +52,8 @@
   
   <MBPartyTemplate id="vassal_reward_troops_kryvich" >
     <stacks>
-      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.kryvich_younger_pancyrny_druzynnik" />
-      <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.kryvich_older_pancyrny_druzynnik" />
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.kryvich_younger_pancyrny_druzynnik" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.kryvich_older_pancyrny_druzynnik" />
     </stacks>
   </MBPartyTemplate>
 

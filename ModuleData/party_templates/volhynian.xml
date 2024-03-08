@@ -51,8 +51,8 @@
   
   <MBPartyTemplate id="vassal_reward_troops_volhynian" >
     <stacks>
-      <PartyTemplateStack min_value="1" max_value="5" troop="NPCCharacter.volhynian_younger_druzynnik" />
-      <PartyTemplateStack min_value="5" max_value="3" troop="NPCCharacter.volhynian_older_druzynnik" />
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.volhynian_younger_druzynnik" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.volhynian_older_druzynnik" />
     </stacks>
   </MBPartyTemplate>
 

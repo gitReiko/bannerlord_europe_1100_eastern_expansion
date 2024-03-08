@@ -52,8 +52,8 @@
   
   <MBPartyTemplate id="vassal_reward_troops_jatvingian" >
     <stacks>
-      <PartyTemplateStack min_value="1" max_value="5" troop="NPCCharacter.jatvingian_river_raider" />
-      <PartyTemplateStack min_value="5" max_value="3" troop="NPCCharacter.jatvingian_warlord" />
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.jatvingian_river_raider" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.jatvingian_warlord" />
     </stacks>
   </MBPartyTemplate>
 
