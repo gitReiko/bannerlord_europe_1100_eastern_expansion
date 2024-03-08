@@ -1519,7 +1519,7 @@
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1530,7 +1530,7 @@
 				<equipment slot="Head" id="Item.DZ_sturgia_helmet_b"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.TV_aserai_boots_e"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1538,11 +1538,11 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.aserai_lance_1_t5"/>
 				<equipment slot="Item2" id="Item.heavy_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
 				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.t2_empire_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1553,7 +1553,7 @@
 				<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.TV_aserai_boots_e"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1564,7 +1564,7 @@
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_a3"/>
 				<equipment slot="Body" id="Item.desert_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
-				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1572,11 +1572,11 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Head" id="Item.DZ_sturgia_helmet_b"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Gloves" id="Item.TV_battania_gloves_a"/>
-				<equipment slot="Leg" id="Item.TV_aserai_boots_e2"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1585,9 +1585,10 @@
 				<equipment slot="Item1" id="Item.vlandia_lance_2_t4"/>
 				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.reinforced_suede_boots"/>
+				<equipment slot="Leg" id="Item.TV_empire_boots_c"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1735,8 +1736,8 @@
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
 				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
@@ -1746,8 +1747,8 @@
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
@@ -1755,19 +1756,21 @@
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
+				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_a5"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
@@ -1777,18 +1780,19 @@
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
@@ -1798,8 +1802,8 @@
 				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
 				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
@@ -1839,8 +1843,8 @@
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
@@ -1850,8 +1854,8 @@
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
@@ -1859,19 +1863,21 @@
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
 				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
+				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_a5"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
@@ -1881,18 +1887,19 @@
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.DZ_sturgia_helmet_b"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
@@ -1902,8 +1909,8 @@
 				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
 				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
-				<equipment slot="Gloves" id="Item.highland_gloves"/>
-				<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+				<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.TV_sturgia_boots_a"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
