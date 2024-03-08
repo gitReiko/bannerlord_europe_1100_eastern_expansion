@@ -742,9 +742,7 @@
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.zemaitian_skirmisher"/>
 			<upgrade_target id="NPCCharacter.lithuanian_armed_volunteer"/>
-      <!--
-			<upgrade_target id="NPCCharacter.jatvingian_scout"/>
-			-->
+			<upgrade_target id="NPCCharacter.lithuanian_bowman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1266,6 +1264,7 @@
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.lithuanian_heavy_spearman"/>
+      <upgrade_target id="NPCCharacter.lithuanian_noble_horseman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -1348,7 +1347,7 @@
 		</face>
 		<skills >
       <skill id="Athletics" value="150"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="25"/>
 			<skill id="OneHanded" value="175"/>
 			<skill id="TwoHanded" value="75"/>
 			<skill id="Polearm" value="235"/>
@@ -1356,9 +1355,12 @@
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="75"/>
 		</skills>
+    <upgrade_targets>
+			<upgrade_target id="NPCCharacter.lithuanian_veteran_heavy_spearman"/>
+		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item0" id="Item.AR_iltanlar_axe_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
         <equipment slot="Head" id="Item.TV_vlandia_helmet_q"/>
@@ -1376,7 +1378,7 @@
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item0" id="Item.battle_axe_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_k6"/>
@@ -1394,7 +1396,7 @@
 				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item0" id="Item.AR_iltanlar_axe_t4"/>
 				<equipment slot="Item1" id="Item.western_kite_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
         <equipment slot="Head" id="Item.TV_vlandia_helmet_q2"/>
@@ -1403,7 +1405,7 @@
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
       <EquipmentRoster>
-				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item0" id="Item.battle_axe_t4"/>
 				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
         <equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
@@ -1422,6 +1424,381 @@
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="lithuanian_veteran_heavy_spearman"
+		default_group="Infantry"
+		level="31"
+		name="{=lithuanian_veteran_heavy_spearman.name}Lithuanian Veteran Heavy Spearman"
+		occupation="Soldier"
+		culture="Culture.goldenhorde">
+		<face>
+			<face_key_template value="BodyProperty.fighter_baltic"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="175"/>
+			<skill id="Riding" value="25"/>
+			<skill id="OneHanded" value="200"/>
+			<skill id="TwoHanded" value="75"/>
+			<skill id="Polearm" value="300"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="75"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_iltanlar_axe_t4"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Head" id="Item.TV_vlandia_helmet_q"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+				<equipment slot="Body" id="Item.TV_vlandia_armor_h"/>
+				<equipment slot="Leg" id="Item.mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item3" id="Item.sturgia_lance_1_t4"/>
+        <equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Leg" id="Item.DZ_vlandia_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battle_axe_t4"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_k6"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.TV_vlandia_armor_h"/>
+				<equipment slot="Leg" id="Item.DZ_vlandia_boots_a"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.AR_shield_infantry_zzg"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.TV_sturgia_armor_a2"/>
+				<equipment slot="Leg" id="Item.mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_iltanlar_axe_t4"/>
+				<equipment slot="Item1" id="Item.western_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+        <equipment slot="Head" id="Item.TV_vlandia_helmet_q2"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+				<equipment slot="Leg" id="Item.DZ_battania_boots_a"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.battle_axe_t4"/>
+				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.TV_sturgia_armor_a2"/>
+				<equipment slot="Leg" id="Item.mail_chausses"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.studded_bound_kite_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_c5"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.DZ_battania_boots_a"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+<NPCCharacter id="lithuanian_bowman"
+		default_group="Ranged"
+		level="11"
+		name="{=lithuanian_bowman.name}Lithuanian Bowman"
+		occupation="Soldier"
+		culture="Culture.goldenhorde">
+		<face>
+			<face_key_template value="BodyProperty.fighter_baltic"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="35"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="25"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="15"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="20"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.lithuanian_experienced_bowman"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.cloth_tunic"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.cloth_tunic"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.light_tunic"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
+				<equipment slot="Body" id="Item.sackcloth_tunic"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.light_tunic"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.pilgrim_hood"/>
+				<equipment slot="Body" id="Item.vlandia_bandit_b"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Item1" id="Item.hunting_bow"/>
+				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Body" id="Item.northern_tunic"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
+				<equipment slot="Body" id="Item.cloth_tunic"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+<NPCCharacter id="lithuanian_experienced_bowman"
+		default_group="Ranged"
+		level="16"
+		name="{=zemaitian_experienced_skirmisher.name}Lithuanian Experienced Bowman"
+		occupation="Soldier"
+		culture="Culture.goldenhorde">
+		<face>
+			<face_key_template value="BodyProperty.fighter_baltic"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="70"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="25"/>
+			<skill id="Bow" value="125"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="50"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_a"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+				<equipment slot="Body" id="Item.leather_coat"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.padded_short_coat"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_c"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.leather_coat"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.padded_short_coat"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.nordic_shortbow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.nordic_sloven"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="lithuanian_noble_horseman"
+		default_group="Cavalry"
+		level="26"
+		name="{=lithuanian_heavy_spearman.name}Lithuanian Noble Horseman"
+		occupation="Soldier"
+		culture="Culture.goldenhorde">
+		<face>
+			<face_key_template value="BodyProperty.fighter_baltic"/>
+		</face>
+		<skills >
+      <skill id="Athletics" value="100"/>
+			<skill id="Riding" value="150"/>
+			<skill id="OneHanded" value="175"/>
+			<skill id="TwoHanded" value="75"/>
+			<skill id="Polearm" value="235"/>
+			<skill id="Bow" value="50"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="150"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.narrow_sword_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_a"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+        <equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_c"/>
+        <equipment slot="Cape" id="Item.empire_cape_a"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+        <equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Head" id="Item.tv_vlandia_helmet_a"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+        <equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.narrow_sword_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_c"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+        <equipment slot="Horse" id="Item.vlandia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      <EquipmentRoster>
+				<equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
+				<equipment slot="Item1" id="Item.battered_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
+        <equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+        <equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.narrow_sword_t3"/>
+				<equipment slot="Item1" id="Item.western_riders_kite_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+        <equipment slot="Head" id="Item.tv_vlandia_helmet_a"/>
+        <equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
+        <equipment slot="Horse" id="Item.vlandia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.narrow_sword_t3"/>
         <equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
