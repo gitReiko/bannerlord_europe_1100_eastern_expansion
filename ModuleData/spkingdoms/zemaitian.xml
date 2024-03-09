@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="zemaitian"
+		   owner="Hero.lord_zemaitian_1a"
+		   banner_key="11.129.48.1836.1836.767.764.1.0.0.510.121.116.450.300.807.764.0.0.90.510.121.116.150.300.857.587.0.0.0.510.121.116.150.300.904.635.0.0.90.510.121.116.150.300.857.943.0.1.180.510.121.116.150.300.904.895.0.1.90.510.121.116.450.300.722.764.0.1.270.510.121.116.150.300.672.587.0.1.0.510.121.116.150.300.627.635.0.1.270.510.121.116.150.300.672.941.0.0.180.510.121.116.150.300.627.895.0.0.270.510.121.116.365.300.764.764.0.1.180"
+		   primary_banner_color="0xff35671c"
+		   secondary_banner_color="0xfff4d32e"
+		   label_color="ff35671c"
+		   color="ff35671c"
+		   color2="fff4d32e"
+		   alternative_color="ffe44535"
+		   alternative_color2="fff4d32e"
+		   culture="Culture.goldenhorde"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=zemaitian_kingdom_name}The Žemaitian Tribal Principalities"
+		   short_name="{=zemaitian_kingdom_short_name}Žemaitians"
+		   title="{=zemaitian_kingdom_title}Žemaitian Tribal Principalities"
+		   ruler_title="{=zemaitian_ruler_title}Knyaz"
+		   text="{=zemaitian_kingdom_text}++">
+    <relationships>
+		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.poland" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.goldenhorde" value="50" isAtWar="false" />
+		<relationship kingdom="Kingdom.polotsk" value="15" isAtWar="false" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+  
+ </Kingdoms>

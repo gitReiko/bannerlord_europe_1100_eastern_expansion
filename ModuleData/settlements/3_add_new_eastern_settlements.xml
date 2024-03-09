@@ -141,7 +141,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Saule Castle" owner="Faction.clan_baltic_07" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" gate_posX="878.800" gate_posY="1249.050">
+  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Saule Castle" owner="Faction.clan_zemaitian_2" posX="879.525" posY="1266.150" culture="Culture.goldenhorde" gate_posX="878.800" gate_posY="1249.050">
     <Components>
       <Town id="reiko_siaule_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="750" />
     </Components>
@@ -824,7 +824,7 @@
   </Settlement>
 
   <!-- reiko_sparnene -->
-  <Settlement id="reiko_raseiniai" name="{=reiko_raseiniai.name}Rasseyne" owner="Faction.clan_baltic_07" posX="861.212" posY="1231.626" culture="Culture.goldenhorde" gate_posX="862.235" gate_posY="1230.500" text="{=reiko_raseiniai.name}Rasseyne.">
+  <Settlement id="reiko_raseiniai" name="{=reiko_raseiniai.name}Rasseyne" owner="Faction.clan_zemaitian_1" posX="861.212" posY="1231.626" culture="Culture.goldenhorde" gate_posX="862.235" gate_posY="1230.500" text="{=reiko_raseiniai.name}Rasseyne.">
     <Components>
       <Town id="reiko_raseiniai_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="700" />
     </Components>
