@@ -6,7 +6,7 @@
     tier="5"
     owner="Hero.lord_baltic_2a"
     culture="Culture.goldenhorde"
-    super_faction="Kingdom.goldenhorde"
+    super_faction="Kingdom.lithuanian"
     banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.470.300.764.800.0.0.45.510.48.116.188.300.678.979.0.0.135.510.48.116.470.300.764.728.0.1.134.510.48.116.188.300.678.549.0.1.44" text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis signs." 
     color="FFf3f3f3" color2="FFe44535" alternative_color="FFf3f3f3" alternative_color2="FFe44535"
   />
@@ -16,12 +16,44 @@
     tier="3"
     owner="Hero.lord_lithuanian_2a"
     culture="Culture.goldenhorde"
-    super_faction="Kingdom.zemaitian"
+    super_faction="Kingdom.lithuanian"
     banner_key="11.117.51.1836.1836.767.764.1.0.0.510.138.116.141.226.932.638.0.1.-45.510.138.116.214.226.911.702.0.1.-45.510.138.116.283.226.889.766.0.1.-45.510.138.116.353.226.864.831.0.1.-45.510.138.116.294.226.715.679.0.0.314.510.138.116.141.226.595.638.0.0.44.510.138.116.214.226.617.702.0.0.44.510.138.116.283.226.638.766.0.0.44.510.138.116.353.226.660.831.0.0.45.510.138.116.294.226.812.679.0.1.-135"
-    text="{=clan_lithuania.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
     color="FFf5b365" color2="FF3b6298" alternative_color="FFf5b365" alternative_color2="FF3b6298"
   />
 
+  <Faction id="clan_lithuanian_3"
+    name="{=clan_lithuanian_3.name}Deltuva"
+    tier="3"
+    owner="Hero.lord_lithuanian_3a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.127.48.1836.1836.767.764.1.0.0.510.117.116.452.288.731.765.0.0.315.510.117.116.134.288.564.679.0.0.45.510.117.116.452.288.797.765.0.1.45.510.117.116.134.288.964.679.0.1.315.510.117.116.105.288.556.727.0.0.315.510.117.116.105.288.972.727.0.1.45"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
+    color="FFf3f3f3" color2="FFf5b365" alternative_color="FFf3f3f3" alternative_color2="FFf5b365"
+  />
+
+  <Faction id="clan_lithuanian_4"
+    name="{=clan_lithuanian_4.name}Neris"
+    tier="3"
+    owner="Hero.lord_lithuanian_4a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.51.48.1836.1836.767.764.1.0.0.510.135.116.470.300.779.764.0.0.314.510.135.116.100.300.619.661.0.0.45.510.135.116.470.300.749.764.0.1.45.510.135.116.100.300.909.661.0.1.315.510.135.116.120.300.740.874.0.1.45.510.135.116.120.300.788.874.0.0.315"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
+    color="FFc94b4d" color2="FFffe9d4" alternative_color="FFc94b4d" alternative_color2="FFffe9d4"
+  />
+
+  <Faction id="clan_lithuanian_5"
+    name="{=clan_lithuanian_5.name}Upytė"
+    tier="3"
+    owner="Hero.lord_lithuanian_5a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.lithuanian"
+    banner_key="11.138.51.1836.1836.767.764.1.0.0.510.18.116.397.180.768.745.0.1.315.510.18.116.166.180.710.574.0.1.315.510.18.116.182.180.707.576.0.1.45.510.18.116.91.180.777.594.0.1.45.510.18.116.91.180.690.507.0.1.45.510.18.116.397.180.761.700.0.0.225.510.18.116.397.180.768.786.0.0.225.510.18.116.166.180.708.957.0.0.225.510.18.116.182.180.706.955.0.0.135.510.18.116.91.180.775.938.0.0.135.510.18.116.91.180.689.1024.0.0.135.510.18.116.397.180.760.832.0.1.315"
+    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
+    color="FF3b6298" color2="FFaec382" alternative_color="FF3b6298" alternative_color2="FFaec382"
+  />
 
 
 

@@ -166,7 +166,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_vilkomerge" name="{=reiko_vilkomerge.name}Vilkamergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
+  <Settlement id="reiko_vilkomerge" name="{=reiko_vilkomerge.name}Vilkamergė Castle" owner="Faction.clan_lithuanian_3" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
     <Components>
       <Town id="reiko_vilkomerge_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>

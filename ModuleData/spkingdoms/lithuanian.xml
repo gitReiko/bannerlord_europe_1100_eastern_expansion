@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="lithuanian"
+		   owner="Hero.lord_baltic_2a"
+		   banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.470.300.764.800.0.0.45.510.48.116.188.300.678.979.0.0.135.510.48.116.470.300.764.728.0.1.134.510.48.116.188.300.678.549.0.1.44"
+		   primary_banner_color="0xffe44535"
+		   secondary_banner_color="0xfff3f3f3"
+		   label_color="ffe44535"
+		   color="ffe44535"
+		   color2="fff3f3f3"
+		   alternative_color="fff5b364"
+		   alternative_color2="fff3f3f3"
+		   culture="Culture.goldenhorde"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=lithuanian_kingdom_name}The Lithuanian Tribal Principalities"
+		   short_name="{=lithuanian_kingdom_short_name}Lithuanians"
+		   title="{=lithuanian_kingdom_title}Lithuanian Tribal Principalities"
+		   ruler_title="{=lithuanian_ruler_title}Knyaz"
+		   text="{=lithuanian_kingdom_text}++">
+    <relationships>
+		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.poland" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.goldenhorde" value="50" isAtWar="false" />
+		<relationship kingdom="Kingdom.polotsk" value="15" isAtWar="false" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+  
+ </Kingdoms>
