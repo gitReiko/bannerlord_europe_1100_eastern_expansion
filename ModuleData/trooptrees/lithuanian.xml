@@ -1371,7 +1371,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
-				<equipment slot="Item3" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
         <equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
         <equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.nordic_hauberk"/>
@@ -1463,7 +1463,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.battania_large_shield_a"/>
-				<equipment slot="Item3" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
         <equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
         <equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
@@ -1593,7 +1593,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
-				<equipment slot="Item3" id="Item.default_arrows"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_b"/>
 			</EquipmentRoster>
