@@ -8,14 +8,6 @@
            culture="Culture.goldenhorde"
            super_faction="Kingdom.goldenhorde"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.149.116.350.300.672.786.0.0.45.510.149.116.150.300.612.914.0.0.135.510.149.116.150.300.668.856.0.0.135.510.149.116.350.300.859.786.0.1.314.510.149.116.150.300.918.914.0.1.224.510.149.116.150.300.862.856.0.1.224.510.149.116.350.300.670.743.0.1.134.510.149.116.150.300.610.615.0.1.44.510.149.116.150.300.666.672.0.1.44.510.149.116.350.300.857.743.0.0.-135.510.149.116.150.300.916.615.0.0.-45.510.149.116.150.300.860.672.0.0.-45" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "  />	
-		   
-  <Faction id="clan_baltic_2"
-           name="{=clan_baltic_2.name}Lithuanians"
-           tier="4"
-           owner="Hero.lord_baltic_2a"
-           culture="Culture.goldenhorde"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.27.48.1836.1836.767.764.1.0.0.510.48.116.470.300.764.800.0.0.45.510.48.116.188.300.678.979.0.0.135.510.48.116.470.300.764.728.0.1.134.510.48.116.188.300.678.549.0.1.44" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />
 
   <Faction id="clan_baltic_4"
            name="{=clan_baltic_4.name}Curonians"

@@ -2,22 +2,19 @@
 
 <NPCCharacters> 
 
-
-    <!-- Baltic Tribes -->
-
-    <NPCCharacter id="lord_baltic_1a"
-                name="{=lord_baltic_1b.name}Herkus Monte*"
+    <NPCCharacter id="lord_baltic_2a"
+                name="{=lord_baltic_2a.name}Javnut*"
                 voice="softspoken"
-                age="30"
+                age="44"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.5202" build="0.4099"  key="00027C0C40CC334D9A36466B89A777786257875C2D77AB6396CABB677959533400668603068BBA8700000000000000000000000000000000000000004CCC2002"  />
-        </face>
+        <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.7591" build="0.7659"  key="0002A80800700385976A7D7B8DB34577CB78515660397A88DA97957785983D45004BB60304A4A651000000000000000000000000000000000000000026847102"  />
+    </face>
     <skills>
         <skill id="Engineering" value="142" />
         <skill id="Medicine" value="133" />
@@ -51,14 +48,14 @@
     <Equipments>
         <EquipmentSet id="lithuanian_king" />
         <EquipmentSet id="lithuanian_king"
-                        civilian="true" />
+                    civilian="true" />
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_baltic_1b"
-                name="{=lord_baltic_1b.name}Agnesia*"
+    <NPCCharacter id="lord_baltic_2b"
+                name="{=lord_baltic_2b.name}Sigita*"
                 default_group="Cavalry"
-                age="25"
+                age="42"
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
@@ -66,7 +63,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-    <BodyProperties version="4" age="22" weight="0.4915" build="0.467"  key="001B280E40B420063858B877678873974A1A47968E77178366A67C5D706A7926007776030799CA78000000000000000000000000000000000000000028EC1043"  />
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00058C0600142001979646A85B89B55872448B628C6B9A69B756A97D818549460028460302987D990000000000000000000000000000000000000000703C2003"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -78,7 +75,7 @@
         <skill id="Roguery" value="32" />
         <skill id="Scouting" value="136" />
         <skill id="Crafting" value="161" />
-	</skills>
+    </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="1" />
@@ -90,16 +87,16 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="lithuanian_lady" />
-      <EquipmentSet id="lithuanian_lady"
+        <EquipmentSet id="lithuanian_lady" />
+        <EquipmentSet id="lithuanian_lady"
                     civilian="true" />
     </Equipments>
-  </NPCCharacter>
+    </NPCCharacter> 
   
-    <NPCCharacter id="lord_baltic_4a"
-                name="{=lord_baltic_4a.name}Longins*"
+    <NPCCharacter id="lord_baltic_2c"
+                name="{=lord_baltic_2c.name}Gaštold*"
                 voice="softspoken"
-                age="43"
+                age="20"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.goldenhorde"
@@ -107,7 +104,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.1326" build="0.6747"  key="00108C0D90FC06435871B8C9969C68B3477888CD4C2DB77786667375A9B7B757008A2603081D6694000000000000000000000000000000000000000029043102"  />
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
     </face>
 	<skills>
         <skill id="Engineering" value="142" />
@@ -146,10 +143,10 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_baltic_4b"
-                name="{=lord_baltic_4b.name}Dzelme*"
+    <NPCCharacter id="lord_baltic_2d"
+                name="{=lord_baltic_2d.name}Morta*"
                 default_group="Cavalry"
-                age="23"
+                age="19"
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
@@ -157,7 +154,7 @@
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
-        <BodyProperties version="4" age="22" weight="0.6227" build="0.6651"  key="0008B80AC0882003C5C557347958BCA6147EE664467578E563B7BB6968984B8D005A9603056A437100000000000000000000000000000000000000003A9C3043"  />
+    <BodyProperties version="4" age="22" weight="0.3873" build="0.3485"  key="000AD00C40FC10029C55A977338D8897A72D8B29839BDC3674ADB9945888352900656603065D0968000000000000000000000000000000000000000024D41043"  />
     </face>
     <skills>
         <skill id="Engineering" value="92" />
@@ -185,46 +182,46 @@
       <EquipmentSet id="lithuanian_lady"
                     civilian="true" />
     </Equipments>
-    </NPCCharacter> 
+    </NPCCharacter>
 
-    <!-- Custom Baltic -->
-
-    <NPCCharacter id="lord_baltic_09a"
-                name="{=lord_baltic_09a.name}Nameisis*"
+    <NPCCharacter id="lord_lithuanian_2a"
+                name="{=lord_lithuanian_2a.name}Daugird*"
                 voice="softspoken"
-                age="34"
+                age="45"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
+      <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="25" />
-        <skill id="Medicine" value="50" />
-        <skill id="Leadership" value="100" />
-        <skill id="Steward" value="75" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="150" />
-        <skill id="Roguery" value="50" />
-        <skill id="Scouting" value="125" />
-        <skill id="Tactics" value="100" />
-        <skill id="Athletics" value="125" />
-        <skill id="Riding" value="100" />
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="250" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="175" />
+        <skill id="Crafting" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="225" />
         <skill id="Throwing" value="75" />
         <skill id="Bow" value="75" />
-        <skill id="Polearm" value="125" />
-        <skill id="TwoHanded" value="25" />
-        <skill id="OneHanded" value="100" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="1" />
+        <Trait id="Valor" value="-1" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="1" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="0" />
@@ -236,87 +233,6 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_baltic_09b"
-                name="{=lord_baltic_09b.name}Vasara*"
-                voice="softspoken"
-                age="28"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.goldenhorde"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22" weight="0.2022" build="0.2039"  key="0002640A40CC100D85C1C898D27981B19C9C27A5AB977669D985446B88B67B9A00033603008B56BC00000000000000000000000000000000000000001A040043"  />
-    </face>
-	<skills>
-        <skill id="Tactics" value="25" />
-        <skill id="Medicine" value="75" />
-        <skill id="Leadership" value="25" />
-        <skill id="Steward" value="75" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="75" />
-        <skill id="Scouting" value="25" />
-        <skill id="Bow" value="50" />
-        <skill id="Polearm" value="25" />
-        <skill id="OneHanded" value="25" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="-1" />
-        <Trait id="Generosity" value="2" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="lithuanian_lady" />
-      <EquipmentSet id="lithuanian_lady"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
-    <NPCCharacter id="lord_baltic_09c"
-                name="{=lord_baltic_09c.name}Freija*"
-                voice="softspoken"
-                age="11"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.goldenhorde"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22" weight="0.2407" build="0.2022"  key="00023C0FC0E400038766A568D58A789697A8249AB7A83797A832C67744C89A280053460305826AB60000000000000000000000000000000000000000729C40C3"  />
-    </face>
-	<skills>
-        <skill id="Tactics" value="25" />
-        <skill id="Medicine" value="50" />
-        <skill id="Leadership" value="50" />
-        <skill id="Steward" value="75" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="100" />
-        <skill id="Scouting" value="25" />
-        <skill id="Bow" value="50" />
-        <skill id="Polearm" value="25" />
-        <skill id="OneHanded" value="25" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="-1" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="-1" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="lithuanian_lady" />
-      <EquipmentSet id="lithuanian_lady"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
 
 
   

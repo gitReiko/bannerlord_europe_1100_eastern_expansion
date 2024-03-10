@@ -857,7 +857,7 @@
     </Components>
   </Settlement>
 
-  <Settlement id="reiko_vilnius" name="{=reiko_vilnius.name}Kernavė" owner="Faction.clan_zemaitian_1" posX="931.991" posY="1235.320" culture="Culture.goldenhorde" gate_posX="931.991" gate_posY="1235.320" text="{=reiko_vilnius.name}Kernavė.">
+  <Settlement id="reiko_vilnius" name="{=reiko_vilnius.name}Kernavė" owner="Faction.clan_baltic_2" posX="931.991" posY="1235.320" culture="Culture.goldenhorde" gate_posX="931.991" gate_posY="1235.320" text="{=reiko_vilnius.name}Kernavė.">
     <Components>
       <Town id="reiko_vilnius_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1400" />
     </Components>
@@ -892,7 +892,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_kreva" name="{=reiko_kreva.name}Kreva Castle" owner="Faction.clan_zemaitian_1" posX="952.330" posY="1230.250" culture="Culture.goldenhorde" gate_posX="953.115" gate_posY="1230.217">
+  <Settlement id="reiko_kreva" name="{=reiko_kreva.name}Kreva Castle" owner="Faction.clan_lithuanian_2" posX="952.330" posY="1230.250" culture="Culture.goldenhorde" gate_posX="953.115" gate_posY="1230.217">
     <Components>
       <Town id="reiko_kreva_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="830" />
     </Components>
@@ -905,7 +905,7 @@
 
   <Settlement id="reiko_kreva_vil_1" name="{=reiko_kreva_vil_1.name}Holša" posX="947.454" posY="1220.670" culture="Culture.goldenhorde" text="{=reiko_kreva_vil_1.text}Holša.">
     <Components>
-      <Village id="reiko_kreva_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="290" gate_rotation="0.758" bound="Settlement.reiko_raseiniai" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_kreva_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="290" gate_rotation="0.758" bound="Settlement.reiko_kreva" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
