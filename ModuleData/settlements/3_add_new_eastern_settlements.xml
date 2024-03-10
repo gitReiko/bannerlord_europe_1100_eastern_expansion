@@ -152,7 +152,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_siaule_vil_1" name="{=reiko_siaule_vil_1.name}Kulautuva" posX="882.510" posY="1236.180" culture="Culture.goldenhorde" text="{=reiko_siaule_vil_1.text}Kulautuva.">
+  <Settlement id="reiko_siaule_vil_1" name="{=reiko_siaule_vil_1.name}Upytė" posX="882.510" posY="1236.180" culture="Culture.goldenhorde" text="{=reiko_siaule_vil_1.text}Upytė.">
     <Components>
       <Village id="reiko_siaule_vil_1_comp" village_type="VillageType.swine_farm" hearth="164" gate_rotation="0.008" bound="Settlement.reiko_siaule" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -419,20 +419,6 @@
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
       <Area type="Clearing" name="{=LWHIVshb}Clearing" />
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
-    </CommonAreas>
-  </Settlement>
-
-  <Settlement id="reiko_hrodna_vil_1" name="{=reiko_hrodna_vil_1.name}Sejny" posX="879.070" posY="1222.400" culture="Culture.jatvingian" text="{=reiko_hrodna_vil_1.text}Sejny.">
-    <Components>
-      <Village id="reiko_hrodna_vil_1_comp" village_type="VillageType.lumberjack" hearth="145" bound="Settlement.reiko_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="battania_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
 
@@ -842,6 +828,20 @@
       <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
       <Area type="Clearing" name="{=LWHIVshb}Clearing" />
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_raseiniai_vil_1" name="{=reiko_raseiniai_vil_1.name}Ariogala" posX="879.070" posY="1222.400" culture="Culture.jatvingian" text="{=reiko_raseiniai_vil_1.text}Ariogala.">
+    <Components>
+      <Village id="reiko_raseiniai_vil_1_comp" village_type="VillageType.lumberjack" hearth="225" bound="Settlement.reiko_raseiniai" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
 
