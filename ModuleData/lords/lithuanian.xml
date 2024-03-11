@@ -233,6 +233,101 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_lithuanian_2b"
+                name="{=lord_lithuanian_2b.name}Hala*"
+                default_group="Cavalry"
+                age="42"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00058C0600142001979646A85B89B55872448B628C6B9A69B756A97D818549460028460302987D990000000000000000000000000000000000000000703C2003"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="75" />
+        <skill id="OneHanded" value="75" />
+
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="lithuanian_lady" />
+        <EquipmentSet id="lithuanian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_lithuanian_2c"
+                name="{=lord_lithuanian_2c.name}Kestut*"
+                voice="softspoken"
+                age="23"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="200" />
+        <skill id="Crafting" value="50" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_lithuanian_3a"
                 name="{=lord_lithuanian_3a.name}Karibut*"
                 voice="softspoken"
@@ -272,6 +367,102 @@
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="1" />
         <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_lithuanian_3b"
+                name="{=lord_lithuanian_3b.name}Jogaila*"
+                voice="softspoken"
+                age="41"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_lithuanian_3c"
+                name="{=lord_lithuanian_3c.name}Skirmon*"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00008C0980000403979646A85B89B55872448B628C6B9A69B756A97D818549460078460307987D99000000000000000000000000000000000000000070E47102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-1" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
@@ -327,6 +518,95 @@
     <Equipments>
       <EquipmentSet id="lithuanian_lord" />
       <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_lithuanian_4b"
+                name="{=lord_lithuanian_4b.name}Judrė*"
+                default_group="Cavalry"
+                age="34"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00058C0600142001979646A85B89B55872448B628C6B9A69B756A97D818549460028460302987D990000000000000000000000000000000000000000703C2003"  />
+    </face>
+    <skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="275" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="125" />
+        <skill id="Bow" value="100" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="lithuanian_lady" />
+        <EquipmentSet id="lithuanian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_lithuanian_4c"
+                name="{=lord_lithuanian_4c.name}Elžbeta*"
+                default_group="Cavalry"
+                age="21"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.2612" build="0.5443"  key="00058C0600142001979646A85B89B55872448B628C6B9A69B756A97D818549460028460302987D990000000000000000000000000000000000000000703C2003"  />
+    </face>
+    <skills>
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="225" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="25" />
+        <skill id="OneHanded" value="25" />
+
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="lithuanian_lady" />
+        <EquipmentSet id="lithuanian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
