@@ -1697,6 +1697,7 @@
 		default_group="Cavalry"
 		level="26"
 		name="{=lithuanian_heavy_spearman.name}Lithuanian Noble Horseman"
+		upgrade_requires="ItemCategory.horse"
 		occupation="Soldier"
 		culture="Culture.goldenhorde">
 		<face>
