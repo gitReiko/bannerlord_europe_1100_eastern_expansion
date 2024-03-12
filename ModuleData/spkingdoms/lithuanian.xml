@@ -22,7 +22,6 @@
     <relationships>
 		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
 		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
-		<relationship kingdom="Kingdom.poland" value="-50" isAtWar="false" />
 		<relationship kingdom="Kingdom.goldenhorde" value="50" isAtWar="false" />
 		<relationship kingdom="Kingdom.polotsk" value="15" isAtWar="false" />
 	</relationships>
