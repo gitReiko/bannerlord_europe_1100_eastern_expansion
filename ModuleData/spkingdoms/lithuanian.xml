@@ -18,7 +18,7 @@
 		   short_name="{=lithuanian_kingdom_short_name}Lithuanians"
 		   title="{=lithuanian_kingdom_title}Lithuanian Tribal Principalities"
 		   ruler_title="{=lithuanian_ruler_title}Knyaz"
-		   text="{=lithuanian_kingdom_text}++">
+		   text="{=lithuanian_kingdom_text}In 1100 there was no unified state on the territory of Lithuania. The region was divided among several tribal Lithuanian principalities, which united against common enemies, traded among themselves and fought each other. Due to the lack of written sources, information about the region has been reconstructed from archaeology and later written sources.">
     <relationships>
 		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
 		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
