@@ -734,12 +734,12 @@
 		<skills >
 			<skill id="Athletics" value="20"/>
 			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="25"/>
+			<skill id="OneHanded" value="20"/>
 			<skill id="TwoHanded" value="0"/>
-			<skill id="Polearm" value="15"/>
+			<skill id="Polearm" value="20"/>
 			<skill id="Bow" value="0"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="15"/>
+			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.kryvich_armed_levy"/>
@@ -753,7 +753,7 @@
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item2" id="Item.throwing_stone"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
@@ -761,32 +761,32 @@
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_sickle_1_t1"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_sickle_1_t1"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
-        <equipment slot="Cape" id="Item.scarf"/>
+        		<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
@@ -800,6 +800,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_scout"
 		default_group="Cavalry"
 		level="11"
@@ -810,12 +811,12 @@
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
 		<skills >
-			<skill id="Athletics" value="25"/>
-			<skill id="Riding" value="60"/>
-			<skill id="OneHanded" value="35"/>
-			<skill id="TwoHanded" value="0"/>
-			<skill id="Polearm" value="60"/>
-			<skill id="Bow" value="0"/>
+			<skill id="Athletics" value="30"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="30"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="65"/>
+			<skill id="Bow" value="10"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="10"/>
 		</skills>
@@ -904,6 +905,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_armed_levy"
 		default_group="Infantry"
 		level="11"
@@ -916,12 +918,12 @@
 		<skills >
 			<skill id="Athletics" value="40"/>
 			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="40"/>
-			<skill id="TwoHanded" value="20"/>
-			<skill id="Polearm" value="40"/>
-			<skill id="Bow" value="15"/>
+			<skill id="OneHanded" value="50"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="45"/>
+			<skill id="Bow" value="0"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="25"/>
+			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.kryvich_palkavy"/>
@@ -936,7 +938,7 @@
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.rough_tied_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
@@ -972,12 +974,12 @@
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.imperial_spear_t2"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
-        <equipment slot="Cape" id="Item.scarf"/>
+        		<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
@@ -998,6 +1000,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_archer_levy"
 		default_group="Ranged"
 		level="11"
@@ -1010,12 +1013,12 @@
 		<skills >
 			<skill id="Athletics" value="50"/>
 			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="20"/>
+			<skill id="OneHanded" value="25"/>
 			<skill id="TwoHanded" value="10"/>
 			<skill id="Polearm" value="10"/>
-			<skill id="Bow" value="40"/>
+			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="40"/>
+			<skill id="Throwing" value="15"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.kryvich_palkavy_archer"/>
@@ -1030,7 +1033,7 @@
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
@@ -1066,7 +1069,7 @@
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
@@ -1075,24 +1078,25 @@
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
 				<equipment slot="Head" id="Item.fur_hood"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
-        <equipment slot="Gloves" id="Item.armwraps"/>
+        		<equipment slot="Gloves" id="Item.armwraps"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
-        <equipment slot="Cape" id="Item.scarf"/>
+        		<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_palkavy_archer"
 		default_group="Ranged"
 		level="16"
@@ -1104,13 +1108,13 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="85"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="10"/>
 			<skill id="OneHanded" value="50"/>
 			<skill id="TwoHanded" value="25"/>
 			<skill id="Polearm" value="25"/>
-			<skill id="Bow" value="100"/>
+			<skill id="Bow" value="125"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="50"/>
+			<skill id="Throwing" value="25"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.kryvich_palkavy_archer_veteran"/>
@@ -1126,7 +1130,7 @@
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1162,7 +1166,7 @@
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1172,7 +1176,7 @@
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_axe_t3"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1190,6 +1194,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_palkavy_archer_veteran"
 		default_group="Ranged"
 		level="21"
@@ -1201,11 +1206,11 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="15"/>
 			<skill id="OneHanded" value="75"/>
 			<skill id="TwoHanded" value="25"/>
 			<skill id="Polearm" value="25"/>
-			<skill id="Bow" value="125"/>
+			<skill id="Bow" value="150"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="50"/>
 		</skills>
@@ -1220,7 +1225,7 @@
 				<equipment slot="Gloves" id="Item.leather_gloves"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
-      	<EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1257,7 +1262,7 @@
 				<equipment slot="Gloves" id="Item.highland_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      	<EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1266,7 +1271,7 @@
 				<equipment slot="Gloves" id="Item.leather_gloves"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
 			</EquipmentRoster>
-      	<EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
@@ -1285,6 +1290,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_palkavy"
 		default_group="Infantry"
 		level="16"
@@ -1296,11 +1302,11 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="75"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="15"/>
 			<skill id="OneHanded" value="75"/>
 			<skill id="TwoHanded" value="25"/>
 			<skill id="Polearm" value="75"/>
-			<skill id="Bow" value="25"/>
+			<skill id="Bow" value="15"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="35"/>
 		</skills>
@@ -1318,7 +1324,7 @@
 				<equipment slot="Gloves" id="Item.guarded_armwraps"/>
 				<equipment slot="Leg" id="Item.battania_woodland_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
@@ -1355,7 +1361,7 @@
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.vlandia_lance_2_t4"/>
@@ -1364,7 +1370,7 @@
 				<equipment slot="Gloves" id="Item.armwraps"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
@@ -1384,6 +1390,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_light_vershnik"
 		default_group="Cavalry"
 		level="16"
@@ -1396,13 +1403,13 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="50"/>
-			<skill id="Riding" value="100"/>
-			<skill id="OneHanded" value="75"/>
+			<skill id="Riding" value="75"/>
+			<skill id="OneHanded" value="50"/>
 			<skill id="TwoHanded" value="25"/>
 			<skill id="Polearm" value="100"/>
-			<skill id="Bow" value="15"/>
+			<skill id="Bow" value="10"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="25"/>
+			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.kryvich_vershnik"/>
@@ -1420,7 +1427,7 @@
 				<equipment slot="Horse" id="Item.empire_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item2" id="Item.studded_bound_kite_shield"/>
@@ -1460,7 +1467,7 @@
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item2" id="Item.studded_bound_kite_shield"/>
@@ -1470,7 +1477,7 @@
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
-      <EquipmentRoster>
+      		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.bound_horsemans_kite_shield"/>
 				<equipment slot="Item2" id="Item.aserai_lance_1_t5"/>
@@ -1491,6 +1498,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_vershnik"
 		default_group="Cavalry"
 		level="21"
@@ -1501,14 +1509,14 @@
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
 		<skills >
-			<skill id="Athletics" value="75"/>
-			<skill id="Riding" value="150"/>
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="100"/>
 			<skill id="OneHanded" value="75"/>
 			<skill id="TwoHanded" value="25"/>
 			<skill id="Polearm" value="175"/>
 			<skill id="Bow" value="15"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="25"/>
+			<skill id="Throwing" value="15"/>
 		</skills>
 		<Equipments>
 			<EquipmentRoster>
@@ -1602,6 +1610,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
     <NPCCharacter id="kryvich_druzinnik_son"
 		default_group="Infantry"
 		level="21"
@@ -1613,11 +1622,11 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="0"/>
+			<skill id="Riding" value="25"/>
 			<skill id="OneHanded" value="100"/>
 			<skill id="TwoHanded" value="50"/>
-			<skill id="Polearm" value="125"/>
-			<skill id="Bow" value="50"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="35"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="75"/>
 		</skills>
@@ -1705,6 +1714,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_younger_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="26"
@@ -1717,10 +1727,10 @@
 		<skills >
 			<skill id="Athletics" value="175"/>
 			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="200"/>
-			<skill id="TwoHanded" value="125"/>
-			<skill id="Polearm" value="200"/>
-			<skill id="Bow" value="75"/>
+			<skill id="OneHanded" value="225"/>
+			<skill id="TwoHanded" value="100"/>
+			<skill id="Polearm" value="175"/>
+			<skill id="Bow" value="50"/>
 			<skill id="Crossbow" value="0"/>
 			<skill id="Throwing" value="150"/>
 		</skills>
@@ -1815,6 +1825,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
+
 	<NPCCharacter id="kryvich_older_pancyrny_druzynnik"
 		default_group="Infantry"
 		level="31"
@@ -1826,13 +1837,13 @@
 		</face>
 		<skills >
 			<skill id="Athletics" value="275"/>
-			<skill id="Riding" value="0"/>
-			<skill id="OneHanded" value="250"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="225"/>
 			<skill id="TwoHanded" value="125"/>
-			<skill id="Polearm" value="300"/>
+			<skill id="Polearm" value="250"/>
 			<skill id="Bow" value="75"/>
 			<skill id="Crossbow" value="0"/>
-			<skill id="Throwing" value="225"/>
+			<skill id="Throwing" value="200"/>
 		</skills>
 		<Equipments>
 			<EquipmentRoster>
