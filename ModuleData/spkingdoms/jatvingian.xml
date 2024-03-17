@@ -2,23 +2,23 @@
 <Kingdoms>
 
   <Kingdom id="jatvingian"
-		   owner="Hero.lord_jatvingian_3a"
-		   banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.460.266.785.830.0.1.45.510.48.116.460.266.785.700.0.0.315.510.48.116.300.266.734.845.0.0.315.510.48.116.300.266.734.685.0.1.-135.510.48.116.142.266.683.535.0.1.-135.510.48.116.369.266.753.668.0.0.315.510.48.116.369.266.753.862.0.1.-135.510.48.116.142.266.683.995.0.0.315"
-		   primary_banner_color="0xff429081"
-		   secondary_banner_color="0xffeae1da"
-		   label_color="ff429081"
-		   color="ff429081"
-		   color2="ffeae1da"
-		   alternative_color="ff515167"
-		   alternative_color2="ffeae1da"
-		   culture="Culture.jatvingian"
-		   settlement_banner_mesh="encounter_flag_a"
-		   flag_mesh="info_screen_flags_a"
-		   name="{=jatvingian_kingdom_name}The Jatvingian Tribal Principalities"
-		   short_name="{=jatvingian_kingdom_short_name}Jatvingians"
-		   title="{=jatvingian_kingdom_title}Jatvingian Tribal Principalities"
-		   ruler_title="{=jatvingian_ruler_title}Knyaz"
-		   text="{=jatvingian_kingdom_text}At the beginning of the 12th century, there are many towns and fortifications in the Paniamońnie region. The first reliable written sources about these settlements date back to the 13th century. Sources speak about an attempt of the Volhynia Principality to conquer the region.{newline}The chronicle Principality of Grodno was probably located in the modern Davyd-Haradok, which was built by Davyd Igorovich in 1100. Later, his son Vsevolodko became the first knyaz of Haradok.{newline}For a long time Rus tried to force the Jatvingians to pay tribute. The territory around modern Brest was conquered by Rus before the 12th century. In the 13th century Mazovia, Volhynia and Cumans made a joint campaign against the Jatvingians. It's an indicator of Jatvingians power.{newline}The expansion of the Teutonic Order and Volhynia in the 13th century pushed the locals to ally with Lithuania.">
+	owner="Hero.lord_jatvingian_3a"
+	banner_key="11.31.19.1836.1836.768.788.1.0.-30.505.149.116.250.250.764.764.0.0.45.505.31.116.200.200.764.764.0.0.45.505.149.116.56.56.764.764.0.0.45.505.149.116.100.100.764.580.0.0.45.505.31.116.56.56.764.580.0.0.45.505.149.116.100.100.764.950.0.0.45.505.31.116.56.56.764.950.0.0.45.505.149.116.100.100.579.764.0.0.45.505.31.116.56.56.579.764.0.0.45.505.149.116.100.100.951.764.0.0.45.505.31.116.56.56.951.764.0.0.45.510.149.116.90.150.629.712.0.0.135.510.149.116.90.150.657.684.0.0.135.510.149.116.90.150.684.656.0.0.135.510.149.116.90.150.710.628.0.0.135.510.149.116.90.150.818.900.0.0.135.510.149.116.90.150.846.872.0.0.135.510.149.116.90.150.873.844.0.0.135.510.149.116.90.150.899.816.0.0.135.510.149.116.90.150.900.712.0.1.225.510.149.116.90.150.872.684.0.1.225.510.149.116.90.150.845.656.0.1.225.510.149.116.90.150.819.628.0.1.225.510.149.116.90.150.709.900.0.1.225.510.149.116.90.150.681.872.0.1.225.510.149.116.90.150.654.844.0.1.225.510.149.116.90.150.628.816.0.1.225"
+	primary_banner_color="0xffece8dd"
+	secondary_banner_color="0xff222222"
+	label_color="ffece8dd"
+	color="ffece8dd"
+	color2="ff222222"
+	alternative_color="ff820d0d"
+	alternative_color2="ff222222"
+	culture="Culture.jatvingian"
+	settlement_banner_mesh="encounter_flag_a"
+	flag_mesh="info_screen_flags_a"
+	name="{=jatvingian_kingdom_name}The Jatvingian Tribal Principalities"
+	short_name="{=jatvingian_kingdom_short_name}Jatvingians"
+	title="{=jatvingian_kingdom_title}Jatvingian Tribal Principalities"
+	ruler_title="{=jatvingian_ruler_title}Knyaz"
+	text="{=jatvingian_kingdom_text}At the beginning of the 12th century, there are many towns and fortifications in the Paniamońnie region. The first reliable written sources about these settlements date back to the 13th century. Sources speak about an attempt of the Volhynia Principality to conquer the region.{newline}The chronicle Principality of Grodno was probably located in the modern Davyd-Haradok, which was built by Davyd Igorovich in 1100. Later, his son Vsevolodko became the first knyaz of Haradok.{newline}For a long time Rus tried to force the Jatvingians to pay tribute. The territory around modern Brest was conquered by Rus before the 12th century. In the 13th century Mazovia, Volhynia and Cumans made a joint campaign against the Jatvingians. It's an indicator of Jatvingians power.{newline}The expansion of the Teutonic Order and Volhynia in the 13th century pushed the locals to ally with Lithuania.">
     <relationships>
 		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
 		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
