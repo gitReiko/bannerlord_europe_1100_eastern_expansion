@@ -43,7 +43,7 @@
       <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.volhynian_levy_archer" />
       <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.volhynian_levy_woj" />
       <PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.volhynian_experienced_levy_archer" />
-      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.volhynian_experienced_levy_woj" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.volhynian_otrok" />
       <PartyTemplateStack min_value="5" max_value="4" troop="NPCCharacter.volhynian_light_levy_horseman" />
       <PartyTemplateStack min_value="3" max_value="2" troop="NPCCharacter.volhynian_younger_druzynnik" />
     </stacks>

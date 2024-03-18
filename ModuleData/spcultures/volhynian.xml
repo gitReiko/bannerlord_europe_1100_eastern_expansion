@@ -6,7 +6,7 @@
            is_main_culture="true"
            color="0xff3b6298"
            color2="0xffffffff"
-           elite_basic_troop="NPCCharacter.volhynian_experienced_levy_woj"
+           elite_basic_troop="NPCCharacter.volhynian_otrok"
            basic_troop="NPCCharacter.volhynian_levy"
            melee_militia_troop="NPCCharacter.volhynian_armed_levy"
            ranged_militia_troop="NPCCharacter.volhynian_levy_archer"

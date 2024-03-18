@@ -6,7 +6,7 @@
            is_main_culture="true"
            color="0xffD22D33"
            color2="0xfff5f5f5"
-           elite_basic_troop="NPCCharacter.lithuanian_experienced_spearman"
+           elite_basic_troop="NPCCharacter.lithuanian_noble_spearman"
            basic_troop="NPCCharacter.lithuanian_volunteer"
            melee_militia_troop="NPCCharacter.lithuanian_armed_volunteer"
            ranged_militia_troop="NPCCharacter.lithuanian_bowman"

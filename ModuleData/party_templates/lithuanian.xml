@@ -45,14 +45,14 @@
       <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.zemaitian_experienced_skirmisher" />
       <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.zemaitian_heavy_skirmisher" />
       <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.lithuanian_noble_horseman" />
-      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_heavy_spearman" />
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.lithuanian_noble_heavy_spearman" />
     </stacks>
   </MBPartyTemplate>
   
   <MBPartyTemplate id="vassal_reward_troops_lithuanian" >
     <stacks>
-      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.lithuanian_heavy_spearman" />
-      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.lithuanian_veteran_heavy_spearman" />
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.lithuanian_noble_heavy_spearman" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.lithuanian_noble_heavy_spearman_veteran" />
     </stacks>
   </MBPartyTemplate>
 

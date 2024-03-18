@@ -6,7 +6,7 @@
            is_main_culture="true"
            color="0xff3b6298"
            color2="0xffffffff"
-           elite_basic_troop="NPCCharacter.jatvingian_experienced_drab"
+           elite_basic_troop="NPCCharacter.jatvingian_noble_warrior"
            basic_troop="NPCCharacter.jatvingian_volunteer"
            melee_militia_troop="NPCCharacter.jatvingian_armed_volunteer"
            ranged_militia_troop="NPCCharacter.jatv_dregovian_archer"

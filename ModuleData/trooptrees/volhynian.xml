@@ -980,6 +980,99 @@
 			<skill id="Crossbow" value="35"/>
 			<skill id="Throwing" value="35"/>
 		</skills>
+		<Equipments>
+			<EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3" />
+        <equipment slot="Item1" id="Item.studded_bound_kite_shield"/>
+				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+        <equipment slot="Head" id="Item.AR_empire_helmet_p" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+        <equipment slot="Body" id="Item.imperial_padded_cloth" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2" />
+        <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.stronger_reinforced_kite_shield"/>
+        <equipment slot="Head" id="Item.arming_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+        <equipment slot="Body" id="Item.northern_padded_gambeson" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
+				<equipment slot="Head" id="Item.laced_coif"/>
+				<equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.battania_axe_1_t2"/>
+        <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.western_kite_shield"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.studded_bound_kite_shield"/>
+        <equipment slot="Head" id="Item.laced_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.desert_padded_cloth"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
+        <equipment slot="Item1" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.stronger_reinforced_kite_shield"/>
+        <equipment slot="Head" id="Item.arming_coif" />
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+        <equipment slot="Item1" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.reinforced_kite_shield"/>
+        <equipment slot="Head" id="Item.open_padded_coif" />
+        <equipment slot="Gloves" id="Item.leather_gloves"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
+      </EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Head" id="Item.arming_coif"/>
+        <equipment slot="Gloves" id="Item.TV_vlandia_gloves_d"/>
+				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+				<equipment slot="Leg" id="Item.highland_boots"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+  <NPCCharacter id="volhynian_otrok"
+		default_group="Infantry"
+		level="21"
+		name="{=volhynian_otrok.name}Volhynian Otrok"
+		occupation="Soldier"
+		culture="Culture.volhynian">
+		<face>
+			<face_key_template value="BodyProperty.fighter_volhynian"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="85"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="75"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="35"/>
+			<skill id="Crossbow" value="35"/>
+			<skill id="Throwing" value="35"/>
+		</skills>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.volhynian_foot_younger_druzynnik"/>
       <upgrade_target id="NPCCharacter.volhynian_younger_druzynnik"/>
@@ -1166,9 +1259,6 @@
 			<skill id="Crossbow" value="25"/>
 			<skill id="Throwing" value="25"/>
 		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.volhynian_younger_druzynnik"/>
-		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
         <equipment slot="Item0" id="Item.sturgia_axe_3_t3" />
