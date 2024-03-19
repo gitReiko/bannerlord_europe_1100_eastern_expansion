@@ -36,10 +36,10 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
-  <Settlement id="reiko_polack_vil_1" name="{=reiko_polack_vil_1.name}Lipień" posX="1002.945" posY="1219.70" culture="Culture.kryvich" text="{=reiko_polack_vil_1.text}Lipień text.">
+
+  <Settlement id="reiko_miensk_vil_2" name="{=reiko_miensk_vil_2.name}Miadziel" posX="967.770" posY="1235.250" culture="Culture.kryvich" text="{=reiko_miensk_vil_2.text}Miadziel text.">
     <Components>
-      <Village id="reiko_polack_vil_1_comp" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.town_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_miensk_vil_2_comp" village_type="VillageType.lumberjack" hearth="273" gate_rotation="0.408" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
