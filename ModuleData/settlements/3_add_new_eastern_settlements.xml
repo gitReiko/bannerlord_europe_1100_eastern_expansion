@@ -326,7 +326,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_barysau" name="{=reiko_barysau.name}Barysaŭ Castle" owner="Faction.clan_polotsk_2" posX="995.270" posY="1233.820" culture="Culture.kryvich" gate_posX="995.930" gate_posY="1234.260">
+  <Settlement id="reiko_barysau" name="{=reiko_barysau.name}Barysaŭ Castle" owner="Faction.clan_polotsk_2" posX="995.650" posY="1226.290" culture="Culture.kryvich" gate_posX="996.350" gate_posY="1226.720">
     <Components>
       <Town id="reiko_barysau_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
     </Components>
