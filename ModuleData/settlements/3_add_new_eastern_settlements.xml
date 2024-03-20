@@ -191,12 +191,12 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_selpils" name="{=reiko_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde"  gate_posX="932.000" gate_posY="1271.400">
+  <Settlement id="reiko_selpils" name="{=reiko_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde"  gate_posX="931.719" gate_posY="1271.781">
     <Components>
       <Town id="reiko_selpils_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_a" scene_name_1="vlandia_castle_a" scene_name_2="vlandia_castle_a" scene_name_3="vlandia_castle_a" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
