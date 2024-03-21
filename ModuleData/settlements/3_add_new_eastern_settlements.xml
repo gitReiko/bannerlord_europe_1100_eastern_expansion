@@ -121,7 +121,7 @@
       <Town id="reiko_braslau_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1200" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_b" scene_name_1="vlandia_castle_b" scene_name_2="vlandia_castle_b" scene_name_3="vlandia_castle_b" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -145,23 +145,11 @@
     <Components>
       <Town id="reiko_siaule_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="750" />
     </Components>
-    <Locations
-			complex_template="LocationComplexTemplate.castle_complex">
-			<Location
-				id="center"
-				scene_name="vlandia_castle_d"
-				scene_name_1="vlandia_castle_d"
-				scene_name_2="vlandia_castle_d"
-				scene_name_3="vlandia_castle_d" />
-			<Location
-				id="lordshall"
-				scene_name_1="european_castle_keep_a_l1_interior"
-				scene_name_2="european_castle_keep_a_l2_interior"
-				scene_name_3="european_castle_keep_a_l3_interior" />
-			<Location
-				id="prison"
-				scene_name="vlandia_dungeon_a" />
-		</Locations>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_d" scene_name_1="vlandia_castle_d" scene_name_2="vlandia_castle_d" scene_name_3="vlandia_castle_d" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
   </Settlement>
 
   <Settlement id="reiko_siaule_vil_1" name="{=reiko_siaule_vil_1.name}Upytė" posX="882.510" posY="1236.180" culture="Culture.goldenhorde" text="{=reiko_siaule_vil_1.text}Upytė.">
@@ -183,7 +171,7 @@
       <Town id="reiko_vilkomerge_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -268,7 +256,7 @@
       <Town id="reiko_rajgrod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="550" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_a" scene_name_1="vlandia_castle_a" scene_name_2="vlandia_castle_a" scene_name_3="vlandia_castle_a" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -368,7 +356,7 @@
       <Town id="reiko_lukoml_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -393,7 +381,7 @@
       <Town id="reiko_dzisna_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="200" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_d" scene_name_1="vlandia_castle_d" scene_name_2="vlandia_castle_d" scene_name_3="vlandia_castle_d" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -478,7 +466,7 @@
       <Town id="reiko_wizna_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="370" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -489,7 +477,7 @@
       <Town id="reiko_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1300" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_d" scene_name_1="vlandia_castle_d" scene_name_2="vlandia_castle_d" scene_name_3="vlandia_castle_d" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -609,7 +597,7 @@
       <Town id="reiko_busk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="450" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_b" scene_name_1="vlandia_castle_b" scene_name_2="vlandia_castle_b" scene_name_3="vlandia_castle_b" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
@@ -634,9 +622,9 @@
       <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="400" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
-      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="battania_dungeon_a" />
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
 
@@ -659,7 +647,7 @@
       <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="320" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="center" scene_name="vlandia_castle_b" scene_name_1="vlandia_castle_b" scene_name_2="vlandia_castle_b" scene_name_3="vlandia_castle_b" />
       <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
