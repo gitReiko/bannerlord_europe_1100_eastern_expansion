@@ -1,16 +1,18 @@
 
 id = scene
 
+Vlandian
+
 castle_V1 = vlandia_castle_d
 castle_V2 = vlandia_castle_a
 castle_V3 = vlandia_castle_005a
 castle_V6 = vlandia_castle_c
 castle_V8 = vlandia_castle_b
 
+Battanian
 
-
-
-
+castle_B1 = battania_castle_a
+castle_B2 = battania_castle_b
 
 
 
