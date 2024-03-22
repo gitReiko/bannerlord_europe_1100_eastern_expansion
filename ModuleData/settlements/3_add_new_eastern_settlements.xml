@@ -795,7 +795,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_peremyshl_vil_1" name="{=reiko_peremyshl_vil_1.name}Oleszyce" posX="855.961" posY="1128.795" culture="Culture.volhynian" text="{=reiko_peremyshl_vil_1.text}Oleszyce.">
+  <Settlement id="reiko_peremyshl_vil_1" name="{=reiko_peremyshl_vil_1.name}Oleszyce" posX="866.364" posY="1129.371" culture="Culture.volhynian" text="{=reiko_peremyshl_vil_1.text}Oleszyce.">
     <Components>
       <Village id="reiko_peremyshl_vil_1_comp" village_type="VillageType.cattle_farm" hearth="209" bound="Settlement.reiko_peremyshl" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
