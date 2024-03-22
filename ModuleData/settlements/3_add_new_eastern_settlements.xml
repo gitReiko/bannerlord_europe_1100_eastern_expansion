@@ -653,7 +653,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volyn Castle" owner="Faction.clan_volhynia_1" posX="866.950" posY="1134.050" culture="Culture.volhynian"  gate_posX="866.350" gate_posY="1134.500">
+  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volhyn Castle" owner="Faction.clan_volhynia_1" posX="859.010" posY="1142.300" culture="Culture.volhynian"  gate_posX="859.370" gate_posY="1141.835">
     <Components>
       <Town id="reiko_volyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="550" />
     </Components>
