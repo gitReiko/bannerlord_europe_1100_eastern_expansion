@@ -472,7 +472,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_drohiczyn" name="{=reiko_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volhynia_2" posX="878.160" posY="1183.950" culture="Culture.jatvingian"  gate_posX="878.840" gate_posY="1184.410">
+  <Settlement id="reiko_drohiczyn" name="{=reiko_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volhynia_2" posX="878.160" posY="1183.950" culture="Culture.jatvingian"  gate_posX="878.578" gate_posY="1183.970">
     <Components>
       <Town id="reiko_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1300" />
     </Components>
