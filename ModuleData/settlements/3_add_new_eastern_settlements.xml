@@ -642,7 +642,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Usłonim Castle" owner="Faction.clan_jatvingian_4" posX="920.730" posY="1205.090" culture="Culture.jatvingian"  gate_posX="920.780" gate_posY="1204.250">
+  <Settlement id="reiko_slonim" name="{=reiko_slonim.name}Usłonim Castle" owner="Faction.clan_jatvingian_4" posX="920.730" posY="1205.090" culture="Culture.jatvingian"  gate_posX="920.632" gate_posY="1204.540">
     <Components>
       <Town id="reiko_slonim_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="320" />
     </Components>
