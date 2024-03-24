@@ -5,7 +5,7 @@
 
 The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.1
+Update 1.2
 
 - 2 new kigdoms and cultures
 - critical bugfix occurring during the rebellion of mod cultures
