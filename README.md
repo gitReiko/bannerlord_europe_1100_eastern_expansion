@@ -7,8 +7,12 @@ The mod on this page will be updated to match the Europe 1100 version on Steam. 
 
 Update 1.2
 
-- 2 new kigdoms and cultures
-- critical bugfix occurring during the rebellion of mod cultures
+- 3 new kigdoms and 1 culture
+- settlements improvements (more scenes use, different modeles)
+- troops rebalance (skills, trees)
+- new settlements
+- new hideouts
+- banners improvements (new schemes, colors)
 - many other changes
 
 This mod has two purposes:
@@ -20,13 +24,14 @@ The action of the expansion takes place in the same timeline of 1090-1005. Submo
 
 What does the mod add at this point:
 
-- many settlements
-- 3 kingdoms (Polatsk, Jatvingian, Volhynia)
-- 3 cultures (Kryvian, Jatvingian, Volhynia)
-- expand baltic culture (will be reworked to several cultures and kingdoms)
+- 9 cities, 24 castles, 38 villages
+- 6 kingdoms (Galician, Jatvingian, Lithuanian, Polatsk, Volhynia, Samogitian)
+- 4 cultures (Kryvian, Jatvingian, Volhynia, Lithuanian)
 
 My future plans
 
+- add Semigallian, Latgalian, Prussian, Aestian kingdoms
+- add Dregovian culture and further creation of Kyivan kingdom
 - add Galician kigdom (Peremyshl + Terebovlia principalities).
 - rework Baltic tribes to several cultures and kingdoms (Prussian, Lithuanian, Latvian, Aestian). Will be very pleased to get info about these cultures in Discord.
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.

@@ -1697,7 +1697,7 @@
 	<NPCCharacter id="lithuanian_experienced_bowman"
 		default_group="Ranged"
 		level="16"
-		name="{=zemaitian_experienced_skirmisher.name}Lithuanian Experienced Bowman"
+		name="{=lithuanian_experienced_bowman.name}Lithuanian Experienced Bowman"
 		occupation="Soldier"
 		culture="Culture.goldenhorde">
 	<face>
