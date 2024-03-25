@@ -311,7 +311,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_halych_2a"
-                name="{=lord_halych_2a.name}Volodar Rostyslavych"
+                name="{=lord_halych_2a.name}Rostyslav Volodarovich"
                 voice="softspoken"
                 age="16"
                 is_female="false"
@@ -452,7 +452,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_halych_3a"
-                name="{=lord_halych_3a.name}Volodar Rostyslavych"
+                name="{=lord_halych_3a.name}Vasylko Rostyslavych"
                 voice="softspoken"
                 age="34"
                 is_female="false"
