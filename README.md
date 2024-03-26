@@ -32,7 +32,6 @@ My future plans
 
 - add Semigallian, Latgalian, Prussian, Aestian kingdoms
 - add Dregovian culture and further creation of Kyivan kingdom
-- add Galician kigdom (Peremyshl + Terebovlia principalities).
 - rework Baltic tribes to several cultures and kingdoms (Prussian, Lithuanian, Latvian, Aestian). Will be very pleased to get info about these cultures in Discord.
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
