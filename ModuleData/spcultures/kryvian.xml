@@ -263,8 +263,8 @@
     </tournament_team_templates_four_participant>
     <basic_mercenary_troops>
       <template name="NPCCharacter.nordic_huscarl" />
-      <template name="NPCCharacter.baltic_tribesman" />
-      <template name="NPCCharacter.baltic_ukininkas" />
+      <template name="NPCCharacter.lithuanian_volunteer" />
+      <template name="NPCCharacter.lithuanian_noble_spearman" />
       <template name="NPCCharacter.jatv_dregovian_archer" />
     </basic_mercenary_troops>
   </Culture>
