@@ -1039,7 +1039,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_smolensk" name="{=reiko_smolensk.name}Smalensk" owner="Faction.clan_rus_2" posX="1104.516" posY="1259.311" culture="Culture.rus" gate_posX="1105.332" gate_posY="1263.156" text="{=reiko_smolensk.text}Modern name Smolensk. The old name (Smalensk) comes from the Kryvian word 'zmalenstva', which translates 'from childhood'. The city was built for the young prince Igor.">
+  <Settlement id="reiko_smolensk" name="{=reiko_smolensk.name}Smalensk" owner="Faction.clan_rus_2" posX="1104.516" posY="1259.311" culture="Culture.kryvich" gate_posX="1105.332" gate_posY="1263.156" text="{=reiko_smolensk.text}Modern name Smolensk. The old name (Smalensk) comes from the Kryvian word 'zmalenstva', which translates 'from childhood'. The city was built for the young prince Igor.">
     <Components>
       <Town id="reiko_smolensk_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="4600" />
     </Components>
@@ -1060,12 +1060,37 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_smolensk_vil_1" name="{=reiko_smolensk_vil_1.name}Troitskoe" posX="1107.630" posY="1277.188" culture="Culture.rus" text="{=reiko_smolensk_vil_1.text}Troitskoe.">
+  <Settlement id="reiko_smolensk_vil_1" name="{=reiko_smolensk_vil_1.name}Tsybulki" posX="1107.630" posY="1277.188" culture="Culture.kryvich" text="{=reiko_smolensk_vil_1.text}Tsybulki.">
     <Components>
       <Village id="reiko_smolensk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="333" gate_rotation="0.408" bound="Settlement.reiko_smolensk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_toropets" name="{=reiko_toropets.name}Tarapitsa Castle" owner="Faction.clan_rus_3" posX="1097.630" posY="1285.640" culture="Culture.kryvich"  gate_posX="1097.280" gate_posY="1286.020">
+    <Components>
+      <Town id="reiko_toropets_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="700" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_toropets_vil_1" name="{=reiko_toropets_vil_1.name}Zhytava" posX="1111.158" posY="1294.875" culture="Culture.kryvich" text="{=reiko_toropets_vil_1.text}Zhytava.">
+    <Components>
+      <Village id="reiko_toropets_vil_1_comp" village_type="VillageType.wheat_farm" hearth="194" gate_rotation="0.008" bound="Settlement.reiko_toropets" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
