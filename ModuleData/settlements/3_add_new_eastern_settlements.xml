@@ -1074,7 +1074,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_toropets" name="{=reiko_toropets.name}Tarapitsa Castle" owner="Faction.clan_rus_3" posX="1097.630" posY="1285.640" culture="Culture.kryvich"  gate_posX="1097.280" gate_posY="1286.020">
+  <Settlement id="reiko_toropets" name="{=reiko_toropets.name}Tarapitsa Castle" owner="Faction.clan_rus_8" posX="1097.630" posY="1285.640" culture="Culture.kryvich"  gate_posX="1097.280" gate_posY="1286.020">
     <Components>
       <Town id="reiko_toropets_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="700" />
     </Components>
@@ -1091,6 +1091,31 @@
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_velikiye_luki" name="{=reiko_velikiye_luki.name}Luki" owner="Faction.clan_rus_8" posX="1062.363" posY="1287.121" culture="Culture.kryvich"  gate_posX="1063.077" gate_posY="1285.711">
+    <Components>
+      <Town id="reiko_velikiye_luki_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="470" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_velikiye_luki_vil_1" name="{=reiko_velikiye_luki_vil_1.name}Nivy" posX="1084.391" posY="1279.400" culture="Culture.kryvich" text="{=reiko_velikiye_luki_vil_1.text}Nivy.">
+    <Components>
+      <Village id="reiko_velikiye_luki_vil_1_comp" village_type="VillageType.fisherman" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_velikiye_luki" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
