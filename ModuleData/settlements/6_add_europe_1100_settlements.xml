@@ -9169,42 +9169,6 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_KR5" name="{=Settlements.Settlement.ECM.KR.castle_KR5}Pskow Castle" owner="Faction.clan_rus_7" posX="994.492" posY="1301.724" culture="Culture.rus" gate_posX="993.2311" gate_posY="1300.493">
-    <Components>
-      <Town id="castle_comp_KR5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="800" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sturgia_castle_siege_001" scene_name_1="sturgia_castle_siege_001" scene_name_2="sturgia_castle_siege_001" scene_name_3="sturgia_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="sturgia_dungeon_a" />
-    </Locations>
-  </Settlement>
-  <Settlement id="castle_village_KR5_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR5_1}Porkhov " posX="1029.823" posY="1319.197" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR5_1}Porkhov.">
-    <Components>
-      <Village id="castle_village_comp_KR5_1" village_type="VillageType.flax_plant" hearth="403" gate_rotation="0.008" bound="Settlement.castle_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_e" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="castle_village_KR5_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR5_2}Opotchka" posX="1023.649" posY="1270.165" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR5_2}Opotchka">
-    <Components>
-      <Village id="castle_village_comp_KR5_2" village_type="VillageType.trapper" hearth="403" gate_rotation="0.008" bound="Settlement.castle_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_e" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
   <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_rus_7" posX="990.765" posY="1333.307" culture="Culture.rus" gate_posX="991.0739" gate_posY="1335.028">
     <Components>
       <Town id="castle_comp_KR6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="680" />
@@ -9238,19 +9202,7 @@
       <Location id="prison" scene_name="sturgia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KR7_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR7_1}Smolensk" posX="1142.593" posY="1253.838" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR7_1}Smolensk.">
-    <Components>
-      <Village id="castle_village_comp_KR7_1" village_type="VillageType.fisherman" hearth="572" gate_rotation="0.208" bound="Settlement.castle_KR7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_g" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <Settlement id="castle_KR8" name="{=Settlements.Settlement.ECM.KR.castle_KR8}Moscow Castle" owner="Faction.clan_rus_6" posX="1226.59" posY="1255.365" culture="Culture.rus" gate_posX="1225.404" gate_posY="1256.42">
     <Components>
       <Town id="castle_comp_KR8" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="990" />
@@ -9412,32 +9364,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Honeymarket -->
-  <Settlement id="village_KR6_2" name="{=Settlements.Settlement.ECM.KR.village_KR6_2}Velikié Louki" posX="1058.496" posY="1272.857" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR6_2}Velikié Louki.">
-    <Components>
-      <Village id="village_comp_KR6_2" village_type="VillageType.trapper" hearth="339" bound="Settlement.town_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_e" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_KR6_3" name="{=Settlements.Settlement.ECM.KR.village_KR6_3}Sankt-Peterbourg" posX="1055.99" posY="1353.297" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR6_3}Sankt-Peterbourg.">
-    <Components>
-      <Village id="village_comp_KR6_3" village_type="VillageType.lumberjack" hearth="201" bound="Settlement.town_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_c" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+
   <Settlement id="town_KR7" name="{=Settlements.Settlement.ECM.KR.town_KR7}Beloozero" owner="Faction.clan_rus_7" posX="1235.037" posY="1340.848" culture="Culture.rus" gate_posX="1233.747" gate_posY="1344.974" text="{=ECM_KR_T2E4xKVn}Tcherepovets, chief town of the rocky Kachyar peninsula, was a traditional rival of Oslo. According to legend the Osloian princess Arkina, whose husband had been slain by the Københavnians, accepted a proposal from her enemy's king to marry and settle the feud. On her wedding night, however, she barred the door of his hall and burned him and a hundred of his kinsmen and warriors alive inside. The feud has long since been settled by pacts and marriages with happier outcomes, although Københavnians still resent the ascent of the Osloian Gundaroving dynasty.">
     <Components>
       <Town id="town_comp_KR7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" prosperity="3100" />

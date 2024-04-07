@@ -362,7 +362,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Hankaŭka" posX="1009.655" posY="1233.560" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Hankaŭka.">
+  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Hajnaŭka" posX="1009.655" posY="1233.560" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Hajnaŭka.">
     <Components>
       <Village id="reiko_lukoml_vil_1_comp" village_type="VillageType.flax_plant" hearth="164" gate_rotation="0.008" bound="Settlement.reiko_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
