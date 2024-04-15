@@ -908,7 +908,7 @@
                 age="31"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -959,7 +959,7 @@
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -999,7 +999,7 @@
                 age="6"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1045,7 +1045,7 @@
                 age="33"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1092,7 +1092,7 @@
                 age="26"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1135,7 +1135,7 @@
                 age="27"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1182,7 +1182,7 @@
                 age="9"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1225,7 +1225,7 @@
                 age="4"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1271,7 +1271,7 @@
                 age="24"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1318,7 +1318,7 @@
                 age="27"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1361,7 +1361,7 @@
                 age="4"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.latvian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>

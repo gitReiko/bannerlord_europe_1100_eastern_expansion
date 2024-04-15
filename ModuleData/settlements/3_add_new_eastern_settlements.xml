@@ -52,7 +52,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jersika" name="{=reiko_jersika.name}Jersika Castle" owner="Faction.clan_baltic_3" posX="936.745" posY="1283.768" culture="Culture.goldenhorde"  gate_posX="937.714" gate_posY="1284.040">
+  <Settlement id="reiko_jersika" name="{=reiko_jersika.name}Jersika Castle" owner="Faction.clan_baltic_3" posX="936.745" posY="1283.768" culture="Culture.latvian"  gate_posX="937.714" gate_posY="1284.040">
     <Components>
       <Town id="reiko_jersika_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="380" />
     </Components>
@@ -63,7 +63,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_jersika_vil_1" name="{=reiko_jersika_vil_1.name}Dagda" posX="964.320" posY="1279.900" culture="Culture.goldenhorde" text="{=reiko_jersika_vil_1.text}Dagda.">
+  <Settlement id="reiko_jersika_vil_1" name="{=reiko_jersika_vil_1.name}Dagda" posX="964.320" posY="1279.900" culture="Culture.latvian" text="{=reiko_jersika_vil_1.text}Dagda.">
     <Components>
       <Village id="reiko_jersika_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -77,7 +77,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jersika_vil_2" name="{=reiko_jersika_vil_2.name}Ergli" posX="941.860" posY="1293.825" culture="Culture.goldenhorde" text="{=reiko_jersika_vil_2.text}Ergli text.">
+  <Settlement id="reiko_jersika_vil_2" name="{=reiko_jersika_vil_2.name}Ergli" posX="941.860" posY="1293.825" culture="Culture.latvian" text="{=reiko_jersika_vil_2.text}Ergli text.">
     <Components>
       <Village id="reiko_jersika_vil_2_comp" village_type="VillageType.wheat_farm" hearth="113" gate_rotation="0.408" bound="Settlement.reiko_jersika" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -91,7 +91,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_baltic_09" posX="885.352" posY="1271.515" culture="Culture.goldenhorde"  gate_posX="886.039" gate_posY="1271.724">
+  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_baltic_09" posX="885.352" posY="1271.515" culture="Culture.latvian"  gate_posX="886.039" gate_posY="1271.724">
     <Components>
       <Town id="reiko_jelgava_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>
@@ -102,7 +102,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_jelgava_vil_1" name="{=reiko_jelgava_vil_1.name}Atpūta" posX="885.055" posY="1260.200" culture="Culture.goldenhorde" text="{=reiko_jelgava_vil_1.text}Atpūta.">
+  <Settlement id="reiko_jelgava_vil_1" name="{=reiko_jelgava_vil_1.name}Atpūta" posX="885.055" posY="1260.200" culture="Culture.latvian" text="{=reiko_jelgava_vil_1.text}Atpūta.">
     <Components>
       <Village id="reiko_jelgava_vil_1_comp" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -177,7 +177,7 @@
     </Locations>
   </Settlement>
 
-    <Settlement id="reiko_vilkomerge_vil_1" name="{=reiko_vilkomerge_vil_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.goldenhorde" text="{=reiko_vilkomerge_vil_1.text}Misa.">
+    <Settlement id="reiko_vilkomerge_vil_1" name="{=reiko_vilkomerge_vil_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.latvian" text="{=reiko_vilkomerge_vil_1.text}Misa.">
     <Components>
       <Village id="reiko_vilkomerge_vil_1_comp" village_type="VillageType.trapper" hearth="134" gate_rotation="0.008" bound="Settlement.reiko_vilkomerge" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -191,7 +191,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_selpils" name="{=reiko_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.goldenhorde"  gate_posX="931.719" gate_posY="1271.781">
+  <Settlement id="reiko_selpils" name="{=reiko_selpils.name}Selpils Castle" owner="Faction.clan_baltic_06" posX="931.940" posY="1272.410" culture="Culture.latvian"  gate_posX="931.719" gate_posY="1271.781">
     <Components>
       <Town id="reiko_selpils_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
     </Components>
@@ -202,7 +202,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_sparnene" name="{=reiko_sparnene.name}Spārnene" owner="Faction.clan_baltic_4" posX="865.846" posY="1260.070" culture="Culture.goldenhorde" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_sparnene.name}Spārnene.">
+  <Settlement id="reiko_sparnene" name="{=reiko_sparnene.name}Spārnene" owner="Faction.clan_baltic_4" posX="865.846" posY="1260.070" culture="Culture.latvian" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_sparnene.name}Spārnene.">
     <Components>
       <Town id="reiko_sparnene_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1100" />
     </Components>
@@ -223,7 +223,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Auce" posX="853.513" posY="1252.536" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_1.text}Auce.">
+  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Auce" posX="853.513" posY="1252.536" culture="Culture.latvian" text="{=reiko_sparnene_vil_1.text}Auce.">
     <Components>
       <Village id="reiko_sparnene_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -237,7 +237,7 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_sparnene_vil_2" name="{=reiko_sparnene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.goldenhorde" text="{=reiko_sparnene_vil_2.text}Ragaciems.">
+    <Settlement id="reiko_sparnene_vil_2" name="{=reiko_sparnene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.latvian" text="{=reiko_sparnene_vil_2.text}Ragaciems.">
     <Components>
       <Village id="reiko_sparnene_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

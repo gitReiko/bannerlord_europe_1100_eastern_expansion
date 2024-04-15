@@ -125,11 +125,12 @@
 
   <!-- 
     town_KR4 changes
+    culture = latvian
     prosperity = 700
     owner = clan_baltic_05
     level = 1
   -->
-  <Settlement id="town_KR4" name="{=Settlements.Settlement.ECM.KR.town_KR4}Riga" owner="Faction.clan_baltic_05" posX="903.932" posY="1279.453" culture="Culture.goldenhorde" gate_posX="905.8703" gate_posY="1276.903" text="{=ECM_KR_aTMypBiY}Riga, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
+  <Settlement id="town_KR4" name="{=Settlements.Settlement.ECM.KR.town_KR4}Riga" owner="Faction.clan_baltic_05" posX="903.932" posY="1279.453" culture="Culture.latvian" gate_posX="905.8703" gate_posY="1276.903" text="{=ECM_KR_aTMypBiY}Riga, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
     <Components>
       <Town id="town_comp_KR4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.808" prosperity="700" />
     </Components>
@@ -196,10 +197,11 @@
     village_KR4_3 changes
     name = Rubeni
     hearth = 123
+    culture = latvian
     village_type = swine_farm
     bount = reiko_selpils
   -->
-  <Settlement id="village_KR4_3" name="{=Settlements.Settlement.ECM.KR.village_KR4_3}Rubeni" posX="946.463" posY="1265.349" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_KR4_3}Rubeni text.">
+  <Settlement id="village_KR4_3" name="{=Settlements.Settlement.ECM.KR.village_KR4_3}Rubeni" posX="946.463" posY="1265.349" culture="Culture.latvian" text="{=ECM_Settlements.Settlement.text.village_KR4_3}Rubeni text.">
     <Components>
       <Village id="village_comp_KR4_3" village_type="VillageType.swine_farm" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_selpils" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

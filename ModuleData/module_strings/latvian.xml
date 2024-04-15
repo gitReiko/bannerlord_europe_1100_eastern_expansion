@@ -1,0 +1,22 @@
+<strings>
+
+<!--Baltic-->
+  <string id="str_player_father_name.latvian" text="{=latvianfather}Dagnis" />
+  <string id="str_player_mother_name.latvian" text="{=latvianmother}Allune" />
+  <string id="str_culture_description.latvian" text="{=latviandescription}++" />
+  <string id="str_faction_ruler_name_with_title.latvian" text="{=latvianrulertitle}{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.latvian" text="{=latviannobletitle}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_faction_official.latvian" text="{=latvianofficial}prince" />
+  <string id="str_faction_official.latvian_f" text="{=latvianofficialf}princess" />
+  <string id="str_faction_ruler.latvian" text="{=latvianruler}Grand Prince" />
+  <string id="str_faction_ruler.latvian_f" text="{=latvianrulerf}Grand Princess" />
+  <string id="str_faction_ruler_term_in_speech.latvian" text="{=latvianrulerterm}{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.latvian" text="{=latvianfactionadjective}Latvian" />
+  <string id="str_short_term_for_faction.latvian" text="{=latvianfactionshortterm}Latvian" />
+  <string id="str_faction_formal_name_for_culture.latvian" text="{=latvianfactionformalname}The Latvian Principality" />
+  <string id="str_faction_informal_name_for_culture.latvian" text="{=latvianfactioninformalname}the Latvian Principality" />
+  <string id="str_adjective_for_culture.latvian" text="{=latviancultureadjective}Latvian" />
+  <string id="str_neutral_term_for_culture.latvian" text="{=latviancultureneutralterm}Latvian" />
+  <string id="str_culture_rich_name.latvian" text="{=latvianmembers}Latvian" />	
+	
+</strings>

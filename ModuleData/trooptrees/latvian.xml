@@ -606,7 +606,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="20"/>
@@ -680,7 +680,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="45"/>
@@ -766,7 +766,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="75"/>
@@ -856,7 +856,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="100"/>
@@ -947,7 +947,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
@@ -1033,7 +1033,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="100"/>
@@ -1120,7 +1120,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
@@ -1213,7 +1213,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
@@ -1324,7 +1324,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       <skill id="Athletics" value="50"/>
@@ -1436,7 +1436,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
       		<skill id="Athletics" value="100"/>
@@ -1530,7 +1530,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="175"/>
@@ -1624,7 +1624,7 @@
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
-			<face_key_template value="BodyProperty.fighter_baltic"/>
+			<face_key_template value="BodyProperty.fighter_latvian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="275"/>

@@ -13,7 +13,7 @@
            name="{=clan_baltic_4.name}Curonians"
            tier="2"
            owner="Hero.lord_baltic_4a"
-           culture="Culture.goldenhorde"
+           culture="Culture.latvian"
            super_faction="Kingdom.goldenhorde"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.505.141.116.330.330.764.764.0.0.135.505.27.116.230.230.764.764.0.0.135.510.141.116.460.300.764.764.0.0.45.510.141.116.460.300.764.764.0.0.135" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />
 
@@ -21,7 +21,7 @@
            name="{=clan_baltic_09.name}Semigallians"
            tier="2"
            owner="Hero.lord_baltic_09a"
-           culture="Culture.goldenhorde"
+           culture="Culture.latvian"
            super_faction="Kingdom.goldenhorde"
            banner_key="11.27.48.1836.1836.767.764.1.0.0.510.126.116.450.300.765.765.0.1.0.510.126.116.450.300.765.765.0.1.90.510.126.116.450.300.765.765.0.1.45.510.126.116.450.300.765.765.0.1.135" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " />
 
