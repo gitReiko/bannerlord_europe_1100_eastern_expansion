@@ -6,7 +6,7 @@
                 level="1"
                 name="{=villager_latvian.name}Latvian Peasant"
                 occupation="Villager"
-                culture="Culture.kryvich"
+                culture="Culture.latvian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
       <!--face_key value="0000012000000000000000000001700000000000000000000000000000000000000a160400000000000000000000000000000000000000000000000000f80000" max_value="00118bfa00002914eff88effeefffffbfecfff888ee3feeff7efffcefffffeff000ff7afffffffef000000000000000000000000000000000000000001c88140" /-->
@@ -150,7 +150,7 @@
                 level="26"
                 name="{=caravan_master_latvian.name}Latvian Caravan Master"
                 occupation="CaravanGuard"
-                culture="Culture.kryvich">
+                culture="Culture.latvian">
     <face>
       <face_key_template value="BodyProperty.fighter_latvian" />
     </face>
@@ -237,7 +237,7 @@
                 name="{=caravan_guard_latvian.name}Latvian Caravan Guard"
                 upgrade_requires="ItemCategory.horse"
                 occupation="CaravanGuard"
-                culture="Culture.kryvich">
+                culture="Culture.latvian">
     <face>
       <face_key_template value="BodyProperty.fighter_latvian" />
     </face>
@@ -359,7 +359,7 @@
                 level="26"
                 name="{=veteran_caravan_guard_latvian.name}Latvian Veteran Caravan Guard"
                 occupation="CaravanGuard"
-                culture="Culture.kryvich">
+                culture="Culture.latvian">
     <face>
       <face_key_template value="BodyProperty.fighter_latvian" />
     </face>
@@ -495,7 +495,7 @@
                 level="16"
                 name="{=armed_trader_latvian.name}Latvian Armed Trader"
                 occupation="CaravanGuard"
-                culture="Culture.kryvich"
+                culture="Culture.latvian"
                 is_basic_troop="true">
     <face>
       <face_key_template value="BodyProperty.fighter_latvian" />
@@ -598,136 +598,13 @@
   </NPCCharacter>
   
   <!--caravan guard-->
-  
-   <NPCCharacter id="caravan_guard_latvian"
-                default_group="Cavalry"
-                level="21"
-                name="{=caravan_guard_latvian.name}Latvian Caravan Guard"
-                upgrade_requires="ItemCategory.horse"
-                occupation="CaravanGuard"
-                culture="Culture.kryvich">
-    <face>
-      <face_key_template value="BodyProperty.fighter_latvian" />
-    </face>
-    <skills>
-      <skill id="Athletics"
-             value="40" />
-      <skill id="Riding"
-             value="110" />
-      <skill id="OneHanded"
-             value="110" />
-      <skill id="TwoHanded"
-             value="15" />
-      <skill id="Polearm"
-             value="150" />
-      <skill id="Bow"
-             value="40" />
-      <skill id="Crossbow"
-             value="15" />
-      <skill id="Throwing"
-             value="15" />
-    </skills>
-    <upgrade_targets></upgrade_targets>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.northern_spear_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.battania_mace_1_t2" />
-        <equipment slot="Item2"
-                   id="Item.northern_scouts_shield" />
-        <equipment slot="Head"
-                   id="Item.roughhide_cap" />
-        <equipment slot="Body"
-                   id="Item.nordic_hauberk" />
-        <equipment slot="Leg"
-                   id="Item.battania_woodland_boots" />
-        <equipment slot="Gloves"
-                   id="Item.leather_gloves" />
-        <equipment slot="Cape"
-                   id="Item.scarf" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.northern_spear_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.battania_mace_1_t2" />
-        <equipment slot="Item2"
-                   id="Item.northern_scouts_shield" />
-        <equipment slot="Head"
-                   id="Item.nasalhelm_over_mail" />
-        <equipment slot="Body"
-                   id="Item.nordic_hauberk" />
-        <equipment slot="Leg"
-                   id="Item.ragged_boots" />
-        <equipment slot="Gloves"
-                   id="Item.leather_gloves" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.northern_spear_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.battania_mace_2_t2" />
-        <equipment slot="Item2"
-                   id="Item.northern_scouts_shield" />
-        <equipment slot="Head"
-                   id="Item.northern_fur_cap" />
-        <equipment slot="Body"
-                   id="Item.decorated_nordic_hauberk" />
-        <equipment slot="Leg"
-                   id="Item.highland_leg_wrappings" />
-        <equipment slot="Gloves"
-                   id="Item.highland_gloves" />
-        <equipment slot="Cape"
-                   id="Item.scarf" />
-      </EquipmentRoster>
-      <EquipmentRoster civilian="true">
-        <equipment slot="Item0"
-                   id="Item.northern_spear_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.battania_mace_2_t2" />
-        <equipment slot="Item2"
-                   id="Item.northern_scouts_shield" />
-        <equipment slot="Head"
-                   id="Item.northern_fur_cap" />
-        <equipment slot="Body"
-                   id="Item.decorated_nordic_hauberk" />
-        <equipment slot="Leg"
-                   id="Item.highland_leg_wrappings" />
-        <equipment slot="Gloves"
-                   id="Item.highland_gloves" />
-        <equipment slot="Cape"
-                   id="Item.scarf" />
-      </EquipmentRoster>
-      <EquipmentRoster civilian="true">
-        <equipment slot="Item0"
-                   id="Item.northern_spear_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.battania_mace_2_t2" />
-        <equipment slot="Item2"
-                   id="Item.northern_scouts_shield" />
-        <equipment slot="Head"
-                   id="Item.nasalhelm_over_mail" />
-        <equipment slot="Body"
-                   id="Item.nordic_hauberk" />
-        <equipment slot="Leg"
-                   id="Item.ragged_boots" />
-        <equipment slot="Gloves"
-                   id="Item.leather_gloves" />
-      </EquipmentRoster>
-      <equipment slot="Horse"
-                 id="Item.sturgia_horse" />
-      <equipment slot="HorseHarness"
-                 id="Item.northern_noble_harness" />
-    </Equipments>
-  </NPCCharacter>
 
 	<NPCCharacter id="latvian_volunteer"
 		default_group="Infantry"
 		level="6"
 		name="{=latvian_volunteer.name}Latvian Volunteer"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -801,7 +678,7 @@
 		level="11"
 		name="{=latvian_armed_volunteer.name}Latvian Armed Volunteer"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -887,7 +764,7 @@
 		level="16"
 		name="{=latvian_spearman.name}Latvian Spearman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -977,7 +854,7 @@
 		level="21"
 		name="{=latvian_spearman.name}Latvian Experienced Spearman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1068,7 +945,7 @@
 		level="11"
 		name="{=latvian_bowman.name}Latvian Bowman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1154,7 +1031,7 @@
 		level="16"
 		name="{=latvian_experienced_bowman.name}Latvian Experienced Bowman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1241,7 +1118,7 @@
 		level="11"
 		name="{=latvian_skirmisher.name}Latvian Skirmisher"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1334,7 +1211,7 @@
 		level="16"
 		name="{=latvian_spearman.name}Latvian Mounted Skirmisher"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1445,7 +1322,7 @@
 		level="21"
 		name="{=latvian_spearman.name}Latvian Experienced Mounted Skirmisher"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1557,7 +1434,7 @@
 		level="21"
 		name="{=latvian_noble_footman.name}Latvian Noble Footman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1651,7 +1528,7 @@
 		level="26"
 		name="{=latvian_noble_heavy_footman.name}Latvian Noble Heavy Footman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
@@ -1745,7 +1622,7 @@
 		level="31"
 		name="{=latvian_seasoned_noble_heavy_footman.name}Latvian Seasoned Noble Heavy Footman"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.latvian">
 		<face>
 			<face_key_template value="BodyProperty.fighter_baltic"/>
 		</face>
