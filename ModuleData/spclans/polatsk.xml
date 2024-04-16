@@ -61,7 +61,7 @@
            owner="Hero.lord_baltic_06a"
            culture="Culture.latvian"
            super_faction="Kingdom.polotsk"
-           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.550.300.764.764.0.0.0.510.26.116.150.300.944.764.0.0.90.510.26.116.150.300.584.764.0.0.90.510.26.116.550.300.764.763.0.0.89.510.26.116.150.300.764.583.0.0.179.510.26.116.150.300.763.943.0.0.179" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           banner_key="11.14.48.1836.1836.767.764.1.0.0.510.26.116.450.300.765.765.0.1.0.510.26.116.450.300.765.765.0.1.90.510.26.116.450.300.765.765.0.1.45.510.26.116.450.300.765.765.0.1.135" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
            color="FF8d2a1c" color2="FFe7d3ba" alternative_color="FF8d2a1c" alternative_color2="FFe7d3ba"
            />	
 

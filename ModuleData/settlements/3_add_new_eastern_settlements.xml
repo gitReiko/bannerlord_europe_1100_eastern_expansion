@@ -91,7 +91,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_baltic_09" posX="885.352" posY="1271.515" culture="Culture.latvian"  gate_posX="886.039" gate_posY="1271.724">
+  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_zemgalian_1" posX="885.352" posY="1271.515" culture="Culture.latvian"  gate_posX="886.039" gate_posY="1271.724">
     <Components>
       <Town id="reiko_jelgava_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>
@@ -202,9 +202,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_sparnene" name="{=reiko_sparnene.name}Spārnene" owner="Faction.clan_baltic_4" posX="865.846" posY="1260.070" culture="Culture.latvian" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_sparnene.name}Spārnene.">
+  <Settlement id="reiko_dobene" name="{=reiko_dobene.name}Dobenė" owner="Faction.clan_zemgalian_4" posX="865.846" posY="1260.070" culture="Culture.latvian" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_dobene.text}Spārnene.">
     <Components>
-      <Town id="reiko_sparnene_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1100" />
+      <Town id="reiko_dobene_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1100" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
       <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
@@ -223,9 +223,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_sparnene_vil_1" name="{=reiko_sparnene_vil_1.name}Auce" posX="853.513" posY="1252.536" culture="Culture.latvian" text="{=reiko_sparnene_vil_1.text}Auce.">
+  <Settlement id="reiko_dobene_vil_1" name="{=reiko_dobene_vil_1.name}Auce" posX="853.513" posY="1252.536" culture="Culture.latvian" text="{=reiko_dobene_vil_1.text}Auce.">
     <Components>
-      <Village id="reiko_sparnene_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_dobene_vil_1_comp" village_type="VillageType.clay_mine" hearth="84" gate_rotation="0.008" bound="Settlement.reiko_dobene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
@@ -237,9 +237,9 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_sparnene_vil_2" name="{=reiko_sparnene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.latvian" text="{=reiko_sparnene_vil_2.text}Ragaciems.">
+    <Settlement id="reiko_dobene_vil_2" name="{=reiko_dobene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.latvian" text="{=reiko_dobene_vil_2.text}Ragaciems.">
     <Components>
-      <Village id="reiko_sparnene_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_sparnene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_dobene_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_dobene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -809,7 +809,7 @@
     </CommonAreas>
   </Settlement>
 
-  <!-- reiko_sparnene -->
+  <!-- reiko_dobene -->
   <Settlement id="reiko_raseiniai" name="{=reiko_raseiniai.name}Rasseyne" owner="Faction.clan_zemaitian_1" posX="864.447" posY="1227.635" culture="Culture.goldenhorde" gate_posX="865.290" gate_posY="1226.343" text="{=reiko_raseiniai.name}Rasseyne.">
     <Components>
       <Town id="reiko_raseiniai_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="700" />
@@ -917,7 +917,7 @@
     </CommonAreas>
   </Settlement> 
 
-  <Settlement id="reiko_mezotne" name="{=reiko_mezotne.name}Mežotne Castle" owner="Faction.clan_baltic_4" posX="905.000" posY="1268.450" culture="Culture.latvian"  gate_posX="905.527" gate_posY="1268.560">
+  <Settlement id="reiko_mezotne" name="{=reiko_mezotne.name}Mežotne Castle" owner="Faction.clan_zemgalian_3" posX="905.000" posY="1268.450" culture="Culture.latvian"  gate_posX="905.527" gate_posY="1268.560">
     <Components>
       <Town id="reiko_mezotne_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
     </Components>

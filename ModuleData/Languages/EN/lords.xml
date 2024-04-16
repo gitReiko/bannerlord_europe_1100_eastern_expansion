@@ -5,9 +5,9 @@
   <string id="lord_baltic_1b.name" text="Herkus Monte*"/>
   <string id="lord_baltic_4a.name" text="Longins*"/>
   <string id="lord_baltic_4b.name" text="Dzelme*"/>
-  <string id="lord_baltic_09a.name" text="Nameisis*"/>
-  <string id="lord_baltic_09b.name" text="Vasara*"/>
-  <string id="lord_baltic_09c.name" text="Freija*"/>
+  <string id="lord_zemgalian_1a.name" text="Nameisis*"/>
+  <string id="lord_zemgalian_1b.name" text="Vasara*"/>
+  <string id="lord_zemgalian_1c.name" text="Freija*"/>
   <!--input/lords/halych.xml-->
   <string id="lord_halych_1a.name" text="Volodar Rostyslavych"/>
   <string id="lord_halych_1b.name" text="Ganna*"/>

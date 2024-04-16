@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<Heroes>
-
-   <Hero id="lord_baltic_09a" faction="Faction.clan_baltic_09" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
-   <Hero id="lord_baltic_09b" faction="Faction.clan_baltic_09" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
-   <Hero id="lord_baltic_09c" father="Hero.lord_baltic_09a" mother="Hero.lord_baltic_09b" faction="Faction.clan_baltic_09" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
-   
-</Heroes>

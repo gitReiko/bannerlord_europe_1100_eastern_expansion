@@ -30,11 +30,11 @@
   <string id="reiko_vilkomerge_vil_1.name" text="Misa"/>
   <string id="reiko_vilkomerge_vil_1.text" text="Misa."/>
   <string id="reiko_selpils.name" text="Selpils Castle"/>
-  <string id="reiko_sparnene.name" text="Spārnene"/>
-  <string id="reiko_sparnene_vil_1.name" text="Auce"/>
-  <string id="reiko_sparnene_vil_1.text" text="Auce."/>
-  <string id="reiko_sparnene_vil_2.name" text="Ragaciems"/>
-  <string id="reiko_sparnene_vil_2.text" text="Ragaciems."/>
+  <string id="reiko_dobene.name" text="Spārnene"/>
+  <string id="reiko_dobene_vil_1.name" text="Auce"/>
+  <string id="reiko_dobene_vil_1.text" text="Auce."/>
+  <string id="reiko_dobene_vil_2.name" text="Ragaciems"/>
+  <string id="reiko_dobene_vil_2.text" text="Ragaciems."/>
   <string id="reiko_rajgrod.name" text="Rajgrod Castle"/>
   <string id="reiko_rajgrod_vil_2.name" text="Sokółka"/>
   <string id="reiko_rajgrod_vil_2.text" text="Sokółka."/>
