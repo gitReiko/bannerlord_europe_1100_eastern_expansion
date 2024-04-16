@@ -177,7 +177,7 @@
     </Locations>
   </Settlement>
 
-    <Settlement id="reiko_vilkomerge_vil_1" name="{=reiko_vilkomerge_vil_1.name}Misa" posX="914.900" posY="1267.120" culture="Culture.latvian" text="{=reiko_vilkomerge_vil_1.text}Misa.">
+    <Settlement id="reiko_vilkomerge_vil_1" name="{=reiko_vilkomerge_vil_1.name}Misa" posX="927.300" posY="1259.740" culture="Culture.latvian" text="{=reiko_vilkomerge_vil_1.text}Misa.">
     <Components>
       <Village id="reiko_vilkomerge_vil_1_comp" village_type="VillageType.trapper" hearth="134" gate_rotation="0.008" bound="Settlement.reiko_vilkomerge" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
