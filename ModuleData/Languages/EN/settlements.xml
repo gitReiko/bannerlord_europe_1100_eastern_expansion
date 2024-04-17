@@ -19,8 +19,8 @@
   <string id="reiko_jersika_vil_2.name" text="Ergli"/>
   <string id="reiko_jersika_vil_2.text" text="Ergli text."/>
   <string id="reiko_jelgava.name" text="Jelgava Castle"/>
-  <string id="reiko_jelgava_vil_1.name" text="Atpūta"/>
-  <string id="reiko_jelgava_vil_1.text" text="Atpūta."/>
+  <string id="reiko_dobene_vil_2.name" text="Atpūta"/>
+  <string id="reiko_dobene_vil_2.text" text="Atpūta."/>
   <string id="reiko_braslau.name" text="Brasłaŭ"/>
   <string id="reiko_braslau_vil_1.name" text="Rosica"/>
   <string id="reiko_siaule.name" text="Saule Castle"/>
@@ -33,8 +33,8 @@
   <string id="reiko_dobene.name" text="Spārnene"/>
   <string id="reiko_dobene_vil_1.name" text="Auce"/>
   <string id="reiko_dobene_vil_1.text" text="Auce."/>
-  <string id="reiko_dobene_vil_2.name" text="Ragaciems"/>
-  <string id="reiko_dobene_vil_2.text" text="Ragaciems."/>
+  <string id="reiko_jelgava_vil_2.name" text="Ragaciems"/>
+  <string id="reiko_jelgava_vil_2.text" text="Ragaciems."/>
   <string id="reiko_rajgrod.name" text="Rajgrod Castle"/>
   <string id="reiko_rajgrod_vil_2.name" text="Sokółka"/>
   <string id="reiko_rajgrod_vil_2.text" text="Sokółka."/>

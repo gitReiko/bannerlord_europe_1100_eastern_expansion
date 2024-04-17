@@ -102,12 +102,12 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_jelgava_vil_1" name="{=reiko_jelgava_vil_1.name}Atpūta" posX="885.055" posY="1260.200" culture="Culture.latvian" text="{=reiko_jelgava_vil_1.text}Atpūta.">
+  <Settlement id="reiko_jelgava_vil_2" name="{=reiko_jelgava_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.latvian" text="{=reiko_jelgava_vil_2.text}Ragaciems.">
     <Components>
-      <Village id="reiko_jelgava_vil_1_comp" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_jelgava_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_jelgava" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_l" />
+      <Location id="village_center" scene_name="sturgia_village_f" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
@@ -237,12 +237,12 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_dobene_vil_2" name="{=reiko_dobene_vil_2.name}Ragaciems" posX="885.880" posY="1281.835" culture="Culture.latvian" text="{=reiko_dobene_vil_2.text}Ragaciems.">
+    <Settlement id="reiko_dobene_vil_2" name="{=reiko_dobene_vil_2.name}Atpūta" posX="885.055" posY="1260.200" culture="Culture.latvian" text="{=reiko_dobene_vil_2.text}Atpūta.">
     <Components>
-      <Village id="reiko_dobene_vil_2_comp" village_type="VillageType.fisherman" hearth="150" gate_rotation="0.758" bound="Settlement.reiko_dobene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_dobene_vil_2_comp" village_type="VillageType.lumberjack" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_dobene" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
+      <Location id="village_center" scene_name="sturgia_village_l" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
