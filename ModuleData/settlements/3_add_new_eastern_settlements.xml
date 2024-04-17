@@ -202,7 +202,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_dobene" name="{=reiko_dobene.name}Dobenė" owner="Faction.clan_zemgalian_4" posX="865.846" posY="1260.070" culture="Culture.latvian" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_dobene.text}Spārnene.">
+  <Settlement id="reiko_dobene" name="{=reiko_dobene.name}Dobene" owner="Faction.clan_zemgalian_4" posX="865.846" posY="1260.070" culture="Culture.latvian" gate_posX="867.387" gate_posY="1259.634" text="{=reiko_dobene.text}Spārnene.">
     <Components>
       <Town id="reiko_dobene_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="1100" />
     </Components>

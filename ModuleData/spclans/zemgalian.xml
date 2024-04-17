@@ -32,7 +32,7 @@
     />
 
     <Faction id="clan_zemgalian_4"
-           name="{=clan_zemgalian_4.name}Dobenė"
+           name="{=clan_zemgalian_4.name}Dobene"
            tier="4"
            owner="Hero.lord_zemgalian_4a"
            culture="Culture.latvian"
