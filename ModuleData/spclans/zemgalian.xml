@@ -7,8 +7,8 @@
            owner="Hero.lord_zemgalian_1a"
            culture="Culture.latvian"
            super_faction="Kingdom.goldenhorde"
-           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.150.220.765.765.0.0.0.510.55.116.150.220.765.765.0.0.90.510.55.116.150.220.930.765.0.0.0.510.55.116.150.220.930.765.0.0.90.510.55.116.150.220.600.765.0.0.0.510.55.116.150.220.600.765.0.0.90.510.55.116.150.220.765.930.0.0.0.510.55.116.150.220.765.930.0.0.90.510.55.116.150.220.765.600.0.0.0.510.55.116.150.220.765.600.0.0.90" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
-           color="FFf9d574" color2="FFda6c6d" alternative_color="FFf9d574" alternative_color2="FFda6c6d"
+           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.150.220.765.765.0.0.0.510.17.116.150.220.765.765.0.0.90.510.17.116.150.220.930.765.0.0.0.510.17.116.150.220.930.765.0.0.90.510.17.116.150.220.600.765.0.0.0.510.17.116.150.220.600.765.0.0.90.510.17.116.150.220.765.930.0.0.0.510.17.116.150.220.765.930.0.0.90.510.17.116.150.220.765.600.0.0.0.510.17.116.150.220.765.600.0.0.90" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FFe68c35" color2="FFeed590" alternative_color="FFe68c35" alternative_color2="FFeed590"
     />
 
     <Faction id="clan_zemgalian_2"
@@ -17,8 +17,8 @@
            owner="Hero.lord_zemgalian_2a"
            culture="Culture.latvian"
            super_faction="Kingdom.goldenhorde"
-           banner_key="11.18.48.1836.1836.767.764.1.0.0.510.44.116.243.182.630.764.0.0.0.510.44.116.91.182.696.764.0.0.90.510.44.116.91.182.563.764.0.0.90.510.44.116.243.182.630.764.0.0.89.510.44.116.91.182.630.697.0.0.179.510.44.116.91.182.630.831.0.0.179.510.44.116.243.182.764.630.0.0.0.510.44.116.91.182.831.630.0.0.90.510.44.116.91.182.697.630.0.0.90.510.44.116.243.182.764.630.0.0.89.510.44.116.91.182.764.563.0.0.179.510.44.116.91.182.764.697.0.0.179.510.44.116.243.182.764.898.0.0.0.510.44.116.91.182.831.898.0.0.90.510.44.116.91.182.697.898.0.0.90.510.44.116.243.182.764.898.0.0.89.510.44.116.91.182.764.831.0.0.179.510.44.116.91.182.764.965.0.0.179.510.44.116.243.182.898.764.0.0.0.510.44.116.91.182.965.764.0.0.90.510.44.116.91.182.831.764.0.0.90.510.44.116.243.182.898.764.0.0.89.510.44.116.91.182.898.697.0.0.179.510.44.116.91.182.898.831.0.0.179.510.44.116.152.210.764.764.0.0.90.510.44.116.152.210.764.764.0.0.0" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
-           color="FFf0dfa5" color2="FFaec382" alternative_color="FFf0dfa5" alternative_color2="FFaec382"
+           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.243.182.630.764.0.0.0.510.55.116.91.182.696.764.0.0.90.510.55.116.91.182.563.764.0.0.90.510.55.116.243.182.630.764.0.0.89.510.55.116.91.182.630.697.0.0.179.510.55.116.91.182.630.831.0.0.179.510.55.116.243.182.764.630.0.0.0.510.55.116.91.182.831.630.0.0.90.510.55.116.91.182.697.630.0.0.90.510.55.116.243.182.764.630.0.0.89.510.55.116.91.182.764.563.0.0.179.510.55.116.91.182.764.697.0.0.179.510.55.116.243.182.764.898.0.0.0.510.55.116.91.182.831.898.0.0.90.510.55.116.91.182.697.898.0.0.90.510.55.116.243.182.764.898.0.0.89.510.55.116.91.182.764.831.0.0.179.510.55.116.91.182.764.965.0.0.179.510.55.116.243.182.898.764.0.0.0.510.55.116.91.182.965.764.0.0.90.510.55.116.91.182.831.764.0.0.90.510.55.116.243.182.898.764.0.0.89.510.55.116.91.182.898.697.0.0.179.510.55.116.91.182.898.831.0.0.179.510.55.116.152.210.764.764.0.0.90.510.55.116.152.210.764.764.0.0.0" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FFf9d574" color2="FFda6c6d" alternative_color="FFf9d574" alternative_color2="FFda6c6d"
     />
 
     <Faction id="clan_zemgalian_3"
@@ -27,8 +27,8 @@
            owner="Hero.lord_zemgalian_3a"
            culture="Culture.latvian"
            super_faction="Kingdom.goldenhorde"
-           banner_key="11.18.48.1836.1836.767.764.1.0.0.510.44.116.520.300.764.764.0.0.0.510.44.116.150.300.924.764.0.0.90.510.44.116.150.300.604.764.0.0.90.510.44.116.520.300.764.764.0.0.90.510.44.116.150.300.764.604.0.0.180.510.44.116.150.300.764.924.0.0.180" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
-           color="FFaec382" color2="FFf0dfa5" alternative_color="FFaec382" alternative_color2="FFf0dfa5"
+           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.520.300.764.764.0.0.0.510.17.116.150.300.924.764.0.0.90.510.17.116.150.300.604.764.0.0.90.510.17.116.520.300.764.764.0.0.90.510.17.116.150.300.764.604.0.0.180.510.17.116.150.300.764.924.0.0.180" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           color="FFeed690" color2="FFe68c35" alternative_color="FFeed690" alternative_color2="FFe68c35"
     />
 
     <Faction id="clan_zemgalian_4"
