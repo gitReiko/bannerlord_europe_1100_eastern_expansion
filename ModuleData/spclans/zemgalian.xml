@@ -6,8 +6,8 @@
            tier="5"
            owner="Hero.lord_zemgalian_1a"
            culture="Culture.latvian"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.150.220.765.765.0.0.0.510.17.116.150.220.765.765.0.0.90.510.17.116.150.220.930.765.0.0.0.510.17.116.150.220.930.765.0.0.90.510.17.116.150.220.600.765.0.0.0.510.17.116.150.220.600.765.0.0.90.510.17.116.150.220.765.930.0.0.0.510.17.116.150.220.765.930.0.0.90.510.17.116.150.220.765.600.0.0.0.510.17.116.150.220.765.600.0.0.90" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           super_faction="Kingdom.zemgalian"
+           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.150.220.765.765.0.0.0.510.17.116.150.220.765.765.0.0.90.510.17.116.150.220.930.765.0.0.0.510.17.116.150.220.930.765.0.0.90.510.17.116.150.220.600.765.0.0.0.510.17.116.150.220.600.765.0.0.90.510.17.116.150.220.765.930.0.0.0.510.17.116.150.220.765.930.0.0.90.510.17.116.150.220.765.600.0.0.0.510.17.116.150.220.765.600.0.0.90" text="{=clan_zemgalian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic goddess Māra crosses." 
            color="FFe68c35" color2="FFeed590" alternative_color="FFe68c35" alternative_color2="FFeed590"
     />
 
@@ -16,8 +16,8 @@
            tier="3"
            owner="Hero.lord_zemgalian_2a"
            culture="Culture.latvian"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.243.182.630.764.0.0.0.510.55.116.91.182.696.764.0.0.90.510.55.116.91.182.563.764.0.0.90.510.55.116.243.182.630.764.0.0.89.510.55.116.91.182.630.697.0.0.179.510.55.116.91.182.630.831.0.0.179.510.55.116.243.182.764.630.0.0.0.510.55.116.91.182.831.630.0.0.90.510.55.116.91.182.697.630.0.0.90.510.55.116.243.182.764.630.0.0.89.510.55.116.91.182.764.563.0.0.179.510.55.116.91.182.764.697.0.0.179.510.55.116.243.182.764.898.0.0.0.510.55.116.91.182.831.898.0.0.90.510.55.116.91.182.697.898.0.0.90.510.55.116.243.182.764.898.0.0.89.510.55.116.91.182.764.831.0.0.179.510.55.116.91.182.764.965.0.0.179.510.55.116.243.182.898.764.0.0.0.510.55.116.91.182.965.764.0.0.90.510.55.116.91.182.831.764.0.0.90.510.55.116.243.182.898.764.0.0.89.510.55.116.91.182.898.697.0.0.179.510.55.116.91.182.898.831.0.0.179.510.55.116.152.210.764.764.0.0.90.510.55.116.152.210.764.764.0.0.0" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           super_faction="Kingdom.zemgalian"
+           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.243.182.630.764.0.0.0.510.55.116.91.182.696.764.0.0.90.510.55.116.91.182.563.764.0.0.90.510.55.116.243.182.630.764.0.0.89.510.55.116.91.182.630.697.0.0.179.510.55.116.91.182.630.831.0.0.179.510.55.116.243.182.764.630.0.0.0.510.55.116.91.182.831.630.0.0.90.510.55.116.91.182.697.630.0.0.90.510.55.116.243.182.764.630.0.0.89.510.55.116.91.182.764.563.0.0.179.510.55.116.91.182.764.697.0.0.179.510.55.116.243.182.764.898.0.0.0.510.55.116.91.182.831.898.0.0.90.510.55.116.91.182.697.898.0.0.90.510.55.116.243.182.764.898.0.0.89.510.55.116.91.182.764.831.0.0.179.510.55.116.91.182.764.965.0.0.179.510.55.116.243.182.898.764.0.0.0.510.55.116.91.182.965.764.0.0.90.510.55.116.91.182.831.764.0.0.90.510.55.116.243.182.898.764.0.0.89.510.55.116.91.182.898.697.0.0.179.510.55.116.91.182.898.831.0.0.179.510.55.116.152.210.764.764.0.0.90.510.55.116.152.210.764.764.0.0.0" text="{=clan_zemgalian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic goddess Māra crosses." 
            color="FFf9d574" color2="FFda6c6d" alternative_color="FFf9d574" alternative_color2="FFda6c6d"
     />
 
@@ -26,8 +26,8 @@
            tier="3"
            owner="Hero.lord_zemgalian_3a"
            culture="Culture.latvian"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.520.300.764.764.0.0.0.510.17.116.150.300.924.764.0.0.90.510.17.116.150.300.604.764.0.0.90.510.17.116.520.300.764.764.0.0.90.510.17.116.150.300.764.604.0.0.180.510.17.116.150.300.764.924.0.0.180" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           super_faction="Kingdom.zemgalian"
+           banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.520.300.764.764.0.0.0.510.17.116.150.300.924.764.0.0.90.510.17.116.150.300.604.764.0.0.90.510.17.116.520.300.764.764.0.0.90.510.17.116.150.300.764.604.0.0.180.510.17.116.150.300.764.924.0.0.180" text="{=clan_zemgalian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic goddess Māra crosses." 
            color="FFeed690" color2="FFe68c35" alternative_color="FFeed690" alternative_color2="FFe68c35"
     />
 
@@ -36,14 +36,9 @@
            tier="4"
            owner="Hero.lord_zemgalian_4a"
            culture="Culture.latvian"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.571.244.763.764.0.0.0.510.55.116.195.244.932.764.0.0.90.510.55.116.195.244.596.764.0.0.90.510.55.116.571.244.763.764.0.0.90.510.55.116.195.244.763.596.0.0.180.510.55.116.195.244.763.932.0.0.180.510.55.116.195.244.694.764.0.0.90.510.55.116.195.244.834.764.0.0.90.510.55.116.195.244.763.694.0.0.0.510.55.116.195.244.763.834.0.0.0.505.47.116.125.125.763.764.0.0.0" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+           super_faction="Kingdom.zemgalian"
+           banner_key="11.47.48.1836.1836.767.764.1.0.0.510.55.116.571.244.763.764.0.0.0.510.55.116.195.244.932.764.0.0.90.510.55.116.195.244.596.764.0.0.90.510.55.116.571.244.763.764.0.0.90.510.55.116.195.244.763.596.0.0.180.510.55.116.195.244.763.932.0.0.180.510.55.116.195.244.694.764.0.0.90.510.55.116.195.244.834.764.0.0.90.510.55.116.195.244.763.694.0.0.0.510.55.116.195.244.763.834.0.0.0.505.47.116.125.125.763.764.0.0.0" text="{=clan_zemgalian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic goddess Māra crosses." 
            color="FFda6c6d" color2="FFf9d574" alternative_color="FFda6c6d" alternative_color2="FFf9d574"
     />
-
-
-
-
-
 		   
 </Factions>

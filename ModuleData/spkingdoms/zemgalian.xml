@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="zemgalian"
+		   owner="Hero.lord_zemgalian_1a"
+		   banner_key="11.38.48.1836.1836.767.764.1.0.0.510.17.116.150.220.765.765.0.0.0.510.17.116.150.220.765.765.0.0.90.510.17.116.150.220.930.765.0.0.0.510.17.116.150.220.930.765.0.0.90.510.17.116.150.220.600.765.0.0.0.510.17.116.150.220.600.765.0.0.90.510.17.116.150.220.765.930.0.0.0.510.17.116.150.220.765.930.0.0.90.510.17.116.150.220.765.600.0.0.0.510.17.116.150.220.765.600.0.0.90"
+		   primary_banner_color="0xffe68c35"
+		   secondary_banner_color="0xffeed590"
+		   label_color="ffe68c35"
+		   color="ffe68c35"
+		   color2="ffeed590"
+		   alternative_color="ffe44535"
+		   alternative_color2="ffeed590"
+		   culture="Culture.latvian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=zemgalian_kingdom_name}The Zemgalian Tribal Principalities"
+		   short_name="{=zemgalian_kingdom_short_name}Zemgalians"
+		   title="{=zemgalian_kingdom_title}Zemgalian Tribal Principalities"
+		   ruler_title="{=zemgalian_ruler_title}Prince"
+		   text="{=zemgalian_kingdom_text}In 1100 there was no unified state on the territory of Zemgalia (Semigallia). The region was divided among several tribal Zemgalian principalities, which united against common enemies, traded among themselves and fought each other. Due to the lack of written sources, information about the region has been reconstructed from archaeology and later written sources. In 1106 the Polatsk united army made an attempt to capture the Zemgalian tribe, but was defeated and lost 9.000 warriors (the number is obviously exaggerated, but the losses for Polatsk were very significant).">
+    <relationships>
+		<relationship kingdom="Kingdom.polotsk" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.zemaitian" value="-50" isAtWar="false" />
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+  
+ </Kingdoms>
