@@ -3,7 +3,7 @@
 <!--Baltic-->
   <string id="str_player_father_name.latvian" text="{=latvianfather}Dagnis" />
   <string id="str_player_mother_name.latvian" text="{=latvianmother}Allune" />
-  <string id="str_culture_description.latvian" text="{=latviandescription}++" />
+  <string id="str_culture_description.latvian" text="{=latviandescription}Generalized culture for the Baltic tribes: Curonians, Zemgalians (Semigallians), Selonians and Latgalians. By the beginning of 1100 none of these tribes had a centralized state. Some tribes were subordinated to the Polatsk state (the Selonians and part of the Latgalians), the rest were independent, but divided into many small tribal principalities. In 1106 the Polatsk united army made an attempt to capture the Zemgalian tribe, but was defeated and lost 9.000 warriors (the number is obviously exaggerated, but the losses for Polatsk were very significant). In 1202 the Livonian Brothers of the Sword was founded in Riga, which in 1237 became part of the Teutonic Order. This state conquered and Christianized the Latvian Baltic tribes, it also included the Finnish tribe of Livonians. On the land of Latvia the state existed until 1561, later it was divided into several vassal duchies, which existed almost until the beginning of the 19th century. During this time, the Latvian nation was formed from these separated Baltic tribes, which now has an independent state." />
   <string id="str_faction_ruler_name_with_title.latvian" text="{=latvianrulertitle}{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}" />
   <string id="str_faction_noble_name_with_title.latvian" text="{=latviannobletitle}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
   <string id="str_faction_official.latvian" text="{=latvianofficial}prince" />

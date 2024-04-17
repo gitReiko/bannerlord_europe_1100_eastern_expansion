@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_latvian_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_latvian"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=latvian.text}++"
+           text="{=latvian.text}Generalized culture for the Baltic tribes: Curonians, Zemgalians (Semigallians), Selonians and Latgalians. By the beginning of 1100 none of these tribes had a centralized state. Some tribes were subordinated to the Polatsk state (the Selonians and part of the Latgalians), the rest were independent, but divided into many small tribal principalities. In 1106 the Polatsk united army made an attempt to capture the Zemgalian tribe, but was defeated and lost 9.000 warriors (the number is obviously exaggerated, but the losses for Polatsk were very significant). In 1202 the Livonian Brothers of the Sword was founded in Riga, which in 1237 became part of the Teutonic Order. This state conquered and Christianized the Latvian Baltic tribes, it also included the Finnish tribe of Livonians. On the land of Latvia the state existed until 1561, later it was divided into several vassal duchies, which existed almost until the beginning of the 19th century. During this time, the Latvian nation was formed from these separated Baltic tribes, which now has an independent state."
            tournament_master="NPCCharacter.tournament_master_latvian"
            villager="NPCCharacter.villager_latvian"
            caravan_master="NPCCharacter.caravan_master_latvian"
