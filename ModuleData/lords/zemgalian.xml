@@ -24,7 +24,7 @@
         <skill id="Roguery" value="100" />
         <skill id="Scouting" value="275" />
         <skill id="Tactics" value="200" />
-        <skill id="Athletics" value="250" />
+        <skill id="Athletics" value="275" />
         <skill id="Riding" value="175" />
         <skill id="Throwing" value="175" />
         <skill id="Bow" value="100" />
@@ -97,9 +97,9 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_zemgalian_1c"
-                name="{=lord_zemgalian_1c.name}Freija*"
+                name="{=lord_zemgalian_1c.name}Vēlava*"
                 voice="softspoken"
-                age="11"
+                age="29"
                 is_female="true"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -109,16 +109,19 @@
     <BodyProperties version="4" age="22" weight="0.2407" build="0.2022"  key="00023C0FC0E400038766A568D58A789697A8249AB7A83797A832C67744C89A280053460305826AB60000000000000000000000000000000000000000729C40C3"  />
     </face>
 	<skills>
-        <skill id="Tactics" value="25" />
-        <skill id="Medicine" value="50" />
-        <skill id="Leadership" value="50" />
-        <skill id="Steward" value="75" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="100" />
-        <skill id="Scouting" value="25" />
-        <skill id="Bow" value="50" />
+        <skill id="Tactics" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Scouting" value="75" />
+        <skill id="Bow" value="75" />
         <skill id="Polearm" value="25" />
-        <skill id="OneHanded" value="25" />
+        <skill id="OneHanded" value="75" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="125" />
+        <skill id="Roguery" value="50" />
     </skills>
     <Traits>
         <Trait id="Mercy" value="-1" />
@@ -137,10 +140,10 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_zemgalian_2a"
-                name="{=lord_zemgalian_2a.name}Nameisis*"
+    <NPCCharacter id="lord_zemgalian_1d"
+                name="{=lord_zemgalian_1d.name}Evards*"
                 voice="softspoken"
-                age="44"
+                age="27"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -151,17 +154,17 @@
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
-        <skill id="Medicine" value="125" />
-        <skill id="Leadership" value="150" />
-        <skill id="Steward" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="150" />
         <skill id="Trade" value="75" />
         <skill id="Charm" value="125" />
-        <skill id="Roguery" value="75" />
-        <skill id="Scouting" value="125" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="200" />
         <skill id="Tactics" value="150" />
-        <skill id="Athletics" value="175" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="150" />
+        <skill id="Athletics" value="275" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="125" />
         <skill id="Bow" value="100" />
         <skill id="Polearm" value="275" />
         <skill id="TwoHanded" value="175" />
@@ -169,10 +172,195 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_zemgalian_1e"
+                name="{=lord_zemgalian_1e.name}Detlavs*"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="25" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_zemgalian_2a"
+                name="{=lord_zemgalian_2a.name}Aksels*"
+                voice="softspoken"
+                age="34"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_zemgalian_2b"
+                name="{=lord_zemgalian_2b.name}Aleite*"
+                voice="softspoken"
+                age="28"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.2407" build="0.2022"  key="00023C0FC0E400038766A568D58A789697A8249AB7A83797A832C67744C89A280053460305826AB60000000000000000000000000000000000000000729C40C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="275" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="175" />
+        <skill id="Scouting" value="125" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="100" />
+        <skill id="Roguery" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lady" />
+      <EquipmentSet id="lithuanian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_zemgalian_3a"
+                name="{=lord_zemgalian_3a.name}Ilvars*"
+                voice="softspoken"
+                age="36"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="225" />
+        <skill id="Bow" value="175" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="1" />
@@ -184,10 +372,10 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_zemgalian_3a"
-                name="{=lord_zemgalian_3a.name}Nameisis*"
+    <NPCCharacter id="lord_zemgalian_3b"
+                name="{=lord_zemgalian_3b.name}Nameisis*"
                 voice="softspoken"
-                age="57"
+                age="33"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -197,31 +385,31 @@
     <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="100" />
-        <skill id="Medicine" value="125" />
-        <skill id="Leadership" value="150" />
-        <skill id="Steward" value="100" />
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="75" />
         <skill id="Trade" value="75" />
-        <skill id="Charm" value="125" />
-        <skill id="Roguery" value="75" />
-        <skill id="Scouting" value="125" />
-        <skill id="Tactics" value="150" />
-        <skill id="Athletics" value="175" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="225" />
         <skill id="Riding" value="100" />
-        <skill id="Throwing" value="150" />
-        <skill id="Bow" value="100" />
+        <skill id="Throwing" value="125" />
+        <skill id="Bow" value="75" />
         <skill id="Polearm" value="275" />
         <skill id="TwoHanded" value="175" />
-        <skill id="OneHanded" value="225" />
+        <skill id="OneHanded" value="250" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="2" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -232,9 +420,9 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_zemgalian_4a"
-                name="{=lord_zemgalian_4a.name}Nameisis*"
+                name="{=lord_zemgalian_4a.name}Drosmis*"
                 voice="softspoken"
-                age="57"
+                age="52"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -244,31 +432,31 @@
     <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="100" />
-        <skill id="Medicine" value="125" />
-        <skill id="Leadership" value="150" />
-        <skill id="Steward" value="100" />
-        <skill id="Trade" value="75" />
-        <skill id="Charm" value="125" />
-        <skill id="Roguery" value="75" />
-        <skill id="Scouting" value="125" />
-        <skill id="Tactics" value="150" />
-        <skill id="Athletics" value="175" />
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="225" />
         <skill id="Riding" value="100" />
-        <skill id="Throwing" value="150" />
+        <skill id="Throwing" value="100" />
         <skill id="Bow" value="100" />
-        <skill id="Polearm" value="275" />
-        <skill id="TwoHanded" value="175" />
-        <skill id="OneHanded" value="225" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="125" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="2" />
+        <Trait id="Mercy" value="-1" />
         <Trait id="Valor" value="1" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -278,6 +466,96 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_zemgalian_4b"
+                name="{=lord_zemgalian_4b.name}Gude*"
+                voice="softspoken"
+                age="50"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.2407" build="0.2022"  key="00023C0FC0E400038766A568D58A789697A8249AB7A83797A832C67744C89A280053460305826AB60000000000000000000000000000000000000000729C40C3"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="75" />
+        <skill id="Medicine" value="150" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="75" />
+        <skill id="OneHanded" value="50" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="125" />
+        <skill id="Roguery" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lady" />
+      <EquipmentSet id="lithuanian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_zemgalian_4c"
+                name="{=lord_zemgalian_4c.name}Ligitas*"
+                voice="softspoken"
+                age="36"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.286" build="0.4182"  key="00004C0B9700338391D7C7469798BB984A4896D5777B75BC3B8BC7A757A97B7200B646030B4C962A000000000000000000000000000000000000000041743082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="lithuanian_lord" />
+      <EquipmentSet id="lithuanian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
   
 </NPCCharacters>
