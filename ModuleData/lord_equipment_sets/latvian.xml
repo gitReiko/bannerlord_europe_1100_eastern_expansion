@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+ <EquipmentRoster id="latvian_king" culture="Culture.latvian">
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
+		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
+		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+		<Equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
+		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+		<Equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
+		<Equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
+		<Equipment slot="Item2" id="Item.AR_empire_sword_5_t4"/>
+		<Equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+		<Equipment slot="Body" id="Item.sturgian_lamellar_base"/>
+		<Equipment slot="Leg" id="Item.highland_boots"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
+		<Equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+		<Equipment slot="Head" id="Item.northern_goggled_helmet"/>
+		<Equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
+		<Equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
+		<Equipment slot="Body" id="Item.battania_civil_c"/>
+		<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentRoster>
+
+  <EquipmentRoster id="latvian_lord" culture="Culture.latvian">
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
+		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
+		<Equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+		<Equipment slot="Body" id="Item.nordic_hauberk"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
+		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+		<Equipment slot="Cape" id="Item.brass_lamellar_shoulder_white"/>
+		<Equipment slot="Body" id="Item.sturgian_lamellar_gambeson"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
+		<Equipment slot="Item2" id="Item.AR_empire_sword_5_t4"/>
+		<Equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+		<Equipment slot="Body" id="Item.mail_shirt"/>
+		<Equipment slot="Leg" id="Item.highland_boots"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
+		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
+		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
+		<Equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+		<Equipment slot="Head" id="Item.tv_vlandia_helmet_a5"/>
+		<Equipment slot="Cape" id="Item.empire_cape_a"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
+		<Equipment slot="Item1" id="Item.viking_round_shield"/>
+		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
+		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+		<Equipment slot="Body" id="Item.hauberk"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+		<Equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
+		<Equipment slot="Body" id="Item.nordic_sloven"/>
+		<Equipment slot="Gloves" id="Item.highland_gloves"/>
+		<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
+		<Equipment slot="Body" id="Item.nordic_sloven"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_b"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentRoster>
+
+  <EquipmentRoster id="latvian_lady" culture="Culture.latvian">
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
+		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
+		<Equipment slot="Item2" id="Item.noble_bow"/>
+		<Equipment slot="Item3" id="Item.bodkin_arrows_a"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+		<Equipment slot="Body" id="Item.nordic_hauberk"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
+		<Equipment slot="Item2" id="Item.noble_bow"/>
+		<Equipment slot="Item3" id="Item.bodkin_arrows_a"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+		<Equipment slot="Body" id="Item.nordic_hauberk"/>
+		<Equipment slot="Leg" id="Item.highland_boots"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
+		<Equipment slot="Item1" id="Item.viking_round_shield"/>
+		<Equipment slot="Item2" id="Item.noble_bow"/>
+		<Equipment slot="Item3" id="Item.bodkin_arrows_a"/>
+		<Equipment slot="Head" id="Item.tv_vlandia_helmet_c"/>
+		<Equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
+		<Equipment slot="Leg" id="Item.TV_battania_boots_v"/>
+	</EquipmentSet>
+	<EquipmentSet>
+		<Equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
+		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
+		<Equipment slot="Item2" id="Item.noble_bow"/>
+		<Equipment slot="Item3" id="Item.bodkin_arrows_a"/>
+		<Equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+		<Equipment slot="Cape" id="Item.empire_cape_a"/>
+		<Equipment slot="Body" id="Item.mail_shirt"/>
+		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
+		<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+		<Equipment slot="Body" id="Item.vlandian_dress"/>
+		<Equipment slot="Leg" id="Item.ladys_shoe"/>
+	</EquipmentSet>
+	<EquipmentSet civilian="true">
+		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
+		<Equipment slot="Body" id="Item.vlandian_dress"/>
+		<Equipment slot="Leg" id="Item.southern_moccasins"/>
+	</EquipmentSet>
+	<Flags IsNobleTemplate="true"           
+           IsMediumTemplate="true"
+           IsCombatantTemplate="true"
+		   IsCivilianTemplate="true" />
+  </EquipmentRoster>
+
+</EquipmentRosters>
