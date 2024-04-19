@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settlements>
+
+  <!-- 
+    
+    After settlements modifications because some cities and castles defines in modifications.
+  
+    If we define villages before cities and castles, we get crash.
+    
+  -->
+
+  <Settlement id="reiko_riga_vil_3" name="{=reiko_riga_vil_3.name}Carnikava" posX="905.310" posY="1298.400" culture="Culture.latvian" text="{=reiko_riga_vil_3.name}Carnikava text.">
+    <Components>
+      <Village id="reiko_riga_vil_3_comp" village_type="VillageType.fisherman" hearth="153" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+    <Settlement id="reiko_riga_vil_4" name="{=reiko_riga_vil_4.name}Ropaži" posX="920.560" posY="1287.480" culture="Culture.latvian" text="{=reiko_riga_vil_4.name}Ropaži text.">
+    <Components>
+      <Village id="reiko_riga_vil_4_comp" village_type="VillageType.flax_plant" hearth="113" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_miensk_vil_2" name="{=reiko_miensk_vil_2.name}Miadziel" posX="967.770" posY="1235.250" culture="Culture.kryvich" text="{=reiko_miensk_vil_2.text}Miadziel text.">
+    <Components>
+      <Village id="reiko_miensk_vil_2_comp" village_type="VillageType.lumberjack" hearth="273" gate_rotation="0.408" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="reiko_brest_vil_1" name="{=reiko_brest_vil_1.name}Hanna" posX="883.660" posY="1164.150" culture="Culture.volhynian" text="{=reiko_brest_vil_1.text}Hanna">
+    <Components>
+      <Village id="reiko_brest_vil_1_comp" village_type="VillageType.wheat_farm" hearth="164" gate_rotation="0.008" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+    <Settlement id="reiko_brest_vil_2" name="{=reiko_brest_vil_2.name}Kobryn" posX="912.440" posY="1189.206" culture="Culture.jatvingian" text="{=reiko_brest_vil_2.text}Kobryn.">
+    <Components>
+      <Village id="reiko_brest_vil_2_comp" village_type="VillageType.cattle_farm" hearth="370" gate_rotation="0.408" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_halych_vil_1" name="{=reiko_halych_vil_1.name}Bilokrynytsia" posX="922.270" posY="1089.925" culture="Culture.volhynian" text="{=reiko_halych_vil_1.name}Bilokrynytsia.">
+    <Components>
+      <Village id="reiko_halych_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="241" gate_rotation="0.408" bound="Settlement.town_KR3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+ 
+</Settlements>
