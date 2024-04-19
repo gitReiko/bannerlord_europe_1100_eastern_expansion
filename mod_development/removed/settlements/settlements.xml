@@ -38,5 +38,51 @@
     </Locations>
   </Settlement>
 
+  <!-- Volhynia -->
+
+  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Luchesk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynian"  gate_posX="928.631" gate_posY="1136.630">
+    <Components>
+      <Town id="reiko_lutsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1100" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.800" posY="1126.380" culture="Culture.volhynian"  gate_posX="889.240" gate_posY="1127.050">
+    <Components>
+      <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="400" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volhyn Castle" owner="Faction.clan_volhynia_1" posX="859.010" posY="1142.300" culture="Culture.volhynian"  gate_posX="859.370" gate_posY="1141.835">
+    <Components>
+      <Town id="reiko_volyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="550" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_halych_4" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="861.800" gate_posY="1099.755">
+    <Components>
+      <Town id="reiko_drohobych_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="550" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
  
 </Settlements>

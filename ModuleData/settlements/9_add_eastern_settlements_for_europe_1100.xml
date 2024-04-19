@@ -51,7 +51,7 @@
     </CommonAreas>
   </Settlement>
   
-  <Settlement id="reiko_brest_vil_1" name="{=reiko_brest_vil_1.name}Hanna" posX="883.660" posY="1164.150" culture="Culture.volhynian" text="{=reiko_brest_vil_1.text}Hanna">
+  <Settlement id="reiko_brest_vil_1" name="{=reiko_brest_vil_1.name}Hanna" posX="883.660" posY="1164.150" culture="Culture.jatvingian" text="{=reiko_brest_vil_1.text}Hanna">
     <Components>
       <Village id="reiko_brest_vil_1_comp" village_type="VillageType.wheat_farm" hearth="164" gate_rotation="0.008" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -82,6 +82,20 @@
   <Settlement id="reiko_halych_vil_1" name="{=reiko_halych_vil_1.name}Bilokrynytsia" posX="922.270" posY="1089.925" culture="Culture.volhynian" text="{=reiko_halych_vil_1.name}Bilokrynytsia.">
     <Components>
       <Village id="reiko_halych_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="241" gate_rotation="0.408" bound="Settlement.town_KR3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_drohobych_vil_1" name="{=reiko_drohobych_vil_1.name}Stryi" posX="876.220" posY="1092.485" culture="Culture.volhynian" text="{=reiko_drohobych_vil_1.name}Stryi.">
+    <Components>
+      <Village id="reiko_drohobych_vil_1_comp" village_type="VillageType.salt_mine" hearth="397" gate_rotation="0.408" bound="Settlement.town_KR3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />

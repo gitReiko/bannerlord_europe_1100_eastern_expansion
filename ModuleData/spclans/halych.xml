@@ -32,12 +32,12 @@
     />
 
     <Faction id="clan_halych_4"
-           name="{=clan_halych_4.name}Druhyi Bych Pasadnik"
+           name="{=clan_halych_4.name}Halych Pasadnik"
            tier="3"
            owner="Hero.lord_halych_4a"
            culture="Culture.volhynian"
            super_faction="Kingdom.halych"
-           banner_key="11.17.19.1836.1836.768.788.1.0.-30.103.99.116.402.402.744.728.0.0.0" text="{=clan_halych_4.text}This clan is non-historical. Representing Halych boyars in Druhyi Bych city. The clan's coat of arms is the coat of arms of Halych principality." 
+           banner_key="11.17.19.1836.1836.768.788.1.0.-30.103.99.116.402.402.744.728.0.0.0" text="{=clan_halych_4.text}This clan is non-historical. Representing Halych boyars in Halych city. The clan's coat of arms is the coat of arms of Halych principality." 
            color="FFeed690" color2="FF453d38" alternative_color="FFeed690" alternative_color2="FF453d38"
     />
 		   

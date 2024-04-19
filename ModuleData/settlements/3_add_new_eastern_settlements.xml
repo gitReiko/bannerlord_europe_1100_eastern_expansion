@@ -450,7 +450,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_drohiczyn" name="{=reiko_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volhynia_2" posX="878.160" posY="1183.950" culture="Culture.jatvingian"  gate_posX="878.578" gate_posY="1183.970">
+  <Settlement id="reiko_drohiczyn" name="{=reiko_drohiczyn.name}Drohiczyn Castle" owner="Faction.clan_volhynia_2" posX="872.100" posY="1182.560" culture="Culture.jatvingian"  gate_posX="872.450" gate_posY="1182.540">
     <Components>
       <Town id="reiko_drohiczyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1300" />
     </Components>
@@ -510,31 +510,6 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_lutsk" name="{=reiko_lutsk.name}Luchesk" owner="Faction.clan_volhynia_3" posX="928.280" posY="1138.070" culture="Culture.volhynian"  gate_posX="928.631" gate_posY="1136.630">
-    <Components>
-      <Town id="reiko_lutsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1100" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
-      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="battania_dungeon_a" />
-    </Locations>
-  </Settlement>
-
-  <Settlement id="reiko_lutsk_vil_1" name="{=reiko_lutsk_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.volhynian" text="{=reiko_lutsk_vil_1.text}Kolky.">
-    <Components>
-      <Village id="reiko_lutsk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_lutsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
   <Settlement id="reiko_dorogobuzh" name="{=reiko_dorogobuzh.name}Dorogobuzhets" owner="Faction.clan_volhynia_1" posX="949.380" posY="1133.040" culture="Culture.volhynian"  gate_posX="951.261" gate_posY="1132.588" text="{=reiko_dorogobuzh.text}Dorogobuzhets.">
     <Components>
       <Town id="reiko_dorogobuzh_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1300" />
@@ -559,6 +534,20 @@
   <Settlement id="reiko_dorogobuzh_vil_1" name="{=reiko_dorogobuzh_vil_1.name}Lipki" posX="965.910" posY="1134.750" culture="Culture.volhynian" text="{=reiko_dorogobuzh_vil_1.text}Lipki.">
     <Components>
       <Village id="reiko_dorogobuzh_vil_1_comp" village_type="VillageType.clay_mine" hearth="130" gate_rotation="0.758" bound="Settlement.reiko_dorogobuzh" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_lutsk_vil_1" name="{=reiko_lutsk_vil_1.name}Kolky" posX="942.318" posY="1145.110" culture="Culture.volhynian" text="{=reiko_lutsk_vil_1.text}Kolky.">
+    <Components>
+      <Village id="reiko_lutsk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="250" gate_rotation="0.758" bound="Settlement.reiko_dorogobuzh" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -595,45 +584,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_belz" name="{=reiko_belz.name}Belz Castle" owner="Faction.clan_volhynia_4" posX="888.800" posY="1126.380" culture="Culture.volhynian"  gate_posX="889.240" gate_posY="1127.050">
-    <Components>
-      <Town id="reiko_belz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="400" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
-      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="vlandia_dungeon_a" />
-    </Locations>
-  </Settlement>
-
   <Settlement id="reiko_belz_vil_1" name="{=reiko_belz_vil_1.name}Korchyn" posX="894.950" posY="1114.320" culture="Culture.volhynian" text="{=reiko_belz_vil_1.text}Korchyn.">
     <Components>
-      <Village id="reiko_belz_vil_1_comp" village_type="VillageType.flax_plant" hearth="210" gate_rotation="0.758" bound="Settlement.reiko_belz" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
-  <Settlement id="reiko_volyn" name="{=reiko_volyn.name}Volhyn Castle" owner="Faction.clan_volhynia_1" posX="859.010" posY="1142.300" culture="Culture.volhynian"  gate_posX="859.370" gate_posY="1141.835">
-    <Components>
-      <Town id="reiko_volyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="550" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
-      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="vlandia_dungeon_a" />
-    </Locations>
-  </Settlement>
-
-  <Settlement id="reiko_volyn_vil_1" name="{=reiko_volyn_vil_1.name}Zabuzhzhia" posX="868.730" posY="1149.425" culture="Culture.volhynian" text="{=reiko_volyn_vil_1.text}Zabuzhzhia.">
-    <Components>
-      <Village id="reiko_volyn_vil_1_comp" village_type="VillageType.sheep_farm" hearth="300" gate_rotation="0.758" bound="Settlement.reiko_volyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_belz_vil_1_comp" village_type="VillageType.flax_plant" hearth="210" gate_rotation="0.758" bound="Settlement.reiko_busk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -691,31 +644,6 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_drohobych" name="{=reiko_drohobych.name}Druhyi Bych Castle" owner="Faction.clan_halych_4" posX="860.690" posY="1098.730" culture="Culture.volhynian" gate_posX="861.800" gate_posY="1099.755">
-    <Components>
-      <Town id="reiko_drohobych_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="550" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
-      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="battania_dungeon_a" />
-    </Locations>
-  </Settlement>
-
-  <Settlement id="reiko_drohobych_vil_1" name="{=reiko_drohobych_vil_1.name}Stryi" posX="876.220" posY="1092.485" culture="Culture.volhynian" text="{=reiko_drohobych_vil_1.name}Stryi.">
-    <Components>
-      <Village id="reiko_drohobych_vil_1_comp" village_type="VillageType.salt_mine" hearth="397" gate_rotation="0.408" bound="Settlement.reiko_drohobych" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
   <Settlement id="reiko_zvenigorod" name="{=reiko_zvenigorod.name}Zvenigorod Castle" owner="Faction.clan_halych_2" posX="881.528" posY="1108.920" culture="Culture.volhynian" gate_posX="880.480" gate_posY="1108.600">
     <Components>
       <Town id="reiko_zvenigorod_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1160" />
@@ -768,6 +696,20 @@
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_volyn_vil_1" name="{=reiko_volyn_vil_1.name}Zabuzhzhia" posX="868.730" posY="1149.425" culture="Culture.volhynian" text="{=reiko_volyn_vil_1.text}Zabuzhzhia.">
+    <Components>
+      <Village id="reiko_volyn_vil_1_comp" village_type="VillageType.sheep_farm" hearth="300" gate_rotation="0.758" bound="Settlement.reiko_peremyshl" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
