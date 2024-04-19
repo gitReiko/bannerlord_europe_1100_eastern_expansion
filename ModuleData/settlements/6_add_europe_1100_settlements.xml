@@ -9179,19 +9179,7 @@
       <Location id="prison" scene_name="sturgia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_KR6_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR6_1}Tallinn" posX="921.676" posY="1336.751" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR6_1}Tallinn.">
-    <Components>
-      <Village id="castle_village_comp_KR6_1" village_type="VillageType.cattle_farm" hearth="544" gate_rotation="0.908" bound="Settlement.castle_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_b" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+
   <Settlement id="castle_KR7" name="{=Settlements.Settlement.ECM.KR.castle_KR7}Kozelsk Castle" owner="Faction.clan_rus_3" posX="1155.426" posY="1207.375" culture="Culture.rus" gate_posX="1156.925" gate_posY="1208.292">
     <Components>
       <Town id="castle_comp_KR7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="660" />
