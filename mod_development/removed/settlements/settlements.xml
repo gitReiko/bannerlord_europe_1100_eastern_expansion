@@ -159,7 +159,16 @@
     </CommonAreas>
   </Settlement>
 
-
+  <Settlement id="reiko_dzisna" name="{=reiko_dzisna.name}Kapiec Haradok Castle" owner="Faction.clan_rus_9" posX="988.610" posY="1259.730" culture="Culture.kryvich"  gate_posX="988.560" gate_posY="1259.000">
+    <Components>
+      <Town id="reiko_dzisna_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="200" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_d" scene_name_1="vlandia_castle_d" scene_name_2="vlandia_castle_d" scene_name_3="vlandia_castle_d" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
 
 
 
