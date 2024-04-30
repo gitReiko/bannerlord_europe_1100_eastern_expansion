@@ -314,9 +314,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_barysau" name="{=reiko_barysau.name}Barysaŭ Castle" owner="Faction.clan_polotsk_2" posX="995.650" posY="1226.290" culture="Culture.kryvich" gate_posX="996.350" gate_posY="1226.720">
+  <Settlement id="reiko_svislac" name="{=reiko_svislac.name}Śvisłač Castle" owner="Faction.clan_polotsk_2" posX="1010.000" posY="1223.380" culture="Culture.kryvich" gate_posX="1009.810" gate_posY="1223.920">
     <Components>
-      <Town id="reiko_barysau_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
+      <Town id="reiko_svislac_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
@@ -325,9 +325,9 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_barysau_vil_1" name="{=reiko_barysau_vil_1.name}Turyn" posX="988.210" posY="1212.910" culture="Culture.kryvich" text="{=reiko_barysau_vil_1.text}Turyn.">
+  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Turyn" posX="988.210" posY="1212.910" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Turyn.">
     <Components>
-      <Village id="reiko_barysau_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_barysau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_svislac_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_svislac" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
