@@ -170,8 +170,27 @@
     </Locations>
   </Settlement>
 
+  <Settlement id="reiko_vilkomerge" name="{=reiko_vilkomerge.name}Vilkamergė Castle" owner="Faction.clan_baltic_2" posX="914.380" posY="1251.915" culture="Culture.goldenhorde"  gate_posX="915.020" gate_posY="1252.360">
+    <Components>
+      <Town id="reiko_vilkomerge_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1100" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
 
-
+  <Settlement id="reiko_jelgava" name="{=reiko_jelgava.name}Jelgava Castle" owner="Faction.clan_zemgalian_1" posX="885.352" posY="1271.515" culture="Culture.latvian"  gate_posX="886.039" gate_posY="1271.724">
+    <Components>
+      <Town id="reiko_jelgava_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_005a" scene_name_1="vlandia_castle_005a" scene_name_2="vlandia_castle_005a" scene_name_3="vlandia_castle_005a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
 
 
 
