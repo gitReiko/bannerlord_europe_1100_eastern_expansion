@@ -278,7 +278,7 @@
     name = Rethow
     level = 1
   -->
-  <Settlement id="castle_K4" name="{=Settlements.Settlement.ECM.castle_K4}Rethow Castle" owner="Faction.clan_baltic_1" posX="822.776" posY="1221.531" culture="Culture.goldenhorde" gate_posX="820.9154" gate_posY="1220.952">
+  <Settlement id="castle_K4" name="{=Settlements.Settlement.ECM.castle_K4}Rethow Castle" owner="Faction.clan_baltic_4" posX="822.776" posY="1221.531" culture="Culture.goldenhorde" gate_posX="820.9154" gate_posY="1220.952">
     <Components>
       <Town id="castle_comp_K4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="530" />
     </Components>
