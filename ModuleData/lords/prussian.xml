@@ -338,7 +338,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_prussian_3a"
-                name="{=lord_prussian_3a.name}Galinda*"
+                name="{=lord_prussian_3a.name}Galindo*"
                 voice="softspoken"
                 age="39"
                 is_female="false"
@@ -387,7 +387,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_prussian_3b"
-                name="{=lord_prussian_3b.name}Skalva*"
+                name="{=lord_prussian_3b.name}Skalvo*"
                 voice="softspoken"
                 age="33"
                 is_female="false"
