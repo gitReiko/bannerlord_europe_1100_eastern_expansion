@@ -49,8 +49,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="lithuanian_king" />
-        <EquipmentSet id="lithuanian_king"
+        <EquipmentSet id="latvian_king" />
+        <EquipmentSet id="latvian_king"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -90,8 +90,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="lithuanian_lady" />
-      <EquipmentSet id="lithuanian_lady"
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
@@ -102,7 +102,7 @@
                 age="43"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -140,8 +140,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="lithuanian_lord" />
-      <EquipmentSet id="lithuanian_lord"
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -153,7 +153,7 @@
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.goldenhorde"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -181,11 +181,60 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="lithuanian_lady" />
-      <EquipmentSet id="lithuanian_lady"
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
                     civilian="true" />
     </Equipments>
-    </NPCCharacter> 
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_prussian_3a"
+                name="{=lord_prussian_3a.name}Longins*"
+                voice="softspoken"
+                age="39"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.1326" build="0.6747"  key="00108C0D90FC06435871B8C9969C68B3477888CD4C2DB77786667375A9B7B757008A2603081D6694000000000000000000000000000000000000000029043102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="275" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="225" />
+        <skill id="Scouting" value="275" />
+        <skill id="Tactics" value="250" />
+        <skill id="Athletics" value="275" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="175" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
   
 </NPCCharacters>

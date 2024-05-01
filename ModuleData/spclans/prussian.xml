@@ -2,25 +2,34 @@
 <Factions>
 
   <Faction id="clan_baltic_1"
-           name="{=clan_baltic_1.name}Warmia"
-           tier="6"
-           owner="Hero.lord_baltic_1a"
-           culture="Culture.goldenhorde"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.149.48.1836.1836.767.764.1.0.0.510.83.116.309.194.718.675.0.0.135.510.83.116.309.194.718.851.0.0.225.510.83.116.309.194.807.675.0.1.225.510.83.116.309.194.807.851.0.1.135.510.83.116.309.194.718.675.0.1.225.510.83.116.309.194.718.851.0.1.135.510.83.116.309.194.807.675.0.0.135.510.83.116.309.194.807.851.0.0.225.510.83.116.176.194.940.893.0.0.225.510.83.116.88.194.967.828.0.0.135.510.83.116.88.194.922.872.0.0.135.510.83.116.176.194.586.891.0.1.135.510.83.116.88.194.559.826.0.1.225.510.83.116.88.194.604.870.0.1.225.510.83.116.176.194.586.634.0.0.45.510.83.116.88.194.559.699.0.0.-45.510.83.116.88.194.604.655.0.0.-45.510.83.116.176.194.940.634.0.1.315.510.83.116.88.194.967.699.0.1.45.510.83.116.88.194.922.655.0.1.45" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
-           color="FF222222" color2="FFd22e31" alternative_color="FF222222" alternative_color2="FFd22e31"
-           />	
+    name="{=clan_baltic_1.name}Wārmi"
+    tier="6"
+    owner="Hero.lord_baltic_1a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.goldenhorde"
+    banner_key="11.149.48.1836.1836.767.764.1.0.0.510.83.116.309.194.718.675.0.0.135.510.83.116.309.194.718.851.0.0.225.510.83.116.309.194.807.675.0.1.225.510.83.116.309.194.807.851.0.1.135.510.83.116.309.194.718.675.0.1.225.510.83.116.309.194.718.851.0.1.135.510.83.116.309.194.807.675.0.0.135.510.83.116.309.194.807.851.0.0.225.510.83.116.176.194.940.893.0.0.225.510.83.116.88.194.967.828.0.0.135.510.83.116.88.194.922.872.0.0.135.510.83.116.176.194.586.891.0.1.135.510.83.116.88.194.559.826.0.1.225.510.83.116.88.194.604.870.0.1.225.510.83.116.176.194.586.634.0.0.45.510.83.116.88.194.559.699.0.0.-45.510.83.116.88.194.604.655.0.0.-45.510.83.116.176.194.940.634.0.1.315.510.83.116.88.194.967.699.0.1.45.510.83.116.88.194.922.655.0.1.45" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. " 
+    color="FF222222" color2="FFd22e31" alternative_color="FF222222" alternative_color2="FFd22e31"
+  />
 
   <Faction id="clan_baltic_4"
-           name="{=clan_baltic_4.name}Nadrowia"
-           tier="5"
-           owner="Hero.lord_baltic_4a"
-           culture="Culture.latvian"
-           super_faction="Kingdom.goldenhorde"
-           banner_key="11.149.48.1836.1836.767.764.1.0.0.510.40.116.321.200.672.784.0.0.45.510.40.116.125.200.615.909.0.0.135.510.40.116.125.200.674.854.0.0.135.510.40.116.321.200.672.744.0.1.135.510.40.116.125.200.615.620.0.1.45.510.40.116.125.200.674.674.0.1.45.510.40.116.321.200.672.784.0.0.45.510.40.116.125.200.615.909.0.0.135.510.40.116.125.200.674.854.0.0.135.510.40.116.321.200.672.744.0.1.135.510.40.116.321.200.856.784.0.1.315.510.40.116.125.200.913.909.0.1.225.510.40.116.125.200.854.854.0.1.225.510.40.116.321.200.856.744.0.0.225.510.40.116.125.200.911.618.0.0.315.510.40.116.125.200.854.674.0.0.315.510.40.116.321.200.856.784.0.1.315.510.40.116.125.200.854.854.0.1.225.510.40.116.321.200.855.744.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
-           color="FFffffff" color2="FF222222" alternative_color="FFffffff" alternative_color2="FF222222"
-           />	
+    name="{=clan_baltic_4.name}Nadrawa"
+    tier="5"
+    owner="Hero.lord_baltic_4a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.goldenhorde"
+    banner_key="11.149.48.1836.1836.767.764.1.0.0.510.40.116.321.200.672.784.0.0.45.510.40.116.125.200.615.909.0.0.135.510.40.116.125.200.674.854.0.0.135.510.40.116.321.200.672.744.0.1.135.510.40.116.125.200.615.620.0.1.45.510.40.116.125.200.674.674.0.1.45.510.40.116.321.200.672.784.0.0.45.510.40.116.125.200.615.909.0.0.135.510.40.116.125.200.674.854.0.0.135.510.40.116.321.200.672.744.0.1.135.510.40.116.321.200.856.784.0.1.315.510.40.116.125.200.913.909.0.1.225.510.40.116.125.200.854.854.0.1.225.510.40.116.321.200.856.744.0.0.225.510.40.116.125.200.911.618.0.0.315.510.40.116.125.200.854.674.0.0.315.510.40.116.321.200.856.784.0.1.315.510.40.116.125.200.854.854.0.1.225.510.40.116.321.200.855.744.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
+    color="FFffffff" color2="FF222222" alternative_color="FFffffff" alternative_color2="FF222222"
+  />
 
+  <Faction id="clan_prussian_3"
+    name="{=clan_prussian_3.name}Barta"
+    tier="5"
+    owner="Hero.lord_prussian_3a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.goldenhorde"
+    banner_key="11.83.48.1836.1836.767.764.1.0.0.510.40.116.309.194.724.676.0.0.135.510.40.116.309.194.724.852.0.0.225.510.40.116.309.194.804.676.0.1.225.510.40.116.309.194.804.852.0.1.135.510.40.116.90.194.836.824.0.0.225.510.40.116.90.194.880.867.0.0.225.510.40.116.90.194.921.908.0.0.225.510.40.116.90.194.693.704.0.0.225.510.40.116.90.194.652.663.0.0.225.510.40.116.90.194.608.620.0.0.225.510.40.116.90.194.920.618.0.1.-45.510.40.116.90.194.873.666.0.1.-45.510.40.116.90.194.917.659.0.0.45.510.40.116.90.194.608.909.0.1.135.510.40.116.90.194.655.862.0.1.135.510.40.116.90.194.611.869.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
+    color="FFd22e31" color2="FFffffff" alternative_color="FFd22e31" alternative_color2="FFffffff"
+  />	
 
 		   
 </Factions>

@@ -5,7 +5,12 @@
    <Hero id="lord_baltic_1a" spouse="Hero.lord_baltic_1b" faction="Faction.clan_baltic_1" text="Herkus Monte was the most famous leader of the Great Prussian Uprising against the Teutonic Knights and Northern Crusaders. The uprising began in September 1260, following the Knights' defeat at the Battle of Durbe, and lasted for the next fourteen years." /> 
    <Hero id="lord_baltic_1b" spouse="Hero.lord_baltic_1a" faction="Faction.clan_baltic_1"  />  
 
+
    <Hero id="lord_baltic_4a" spouse="Hero.lord_baltic_4b" faction="Faction.clan_baltic_4" />
-   <Hero id="lord_baltic_4b" spouse="Hero.lord_baltic_4a" faction="Faction.clan_baltic_4" />  
-   
+   <Hero id="lord_baltic_4b" spouse="Hero.lord_baltic_4a" faction="Faction.clan_baltic_4" />
+
+
+   <Hero id="lord_prussian_3a" faction="Faction.clan_prussian_3" />
+
+
 </Heroes>
