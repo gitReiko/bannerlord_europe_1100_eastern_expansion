@@ -1,11 +1,13 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.8.5, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.9.1, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 !!! Warning. Mod now requires Open Source Armory.
 
 The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.2
+Update 1.2.1
+
+- compatible with Europa 1100 1.2.9.1
 
 - 3 new kigdoms and 1 culture
 - settlements improvements (more scenes use, different modeles)
