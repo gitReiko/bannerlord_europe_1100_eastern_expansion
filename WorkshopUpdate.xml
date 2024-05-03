@@ -4,9 +4,9 @@
         <!-- Can be found in the URL of your workshop item -->
     </GetItem>
     <UpdateItem>
-        <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\Europe1100EasternEuropeExpansion"/>
+        <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\bannerlord_europe_1100_eastern_expansion"/>
         <!-- A direct path of your module -->   
-        <ChangeNotes Value="Eastern Europe Expansion v.1.0.2 for Europe 1100 v1.2.8.4" />
+        <ChangeNotes Value="Eastern Europe Expansion v.1.2.1.1 for Europe 1100 v1.2.9.1" />
         <!-- Insert patch notes -->
         <Tags> 
             <!-- You can use the following tags: -->
@@ -17,7 +17,7 @@
             <Tag Value="Singleplayer" />
             <Tag Value="Medieval" />
             <Tag Value="Partial Conversion" />
-            <Tag Value="v1.2.8" />
+            <Tag Value="v1.2.9" />
         </Tags>
     </UpdateItem>
 </Tasks>
