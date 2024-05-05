@@ -839,7 +839,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_jersika_vil_1" name="{=reiko_jersika_vil_1.name}Dagda" posX="964.320" posY="1279.900" culture="Culture.latvian" text="{=reiko_jersika_vil_1.text}Dagda.">
+  <Settlement id="reiko_jersika_vil_1" name="{=reiko_jersika_vil_1.name}Jersika" posX="964.320" posY="1279.900" culture="Culture.latvian" text="{=reiko_jersika_vil_1.text}Jersika.">
     <Components>
       <Village id="reiko_jersika_vil_1_comp" village_type="VillageType.clay_mine" hearth="236" gate_rotation="0.758" bound="Settlement.reiko_rezekne" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -853,9 +853,34 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_jersika_vil_2" name="{=reiko_jersika_vil_2.name}Ergli" posX="941.860" posY="1293.825" culture="Culture.latvian" text="{=reiko_jersika_vil_2.text}Ergli text.">
+  <Settlement id="reiko_jersika_vil_2" name="{=reiko_jersika_vil_2.name}Negeste" posX="941.860" posY="1293.825" culture="Culture.latvian" text="{=reiko_jersika_vil_2.text}Negeste.">
     <Components>
       <Village id="reiko_jersika_vil_2_comp" village_type="VillageType.wheat_farm" hearth="113" gate_rotation="0.408" bound="Settlement.reiko_rezekne" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_valmiera" name="{=reiko_valmiera.name}Valmiera Castle" owner="Faction.clan_zemgalian_3" posX="923.850" posY="1301.620" culture="Culture.latvian" gate_posX="922.733" gate_posY="1301.160">
+    <Components>
+      <Town id="reiko_valmiera_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="632" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_valmiera_vil_1" name="{=reiko_valmiera_vil_1.name}Ikškile" posX="920.560" posY="1287.480" culture="Culture.latvian" text="{=reiko_valmiera_vil_1.name}Ikškile.">
+    <Components>
+      <Village id="reiko_valmiera_vil_1_comp" village_type="VillageType.flax_plant" hearth="183" gate_rotation="0.408" bound="Settlement.reiko_valmiera" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_l" />
