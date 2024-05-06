@@ -44,17 +44,6 @@
     color="FFc94b4d" color2="FFffe9d4" alternative_color="FFc94b4d" alternative_color2="FFffe9d4"
   />
 
-  <Faction id="clan_lithuanian_5"
-    name="{=clan_lithuanian_5.name}Upytė"
-    tier="3"
-    owner="Hero.lord_lithuanian_5a"
-    culture="Culture.goldenhorde"
-    super_faction="Kingdom.lithuanian"
-    banner_key="11.138.51.1836.1836.767.764.1.0.0.510.18.116.397.180.768.745.0.1.315.510.18.116.166.180.710.574.0.1.315.510.18.116.182.180.707.576.0.1.45.510.18.116.91.180.777.594.0.1.45.510.18.116.91.180.690.507.0.1.45.510.18.116.397.180.761.700.0.0.225.510.18.116.397.180.768.786.0.0.225.510.18.116.166.180.708.957.0.0.225.510.18.116.182.180.706.955.0.0.135.510.18.116.91.180.775.938.0.0.135.510.18.116.91.180.689.1024.0.0.135.510.18.116.397.180.760.832.0.1.315"
-    text="{=clan_lithuania.text}This clan represents the Lithuanian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Jumis symbol."
-    color="FFaec382" color2="FF3b6298" alternative_color="FFaec382" alternative_color2="FF3b6298"
-  />
-
 
 
 

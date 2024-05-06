@@ -19,6 +19,8 @@
    <Hero id="lord_zemaitian_3b" spouse="Hero.lord_zemaitian_3a" faction="Faction.clan_zemaitian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
    <Hero id="lord_zemaitian_3c" father="Hero.lord_zemaitian_3a" faction="Faction.clan_zemaitian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
    <Hero id="lord_zemaitian_3d" father="Hero.lord_zemaitian_3a" mother="Hero.lord_zemaitian_3b" faction="Faction.clan_zemaitian_3" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
- 
+
+   <Hero id="lord_zemaitian_4a" faction="Faction.clan_zemaitian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_zemaitian_4b" father="Hero.lord_zemaitian_4a" faction="Faction.clan_zemaitian_4" text="{=lord_zemaitian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 </Heroes>
