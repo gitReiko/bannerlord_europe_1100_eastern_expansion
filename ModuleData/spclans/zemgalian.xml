@@ -2,7 +2,7 @@
 <Factions>
 
     <Faction id="clan_zemgalian_1"
-           name="{=clan_zemgalian_1.name}Jelgava"
+           name="{=clan_zemgalian_1.name}Tērvete"
            tier="5"
            owner="Hero.lord_zemgalian_1a"
            culture="Culture.latvian"
@@ -33,7 +33,7 @@
 
     <Faction id="clan_zemgalian_4"
            name="{=clan_zemgalian_4.name}Dobene"
-           tier="4"
+           tier="3"
            owner="Hero.lord_zemgalian_4a"
            culture="Culture.latvian"
            super_faction="Kingdom.zemgalian"
