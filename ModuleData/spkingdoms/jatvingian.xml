@@ -18,13 +18,10 @@
 	short_name="{=jatvingian_kingdom_short_name}Jatvingians"
 	title="{=jatvingian_kingdom_title}Jatvingian Tribal Principalities"
 	ruler_title="{=jatvingian_ruler_title}Knyaz"
-	text="{=jatvingian_kingdom_text}At the beginning of the 12th century, there are many towns and fortifications in the Paniamońnie region. The first reliable written sources about these settlements date back to the 13th century. Sources speak about an attempt of the Volhynia Principality to conquer the region.{newline}The chronicle Principality of Grodno was probably located in the modern Davyd-Haradok, which was built by Davyd Igorovich in 1100. Later, his son Vsevolodko became the first knyaz of Haradok.{newline}For a long time Rus tried to force the Jatvingians to pay tribute. The territory around modern Brest was conquered by Rus before the 12th century. In the 13th century Mazovia, Volhynia and Cumans made a joint campaign against the Jatvingians. It's an indicator of Jatvingians power.{newline}The expansion of the Teutonic Order and Volhynia in the 13th century pushed the locals to ally with Lithuania.">
+	text="{=jatvingian_kingdom_text}In 983 Prince Volodymyr I Sviatoslavych burned down the regional Jatvingian center on the place of modern Franapol and subjugated these lands. Brest became the frontier fortress of Rus. Further attempts Rus to subdue the Jatvingian lands were unsuccessful. In 1100 Navahrudak, Hrodna, Vaŭkavysk and other princedoms probably existed on the Belarusian lands. Due to lack of written sources it is difficult to tell exact names and borders of princedoms. Outside of Belarus existed the principalities of Dainava and Sūduva. After a successful invasion in 1258, Ruthenian king of Danylo Romanovych succeeded in capturing the Vaŭkavysk princedom, for a short time. The further destiny of the Jatvingian principalities is connected with joining to the Lithuanian Principality for resistance to common enemies: Golden Horde, Ruthenian Kingdom and Teutonic Order.">
     <relationships>
-		<relationship kingdom="Kingdom.rus" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.zemaitian" value="-75" isAtWar="false" />
 		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
-		<relationship kingdom="Kingdom.poland" value="-50" isAtWar="false" />
-		<relationship kingdom="Kingdom.goldenhorde" value="50" isAtWar="false" />
-		<relationship kingdom="Kingdom.polotsk" value="15" isAtWar="false" />
 	</relationships>
     <policies>
 

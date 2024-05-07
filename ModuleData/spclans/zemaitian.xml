@@ -13,7 +13,7 @@
   />
 
   <Faction id="clan_zemaitian_2"
-           name="{=clan_zemaitian_2.name}Saule"
+           name="{=clan_zemaitian_2.name}Šaule"
            tier="4"
            owner="Hero.lord_zemaitian_2a"
            culture="Culture.goldenhorde"

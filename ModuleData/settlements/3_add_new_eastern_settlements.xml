@@ -77,7 +77,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Saule Castle" owner="Faction.clan_zemaitian_2" posX="878.800" posY="1249.050" culture="Culture.goldenhorde" gate_posX="878.748" gate_posY="1249.504">
+  <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Šaule Castle" owner="Faction.clan_zemaitian_2" posX="878.800" posY="1249.050" culture="Culture.goldenhorde" gate_posX="878.748" gate_posY="1249.504">
     <Components>
       <Town id="reiko_siaule_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="750" />
     </Components>
