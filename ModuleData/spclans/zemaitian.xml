@@ -40,7 +40,7 @@
     owner="Hero.lord_zemaitian_4a"
     culture="Culture.goldenhorde"
     super_faction="Kingdom.zemaitian"
-    banner_key="11.121.48.1836.1836.767.764.1.0.0.510.129.116.380.240.656.656.0.1.225.510.129.116.190.240.811.598.0.1.315.510.129.116.380.240.656.872.0.0.315.510.129.116.190.240.811.930.0.0.225"
+    banner_key="11.121.48.1836.1836.767.764.1.0.0.510.129.116.380.300.682.659.0.1.225.510.129.116.190.300.834.598.0.1.315.510.129.116.380.300.684.869.0.0.315.510.129.116.190.300.834.930.0.0.225"
     text="{=clan_zemaitian.text}This clan represents the Žemaitian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic Moon (Mēness) symbol."
     color="FFf4d32e" color2="FF35671c" alternative_color="FFf4d32e" alternative_color2="FF35671c"
   />

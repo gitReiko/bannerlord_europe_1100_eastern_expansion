@@ -395,7 +395,7 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_polotsk_2b"
-                name="{=lord_polotsk_2b.name}Ahata*"
+                name="{=lord_polotsk_2b.name}Anastasija Jarapołkaŭna"
                 voice="softspoken"
                 age="26"
                 is_female="true"
@@ -404,7 +404,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22" weight="0.3041" build="0.4676"  key="0013B408C00030027C6856637566769983445869A891D79588A3227C79C785D60057560305A6878800000000000000000000000000000000000000003EA41043"  />
+    <BodyProperties version="4" age="22" weight="0.6188" build="0.3989"  key="0005AC0A402C0004693525769889579A458967889AAA89A956326A67587444360086960308646474000000000000000000000000000000000000000027044103"  />
     </face>
 	<skills>
         <skill id="Tactics" value="60" />

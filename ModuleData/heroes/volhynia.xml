@@ -9,11 +9,12 @@
    <Hero id="lord_volyan_1e" faction="Faction.clan_volhynia_1" text="{=lord_volyan_1e.text}According to Karamzin Davyd Igorovich had a nephew Mstislav. Who helped Davyd to besiege Volodymyr, and then sought fame and fortune in the sea." />
    <Hero id="lord_volyan_1f" faction="Faction.clan_volhynia_1" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
 
-   <Hero id="lord_volyan_2a" spouse="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2" text="{=lord_volyan_2a.text}According to Tatishchev, before the Lubech congress of 1097 Jarasłaŭ Jarapołčyč's father owned Lutsk. When and how Jarasłaŭ Jarapołčyč became prince of Bieraście is unknown, but he lost his princedom almost at once after Davyd Igorovich lost Volhynia princedom. From this we can conclude that Jarasłaŭ was a supporter of Davyd Igorovich. After Jarasłaŭ death in 1103, his brother became prince of Bieraście." />
+   <Hero id="lord_volyan_2a" spouse="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2" father="Hero.lord_volyan_2_dead_a" text="{=lord_volyan_2a.text}According to Tatishchev, before the Lubech congress of 1097 Jarasłaŭ Jarapołčyč's father owned Lutsk. When and how Jarasłaŭ Jarapołčyč became prince of Bieraście is unknown, but he lost his princedom almost at once after Davyd Igorovich lost Volhynia princedom. From this we can conclude that Jarasłaŭ was a supporter of Davyd Igorovich. After Jarasłaŭ death in 1103, his brother became prince of Bieraście." />
    <Hero id="lord_volyan_2b" spouse="Hero.lord_volyan_2a" faction="Faction.clan_volhynia_2" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
-   <Hero id="lord_volyan_2c" faction="Faction.clan_volhynia_2" />
+   <Hero id="lord_volyan_2c" faction="Faction.clan_volhynia_2" father="Hero.lord_volyan_2_dead_a" />
    <Hero id="lord_volyan_2d" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2"  />
    <Hero id="lord_volyan_2e" father="Hero.lord_volyan_2a" mother="Hero.lord_volyan_2b" faction="Faction.clan_volhynia_2"  />
+   <Hero id="lord_volyan_2_dead_a" faction="Faction.clan_volhynia_2" alive="false"  />
 
    <Hero id="lord_volyan_3a" spouse="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3a.text}Sviatoslav Davydovich had several wives and children. The name of one of his daughters, Anna, is known. Until 1097 he was prince of Lutsk. In 1097 he was expelled by Davyd Igorovich from Lutsk. After the expulsion of Davyd Igorovich from the Volhynia principality had the opportunity of returning to Lutsk principality. But he refused, took the tonsure and became a monk in 1106. In the tonsure he had the name Mykola. Currently canonized by the Orthodox Church and has the status of a saint." />
    <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volhynia_3" />

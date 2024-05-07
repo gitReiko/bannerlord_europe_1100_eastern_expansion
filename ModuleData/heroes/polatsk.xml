@@ -14,7 +14,7 @@
 
 
    <Hero id="lord_polotsk_2a" spouse="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2" father="Hero.lord_polotsk_1a" text="{=lord_polotsk_2a.text}One of the oldest sons of Usiasłaŭ II the Seer. After the death of his father he waged wars with some of his brothers to expand his holding - the Principality of Minsk. Participated with his brothers in an unsuccessful military campaign against the Semigallians. Waged wars with Vladimir II Monomakh, which ended for Hleb in captivity and death."  />
-   <Hero id="lord_polotsk_2b" spouse="Hero.lord_polotsk_2a" faction="Faction.clan_polotsk_2" text="{=lord_polotsk_2b.text}The knyaz had a wife, but nothing is known about her."  />
+   <Hero id="lord_polotsk_2b" spouse="Hero.lord_polotsk_2a" faction="Faction.clan_polotsk_2" father="Hero.lord_volyan_2_dead_a" text="{=lord_polotsk_2b.text}The knyaz had a wife, but nothing is known about her."  />
    <Hero id="lord_polotsk_2c" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    <Hero id="lord_polotsk_2d" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
    <Hero id="lord_polotsk_2e" father="Hero.lord_polotsk_2a" mother="Hero.lord_polotsk_2b" faction="Faction.clan_polotsk_2"  />
