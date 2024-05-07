@@ -502,7 +502,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_2_dead_a"
-                name="{=lord_volyan_2_dead_a.name}Iaropolk Iziaslavych"
+                name="{=lord_volyan_2_dead_a.name}Jarapolk Iziaslavič"
                 voice="softspoken"
                 age="46"
                 is_female="false"
