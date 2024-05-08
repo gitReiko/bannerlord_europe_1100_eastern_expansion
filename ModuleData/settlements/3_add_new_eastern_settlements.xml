@@ -622,7 +622,7 @@
   </Settlement>
 
   <!-- reiko_dobene -->
-  <Settlement id="reiko_raseiniai" name="{=reiko_raseiniai.name}Rasseyne" owner="Faction.clan_zemaitian_1" posX="864.447" posY="1227.635" culture="Culture.goldenhorde" gate_posX="865.290" gate_posY="1226.343" text="{=reiko_raseiniai.name}Rasseyne.">
+  <Settlement id="reiko_raseiniai" name="{=reiko_raseiniai.name}Raseyne" owner="Faction.clan_zemaitian_1" posX="864.447" posY="1227.635" culture="Culture.goldenhorde" gate_posX="865.290" gate_posY="1226.343" text="{=reiko_raseiniai.name}Raseyne.">
     <Components>
       <Town id="reiko_raseiniai_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108"  prosperity="700" />
     </Components>
