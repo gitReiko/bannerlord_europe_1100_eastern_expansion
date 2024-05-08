@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_latgalian_1"
+           name="{=clan_latgalian_1.name}Tālava"
+           tier="5"
+           owner="Hero.lord_latgalian_1a"
+           culture="Culture.latvian"
+           super_faction="Kingdom.latgalian"
+           banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.485.242.829.830.0.0.45.510.48.116.485.242.764.765.0.0.45.510.48.116.485.242.699.700.0.0.45.510.48.116.485.242.829.699.0.1.135.510.48.116.485.242.764.764.0.1.135.510.48.116.485.242.699.829.0.1.135"
+           text="{=clan_latgalian.text}This clan represents the Latgalian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the World’s Fabric symbol."
+           color="FFf3f3f3" color2="FFe44535" alternative_color="FFf3f3f3" alternative_color2="FFe44535"
+  />
+
+  <Faction id="clan_latgalian_2"
+           name="{=clan_latgalian_2.name}Atzele"
+           tier="3"
+           owner="Hero.lord_latgalian_2a"
+           culture="Culture.latvian"
+           super_faction="Kingdom.latgalian"
+           banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.366.154.804.726.0.1.315.510.48.116.366.154.843.686.0.1.315.510.48.116.366.154.764.765.0.1.315.510.48.116.366.154.725.805.0.1.315.510.48.116.366.154.685.844.0.1.315.510.48.116.366.154.723.726.0.0.45.510.48.116.366.154.684.686.0.0.45.510.48.116.366.154.763.765.0.0.45.510.48.116.366.154.802.805.0.0.45.510.48.116.366.154.842.844.0.0.45.505.127.116.106.106.764.764.0.0.45"
+           text="{=clan_latgalian.text}This clan represents the Latgalian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the World’s Fabric symbol."
+           color="FFe44535" color2="FFf3f3f3" alternative_color="FFe44535" alternative_color2="FFf3f3f3"
+  />
+
+  <Faction id="clan_latgalian_3"
+           name="{=clan_latgalian_3.name}Lotigola"
+           tier="3"
+           owner="Hero.lord_latgalian_3a"
+           culture="Culture.latvian"
+           super_faction="Kingdom.latgalian"
+           banner_key="11.11.48.1836.1836.767.764.1.0.0.510.48.116.437.209.846.846.0.0.45.510.48.116.437.209.791.792.0.0.45.510.48.116.437.209.737.738.0.0.45.510.48.116.437.209.683.684.0.0.45.510.48.116.437.209.681.846.0.1.315.510.48.116.437.209.736.792.0.1.315.510.48.116.437.209.790.738.0.1.315.510.48.116.437.209.844.684.0.1.315.510.11.116.232.361.764.765.0.0.45.510.11.116.232.361.763.766.0.1.315"
+           text="{=clan_latgalian.text}This clan represents the Latgalian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the World’s Fabric symbol."
+           color="FFefc990" color2="FFe44535" alternative_color="FFefc990" alternative_color2="FFe44535"
+  />
+
+  <Faction id="clan_latgalian_4"
+           name="{=clan_latgalian_4.name}Idums"
+           tier="3"
+           owner="Hero.lord_latgalian_4a"
+           culture="Culture.latvian"
+           super_faction="Kingdom.latgalian"
+           banner_key="11.11.48.1836.1836.767.764.1.0.0.505.48.116.330.330.764.764.0.0.135.505.11.116.230.230.764.764.0.0.135.510.48.116.600.300.764.764.0.0.45.510.48.116.600.300.764.764.0.0.135"
+           text="{=clan_latgalian.text}This clan represents the Latgalian principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the World’s Fabric symbol."
+           color="FFe44535" color2="FFefc990" alternative_color="FFe44535" alternative_color2="FFefc990"
+  />
+  
+
+		   
+</Factions>

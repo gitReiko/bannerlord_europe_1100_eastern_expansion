@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NPCCharacters> 
+
+    <NPCCharacter id="lord_latgalian_1a"
+                name="{=lord_latgalian_1a.name}Manvid*"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.6343" build="0.8095"  key="0015CC0D00B40784A983DAC899ABAE9A57DE94B66669A6AA445939334997839300CCA6030C66D3B6000000000000000000000000000000000000000019A47082"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_latgalian_2a"
+                name="{=lord_latgalian_2a.name}Manvid*"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.6343" build="0.8095"  key="0015CC0D00B40784A983DAC899ABAE9A57DE94B66669A6AA445939334997839300CCA6030C66D3B6000000000000000000000000000000000000000019A47082"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_latgalian_3a"
+                name="{=lord_latgalian_3a.name}Manvid*"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.6343" build="0.8095"  key="0015CC0D00B40784A983DAC899ABAE9A57DE94B66669A6AA445939334997839300CCA6030C66D3B6000000000000000000000000000000000000000019A47082"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_latgalian_4a"
+                name="{=lord_latgalian_4a.name}Manvid*"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.21" weight="0.6343" build="0.8095"  key="0015CC0D00B40784A983DAC899ABAE9A57DE94B66669A6AA445939334997839300CCA6030C66D3B6000000000000000000000000000000000000000019A47082"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+
+
+</NPCCharacters>

@@ -828,7 +828,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_rezekne" name="{=reiko_rezekne.name}Rėzytė Castle" owner="Faction.clan_zemgalian_3" posX="968.315" posY="1289.440" culture="Culture.latvian"  gate_posX="968.130" gate_posY="1288.690">
+  <Settlement id="reiko_rezekne" name="{=reiko_rezekne.name}Rėzytė Castle" owner="Faction.clan_latgalian_3" posX="968.315" posY="1289.440" culture="Culture.latvian"  gate_posX="968.130" gate_posY="1288.690">
     <Components>
       <Town id="reiko_rezekne_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="60" />
     </Components>
@@ -867,7 +867,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_valmiera" name="{=reiko_valmiera.name}Wolmara Castle" owner="Faction.clan_zemgalian_3" posX="923.850" posY="1301.620" culture="Culture.latvian" gate_posX="922.733" gate_posY="1301.160">
+  <Settlement id="reiko_valmiera" name="{=reiko_valmiera.name}Wolmara Castle" owner="Faction.clan_latgalian_1" posX="923.850" posY="1301.620" culture="Culture.latvian" gate_posX="922.733" gate_posY="1301.160">
     <Components>
       <Town id="reiko_valmiera_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="632" />
     </Components>

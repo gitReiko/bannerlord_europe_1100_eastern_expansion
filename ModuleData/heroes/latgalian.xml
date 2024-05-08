@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_latgalian_1a" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_latgalian_2a" faction="Faction.clan_latgalian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_latgalian_3a" faction="Faction.clan_latgalian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_latgalian_4a" faction="Faction.clan_latgalian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   
+   
+</Heroes>

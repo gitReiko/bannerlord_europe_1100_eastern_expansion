@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="latgalian"
+		   owner="Hero.lord_latgalian_1a"
+		   banner_key="11.127.48.1836.1836.767.764.1.0.0.510.48.116.485.242.829.830.0.0.45.510.48.116.485.242.764.765.0.0.45.510.48.116.485.242.699.700.0.0.45.510.48.116.485.242.829.699.0.1.135.510.48.116.485.242.764.764.0.1.135.510.48.116.485.242.699.829.0.1.135"
+		   primary_banner_color="0xffe44535"
+		   secondary_banner_color="0xfff3f3f3"
+		   label_color="ffe44535"
+		   color="ffe44535"
+		   color2="fff3f3f3"
+		   alternative_color="ffebdcbb"
+		   alternative_color2="fff3f3f3"
+		   culture="Culture.latvian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=latgalian_kingdom_name}The Latgalian Tribal Principalities"
+		   short_name="{=latgalian_kingdom_short_name}Latgalians"
+		   title="{=latgalian_kingdom_title}Latgalian Tribal Principalities"
+		   ruler_title="{=latgalian_ruler_title}Prince"
+		   text="{=latgalian_kingdom_text}In the X-XIII centuries, Latgalians lived in the eastern part of present-day Vidzeme. The following principalities were fully or partially Latgalian: Atzele, Jersika, Idums, Lotigola, Koknese and Talava. In 1100 Latgalians, located along the river Daugava (Western Dvina), was in strong vassal dependence on Polatsk. The Princedom of Jersika was a part of the Polatsk state. In 1111 Novgorod prince Mstyslav Volodymyrovich The Great invaded in the Atzele principality. The campaign was unsuccessful, because in 1180 Novgorod organized a new attack on Atzele. Other principalities were independent but did not have a unified state.">
+    <relationships>
+
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+  
+ </Kingdoms>
