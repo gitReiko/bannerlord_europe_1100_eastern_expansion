@@ -2,16 +2,24 @@
 
 <Heroes>
 
-   <Hero id="lord_latgalian_1a" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_1a" spouse="Hero.lord_latgalian_1b" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_1b" spouse="Hero.lord_latgalian_1a" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_1c" father="Hero.lord_latgalian_1a" mother="Hero.lord_latgalian_1b" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_1d" father="Hero.lord_latgalian_1a" mother="Hero.lord_latgalian_1b" faction="Faction.clan_latgalian_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
    <Hero id="lord_latgalian_2a" faction="Faction.clan_latgalian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_2b" faction="Faction.clan_latgalian_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
-   <Hero id="lord_latgalian_3a" faction="Faction.clan_latgalian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_3a" spouse="Hero.lord_latgalian_3b" faction="Faction.clan_latgalian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_3b" spouse="Hero.lord_latgalian_3a" faction="Faction.clan_latgalian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_3c" faction="Faction.clan_latgalian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
    <Hero id="lord_latgalian_4a" faction="Faction.clan_latgalian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_4b" father="Hero.lord_latgalian_4a" spouse="Hero.lord_latgalian_4c" faction="Faction.clan_latgalian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_latgalian_4c" spouse="Hero.lord_latgalian_4b" faction="Faction.clan_latgalian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
    
    
 </Heroes>
