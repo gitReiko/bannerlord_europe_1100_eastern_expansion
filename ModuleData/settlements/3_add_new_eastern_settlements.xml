@@ -236,7 +236,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Turyn" posX="988.210" posY="1212.910" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Turyn.">
+  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Zborsk" posX="988.210" posY="1212.910" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Zborsk">
     <Components>
       <Village id="reiko_svislac_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_svislac" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -261,7 +261,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Hajnaŭka" posX="1009.655" posY="1233.560" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Hajnaŭka.">
+  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Kamajsk" posX="1009.655" posY="1233.560" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Kamajsk">
     <Components>
       <Village id="reiko_lukoml_vil_1_comp" village_type="VillageType.flax_plant" hearth="164" gate_rotation="0.008" bound="Settlement.reiko_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -275,7 +275,7 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_lukoml_vil_2" name="{=reiko_lukoml_vil_2.name}Prazaroki" posX="993.714" posY="1241.770" culture="Culture.kryvich" text="{=reiko_lukoml_vil_2.text}Prazaroki.">
+    <Settlement id="reiko_lukoml_vil_2" name="{=reiko_lukoml_vil_2.name}Kamień" posX="993.714" posY="1241.770" culture="Culture.kryvich" text="{=reiko_lukoml_vil_2.text}Kamień">
     <Components>
       <Village id="reiko_lukoml_vil_2_comp" village_type="VillageType.sturgian_horse_ranch" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -310,7 +310,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_hrodna_vil_2" name="{=reiko_hrodna_vil_2.name}Astryna" posX="907.205" posY="1218.040" culture="Culture.jatvingian" text="{=reiko_hrodna_vil_2.text}Astryna.">
+  <Settlement id="reiko_hrodna_vil_2" name="{=reiko_hrodna_vil_2.name}Kaścienieva" posX="907.205" posY="1218.040" culture="Culture.jatvingian" text="{=reiko_hrodna_vil_2.text}Kaścienieva">
     <Components>
       <Village id="reiko_hrodna_vil_2_comp" village_type="VillageType.wheat_farm" hearth="145" bound="Settlement.reiko_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
