@@ -482,6 +482,22 @@
   </Settlement>
 
   <!-- 
+    castle_KR6 changes
+    owner = clan_aestia_1
+    culture = latvian
+  --> 
+  <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_aestia_1" posX="990.765" posY="1333.307" culture="Culture.latvian" gate_posX="991.0739" gate_posY="1335.028">
+    <Components>
+      <Town id="castle_comp_KR6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="680" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_003" scene_name_1="sturgia_castle_003" scene_name_2="sturgia_castle_003" scene_name_3="sturgia_castle_003" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
     castle_village_KR5_2 changes
     bound = castle_KR6
   -->

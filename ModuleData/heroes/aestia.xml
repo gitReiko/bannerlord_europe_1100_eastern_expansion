@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_aestia_1a" faction="Faction.clan_aestia_1" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_aestia_2a" faction="Faction.clan_aestia_2" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_aestia_3a" faction="Faction.clan_aestia_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
+   <Hero id="lord_aestia_4a" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   
+   
+</Heroes>

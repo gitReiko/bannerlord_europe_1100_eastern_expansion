@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+  <Kingdom id="aestia"
+		   owner="Hero.lord_aestia_1a"
+		   banner_key="11.149.19.1836.1836.768.788.1.0.-30.505.48.116.150.150.764.764.0.0.45.505.149.116.70.70.764.764.0.0.45.503.48.116.150.150.764.636.0.0.0.503.149.116.70.70.764.636.0.0.0.514.149.116.67.67.764.649.0.0.0.510.48.116.80.240.782.684.0.0.45.510.48.116.80.240.746.684.0.1.315.503.48.116.150.150.764.892.0.1.180.503.149.116.70.70.764.892.0.1.180.514.149.116.67.67.764.879.0.1.180.510.48.116.80.240.782.844.0.1.135.510.48.116.80.240.746.844.0.0.-135.503.48.116.150.150.637.763.0.1.89.503.149.116.70.70.637.763.0.1.89.514.149.116.67.67.652.763.0.1.89.510.48.116.80.240.686.781.0.1.44.510.48.116.80.240.686.746.0.0.-226.503.48.116.150.150.890.763.0.0.270.503.149.116.70.70.890.763.0.0.270.514.149.116.67.67.876.763.0.0.270.510.48.116.80.240.842.781.0.0.315.510.48.116.80.240.842.745.0.1.225"
+		   primary_banner_color="0xff222222"
+		   secondary_banner_color="0xffefece5"
+		   label_color="ff222222"
+		   color="ff222222"
+		   color2="ffefece5"
+		   alternative_color="ffe44535"
+		   alternative_color2="ffefece5"
+		   culture="Culture.latvian"
+		   settlement_banner_mesh="encounter_flag_a"
+		   flag_mesh="info_screen_flags_a"
+		   name="{=aestia_kingdom_name}The Aestian Tribal Principalities"
+		   short_name="{=aestia_kingdom_short_name}Aestians"
+		   title="{=aestia_kingdom_title}Aestian Tribal Principalities"
+		   ruler_title="{=aestia_ruler_title}High Chieftan"
+		   text="{=aestia_kingdom_text}Estonia in the 1100-1200 AD was characterized by a decentralized political landscape. The Estonian people, primarily of Finno-Ugric descent, inhabited a land of dense forests, fertile plains, and a coastline dotted with small ports.
+
+The society was organized into various tribes or clans, each led by chieftains or elders. These tribes engaged in agriculture, fishing, and trading activities, forming the backbone of the economy. The Estonians were skilled craftsmen, known for their expertise in metalwork, woodworking, and textile production.
+
+Despite their decentralized structure, the Estonian tribes often united under a common cause to defend against external threats. They faced frequent raids from neighboring powers, such as the Swedes, Danes, Russians and Germans, who sought to expand their influence into the Baltic region.
+
+By the late 12th century, the influence of Christianity began to permeate Estonia through trade and missionary activities. However, the conversion process was gradual and met with resistance from some pagan factions.
+
+Overall, Estonia in the 1100-1200 AD was a land of diverse cultures, where tribal identities intersected with emerging political dynamics, shaping the course of its history.">
+    <relationships>
+
+	</relationships>
+    <policies>
+
+	</policies>
+  </Kingdom>
+  
+ </Kingdoms>

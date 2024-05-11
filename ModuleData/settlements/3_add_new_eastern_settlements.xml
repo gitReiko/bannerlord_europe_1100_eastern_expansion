@@ -757,7 +757,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_varbola" name="{=reiko_varbola.name}Varbola" owner="Faction.clan_zemgalian_3" posX="917.750" posY="1318.770" culture="Culture.latvian" gate_posX="918.470" gate_posY="1317.130" text="{=reiko_varbola.text}Varbola.">
+  <Settlement id="reiko_varbola" name="{=reiko_varbola.name}Varbola" owner="Faction.clan_aestia_4" posX="917.750" posY="1318.770" culture="Culture.latvian" gate_posX="918.470" gate_posY="1317.130" text="{=reiko_varbola.text}Varbola.">
     <Components>
       <Town id="reiko_varbola_comp" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="3500" />
     </Components>
@@ -792,7 +792,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_tartu" name="{=reiko_tartu.name}Tarbatu Castle" owner="Faction.clan_zemgalian_3" posX="962.760" posY="1322.540" culture="Culture.latvian"  gate_posX="962.365" gate_posY="1323.210">
+  <Settlement id="reiko_tartu" name="{=reiko_tartu.name}Tarbatu Castle" owner="Faction.clan_aestia_2" posX="962.760" posY="1322.540" culture="Culture.latvian"  gate_posX="962.365" gate_posY="1323.210">
     <Components>
       <Town id="reiko_tartu_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>
@@ -817,7 +817,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_tallinn" name="{=reiko_tallinn.name}Iru Castle" owner="Faction.clan_zemgalian_3" posX="928.840" posY="1338.350" culture="Culture.latvian"  gate_posX="929.160" gate_posY="1336.933">
+  <Settlement id="reiko_tallinn" name="{=reiko_tallinn.name}Iru Castle" owner="Faction.clan_aestia_3" posX="928.840" posY="1338.350" culture="Culture.latvian"  gate_posX="929.160" gate_posY="1336.933">
     <Components>
       <Town id="reiko_tallinn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="430" />
     </Components>
