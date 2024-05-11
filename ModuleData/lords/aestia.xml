@@ -146,8 +146,56 @@
     </Equipments>
     </NPCCharacter>
 
-<NPCCharacter id="lord_aestia_4a"
+    <NPCCharacter id="lord_aestia_4a"
                 name="{=lord_aestia_4a.name}Manivald*"
+                voice="softspoken"
+                age="56"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.7357" build="0.4488"  key="00024001407013525CEDB8CA98A67DA552CC8A9274A6DA2B36254888786437850087B6030817CE9300000000000000000000000000000000000000003D0C2002"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="275" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_aestia_5a"
+                name="{=lord_aestia_5a.name}Sälg*"
                 voice="softspoken"
                 age="56"
                 is_female="false"

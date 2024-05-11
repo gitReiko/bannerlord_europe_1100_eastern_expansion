@@ -31,7 +31,7 @@
            super_faction="Kingdom.aestia"
            banner_key="11.33.48.1836.1836.767.764.1.0.0.505.16.40.550.165.765.769.0.0.90.505.16.40.165.550.765.769.0.0.90.504.33.40.258.165.765.951.0.1.0.504.33.40.258.165.765.586.0.0.180.504.33.40.258.165.947.769.0.0.90.504.33.40.258.165.582.769.0.1.270.510.33.40.663.110.765.769.0.0.0.510.33.40.663.110.765.769.0.0.90.510.33.40.400.300.788.1010.0.0.0.510.33.40.400.300.776.531.0.0.0.510.33.40.400.300.543.796.0.0.90.510.33.40.400.300.990.804.0.0.90"
            text="{=clan_aestia.text}This clan represents the Aestia principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is derived from a local folk dress pattern."
-           color="FF6ad5dc" color2="FFefece5" alternative_color="FF6ad5dc" alternative_color2="FFefece5"
+           color="FFefece5" color2="FF6ad5dc" alternative_color="FFefece5" alternative_color2="FF6ad5dc"
   />
 
   <Faction id="clan_aestia_4"
@@ -43,6 +43,17 @@
            banner_key="11.33.19.1836.1836.768.788.1.0.-30.510.48.116.670.300.764.758.0.0.90.510.48.116.270.300.853.888.0.0.45.510.48.116.140.300.920.764.0.0.135.510.48.116.70.300.861.764.0.0.45.510.17.116.296.50.854.887.0.0.45.510.17.116.100.50.920.764.0.0.135.510.17.116.60.50.872.755.0.0.45.510.48.116.270.300.853.668.0.0.45.510.48.116.140.300.920.544.0.0.135.510.48.116.70.300.861.544.0.0.45.510.17.116.296.50.854.667.0.0.45.510.17.116.100.50.920.544.0.0.135.510.17.116.60.50.872.535.0.0.45.510.48.116.270.300.675.668.0.1.315.510.48.116.140.300.608.544.0.1.225.510.48.116.70.300.667.544.0.1.315.510.17.116.296.50.674.667.0.1.315.510.17.116.100.50.608.544.0.1.225.510.17.116.60.50.656.535.0.1.315.510.48.116.270.300.675.888.0.1.315.510.48.116.140.300.608.764.0.1.225.510.48.116.70.300.667.764.0.1.315.510.17.116.296.50.674.887.0.1.315.510.17.116.100.50.608.764.0.1.225.510.17.116.60.50.656.755.0.1.315.510.17.116.670.50.764.758.0.0.90.505.48.116.80.80.764.834.0.1.315.505.17.116.60.60.764.834.0.1.315.505.126.116.45.45.764.834.0.1.315.505.48.116.20.20.764.834.0.1.315.510.17.116.70.50.764.777.0.0.90.510.17.116.70.50.764.891.0.0.90.505.48.116.80.80.764.611.0.1.315.505.17.116.60.60.764.611.0.1.315.505.126.116.45.45.764.611.0.1.315.505.48.116.20.20.764.611.0.1.315.510.17.116.70.50.764.554.0.0.90.510.17.116.70.50.764.668.0.0.90"
            text="{=clan_aestia.text}This clan represents the Aestia principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is derived from a local folk dress pattern."
            color="FFe44535" color2="FFefece5" alternative_color="FFe44535" alternative_color2="FFefece5"
+  />
+
+  <Faction id="clan_aestia_5"
+           name="{=clan_aestia_5.name}Viru"
+           tier="3"
+           owner="Hero.lord_aestia_5a"
+           culture="Culture.latvian"
+           super_faction="Kingdom.aestia"
+           banner_key="11.16.48.1836.1836.767.764.1.0.0.503.33.40.400.400.765.814.0.0.90.503.16.40.300.300.765.814.0.0.90.510.33.40.369.300.764.809.0.0.90.510.33.40.369.300.764.809.0.1.0.510.33.40.369.300.764.575.0.1.0"
+           text="{=clan_aestia.text}This clan represents the Aestia principality. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is derived from a local folk dress pattern."
+           color="FF6ad5dc" color2="FFefece5" alternative_color="FF6ad5dc" alternative_color2="FFefece5"
   />
 
   

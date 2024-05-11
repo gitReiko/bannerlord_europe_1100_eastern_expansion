@@ -483,10 +483,10 @@
 
   <!-- 
     castle_KR6 changes
-    owner = clan_aestia_1
+    owner = clan_aestia_5
     culture = latvian
   --> 
-  <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_aestia_1" posX="990.765" posY="1333.307" culture="Culture.latvian" gate_posX="991.0739" gate_posY="1335.028">
+  <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_aestia_5" posX="990.765" posY="1333.307" culture="Culture.latvian" gate_posX="991.0739" gate_posY="1335.028">
     <Components>
       <Town id="castle_comp_KR6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="680" />
     </Components>
