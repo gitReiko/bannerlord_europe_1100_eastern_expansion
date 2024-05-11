@@ -5,7 +5,7 @@
     <NPCCharacter id="lord_aestia_1a"
                 name="{=lord_aestia_1a.name}Lembitu*"
                 voice="softspoken"
-                age="56"
+                age="67"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -16,32 +16,32 @@
     <BodyProperties version="4" age="22" weight="0.7357" build="0.4488"  key="00024001407013525CEDB8CA98A67DA552CC8A9274A6DA2B36254888786437850087B6030817CE9300000000000000000000000000000000000000003D0C2002"  />
         </face>
     <skills>
-        <skill id="Engineering" value="125" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="125" />
-        <skill id="Steward" value="125" />
-        <skill id="Trade" value="75" />
-        <skill id="Charm" value="75" />
-        <skill id="Roguery" value="175" />
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="125" />
         <skill id="Scouting" value="225" />
-        <skill id="Tactics" value="275" />
-        <skill id="Athletics" value="175" />
-        <skill id="Riding" value="150" />
-        <skill id="Throwing" value="150" />
-        <skill id="Bow" value="75" />
+        <skill id="Tactics" value="225" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="100" />
         <skill id="Polearm" value="275" />
-        <skill id="TwoHanded" value="175" />
+        <skill id="TwoHanded" value="275" />
         <skill id="OneHanded" value="250" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="0" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="2" />
-        <Trait id="Egalitarian" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="2" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="2" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
         <EquipmentSet id="latvian_king" />
@@ -50,10 +50,57 @@
     </Equipments>
     </NPCCharacter>
 
-    <NPCCharacter id="lord_aestia_2a"
-                name="{=lord_aestia_2a.name}Kahru*"
+    <NPCCharacter id="lord_aestia_1b"
+                name="{=lord_aestia_1b.name}Teder*"
                 voice="softspoken"
-                age="56"
+                age="59"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3678" build="0.5485"  key="00157806C0A010152367786B3B8D6A982DC88CBB785A5924ABB2B6B57845712600A866030ABB838A00000000000000000000000000000000000000005B540003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="300" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="225" />
+        <skill id="Athletics" value="250" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="225" />
+        <skill id="Bow" value="175" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="225" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="-2" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_aestia_1c"
+                name="{=lord_aestia_1c.name}Vello*"
+                voice="softspoken"
+                age="29"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.latvian"
@@ -95,6 +142,145 @@
         <EquipmentSet id="latvian_lord" />
         <EquipmentSet id="latvian_lord"
                         civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_aestia_1d"
+                name="{=lord_aestia_1d.name}Lee*"
+                voice="softspoken"
+                age="25"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3678" build="0.5485"  key="00157806C0A010152367786B3B8D6A982DC88CBB785A5924ABB2B6B57845712600A866030ABB838A00000000000000000000000000000000000000005B540003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="200" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="TwoHanded" value="25" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_aestia_2a"
+                name="{=lord_aestia_2a.name}Kahru*"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22" weight="0.7357" build="0.4488"  key="00024001407013525CEDB8CA98A67DA552CC8A9274A6DA2B36254888786437850087B6030817CE9300000000000000000000000000000000000000003D0C2002"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="225" />
+        <skill id="Tactics" value="250" />
+        <skill id="Athletics" value="275" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="275" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="2" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_aestia_2b"
+                name="{=lord_aestia_2b.name}Imme*"
+                voice="softspoken"
+                age="39"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.latvian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.3678" build="0.5485"  key="00157806C0A010152367786B3B8D6A982DC88CBB785A5924ABB2B6B57845712600A866030ABB838A00000000000000000000000000000000000000005B540003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="275" />
+        <skill id="Riding" value="100" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="TwoHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lady" />
+      <EquipmentSet id="latvian_lady"
+                    civilian="true" />
     </Equipments>
     </NPCCharacter>
 
