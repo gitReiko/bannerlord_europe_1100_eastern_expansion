@@ -13,12 +13,17 @@
 
 
    <Hero id="lord_aestia_3a" faction="Faction.clan_aestia_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_3b" faction="Faction.clan_aestia_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
-   <Hero id="lord_aestia_4a" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_4a" spouse="Hero.lord_aestia_4b" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_4b" spouse="Hero.lord_aestia_4a" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_4c" father="Hero.lord_aestia_4a" mother="Hero.lord_aestia_4b" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_4d" father="Hero.lord_aestia_4a" mother="Hero.lord_aestia_4b" faction="Faction.clan_aestia_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
    <Hero id="lord_aestia_5a" faction="Faction.clan_aestia_5" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_aestia_5b" faction="Faction.clan_aestia_5" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
    
    
 </Heroes>
