@@ -780,7 +780,7 @@
 
   <Settlement id="reiko_varbola_vil_1" name="{=reiko_varbola_vil_1.name}Papsaare" posX="903.200" posY="1319.375" culture="Culture.latvian" text="{=reiko_varbola_vil_1.text}Papsaare.">
     <Components>
-      <Village id="reiko_varbola_vil_1_comp" village_type="VillageType.wheat_farm" hearth="330" gate_rotation="0.308" bound="Settlement.reiko_varbola" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+      <Village id="reiko_varbola_vil_1_comp" village_type="VillageType.fisherman" hearth="243" gate_rotation="0.308" bound="Settlement.reiko_varbola" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="battania_village_k" />
