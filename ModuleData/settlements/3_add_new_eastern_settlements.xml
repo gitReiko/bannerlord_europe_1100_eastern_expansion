@@ -643,15 +643,21 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="hrodna_riga_hideout" name="{=hrodna_riga_hideout.name}Hideout" type="Hideout" posX="893.350" posY="1244.110" culture="Culture.mountain_bandits">
+  <Settlement id="reiko_hrodna_riga_hideout" name="{=reiko_hrodna_riga_hideout.name}Hideout" type="Hideout" posX="893.350" posY="1244.110" culture="Culture.mountain_bandits">
     <Components>
-      <Hideout id="hrodna_riga_hideout_comp" map_icon="bandit_hideout_c" scene_name="forest_hideout_003" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_mountain" gate_rotation="0.0" />
+      <Hideout id="reiko_hrodna_riga_hideout_comp" map_icon="bandit_hideout_c" scene_name="forest_hideout_003" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_mountain" gate_rotation="0.0" />
     </Components>
   </Settlement>
 
-  <Settlement id="peremyshl_brest_hideout" name="{=peremyshl_brest_hideout.name}Hideout" type="Hideout" posX="886.865" posY="1158.611" culture="Culture.sea_raiders">
+  <Settlement id="reiko_peremyshl_brest_hideout" name="{=reiko_peremyshl_brest_hideout.name}Hideout" type="Hideout" posX="886.865" posY="1158.611" culture="Culture.sea_raiders">
     <Components>
-      <Hideout id="peremyshl_brest_hideout_comp" map_icon="bandit_hideout_c" scene_name="sea_bandit_a" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_seaside" gate_rotation="0.0" />
+      <Hideout id="reiko_peremyshl_brest_hideout_comp" map_icon="bandit_hideout_c" scene_name="sea_bandit_a" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_seaside" gate_rotation="0.0" />
+    </Components>
+  </Settlement>
+
+  <Settlement id="reiko_varbola_tartu_hideout" name="{=reiko_varbola_tartu_hideout.name}Hideout" type="Hideout" posX="947.770" posY="1336.056" culture="Culture.mountain_bandits">
+    <Components>
+      <Hideout id="reiko_varbola_tartu_hideout_comp" map_icon="bandit_hideout_c" scene_name="forest_hideout_003" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_mountain" gate_rotation="0.0" />
     </Components>
   </Settlement>
 
