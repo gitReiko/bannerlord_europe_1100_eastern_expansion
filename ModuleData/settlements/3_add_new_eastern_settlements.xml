@@ -803,12 +803,12 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_tartu_vil_1" name="{=reiko_tartu_vil_1.name}Erra" posX="963.370" posY="1335.070" culture="Culture.latvian" text="{=reiko_tartu_vil_1.text}Erra">
+  <Settlement id="reiko_tartu_vil_2" name="{=reiko_tartu_vil_2.name}Pääsna" posX="969.077" posY="1308.480" culture="Culture.latvian" text="{=reiko_tartu_vil_2.text}Pääsna">
     <Components>
-      <Village id="reiko_tartu_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="224" gate_rotation="0.008" bound="Settlement.reiko_tartu" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+      <Village id="reiko_tartu_vil_2_comp" village_type="VillageType.lumberjack" hearth="205" gate_rotation="0.758" bound="Settlement.reiko_tartu" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="battania_village_l" />
+      <Location id="village_center" scene_name="sturgia_village_f" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
