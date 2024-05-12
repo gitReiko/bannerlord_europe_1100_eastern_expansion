@@ -34,10 +34,11 @@
     name = Hłubokaje
     culture = kryvich
     hearth = 130
+    bound = reiko_braslau
   -->
   <Settlement id="village_KR5_1" name="{=Settlements.Settlement.ECM.KR.village_KR5_1}Hłubokaje" posX="972.829" posY="1245.521" culture="Culture.kryvich" text="{=ECM_Settlements.Settlement.text.village_KR5_1}Hłubokaje.">
     <Components>
-      <Village id="village_comp_KR5_1" village_type="VillageType.wheat_farm" hearth="130" gate_rotation="0.308" bound="Settlement.town_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR5_1" village_type="VillageType.wheat_farm" hearth="130" gate_rotation="0.308" bound="Settlement.reiko_braslau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_h" />

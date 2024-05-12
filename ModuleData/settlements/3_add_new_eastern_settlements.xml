@@ -63,20 +63,6 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_braslau_vil_1" name="{=reiko_braslau_vil_1.name}Rosica" posX="982.430" posY="1275.110" culture="Culture.kryvich" text="{=reiko_braslau_vil_1.name}Rosica text.">
-    <Components>
-      <Village id="reiko_braslau_vil_1_comp" village_type="VillageType.wheat_farm" hearth="113" gate_rotation="0.408" bound="Settlement.reiko_braslau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
   <Settlement id="reiko_siaule" name="{=reiko_siaule.name}Šaule Castle" owner="Faction.clan_zemaitian_2" posX="878.800" posY="1249.050" culture="Culture.goldenhorde" gate_posX="878.748" gate_posY="1249.504">
     <Components>
       <Town id="reiko_siaule_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="750" />
