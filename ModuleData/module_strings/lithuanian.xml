@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.goldenhorde" text="{=goldenhordefather}Narimant" />
+  <string id="str_player_mother_name.goldenhorde" text="{=goldenhordemother}Darota" />
+  <string id="str_culture_description.goldenhorde" text="{=goldenhordedescription}Ethnic basis of Lithuania was formed in the 5th century from Eastern Lithuanian Burial Mound Culture which is located in present-day eastern Lithuania (Deltuva, Lietuva, Nalšia and Neris) and north-western Belarus (Nalša and Alša). The Žemaitian (Samogitian) ethnos is usually represented as a separate branch of the Lithuanian ethnos. All Žemaitian principalities are located in the territory of modern Lithuania (Karšuva, Knituva, Kulenė, Šaule, Upytė). Around the 7th century, the Lithuanian language separated from the Latvian. From the second half of the 13th century, the Lithuanian state slowly began to dominate the Baltic region. The creation of the state is a response to threats from the Golden Horde, Teutonic Order and Rus. Ethnically, the Lithuanian state has been a Balto-Slavic community since the 13th century and knew at least the Baltic and Ruthenian languages. Multilingualism persisted until about the 20th century and the centralization of the education system. After centralization of the education system, the non-border regions of Lithuania forgot the Ruthenian language, and the Belarusians forgot the Baltic language. After the creation of the Polish-Lithuanian Commonwealth, Lithuanian culture was strongly influenced by Poland. As a result, the Lithuanian nobility switched to the Polish language. In 1918, during World War I, the independent state of Lithuania was proclaimed. Intellectuals began to renaissance ethnic culture. Today Lithuania is an independent state." />
+  <string id="str_faction_ruler_name_with_title.goldenhorde" text="{=goldenhorderulertitle}{?RULER.GENDER}Prince{?}Princess{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.goldenhorde" text="{=goldenhordenobletitle}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_faction_official.goldenhorde" text="{=goldenhordeofficial}a prince" />
+  <string id="str_faction_official.goldenhorde_f" text="{=goldenhordeofficialf}a princess" />
+  <string id="str_faction_ruler.goldenhorde" text="{=goldenhorderuler}Prince" />
+  <string id="str_faction_ruler.goldenhorde_f" text="{=goldenhorderulerf}Princess" />
+  <string id="str_faction_ruler_term_in_speech.goldenhorde" text="{=goldenhorderulerterm}{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.goldenhorde" text="{=goldenhordefactionadjective}Lithuanian" />
+  <string id="str_short_term_for_faction.goldenhorde" text="{=goldenhordefactionshortterm}Lithuania" />
+  <string id="str_faction_formal_name_for_culture.goldenhorde" text="{=goldenhordefactionformalname}The Lithuanian Principality" />
+  <string id="str_faction_informal_name_for_culture.goldenhorde" text="{=goldenhordefactioninformalname}the Lithuanian Principality" />
+  <string id="str_adjective_for_culture.goldenhorde" text="{=goldenhordecultureadjective}Lithuanian" />
+  <string id="str_neutral_term_for_culture.goldenhorde" text="{=goldenhordecultureneutralterm}Lithuania" />
+  <string id="str_culture_rich_name.goldenhorde" text="{=goldenhordemembers}Lithuania" />	
+	
+	</strings>
