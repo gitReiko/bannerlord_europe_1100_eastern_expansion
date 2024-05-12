@@ -828,6 +828,20 @@
     </Locations>
   </Settlement>
 
+  <Settlement id="reiko_tallinn_vil_1" name="{=reiko_tallinn_vil_1.name}Lõhavere" posX="934.398" posY="1322.240" culture="Culture.latvian" text="{=reiko_tallinn_vil_1.text}Lõhavere">
+    <Components>
+      <Village id="reiko_tallinn_vil_1_comp" village_type="VillageType.flax_plant" hearth="176" gate_rotation="0.008" bound="Settlement.reiko_tallinn" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
   <Settlement id="reiko_rezekne" name="{=reiko_rezekne.name}Rėzytė Castle" owner="Faction.clan_latgalian_3" posX="968.315" posY="1289.440" culture="Culture.latvian"  gate_posX="968.130" gate_posY="1288.690">
     <Components>
       <Town id="reiko_rezekne_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="60" />
