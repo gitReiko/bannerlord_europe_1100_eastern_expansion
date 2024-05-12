@@ -522,7 +522,7 @@
     name = Załužža
     culture = kryvich
   -->
-  <Settlement id="castle_village_KR5_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR5_2}Załužža" posX="1023.649" posY="1270.165" culture="Culture.kryvich" text="{=ECM_Settlements.Settlement.text.castle_village_KR5_2}Załužža">
+  <Settlement id="castle_village_KR5_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR5_2}Andrejeva" posX="1023.649" posY="1270.165" culture="Culture.kryvich" text="{=ECM_Settlements.Settlement.text.castle_village_KR5_2}Andrejeva">
     <Components>
       <Village id="castle_village_comp_KR5_2" village_type="VillageType.trapper" hearth="403" gate_rotation="0.008" bound="Settlement.castle_KR5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

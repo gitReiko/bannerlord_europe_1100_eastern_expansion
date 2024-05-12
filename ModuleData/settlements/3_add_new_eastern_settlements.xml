@@ -24,7 +24,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_viciebsk_vil_1" name="{=reiko_viciebsk_vil_1.name}Taranki" posX="1058.245" posY="1260.280" culture="Culture.kryvich" text="{=reiko_viciebsk_vil_1.text}Dvurečča.">
+  <Settlement id="reiko_viciebsk_vil_1" name="{=reiko_viciebsk_vil_1.name}Taranki" posX="1058.245" posY="1260.280" culture="Culture.kryvich" text="{=reiko_viciebsk_vil_1.text}Taranki.">
     <Components>
       <Village id="reiko_viciebsk_vil_1_comp" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.reiko_viciebsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
