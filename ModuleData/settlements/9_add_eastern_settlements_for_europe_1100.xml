@@ -79,9 +79,9 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_tartu_vil_1" name="{=reiko_tartu_vil_1.name}Erra" posX="963.370" posY="1335.070" culture="Culture.latvian" text="{=reiko_tartu_vil_1.text}Erra">
+  <Settlement id="reiko_narva_vil_1" name="{=reiko_narva_vil_1.name}Erra" posX="963.370" posY="1335.070" culture="Culture.latvian" text="{=reiko_narva_vil_1.text}Erra">
     <Components>
-      <Village id="reiko_tartu_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="224" gate_rotation="0.008" bound="Settlement.castle_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+      <Village id="reiko_narva_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="224" gate_rotation="0.008" bound="Settlement.castle_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="battania_village_l" />
