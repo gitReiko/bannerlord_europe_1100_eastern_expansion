@@ -8,11 +8,9 @@
                 occupation="Villager"
                 culture="Culture.latvian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
-    <face>
-      <!--face_key value="0000012000000000000000000001700000000000000000000000000000000000000a160400000000000000000000000000000000000000000000000000f80000" max_value="00118bfa00002914eff88effeefffffbfecfff888ee3feeff7efffcefffffeff000ff7afffffffef000000000000000000000000000000000000000001c88140" /-->
-      <BodyProperties version="4" age="24.03" weight="0.1867" build="0.2423" key="00000400000002412110000001211010010411111010002221111001301101000064300306112000000000000000000000000000000000000000000000D00000" />
-      <BodyPropertiesMax version="4" age="78.04" weight="0.9336" build="0.9244" key="0008F00C40003690FEFEEFFEBBBFFFFFFFFFFF979EF8FFFEFFFFFFEFFFEFFFFE08EEE0890EFFFFFF000000000000000000000000000000000000000077C89105" />
-    </face>
+	<face>
+		<face_key_template value="BodyProperty.fighter_latvian"/>
+	</face>
     <skills></skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.latvian_volunteer" />
