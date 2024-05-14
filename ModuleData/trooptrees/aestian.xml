@@ -10,7 +10,7 @@
 				culture="Culture.aestian"
 				skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
+		<face_key_template value="BodyProperty.fighter_aestian" />
 	</face>
 	<skills></skills>
 	<upgrade_targets>
@@ -151,7 +151,7 @@
 				occupation="CaravanGuard"
 				culture="Culture.aestian">
 	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
+		<face_key_template value="BodyProperty.fighter_aestian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -238,7 +238,7 @@
 				occupation="CaravanGuard"
 				culture="Culture.aestian">
 	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
+		<face_key_template value="BodyProperty.fighter_aestian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -360,7 +360,7 @@
 				occupation="CaravanGuard"
 				culture="Culture.aestian">
 	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
+		<face_key_template value="BodyProperty.fighter_aestian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -497,7 +497,7 @@
 				culture="Culture.aestian"
 				is_basic_troop="true">
 	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
+		<face_key_template value="BodyProperty.fighter_aestian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -605,7 +605,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="20"/>
@@ -672,7 +672,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="45"/>
@@ -753,7 +753,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 		<skill id="Athletics" value="75"/>
@@ -843,7 +843,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="100"/>
@@ -931,7 +931,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="50"/>
@@ -1016,7 +1016,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="100"/>
@@ -1102,7 +1102,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="125"/>
@@ -1186,7 +1186,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="50"/>
@@ -1287,7 +1287,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="60"/>
@@ -1385,7 +1385,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="100"/>
@@ -1476,7 +1476,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.aestian_isand"/>
@@ -1574,7 +1574,7 @@
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.fighter_aestian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="275"/>

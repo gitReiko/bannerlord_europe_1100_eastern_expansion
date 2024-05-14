@@ -9,7 +9,7 @@
     
   -->
 
-  <Settlement id="reiko_riga_vil_3" name="{=reiko_riga_vil_3.name}Carnikava" posX="905.310" posY="1298.400" culture="Culture.latvian" text="{=reiko_riga_vil_3.name}Carnikava text.">
+  <Settlement id="reiko_riga_vil_3" name="{=reiko_riga_vil_3.name}Carnikava" posX="905.310" posY="1298.400" culture="Culture.aestian" text="{=reiko_riga_vil_3.name}Carnikava text.">
     <Components>
       <Village id="reiko_riga_vil_3_comp" village_type="VillageType.fisherman" hearth="153" gate_rotation="0.408" bound="Settlement.town_KR4" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -79,7 +79,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_narva_vil_1" name="{=reiko_narva_vil_1.name}Erra" posX="963.370" posY="1335.070" culture="Culture.latvian" text="{=reiko_narva_vil_1.text}Erra">
+  <Settlement id="reiko_narva_vil_1" name="{=reiko_narva_vil_1.name}Erra" posX="963.370" posY="1335.070" culture="Culture.aestian" text="{=reiko_narva_vil_1.text}Erra">
     <Components>
       <Village id="reiko_narva_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="224" gate_rotation="0.008" bound="Settlement.castle_KR6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>

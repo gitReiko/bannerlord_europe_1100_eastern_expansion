@@ -749,7 +749,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_varbola" name="{=reiko_varbola.name}Varbola" owner="Faction.clan_aestia_4" posX="917.750" posY="1318.770" culture="Culture.latvian" gate_posX="918.470" gate_posY="1317.130" text="{=reiko_varbola.text}Varbola.">
+  <Settlement id="reiko_varbola" name="{=reiko_varbola.name}Varbola" owner="Faction.clan_aestia_4" posX="917.750" posY="1318.770" culture="Culture.aestian" gate_posX="918.470" gate_posY="1317.130" text="{=reiko_varbola.text}Varbola.">
     <Components>
       <Town id="reiko_varbola_comp" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="3500" />
     </Components>
@@ -770,7 +770,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_varbola_vil_1" name="{=reiko_varbola_vil_1.name}Papsaare" posX="903.200" posY="1319.375" culture="Culture.latvian" text="{=reiko_varbola_vil_1.text}Papsaare.">
+  <Settlement id="reiko_varbola_vil_1" name="{=reiko_varbola_vil_1.name}Papsaare" posX="903.200" posY="1319.375" culture="Culture.aestian" text="{=reiko_varbola_vil_1.text}Papsaare.">
     <Components>
       <Village id="reiko_varbola_vil_1_comp" village_type="VillageType.fisherman" hearth="243" gate_rotation="0.308" bound="Settlement.reiko_varbola" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -784,7 +784,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_varbola_vil_2" name="{=reiko_varbola_vil_2.name}Variku" posX="884.370" posY="1332.740" culture="Culture.latvian" text="{=reiko_varbola_vil_2.text}Variku">
+  <Settlement id="reiko_varbola_vil_2" name="{=reiko_varbola_vil_2.name}Variku" posX="884.370" posY="1332.740" culture="Culture.aestian" text="{=reiko_varbola_vil_2.text}Variku">
     <Components>
       <Village id="reiko_varbola_vil_2_comp" village_type="VillageType.trapper" hearth="187" gate_rotation="0.308" bound="Settlement.reiko_varbola" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -798,7 +798,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_tartu" name="{=reiko_tartu.name}Tarbatu Castle" owner="Faction.clan_aestia_2" posX="962.760" posY="1322.540" culture="Culture.latvian"  gate_posX="962.365" gate_posY="1323.210">
+  <Settlement id="reiko_tartu" name="{=reiko_tartu.name}Tarbatu Castle" owner="Faction.clan_aestia_2" posX="962.760" posY="1322.540" culture="Culture.aestian"  gate_posX="962.365" gate_posY="1323.210">
     <Components>
       <Town id="reiko_tartu_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>
@@ -809,7 +809,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_tartu_vil_2" name="{=reiko_tartu_vil_2.name}Pääsna" posX="969.077" posY="1308.480" culture="Culture.latvian" text="{=reiko_tartu_vil_2.text}Pääsna">
+  <Settlement id="reiko_tartu_vil_2" name="{=reiko_tartu_vil_2.name}Pääsna" posX="969.077" posY="1308.480" culture="Culture.aestian" text="{=reiko_tartu_vil_2.text}Pääsna">
     <Components>
       <Village id="reiko_tartu_vil_2_comp" village_type="VillageType.lumberjack" hearth="205" gate_rotation="0.758" bound="Settlement.reiko_tartu" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -823,7 +823,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_tallinn" name="{=reiko_tallinn.name}Iru Castle" owner="Faction.clan_aestia_3" posX="928.840" posY="1338.350" culture="Culture.latvian"  gate_posX="929.160" gate_posY="1336.933">
+  <Settlement id="reiko_tallinn" name="{=reiko_tallinn.name}Iru Castle" owner="Faction.clan_aestia_3" posX="928.840" posY="1338.350" culture="Culture.aestian"  gate_posX="929.160" gate_posY="1336.933">
     <Components>
       <Town id="reiko_tallinn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="430" />
     </Components>
@@ -834,7 +834,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_tallinn_vil_1" name="{=reiko_tallinn_vil_1.name}Lõhavere" posX="934.398" posY="1322.240" culture="Culture.latvian" text="{=reiko_tallinn_vil_1.text}Lõhavere">
+  <Settlement id="reiko_tallinn_vil_1" name="{=reiko_tallinn_vil_1.name}Lõhavere" posX="934.398" posY="1322.240" culture="Culture.aestian" text="{=reiko_tallinn_vil_1.text}Lõhavere">
     <Components>
       <Village id="reiko_tallinn_vil_1_comp" village_type="VillageType.flax_plant" hearth="176" gate_rotation="0.008" bound="Settlement.reiko_tallinn" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>

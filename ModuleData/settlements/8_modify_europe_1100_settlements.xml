@@ -146,12 +146,12 @@
 
   <!-- 
     town_KR4 changes
-    culture = latvian
+    culture = aestian
     prosperity = 700
     owner = clan_baltic_05
     level = 1
   -->
-  <Settlement id="town_KR4" name="{=Settlements.Settlement.ECM.KR.town_KR4}Riga" owner="Faction.clan_baltic_05" posX="903.932" posY="1279.453" culture="Culture.latvian" gate_posX="905.8703" gate_posY="1276.903" text="{=ECM_KR_aTMypBiY}Riga, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
+  <Settlement id="town_KR4" name="{=Settlements.Settlement.ECM.KR.town_KR4}Riga" owner="Faction.clan_baltic_05" posX="903.932" posY="1279.453" culture="Culture.aestian" gate_posX="905.8703" gate_posY="1276.903" text="{=ECM_KR_aTMypBiY}Riga, which sits beneath the Chertyg mountains on the crystal waters of Lake Laconis, has the dubious honor of being perhaps the most-often conquered city in Calradia. Originally it was a colony of the Empire, infamous as a place of exile for dissident senators, before it was seized by Nords as a base to expand their influence into the Sturgian fur trade. It was taken by the Alkit tribe from the eastern steppe and briefly served as the capital of a small khanate, before finally falling to the fierce Ormidoving clan.">
     <Components>
       <Town id="town_comp_KR4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.808" prosperity="700" />
     </Components>
@@ -524,9 +524,9 @@
   <!-- 
     castle_KR6 changes
     owner = clan_aestia_5
-    culture = latvian
+    culture = aestian
   --> 
-  <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_aestia_5" posX="990.765" posY="1333.307" culture="Culture.latvian" gate_posX="991.0739" gate_posY="1335.028">
+  <Settlement id="castle_KR6" name="{=Settlements.Settlement.ECM.KR.castle_KR6}Narva Castle" owner="Faction.clan_aestia_5" posX="990.765" posY="1333.307" culture="Culture.aestian" gate_posX="991.0739" gate_posY="1335.028">
     <Components>
       <Town id="castle_comp_KR6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="680" />
     </Components>
@@ -596,9 +596,9 @@
     castle_village_KR6_1 changes
     name = Harku
     bound = reiko_tallinn
-    culture = latvian
+    culture = aestian
   -->
-  <Settlement id="castle_village_KR6_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR6_1}Harku" posX="921.676" posY="1336.751" culture="Culture.latvian" text="{=ECM_Settlements.Settlement.text.castle_village_KR6_1}Harku.">
+  <Settlement id="castle_village_KR6_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR6_1}Harku" posX="921.676" posY="1336.751" culture="Culture.aestian" text="{=ECM_Settlements.Settlement.text.castle_village_KR6_1}Harku.">
     <Components>
       <Village id="castle_village_comp_KR6_1" village_type="VillageType.cattle_farm" hearth="344" gate_rotation="0.908" bound="Settlement.reiko_tallinn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
