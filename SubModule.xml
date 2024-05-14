@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Module>
-  <Name value="Europe 1100 Eastern Europe Expansion"/>
+  <Name value="Empires of Europe 1100 - Eastern Europe Expansion"/>
   <Id value="Europe1100EasternEuropeExpansion"/>
-  <Version value="v1.2.1.1"/>
+  <Version value="v1.3.0"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <DependedModules>

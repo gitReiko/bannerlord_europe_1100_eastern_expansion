@@ -6,7 +6,7 @@
     <UpdateItem>
         <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\bannerlord_europe_1100_eastern_expansion"/>
         <!-- A direct path of your module -->   
-        <ChangeNotes Value="Eastern Europe Expansion v.1.2.1.1 for Europe 1100 v1.2.9.1" />
+        <ChangeNotes Value="Eastern Europe Expansion v.1.3.0 for Europe 1100 v1.2.9.1" />
         <!-- Insert patch notes -->
         <Tags> 
             <!-- You can use the following tags: -->

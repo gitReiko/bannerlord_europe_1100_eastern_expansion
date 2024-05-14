@@ -3,17 +3,13 @@
 
 !!! Warning. Mod now requires Open Source Armory.
 
-The mod on this page will be updated to match the Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
+The mod on this page will be updated to match the Empires of Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.2.1
+Update 1.3.0
 
 - compatible with Europa 1100 1.2.9.1
-- 1 new Zemgalian kingdom
-- 1 new Latvian culture
-- Baltic kingdom reworked to Prussian
-- added settlement for Estonia, but Estonia is not ready yet (Aesti)
-- reduced settlement density in previously made regions
-- added new settlements for Rus (for further development of fractions)
+- 12 new kingdoms: Latgalia and Aestia
+- 1 new Aestian culture
 - other changes
 
 This mod has two purposes:
@@ -21,17 +17,17 @@ This mod has two purposes:
 1. recreate Eastern Europe for mod Europa 1100
 2. create transferable settlements of Eastern Europe for the Europe Lemmy Map
 
-The action of the expansion takes place in the same timeline of 1090-1005. Submod also tries to be as historical as possible (lack of historical and archaeological materials) and my competence permits.
+Eastern Europe has the same 1090-1005 timeline. Submod also tries to be as historical as possible (lack of historical and archaeological materials and my competence).
 
-What does the mod add at this point:
+At this moment, the mod adds:
 
-- 13 cities, 20 castles, 48 villages
-- 8 kingdoms (Galicia, Jatvingia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Zemgalia)
-- 5 cultures (Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
+- 13 cities, 21 castles, 51 villages
+- 10 kingdoms (Aestia, Galicia, Jatvingia, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
+- 6 cultures (Aestian, Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
 
 My future plans
 
-- add Latgalian and Aestian kingdoms
+- Add historical settlements and clans for Poland, possibly Hungary
 - add Dregovian culture and further creation of Kyivan kingdom
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
@@ -45,7 +41,7 @@ Settlements for other regions
 
 It's possible, but at the moment I plan to focus on Eastern Europe. With a focus on the territory of Belarus, and its neighbors.
 
-ATTENTION!!! The mod is strictly tied to the version of the main mod Europe 1100, and most likely will work only with the version for which it was created.
+ATTENTION!!! The mod is strictly tied to the version of the main mod Empires of Europe 1100, and most likely will work only with the version for which it was created.
 
 Compatibility with Erik's Troops
 
@@ -66,6 +62,6 @@ Load order:
 8. Open Source Saddlery https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 9. Open Source Weaponry https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
 10. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
-11. Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
+11. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
 
-12. Europe 1100 Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
+12. Empires of Europe 1100 - Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
