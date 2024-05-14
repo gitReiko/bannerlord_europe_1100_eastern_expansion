@@ -7,7 +7,7 @@
 				level="1"
 				name="{=villager_aestian.name}Aestian Peasant"
 				occupation="Villager"
-				culture="Culture.kryvich"
+				culture="Culture.aestian"
 				skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 	<face>
 		<face_key_template value="BodyProperty.villager_kryvich" />
@@ -149,7 +149,7 @@
 				level="26"
 				name="{=caravan_master_aestian.name}Aestian Caravan Master"
 				occupation="CaravanGuard"
-				culture="Culture.kryvich">
+				culture="Culture.aestian">
 	<face>
 		<face_key_template value="BodyProperty.villager_kryvich" />
 	</face>
@@ -236,7 +236,7 @@
 				name="{=caravan_guard_aestian.name}Aestian Caravan Guard"
 				upgrade_requires="ItemCategory.horse"
 				occupation="CaravanGuard"
-				culture="Culture.kryvich">
+				culture="Culture.aestian">
 	<face>
 		<face_key_template value="BodyProperty.villager_kryvich" />
 	</face>
@@ -358,7 +358,7 @@
 				level="26"
 				name="{=veteran_caravan_guard_aestian.name}Aestian Veteran Caravan Guard"
 				occupation="CaravanGuard"
-				culture="Culture.kryvich">
+				culture="Culture.aestian">
 	<face>
 		<face_key_template value="BodyProperty.villager_kryvich" />
 	</face>
@@ -494,7 +494,7 @@
 				level="16"
 				name="{=armed_trader_aestian.name}Aestian Armed Trader"
 				occupation="CaravanGuard"
-				culture="Culture.kryvich"
+				culture="Culture.aestian"
 				is_basic_troop="true">
 	<face>
 		<face_key_template value="BodyProperty.villager_kryvich" />
@@ -595,140 +595,15 @@
 		</EquipmentRoster>
 	</Equipments>
 	</NPCCharacter>
-  
-  <!--caravan guard-->
-  
-	<NPCCharacter id="caravan_guard_aestian"
-				default_group="Cavalry"
-				level="21"
-				name="{=caravan_guard_aestian.name}Aestian Caravan Guard"
-				upgrade_requires="ItemCategory.horse"
-				occupation="CaravanGuard"
-				culture="Culture.kryvich">
-	<face>
-		<face_key_template value="BodyProperty.villager_kryvich" />
-	</face>
-	<skills>
-		<skill id="Athletics"
-				value="40" />
-		<skill id="Riding"
-				value="110" />
-		<skill id="OneHanded"
-				value="110" />
-		<skill id="TwoHanded"
-				value="15" />
-		<skill id="Polearm"
-				value="150" />
-		<skill id="Bow"
-				value="40" />
-		<skill id="Crossbow"
-				value="15" />
-		<skill id="Throwing"
-				value="15" />
-	</skills>
-	<upgrade_targets></upgrade_targets>
-	<Equipments>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_1_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.roughhide_cap" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.battania_woodland_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_1_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.nasalhelm_over_mail" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.ragged_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		</EquipmentRoster>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.northern_fur_cap" />
-		<equipment slot="Body"
-					id="Item.decorated_nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.highland_leg_wrappings" />
-		<equipment slot="Gloves"
-					id="Item.highland_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster civilian="true">
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.northern_fur_cap" />
-		<equipment slot="Body"
-					id="Item.decorated_nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.highland_leg_wrappings" />
-		<equipment slot="Gloves"
-					id="Item.highland_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster civilian="true">
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.nasalhelm_over_mail" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.ragged_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		</EquipmentRoster>
-		<equipment slot="Horse"
-					id="Item.sturgia_horse" />
-		<equipment slot="HorseHarness"
-					id="Item.northern_noble_harness" />
-	</Equipments>
-	</NPCCharacter>
 
-	
+
 
 	<NPCCharacter id="aestian_talupoeg"
 		default_group="Infantry"
 		level="6"
 		name="{=aestian_talupoeg.name}Aestian Talupoeg"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -795,7 +670,7 @@
 		level="11"
 		name="{=aestian_armed_talupoeg.name}Aestian Armed Talupoeg"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -876,7 +751,7 @@
 		level="16"
 		name="{=aestian_sodalane.name}Aestian Sõdalane"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -966,7 +841,7 @@
 		level="21"
 		name="{=aestian_sodalane.name}Aestian Seasoned Sõdalane"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1054,7 +929,7 @@
 		level="11"
 		name="{=aestian_kutt.name}Aestian Kütt"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1139,7 +1014,7 @@
 		level="16"
 		name="{=aestian_vibukutt.name}Aestian Vibukütt"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1225,7 +1100,7 @@
 		level="21"
 		name="{=aestian_meisterkutt.name}Aestian Meisterkütt"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1309,7 +1184,7 @@
 		level="16"
 		name="{=aestian_kergratsanik.name}Aestian Kergratsanik"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1410,7 +1285,7 @@
 		level="21"
 		name="{=aestian_sodalane.name}Aestian Kilbikandija"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1508,7 +1383,7 @@
 		level="21"
 		name="{=aestian_sodalane.name}Aestian Ülik"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1599,7 +1474,7 @@
 		level="26"
 		name="{=aestian_older_ulik.name}Aestian Older Ülik"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>
@@ -1697,7 +1572,7 @@
 		level="31"
 		name="{=aestian_isand.name}Aestian Isand"
 		occupation="Soldier"
-		culture="Culture.kryvich">
+		culture="Culture.aestian">
 		<face>
 			<face_key_template value="BodyProperty.villager_kryvich"/>
 		</face>

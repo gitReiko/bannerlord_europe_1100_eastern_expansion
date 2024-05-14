@@ -1,0 +1,300 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<SPCultures>
+  
+  <Culture id="aestian"
+           name="{=aestian.name}Aestian"
+           is_main_culture="true"
+           color="0xff3b6298"
+           color2="0xffffffff"
+           elite_basic_troop="NPCCharacter.aestian_ulik"
+           basic_troop="NPCCharacter.aestian_talupoeg"
+           melee_militia_troop="NPCCharacter.aestian_armed_talupoeg"
+           ranged_militia_troop="NPCCharacter.aestian_kutt"
+           melee_elite_militia_troop="NPCCharacter.aestian_sodalane"
+           ranged_elite_militia_troop="NPCCharacter.aestian_vibukutt"
+           can_have_settlement="true"
+           town_edge_number="16"
+           encounter_background_mesh="encounter_sturgia"
+           faction_banner_key="11.149.19.1836.1836.768.788.1.0.-30.505.48.116.150.150.764.764.0.0.45.505.149.116.70.70.764.764.0.0.45.503.48.116.150.150.764.636.0.0.0.503.149.116.70.70.764.636.0.0.0.514.149.116.67.67.764.649.0.0.0.510.48.116.80.240.782.684.0.0.45.510.48.116.80.240.746.684.0.1.315.503.48.116.150.150.764.892.0.1.180.503.149.116.70.70.764.892.0.1.180.514.149.116.67.67.764.879.0.1.180.510.48.116.80.240.782.844.0.1.135.510.48.116.80.240.746.844.0.0.-135.503.48.116.150.150.637.763.0.1.89.503.149.116.70.70.637.763.0.1.89.514.149.116.67.67.652.763.0.1.89.510.48.116.80.240.686.781.0.1.44.510.48.116.80.240.686.746.0.0.-226.503.48.116.150.150.890.763.0.0.270.503.149.116.70.70.890.763.0.0.270.514.149.116.67.67.876.763.0.0.270.510.48.116.80.240.842.781.0.0.315.510.48.116.80.240.842.745.0.1.225"
+           villager_party_template="PartyTemplate.villager_latvian_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_latvian_template"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_latvian"
+           caravan_party_template="PartyTemplate.caravan_template_latvian"
+           militia_party_template="PartyTemplate.militia_latvian_template"
+           rebels_party_template="PartyTemplate.rebels_latvian_template"
+           vassal_reward_party_template="PartyTemplate.vassal_reward_troops_latvian"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="{=aestian.text}Estonia in the 1100-1200 AD was characterized by a decentralized political landscape. The Estonian people, primarily of Finno-Ugric descent, inhabited a land of dense forests, fertile plains, and a coastline dotted with small ports. The society was organized into various tribes or clans, each led by chieftains or elders. These tribes engaged in agriculture, fishing, and trading activities, forming the backbone of the economy. The Estonians were skilled craftsmen, known for their expertise in metalwork, woodworking, and textile production. Despite their decentralized structure, the Estonian tribes often united under a common cause to defend against external threats. They faced frequent raids from neighboring powers, such as the Swedes, Danes, Russians and Germans, who sought to expand their influence into the Baltic region. By the late 12th century, the influence of Christianity began to permeate Estonia through trade and missionary activities. However, the conversion process was gradual and met with resistance from some pagan factions. Overall, Estonia in the 1100-1200 AD was a land of diverse cultures, where tribal identities intersected with emerging political dynamics, shaping the course of its history."
+           tournament_master="NPCCharacter.tournament_master_latvian"
+           villager="NPCCharacter.villager_aestian"
+           caravan_master="NPCCharacter.caravan_master_aestian"
+           armed_trader="NPCCharacter.armed_trader_aestian"
+           caravan_guard="NPCCharacter.caravan_guard_aestian"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_aestian"
+           duel_preset="NPCCharacter.latvian_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_latvian"
+           guard="NPCCharacter.guard_latvian"
+           blacksmith="NPCCharacter.blacksmith_latvian"
+           weaponsmith="NPCCharacter.weaponsmith_latvian"
+           townswoman="NPCCharacter.townswoman_latvian"
+           townswoman_infant="NPCCharacter.townswoman_infant_latvian"
+           townswoman_child="NPCCharacter.townswoman_child_latvian"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_latvian"
+           townsman="NPCCharacter.townsman_latvian"
+           townsman_infant="NPCCharacter.townsman_infant_latvian"
+           townsman_child="NPCCharacter.townsman_child_latvian"
+           townsman_teenager="NPCCharacter.townsman_teenager_latvian"
+           village_woman="NPCCharacter.village_woman_latvian"
+           villager_male_child="NPCCharacter.villager_child_latvian"
+           villager_male_teenager="NPCCharacter.villager_teenager_latvian"
+           villager_female_child="NPCCharacter.village_woman_child_latvian"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_latvian"
+           ransom_broker="NPCCharacter.ransom_broker_latvian"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_latvian"
+           merchant_notary="NPCCharacter.merchant_notary_latvian"
+           artisan_notary="NPCCharacter.artisan_notary_latvian"
+           preacher_notary="NPCCharacter.preacher_notary_latvian"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_latvian"
+           shop_worker="NPCCharacter.shop_worker_latvian"
+           tavernkeeper="NPCCharacter.tavernkeeper_latvian"
+           taverngamehost="NPCCharacter.taverngamehost_latvian"
+           musician="NPCCharacter.musician_latvian"
+           tavern_wench="NPCCharacter.tavern_wench_latvian"
+           armorer="NPCCharacter.armorer_latvian"
+           horseMerchant="NPCCharacter.horseMerchant_latvian"
+           barber="NPCCharacter.barber_latvian"
+           merchant="NPCCharacter.merchant_latvian"
+           beggar="NPCCharacter.beggar_latvian"
+           female_beggar="NPCCharacter.female_beggar_latvian"
+           female_dancer="NPCCharacter.female_dancer_latvian"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_latvian"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_latvian"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_latvian"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_latvian"
+           gear_dummy="NPCCharacter.gear_dummy_latvian"
+           board_game_type="Konane">
+    <vassal_reward_items>
+      <item id="Item.avalanche_2haxe" />
+    </vassal_reward_items>
+    <banner_bearer_replacement_weapons>
+      <item id="Item.sturgia_sword_1_t2" />
+      <item id="Item.sturgia_sword_2_t3" />
+      <item id="Item.sturgia_sword_4_t4" />
+      <item id="Item.sturgia_sword_5_t5" />
+    </banner_bearer_replacement_weapons>
+    <default_policies>
+      <policy id="policy_sacred_majesty" />
+    </default_policies>
+    <male_names>
+      <name name="{=aestian_male_1}Ahas" />
+      <name name="{=aestian_male_2}Aht" />
+      <name name="{=aestian_male_3}Aim" />
+      <name name="{=aestian_male_4}Ain" />
+      <name name="{=aestian_male_5}Alo" />
+      <name name="{=aestian_male_6}Aopelg" />
+      <name name="{=aestian_male_7}Aotõiv" />
+      <name name="{=aestian_male_8}Hallik" />
+      <name name="{=aestian_male_9}Heameel" />
+      <name name="{=aestian_male_10}Heatõiv" />
+      <name name="{=aestian_male_11}Helmetõiv" />
+      <name name="{=aestian_male_12}Hoovatõiv" />
+      <name name="{=aestian_male_13}Igalemb" />
+      <name name="{=aestian_male_14}Ihavald" />
+      <name name="{=aestian_male_15}Ilmar" />
+      <name name="{=aestian_male_16}Kahru" />
+      <name name="{=aestian_male_17}Kalju" />
+      <name name="{=aestian_male_18}Kaljuvald" />
+      <name name="{=aestian_male_19}Kaomeel" />
+      <name name="{=aestian_male_20}Kaur" />
+      <name name="{=aestian_male_21}Kirn" />
+      <name name="{=aestian_male_22}Koit" />
+      <name name="{=aestian_male_23}Kuma" />
+      <name name="{=aestian_male_24}Lehis" />
+      <name name="{=aestian_male_25}Lembit" />
+      <name name="{=aestian_male_26}Lible" />
+      <name name="{=aestian_male_27}Loit" />
+      <name name="{=aestian_male_28}Manivald" />
+      <name name="{=aestian_male_29}Maru" />
+      <name name="{=aestian_male_30}Ohetõiv" />
+      <name name="{=aestian_male_31}Pikne" />
+      <name name="{=aestian_male_32}Raho" />
+      <name name="{=aestian_male_33}Raju" />
+      <name name="{=aestian_male_34}Susi" />
+      <name name="{=aestian_male_35}Sutemeel" />
+      <name name="{=aestian_male_36}Tabaja" />
+      <name name="{=aestian_male_37}Sälg" />
+      <name name="{=aestian_male_38}Tart" />
+      <name name="{=aestian_male_39}Tasuja" />
+      <name name="{=aestian_male_40}Toom" />
+      <name name="{=aestian_male_41}Tuglas" />
+      <name name="{=aestian_male_42}Tõeleid" />
+      <name name="{=aestian_male_43}Tõiv" />
+      <name name="{=aestian_male_44}Tõnn" />
+      <name name="{=aestian_male_45}Töll" />
+      <name name="{=aestian_male_46}Uku" />
+      <name name="{=aestian_male_47}Vapper" />
+      <name name="{=aestian_male_48}Veli" />
+      <name name="{=aestian_male_49}Vello" />
+      <name name="{=aestian_male_50}Vihavald" />
+      <name name="{=aestian_male_51}Viidik" />
+      <name name="{=aestian_male_52}Õigemeel" />
+    </male_names>
+    <female_names>
+      <name name="{=aestian_female_1}Ait" />
+      <name name="{=aestian_female_2}Allik" />
+      <name name="{=aestian_female_3}Arm" />
+      <name name="{=aestian_female_4}Armas" />
+      <name name="{=aestian_female_5}Ebe" />
+      <name name="{=aestian_female_6}Eha" />
+      <name name="{=aestian_female_7}Haab" />
+      <name name="{=aestian_female_8}Hea" />
+      <name name="{=aestian_female_9}Helemeel" />
+      <name name="{=aestian_female_10}Heli" />
+      <name name="{=aestian_female_11}Hõbe" />
+      <name name="{=aestian_female_12}Hämar" />
+      <name name="{=aestian_female_13}Ida" />
+      <name name="{=aestian_female_14}Ilp" />
+      <name name="{=aestian_female_15}Ilus" />
+      <name name="{=aestian_female_16}Imme" />
+      <name name="{=aestian_female_17}Jumi" />
+      <name name="{=aestian_female_18}Jumikas" />
+      <name name="{=aestian_female_19}Kail" />
+      <name name="{=aestian_female_20}Kaja" />
+      <name name="{=aestian_female_21}Kessu" />
+      <name name="{=aestian_female_22}Kõlav" />
+      <name name="{=aestian_female_23}Kähr" />
+      <name name="{=aestian_female_24}Lagle" />
+      <name name="{=aestian_female_25}Laine" />
+      <name name="{=aestian_female_26}Laul" />
+      <name name="{=aestian_female_27}Lee" />
+      <name name="{=aestian_female_28}Lemm" />
+      <name name="{=aestian_female_29}Lättelemb" />
+      <name name="{=aestian_female_30}Neitsit" />
+      <name name="{=aestian_female_31}Ninn" />
+      <name name="{=aestian_female_32}Otelemb" />
+      <name name="{=aestian_female_33}Pisike" />
+      <name name="{=aestian_female_34}Päevalemb" />
+      <name name="{=aestian_female_35}Rõõmus" />
+      <name name="{=aestian_female_36}Salme" />
+      <name name="{=aestian_female_37}Suvi" />
+      <name name="{=aestian_female_38}Sõmer" />
+      <name name="{=aestian_female_39}Sõstar" />
+      <name name="{=aestian_female_40}Säde" />
+      <name name="{=aestian_female_41}Teder" />
+      <name name="{=aestian_female_42}Tiiu" />
+      <name name="{=aestian_female_43}Tõivulemb" />
+      <name name="{=aestian_female_44}Ude" />
+      <name name="{=aestian_female_45}Undse" />
+      <name name="{=aestian_female_46}Uure" />
+      <name name="{=aestian_female_47}Varjelemb" />
+      <name name="{=aestian_female_48}Vililemb" />
+      <name name="{=aestian_female_49}Virmaline" />
+      <name name="{=aestian_female_50}Virve" />
+      <name name="{=aestian_female_51}Õis" />
+      <name name="{=aestian_female_52}Öö" />
+      <name name="{=aestian_female_53}Äke" />
+    </female_names>
+    <clan_names>
+      <name name="{=aestian_clan_1}Järva" />
+      <name name="{=aestian_clan_2}Rotalia" />
+      <name name="{=aestian_clan_3}Vaiga" />
+      <name name="{=aestian_clan_4}Nurmekund" />
+      <name name="{=aestian_clan_5}Alempois" />
+      <name name="{=aestian_clan_6}Mõhu" />
+      <name name="{=aestian_clan_7}Tamm" />
+      <name name="{=aestian_clan_8}Põld" />
+      <name name="{=aestian_clan_9}Sepp" />
+      <name name="{=aestian_clan_10}Talu" />
+      <name name="{=aestian_clan_11}Ääre" />
+      <name name="{=aestian_clan_12}Kask" />
+      <name name="{=aestian_clan_13}Rebane" />
+      <name name="{=aestian_clan_14}Oda" />
+      <name name="{=aestian_clan_15}Veere" />
+    </clan_names>
+    <cultural_feats>
+<feat id="sturgian_cheaper_recruits_infantry" />
+<feat id="battanian_forest_speed" />
+    </cultural_feats>
+    <possible_clan_banner_icon_ids>
+      <icon id="112" />
+      <icon id="113" />
+      <icon id="114" />
+      <icon id="115" />
+      <icon id="116" />
+      <icon id="117" />
+      <icon id="118" />
+      <icon id="132" />
+      <icon id="138" />
+      <icon id="139" />
+      <icon id="307" />
+      <icon id="331" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="409" />
+      <icon id="410" />
+      <icon id="439" />
+      <icon id="440" />
+      <icon id="441" />
+      <icon id="442" />
+      <icon id="443" />
+      <icon id="444" />
+      <icon id="445" />
+    </possible_clan_banner_icon_ids>
+    <notable_and_wanderer_templates>
+      <template name="NPCCharacter.spc_wanderer_latvian_0" />
+      <template name="NPCCharacter.spc_wanderer_latvian_1" />
+      <template name="NPCCharacter.spc_wanderer_latvian_2" />
+      <template name="NPCCharacter.spc_wanderer_latvian_3" />
+      <template name="NPCCharacter.spc_wanderer_latvian_4" />
+      <template name="NPCCharacter.spc_wanderer_latvian_5" />
+      <template name="NPCCharacter.spc_wanderer_latvian_6" />
+      <template name="NPCCharacter.spc_wanderer_latvian_7" />
+      <template name="NPCCharacter.spc_wanderer_latvian_8" />
+      <template name="NPCCharacter.spc_wanderer_latvian_9" />
+      <template name="NPCCharacter.spc_notable_latvian_merch1" />
+      <template name="NPCCharacter.spc_notable_latvian_merch2" />
+      <template name="NPCCharacter.spc_notable_latvian_merch3" />
+      <template name="NPCCharacter.spc_notable_latvian_merch4" />
+      <template name="NPCCharacter.spc_notable_latvian_merch5" />
+      <template name="NPCCharacter.spc_notable_latvian_1" />
+      <template name="NPCCharacter.spc_notable_latvian_1b" />
+      <template name="NPCCharacter.spc_notable_latvian_2" />
+      <template name="NPCCharacter.spc_notable_latvian_3" />
+      <template name="NPCCharacter.spc_latvian_gangleader_1" />
+      <template name="NPCCharacter.spc_latvian_gangleader_2" />
+      <template name="NPCCharacter.spc_latvian_gangleader_3" />
+      <template name="NPCCharacter.spc_notable_latvian_artisan_1" />
+      <template name="NPCCharacter.spc_notable_latvian_artisan_2" />
+      <template name="NPCCharacter.spc_notable_latvian_rural_1" />
+      <template name="NPCCharacter.spc_notable_latvian_rural_2" />
+      <template name="NPCCharacter.spc_latvian_headman_1" />
+      <template name="NPCCharacter.spc_latvian_headman_2" />
+      <template name="NPCCharacter.spc_latvian_headman_3" />
+    </notable_and_wanderer_templates>
+    <lord_templates>
+      <template name="NPCCharacter.kryvian_rebel_lord" />
+    </lord_templates>
+    <rebellion_hero_templates>
+      <template name="NPCCharacter.kryvian_rebel_lord" />
+    </rebellion_hero_templates>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+    <basic_mercenary_troops>
+      <template name="NPCCharacter.nordic_huscarl" />
+      <template name="NPCCharacter.latvian_volunteer" />
+    </basic_mercenary_troops>
+  </Culture>
+  
+</SPCultures> 

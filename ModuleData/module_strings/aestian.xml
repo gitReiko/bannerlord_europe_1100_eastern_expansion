@@ -1,0 +1,22 @@
+<strings>
+
+
+  <string id="str_player_father_name.aestian" text="{=aestianfather}Vello" />
+  <string id="str_player_mother_name.aestian" text="{=aestianmother}Lättelemb" />
+  <string id="str_culture_description.aestian" text="{=aestiandescription}Estonia in the 1100-1200 AD was characterized by a decentralized political landscape. The Estonian people, primarily of Finno-Ugric descent, inhabited a land of dense forests, fertile plains, and a coastline dotted with small ports. The society was organized into various tribes or clans, each led by chieftains or elders. These tribes engaged in agriculture, fishing, and trading activities, forming the backbone of the economy. The Estonians were skilled craftsmen, known for their expertise in metalwork, woodworking, and textile production. Despite their decentralized structure, the Estonian tribes often united under a common cause to defend against external threats. They faced frequent raids from neighboring powers, such as the Swedes, Danes, Russians and Germans, who sought to expand their influence into the Baltic region. By the late 12th century, the influence of Christianity began to permeate Estonia through trade and missionary activities. However, the conversion process was gradual and met with resistance from some pagan factions. Overall, Estonia in the 1100-1200 AD was a land of diverse cultures, where tribal identities intersected with emerging political dynamics, shaping the course of its history." />
+  <string id="str_faction_ruler_name_with_title.aestian" text="{=aestianrulertitle}{?RULER.GENDER}High Chieftess{?}High Chieftan{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.aestian" text="{=aestiannobletitle}{?RULER.GENDER}Chieftess{?}Chieftan{\?} {RULER.NAME}" />
+  <string id="str_faction_official.aestian" text="{=aestianofficial}chieftan" />
+  <string id="str_faction_official.aestian_f" text="{=aestianofficialf}chieftess" />
+  <string id="str_faction_ruler.aestian" text="{=aestianruler}High Chieftan" />
+  <string id="str_faction_ruler.aestian_f" text="{=aestianrulerf}High Chieftess" />
+  <string id="str_faction_ruler_term_in_speech.aestian" text="{=aestianrulerterm}{?RULER.GENDER}High Chieftess{?}High Chieftan{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.aestian" text="{=aestianfactionadjective}Aestian" />
+  <string id="str_short_term_for_faction.aestian" text="{=aestianfactionshortterm}Aestia" />
+  <string id="str_faction_formal_name_for_culture.aestian" text="{=aestianfactionformalname}The Aestian Principality" />
+  <string id="str_faction_informal_name_for_culture.aestian" text="{=aestianfactioninformalname}the Aestian Principality" />
+  <string id="str_adjective_for_culture.aestian" text="{=aestiancultureadjective}Aestian" />
+  <string id="str_neutral_term_for_culture.aestian" text="{=aestiancultureneutralterm}Aestia" />
+  <string id="str_culture_rich_name.aestian" text="{=aestianmembers}Aestia" />	
+	
+</strings>

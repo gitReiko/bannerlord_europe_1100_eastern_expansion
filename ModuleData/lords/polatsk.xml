@@ -2,7 +2,7 @@
 
 <NPCCharacters> 
   
-    <!-- Polotsk -->
+    <!-- Polatsk -->
 
     <NPCCharacter id="lord_polotsk_1a"
                 name="{=lord_polotsk_1a.name}Usiasłaŭ II the Seer"

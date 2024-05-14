@@ -8,7 +8,7 @@
                 age="67"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -56,7 +56,7 @@
                 age="59"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -103,7 +103,7 @@
                 age="29"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -151,7 +151,7 @@
                 age="25"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -197,7 +197,7 @@
                 age="37"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -245,7 +245,7 @@
                 age="39"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -290,7 +290,7 @@
                 age="35"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -338,7 +338,7 @@
                 age="33"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -386,7 +386,7 @@
                 age="56"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -434,7 +434,7 @@
                 age="53"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -479,7 +479,7 @@
                 age="23"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -527,7 +527,7 @@
                 age="21"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -571,7 +571,7 @@
                 age="31"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -619,7 +619,7 @@
                 age="28"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>

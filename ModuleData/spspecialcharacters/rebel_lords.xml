@@ -5,7 +5,7 @@
 				name="{=jatvingian_rebel_lord.name}of the Jatvingian" 
 				voice="ironic" 
 				is_template="true" 
-				default_group="Cavalry" 
+				default_group="Infantry" 
 				is_hero="false" 
 				culture="Culture.jatvingian" 
 				occupation="Lord">
@@ -50,6 +50,32 @@
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
       <EquipmentSet id="kryvich_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="latvian_rebel_lord" 
+				name="{=latvian_rebel_lord.name}of the Latvians" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.latvian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_latvian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="latvian_lord" />
+      <EquipmentSet id="latvian_lord" civilian="true" />
     </Equipments>
   </NPCCharacter>
 
