@@ -38,7 +38,7 @@
                 default_group="Infantry"
                 is_female="true"
                 level="1"
-                name="{=townswoman_aestian.name}Kryvian Townswoman"
+                name="{=townswoman_aestian.name}Aestian Townswoman"
                 occupation="Townsfolk"
                 culture="Culture.aestian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
