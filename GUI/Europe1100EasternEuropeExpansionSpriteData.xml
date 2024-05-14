@@ -5,13 +5,13 @@
       <Name>ui_CulturesExpansion</Name>
       <AlwaysLoad />
       <SpriteSheetCount>1</SpriteSheetCount>
-      <SpriteSheetSize ID="1" Width="4096" Height="1024" />
+      <SpriteSheetSize ID="1" Width="4096" Height="2048" />
     </SpriteCategory>
   </SpriteCategories>
   <SpriteParts>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>jatvingian</Name>
+      <Name>aestian</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>4</SheetX>
@@ -20,7 +20,7 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>kryvich</Name>
+      <Name>goldenhorde</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>385</SheetX>
@@ -29,7 +29,7 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>volhynian</Name>
+      <Name>jatvingian</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>766</SheetX>
@@ -38,7 +38,7 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>CharacterCreation\Culture\jatvingian</Name>
+      <Name>kryvich</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>1147</SheetX>
@@ -47,7 +47,7 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>CharacterCreation\Culture\kryvich</Name>
+      <Name>latvian</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>1528</SheetX>
@@ -56,15 +56,77 @@
     </SpritePart>
     <SpritePart>
       <SheetID>1</SheetID>
-      <Name>CharacterCreation\Culture\volhynian</Name>
+      <Name>volhynian</Name>
       <Width>373</Width>
       <Height>665</Height>
       <SheetX>1909</SheetX>
       <SheetY>4</SheetY>
       <CategoryName>ui_CulturesExpansion</CategoryName>
     </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\aestian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>2290</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\goldenhorde</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>2671</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\jatvingian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>3052</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\kryvich</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>3433</SheetX>
+      <SheetY>4</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\latvian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>4</SheetX>
+      <SheetY>677</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
+    <SpritePart>
+      <SheetID>1</SheetID>
+      <Name>CharacterCreation\Culture\volhynian</Name>
+      <Width>373</Width>
+      <Height>665</Height>
+      <SheetX>385</SheetX>
+      <SheetY>677</SheetY>
+      <CategoryName>ui_CulturesExpansion</CategoryName>
+    </SpritePart>
   </SpriteParts>
   <Sprites>
+    <GenericSprite>
+      <Name>aestian</Name>
+      <SpritePartName>aestian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>goldenhorde</Name>
+      <SpritePartName>goldenhorde</SpritePartName>
+    </GenericSprite>
     <GenericSprite>
       <Name>jatvingian</Name>
       <SpritePartName>jatvingian</SpritePartName>
@@ -74,8 +136,20 @@
       <SpritePartName>kryvich</SpritePartName>
     </GenericSprite>
     <GenericSprite>
+      <Name>latvian</Name>
+      <SpritePartName>latvian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
       <Name>volhynian</Name>
       <SpritePartName>volhynian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\aestian</Name>
+      <SpritePartName>CharacterCreation\Culture\aestian</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\goldenhorde</Name>
+      <SpritePartName>CharacterCreation\Culture\goldenhorde</SpritePartName>
     </GenericSprite>
     <GenericSprite>
       <Name>CharacterCreation\Culture\jatvingian</Name>
@@ -84,6 +158,10 @@
     <GenericSprite>
       <Name>CharacterCreation\Culture\kryvich</Name>
       <SpritePartName>CharacterCreation\Culture\kryvich</SpritePartName>
+    </GenericSprite>
+    <GenericSprite>
+      <Name>CharacterCreation\Culture\latvian</Name>
+      <SpritePartName>CharacterCreation\Culture\latvian</SpritePartName>
     </GenericSprite>
     <GenericSprite>
       <Name>CharacterCreation\Culture\volhynian</Name>
