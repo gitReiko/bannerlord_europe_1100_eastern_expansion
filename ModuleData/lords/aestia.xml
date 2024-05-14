@@ -44,8 +44,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_king" />
-        <EquipmentSet id="latvian_king"
+        <EquipmentSet id="aestian_king" />
+        <EquipmentSet id="aestian_king"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -91,8 +91,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -139,8 +139,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -185,8 +185,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -233,8 +233,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -278,8 +278,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -326,8 +326,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -374,8 +374,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -422,8 +422,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -467,8 +467,8 @@
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -515,8 +515,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -559,8 +559,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -607,8 +607,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -655,8 +655,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-        <EquipmentSet id="latvian_lord" />
-        <EquipmentSet id="latvian_lord"
+        <EquipmentSet id="aestian_lord" />
+        <EquipmentSet id="aestian_lord"
                         civilian="true" />
     </Equipments>
     </NPCCharacter>

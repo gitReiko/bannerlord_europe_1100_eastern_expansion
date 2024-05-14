@@ -1045,7 +1045,7 @@
                 age="33"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1080,8 +1080,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lord" />
-      <EquipmentSet id="latvian_lord"
+      <EquipmentSet id="aestian_lord" />
+      <EquipmentSet id="aestian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1092,7 +1092,7 @@
                 age="26"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1123,8 +1123,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1135,7 +1135,7 @@
                 age="27"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1170,8 +1170,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lord" />
-      <EquipmentSet id="latvian_lord"
+      <EquipmentSet id="aestian_lord" />
+      <EquipmentSet id="aestian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1182,7 +1182,7 @@
                 age="9"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1213,8 +1213,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="aestian_lady" />
+      <EquipmentSet id="aestian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -1225,7 +1225,7 @@
                 age="4"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.aestian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1259,8 +1259,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lord" />
-      <EquipmentSet id="latvian_lord"
+      <EquipmentSet id="aestian_lord" />
+      <EquipmentSet id="aestian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

@@ -1,6 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 
+  <NPCCharacter id="aestian_rebel_lord" 
+				name="{=aestian_rebel_lord.name}of the Aestian" 
+				voice="ironic" 
+				is_template="true" 
+				default_group="Infantry" 
+				is_hero="false" 
+				culture="Culture.aestian" 
+				occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_aestian" />
+    </face>
+
+    <skills></skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Commander" value="14" />
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="KnightFightingSkills" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="aestian_lord" />
+      <EquipmentSet id="aestian_lord" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
   <NPCCharacter id="jatvingian_rebel_lord" 
 				name="{=jatvingian_rebel_lord.name}of the Jatvingian" 
 				voice="ironic" 
