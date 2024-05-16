@@ -686,6 +686,26 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    from file 7_add_europe_1100_new_settlements.xml
+
+    castle_village_K4_1 changes
+    name = Krzeszów
+    bound = reiko_sandomierz
+  -->
+  <Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.ECM.castle_village_K4_1}Krzeszów" posX="817.77" posY="1130.701" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K4_1}Krzeszów">
+    <Components>
+      <Village id="castle_village_comp_K4_1" village_type="VillageType.lumberjack" hearth="465" gate_rotation="0.508" bound="Settlement.reiko_sandomierz" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
 
  
 </Settlements>
