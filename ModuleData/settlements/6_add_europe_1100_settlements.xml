@@ -4958,29 +4958,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_K3" name="{=Settlements.Settlement.ECM.castle_K3}Będzin Castle" owner="Faction.clan_poland_5" posX="720.345" posY="1125.011" culture="Culture.polish" gate_posX="720.8953" gate_posY="1123.289">
-   <Components>
-      <Town id="castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
-  <Settlement id="castle_village_K3_1" name="{=Settlements.Settlement.ECM.castle_village_K3_1}Bielsko" posX="714.91" posY="1098.756" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K3_1}The village of Hakkun is perched atop the escarpment of the Akkan hills. The people of these parts have long mined silver from the mountains, a trade that the Khuzait khans were happy to encourage when they conquered this region.">
-    <Components>
-      <Village id="castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
 
   <!--
   <Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.ECM.castle_village_K4_1}Lublin" posX="817.77" posY="1130.701" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_K4_1}Tepes sits overlooking a tributary of the Karakaz, a river that flows from the north into Lake Tanaz, which the Empire calls Tanaesis. This district specializes in the harvest of timber which is floated down the river and sold to the lake towns.">
@@ -5264,80 +5242,10 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K3_2" name="{=Settlements.Settlement.ECM.castle_village_K3_2}Selinan" posX="741.249" posY="1097.742" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K2_4}Kiraz lies in a basin at the southern end of the Devseg plateau. Until recently, this land was dominated by nomads, and the people here still make their living by raising sheep.">
-    <Components>
-      <Village id="castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+
   <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
   <!-- swamp city, Atil -->
-  <Settlement id="town_K3" name="{=Settlements.Settlement.ECM.town_K3}Wroclaw" owner="Faction.clan_poland_3" posX="669.959" posY="1145.798" culture="Culture.polish" gate_posX="670.4426" gate_posY="1149.438" text="{=ECM_bPDqyqkb}Wroclaw sits on the northern tip of Lake Tanaesis, Tanaz in the steppe tongue. Here, it guards the cataract over which the Karakaz river empties into the lake. This city has long been ruled by petty khans and shahs, who collect tolls from traders forced to haul their boats around the rapids. The last of those rulers was beheaded by Urkhun himself after he refused a demand of tribute, after which the ruling family of the Khuzaits seized this town for themselves.">
-    <Components>
-      <Town id="town_comp_K3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" prosperity="3700" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
-      <Location id="arena" scene_name="arena_vlandia_a" />
-      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
-      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="vlandia_dungeon_a" />
-      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
-      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
-      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
-      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
-      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_K3_1" name="{=Settlements.Settlement.ECM.village_K3_1}Opole" posX="668.431" posY="1162.363" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K3_1}Shapeshte sits where the waters of the Zakhan river meet the Karakaz. The village makes its living from mining nearby salt deposits.">
-    <Components>
-      <Village id="village_comp_K3_1" village_type="VillageType.salt_mine" hearth="212" gate_rotation="0.008" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_c" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_K3_2" name="{=Settlements.Settlement.ECM.village_K3_2}Gliwice" posX="698.738" posY="1137.105" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K3_2}Hanekhy sits atop a northern spur of the Akkan hills. The reddish streaks in the soil and rocks testify to rich iron deposits, which are mined by the villagers.">
-    <Components>
-      <Village id="village_comp_K3_2" village_type="VillageType.iron_mine" hearth="139" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_b" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_K3_3" name="{=Settlements.Settlement.ECM.village_K3_3}Częstochowa" posX="723.248" posY="1149.501" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K3_3}The fishing village of Mazen sits on the northern end of Lake Tanaesis, which the Khuzaits call the Tanaz sea. The villagers set nets in the nearby Karakaz river to catch a variety of fish migrating to and from the lake.">
-    <Components>
-      <Village id="village_comp_K3_3" village_type="VillageType.fisherman" hearth="178" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_a" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
 
 
@@ -5429,66 +5337,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_K6" name="{=Settlements.Settlement.ECM.town_K6}Kraków" owner="Faction.clan_poland_1" posX="758.574" posY="1117.888" culture="Culture.polish" gate_posX="761.5339" gate_posY="1115.937" text="{=ECM_ygJkPxyc}The town of Kraków sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">
-   <Components>
-      <Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" prosperity="1700" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.town_complex">
-      <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
-      <Location id="arena" scene_name="arena_vlandia_a" />
-      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
-      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="vlandia_dungeon_a" />
-      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
-      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
-      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
-      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
-      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
-    </CommonAreas>
-  </Settlement>
- 
-  <Settlement id="village_K6_1" name="{=Settlements.Settlement.ECM.village_K6_1}Lučenec" posX="759.382" posY="1073.826" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_1}Karahan lies in in the foothills of the Kohi Rohini, the mountains of the dawn. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
-    <Components>
-      <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_e" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_K6_2" name="{=Settlements.Settlement.ECM.village_K6_2}Przemyśl" posX="803.968" posY="1096.869" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_2}Nutyuk sits beneath the outcrop known by its Darshi name, the Kohi Rohini, the mountains of the dawn. The villagers here, mostly recently settled nomads, raise sheep like their ancestors.">
-    <Components>
-      <Village id="village_comp_K6_2" village_type="VillageType.wheat_farm" hearth="168" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_f" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="village_K6_3" name="{=Settlements.Settlement.ECM.village_K6_3}Kamienica" posX="768.919" posY="1101.96" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_3}Danara sits by the salt lake that the Khuzaits know as Tsanga Nor, the pool that quenches no thirst. The villagers of these parts extract salt from the bitter waters.">
-    <Components>
-      <Village id="village_comp_K6_3" village_type="VillageType.salt_mine" hearth="272" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_a" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <Settlement id="castle_village_K7_2" name="{=Settlements.Settlement.ECM.castle_village_K7_2}Debrecen" posX="772.287" posY="1048.183" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_4}Kohi Ajik lies in a narrow, dry valley at the foot of the so-called Lover's Mountain, from which its name derives. The peoples of this land buy horses from the nomads to their east and sell them to the Khuzait aristocracy in the towns.">
     <Components>
       <Village id="castle_village_comp_K7_2" village_type="VillageType.steppe_horse_ranch" hearth="230" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
