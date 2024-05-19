@@ -739,7 +739,7 @@
   -->
   <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.ECM.castle_village_EN1_1}Drzeń" posX="687.288" posY="1187.996" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_EN1_1}Drzeń">
     <Components>
-      <Village id="castle_village_comp_EN1_1" village_type="VillageType.silk_plant" hearth="322" gate_rotation="0.008" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="castle_village_comp_EN1_1" village_type="VillageType.clay_mine" hearth="322" gate_rotation="0.008" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_003" max_prosperity="70" />
@@ -793,11 +793,12 @@
 
   <!-- 
     village_EN1_1 changes
-    bound = Nakło
+    name = Nakło
+    bound = castle_EN1
   -->
   <Settlement id="village_EN1_1" name="{=Settlements.Settlement.ECM.village_EN1_1}Nakło" posX="706.855" posY="1196.551" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_1}Nakło">
     <Components>
-      <Village id="village_comp_EN1_1" village_type="VillageType.iron_mine" hearth="322" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="village_comp_EN1_1" village_type="VillageType.iron_mine" hearth="322" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_e" />
@@ -813,9 +814,9 @@
     village_EN1_2 changes
     bound = reiko_stargard
   -->
-  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.ECM.village_EN1_2}Kamien" posX="678.664" posY="1208.558" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_2}The town's history dates back to a fishermen's settlement from the 10th and 11th centuries. The region became part of Poland soon after the creation of the state in the 10th century. As a result of the 12th-century fragmentation of Poland, it became part of the separate Duchy of Pomerania.">
+  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.ECM.village_EN1_2}Kołobrzeg" posX="678.664" posY="1208.558" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_2}The town's history dates back to a fishermen's settlement from the 10th and 11th centuries. The region became part of Poland soon after the creation of the state in the 10th century. As a result of the 12th-century fragmentation of Poland, it became part of the separate Duchy of Pomerania.">
     <Components>
-      <Village id="village_comp_EN1_2" village_type="VillageType.lumberjack" hearth="125" bound="Settlement.reiko_stargard" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="village_comp_EN1_2" village_type="VillageType.lumberjack" hearth="175" bound="Settlement.reiko_stargard" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_k" />

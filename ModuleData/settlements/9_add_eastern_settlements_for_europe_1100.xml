@@ -106,5 +106,20 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+
+  <Settlement id="reiko_gdansk_vil_1" name="{=reiko_gdansk_vil_1.name}Starogard" posX="724.994" posY="1211.729" culture="Culture.polish" text="{=reiko_gdansk_vil_1.text}Starogard">
+    <Components>
+      <Village id="reiko_gdansk_vil_1_comp" village_type="VillageType.cattle_farm" hearth="201" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
  
 </Settlements>
