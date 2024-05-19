@@ -732,8 +732,12 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  
-  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.ECM.castle_village_EN1_1}Gniezno" posX="687.288" posY="1187.996" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_EN1_1}There are archaeological traces of human settlement since the late Paleolithic. Early Slavonic settlements on Lech Hill and Maiden Hill are dated to the 8th century. At the beginning of the 10th century this was the site of several places sacred to the Slavic religion. The ducal stronghold was founded just before 940 on Lech Hill, and surrounded by some fortified suburbs and open settlements.">
+
+  <!-- 
+    castle_village_EN1_1 changes
+    name = Drzeń
+  -->
+  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.ECM.castle_village_EN1_1}Drzeń" posX="687.288" posY="1187.996" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_EN1_1}Drzeń">
     <Components>
       <Village id="castle_village_comp_EN1_1" village_type="VillageType.silk_plant" hearth="322" gate_rotation="0.008" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -749,10 +753,10 @@
 
   <!-- 
     castle_village_EN1_2 changes
-    name = Toruń
+    name = Chełmno
     bound = reiko_wloclawek
   -->
-  <Settlement id="castle_village_EN1_2" name="{=Settlements.Settlement.ECM.castle_village_EN1_2}Toruń" posX="726.526" posY="1186.957" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN3_2}Toruń">
+  <Settlement id="castle_village_EN1_2" name="{=Settlements.Settlement.ECM.castle_village_EN1_2}Chełmno" posX="726.526" posY="1186.957" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN3_2}Chełmno">
     <Components>
       <Village id="castle_village_comp_EN1_2" village_type="VillageType.wheat_farm" hearth="221" gate_rotation="0.158" bound="Settlement.reiko_wloclawek" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -766,5 +770,78 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="town_EN1" name="{=Settlements.Settlement.ECM.town_EN1}Gdańsk" owner="Faction.clan_poland_2" posX="746.518" posY="1228.253" culture="Culture.polish" gate_posX="744.3975" gate_posY="1226.225" text="{=ECM_n9WMUuSp}The first written record thought to refer to Gdańsk is the vita of Saint Adalbert. Written in 999, it describes how in 997 Saint Adalbert of Prague baptised the inhabitants of urbs Gyddannyzc, which separated the great realm of the duke from the sea. No further written sources exist for the 10th and 11th centuries">
+    <Components>
+      <Town id="town_comp_EN1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" prosperity="5100" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="empire_town_g" scene_name_1="empire_town_g" scene_name_2="empire_town_g" scene_name_3="empire_town_g" />
+      <Location id="arena" scene_name="arena_empire_a" />
+      <Location id="tavern" scene_name="empire_house_c_tavern_a" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+      <Location id="house_1" scene_name="empire_house_d_interior_house" />
+      <Location id="house_2" scene_name="empire_house_d_interior_house" />
+      <Location id="house_3" scene_name="empire_house_d_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    village_EN1_1 changes
+    bound = Nakło
+  -->
+  <Settlement id="village_EN1_1" name="{=Settlements.Settlement.ECM.village_EN1_1}Nakło" posX="706.855" posY="1196.551" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_1}Nakło">
+    <Components>
+      <Village id="village_comp_EN1_1" village_type="VillageType.iron_mine" hearth="322" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    village_EN1_2 changes
+    bound = reiko_stargard
+  -->
+  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.ECM.village_EN1_2}Kamien" posX="678.664" posY="1208.558" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_2}The town's history dates back to a fishermen's settlement from the 10th and 11th centuries. The region became part of Poland soon after the creation of the state in the 10th century. As a result of the 12th-century fragmentation of Poland, it became part of the separate Duchy of Pomerania.">
+    <Components>
+      <Village id="village_comp_EN1_2" village_type="VillageType.lumberjack" hearth="125" bound="Settlement.reiko_stargard" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.ECM.village_EN1_3}Slawno" posX="710.748" posY="1218.556" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_3}Since the mid-12th century the Land of Słupsk-Sławno was under the rule of Duke Ratibor I of Pomerania and his descendants, a cadet branch of the Griffin dynasty. From 1190 to 1238 it was the capital of the Duchy of Pomerania-Schlawe.">
+    <Components>
+      <Village id="village_comp_EN1_3" village_type="VillageType.fisherman" hearth="125" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
  
+
+
+
 </Settlements>
