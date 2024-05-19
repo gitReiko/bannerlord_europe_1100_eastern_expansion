@@ -969,6 +969,20 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_wloclawek_vil_1" name="{=reiko_wloclawek_vil_1.name}Radziejów" posX="730.670" posY="1171.878" culture="Culture.polish" text="{=reiko_wloclawek_vil_1.text}Radziejów">
+    <Components>
+      <Village id="reiko_wloclawek_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="179" bound="Settlement.reiko_wloclawek" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="battania_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
   <Settlement id="reiko_stargard" name="{=reiko_stargard.name}Stargard Castle" owner="Faction.clan_poland_1" posX="653.173" posY="1197.450" culture="Culture.polish" gate_posX="653.391" gate_posY="1197.914" text="{=reiko_stargard.text}Stargard Castle">
     <Components>
       <Town id="reiko_stargard_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="932" />
@@ -977,6 +991,17 @@
       <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
       <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <Settlement id="reiko_slawno" name="{=reiko_slawno.name}Sławno Castle" owner="Faction.clan_poland_1" posX="703.381" posY="1214.827" culture="Culture.polish"  gate_posX="704.170" gate_posY="1214.565">
+    <Components>
+      <Town id="reiko_slawno_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="875" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_d" scene_name_1="vlandia_castle_d" scene_name_2="vlandia_castle_d" scene_name_3="vlandia_castle_d" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
 

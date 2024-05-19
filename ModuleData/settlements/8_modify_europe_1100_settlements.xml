@@ -827,9 +827,15 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.ECM.village_EN1_3}Slawno" posX="710.748" posY="1218.556" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_3}Since the mid-12th century the Land of Słupsk-Sławno was under the rule of Duke Ratibor I of Pomerania and his descendants, a cadet branch of the Griffin dynasty. From 1190 to 1238 it was the capital of the Duchy of Pomerania-Schlawe.">
+  <!-- 
+    village_EN1_3 changes
+    name = Słupsk
+    hearth = 217
+    bound = reiko_slawno
+  -->
+  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.ECM.village_EN1_3}Słupsk" posX="710.748" posY="1218.556" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN1_3}Since the mid-12th century the Land of Słupsk-Sławno was under the rule of Duke Ratibor I of Pomerania and his descendants, a cadet branch of the Griffin dynasty. From 1190 to 1238 it was the capital of the Duchy of Pomerania-Schlawe.">
     <Components>
-      <Village id="village_comp_EN1_3" village_type="VillageType.fisherman" hearth="125" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="village_comp_EN1_3" village_type="VillageType.fisherman" hearth="217" bound="Settlement.reiko_slawno" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_e" />
