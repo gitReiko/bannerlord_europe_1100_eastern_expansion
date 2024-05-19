@@ -718,5 +718,53 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    castle_EN1 changes
+    name = Poznań
+  -->
+  <Settlement id="castle_EN1" name="{=Settlements.Settlement.ECM.castle_EN1}Poznań Castle" owner="Faction.clan_poland_6" posX="704.443" posY="1174.63" culture="Culture.polish" gate_posX="707.4806" gate_posY="1174.908">
+    <Components>
+      <Town id="castle_comp_EN1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1700" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="empire_siege_001" scene_name_1="empire_siege_001" scene_name_2="empire_siege_001" scene_name_3="empire_siege_001" />
+      <Location id="lordshall" scene_name_1="empire_castle_keep_a_l1_interior" scene_name_2="empire_castle_keep_a_l2_interior" scene_name_3="empire_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="empire_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.ECM.castle_village_EN1_1}Gniezno" posX="687.288" posY="1187.996" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.castle_village_EN1_1}There are archaeological traces of human settlement since the late Paleolithic. Early Slavonic settlements on Lech Hill and Maiden Hill are dated to the 8th century. At the beginning of the 10th century this was the site of several places sacred to the Slavic religion. The ducal stronghold was founded just before 940 on Lech Hill, and surrounded by some fortified suburbs and open settlements.">
+    <Components>
+      <Village id="castle_village_comp_EN1_1" village_type="VillageType.silk_plant" hearth="322" gate_rotation="0.008" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_003" max_prosperity="70" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_EN1_2 changes
+    name = Toruń
+    bound = reiko_wloclawek
+  -->
+  <Settlement id="castle_village_EN1_2" name="{=Settlements.Settlement.ECM.castle_village_EN1_2}Toruń" posX="726.526" posY="1186.957" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_EN3_2}Toruń">
+    <Components>
+      <Village id="castle_village_comp_EN1_2" village_type="VillageType.wheat_farm" hearth="221" gate_rotation="0.158" bound="Settlement.reiko_wloclawek" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="empire_village_009" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
  
 </Settlements>
