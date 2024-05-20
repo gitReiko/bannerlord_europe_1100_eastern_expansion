@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+
+   <Hero id="lord_polish_1a" spouse="Hero.lord_polish_1b" faction="Faction.clan_poland_1" text="{=lord_polish_1a.text}Władysław I Herman was the duke of Poland from 1079 until his death. Władysław was the second son of the Polish duke Casimir the Restorer and Maria Dobroniega of Kiev. As the second son, Władysław was not destined for the throne. However, due to the flight from Poland of his older brother Bolesław the Bold in 1079, he became duke of Poland. Opinions vary on whether Władysław played an active role in the plot to depose his brother or whether he was handed the authority simply because he was the best candidate to replace Bolesław." />
+   <Hero id="lord_polish_1b" spouse="Hero.lord_polish_1a" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1d" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+
+
+   <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
+   <Hero id="lord_polish_2b" spouse="Hero.lord_polish_2a" faction="Faction.clan_poland_2" />
+   <Hero id="lord_polish_2c" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
+
+
+   <Hero id="lord_polish_3a" spouse="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />
+   <Hero id="lord_polish_3b" spouse="Hero.lord_polish_3a" faction="Faction.clan_poland_3" />
+
+
+   <Hero id="lord_polish_4a" faction="Faction.clan_poland_4" />
+
+
+   <Hero id="lord_polish_5a" spouse="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />
+   <Hero id="lord_polish_5b" spouse="Hero.lord_polish_5a" faction="Faction.clan_poland_5" />
+
+
+   <Hero id="lord_polish_6a" spouse="Hero.lord_polish_6b" faction="Faction.clan_poland_6" />
+   <Hero id="lord_polish_6b" spouse="Hero.lord_polish_6a" faction="Faction.clan_poland_6" />
+   
+   
+   <Hero id="lord_polish_7a" faction="Faction.clan_poland_7" />
+
+
+</Heroes>
