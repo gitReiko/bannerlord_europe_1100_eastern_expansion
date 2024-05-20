@@ -4,10 +4,11 @@
 
    <Hero id="lord_polish_1a" spouse="Hero.lord_polish_1b" faction="Faction.clan_poland_1" text="{=lord_polish_1a.text}Władysław I Herman was the duke of Poland from 1079 until his death. Władysław was the second son of the Polish duke Casimir the Restorer and Maria Dobroniega of Kiev. As the second son, Władysław was not destined for the throne. However, due to the flight from Poland of his older brother Bolesław the Bold in 1079, he became duke of Poland. Opinions vary on whether Władysław played an active role in the plot to depose his brother or whether he was handed the authority simply because he was the best candidate to replace Bolesław." />
    <Hero id="lord_polish_1b" spouse="Hero.lord_polish_1a" faction="Faction.clan_poland_1" />
-   <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1ba_dead" faction="Faction.clan_poland_1" alive="false" />
    <Hero id="lord_polish_1d" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
-   <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_1" />
-   <Hero id="lord_polish_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1g" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1h" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1j" faction="Faction.clan_poland_1" />
 
 
    <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
@@ -31,6 +32,13 @@
    
    
    <Hero id="lord_polish_7a" faction="Faction.clan_poland_7" />
+
+
+   <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" spouse="Hero.lord_polish_1d" mother="Hero.lord_polish_1ba_dead" faction="Faction.clan_poland_1" text="{=lord_polish_1c.text}Heir to the Polish throne. An active player in the Polish Game of Thrones. He was originally the primary heir. But due to Sieciech's intrigues, he united with his brother Zbigniew and turned against Sieciech and his father Władysław I Herman. The victory in the struggle led to the expulsion of Sieciech and the splitting of Poland into 2 states. Bolesław III Wrymouth became the Duke of Lesser Poland, Silesia and Sandomierz. After winning in the struggle with his brother Zbigniew, he became ruler of all Poland." />
+   <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_1" />
+
+
+   <Hero id="lord_polish_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
 
 
 </Heroes>

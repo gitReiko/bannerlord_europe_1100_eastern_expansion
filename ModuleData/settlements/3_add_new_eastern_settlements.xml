@@ -923,7 +923,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_inowlodz" name="{=reiko_inowlodz.name}Płock Castle" owner="Faction.clan_poland_5" posX="773.479" posY="1154.750" culture="Culture.polish"  gate_posX="773.348" gate_posY="1154.204">
+  <Settlement id="reiko_inowlodz" name="{=reiko_inowlodz.name}Płock Castle" owner="Faction.clan_poland_1" posX="773.479" posY="1154.750" culture="Culture.polish"  gate_posX="773.348" gate_posY="1154.204">
     <Components>
       <Town id="reiko_inowlodz_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="733" />
     </Components>

@@ -2,13 +2,15 @@
 <Factions>
 
   <Faction id="clan_poland_1"
-           name="{=Piast}Piast"
-           tier="6"
-           owner="Hero.lord_polish_1a"
-           culture="Culture.polish"
-           super_faction="Kingdom.poland"
-		   is_noble="true"
-           banner_key="11.83.19.2085.2085.779.782.1.0.-30.104.35.145.602.628.764.766.1.0.0.340.143.116.137.126.775.540.1.0.339.506.149.116.39.36.750.584.0.0.248.506.40.116.32.29.750.584.0.0.248.506.149.116.27.25.750.584.0.0.248.506.40.116.22.10.745.582.0.0.248" />
+    name="{=clan_poland_1.name}Władysław I Herman"
+    tier="6"
+    owner="Hero.lord_polish_1a"
+    culture="Culture.polish"
+    super_faction="Kingdom.poland"
+    is_noble="true"
+    banner_key="11.48.146.2085.2085.764.764.1.0.0.104.35.116.450.450.764.764.0.0.0" 
+    color="FFe44535" color2="FFf5f5f5" alternative_color="FFe44535" alternative_color2="FFf5f5f5" 
+  />
 		   
   <Faction id="clan_poland_2"
            name="{=Pomorski}Pomorski"

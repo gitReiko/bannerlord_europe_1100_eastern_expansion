@@ -617,7 +617,7 @@
     name = Pułtusk
     level = 1
   -->
-    <Settlement id="town_K4" name="{=Settlements.Settlement.ECM.town_K4}Pułtusk" owner="Faction.clan_poland_4" posX="809.803" posY="1183.145" culture="Culture.polish" gate_posX="809.7895" gate_posY="1185.478" text="{=ECM_Dxnj5JQE}Pułtusk">
+    <Settlement id="town_K4" name="{=Settlements.Settlement.ECM.town_K4}Pułtusk" owner="Faction.clan_poland_1" posX="809.803" posY="1183.145" culture="Culture.polish" gate_posX="809.7895" gate_posY="1185.478" text="{=ECM_Dxnj5JQE}Pułtusk">
     <Components>
       <Town id="town_comp_K4" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" prosperity="800" />
     </Components>
@@ -722,7 +722,7 @@
     castle_EN1 changes
     name = Poznań
   -->
-  <Settlement id="castle_EN1" name="{=Settlements.Settlement.ECM.castle_EN1}Poznań Castle" owner="Faction.clan_poland_6" posX="704.443" posY="1174.63" culture="Culture.polish" gate_posX="707.4806" gate_posY="1174.908">
+  <Settlement id="castle_EN1" name="{=Settlements.Settlement.ECM.castle_EN1}Poznań Castle" owner="Faction.clan_poland_1" posX="704.443" posY="1174.63" culture="Culture.polish" gate_posX="707.4806" gate_posY="1174.908">
     <Components>
       <Town id="castle_comp_EN1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" prosperity="1700" />
     </Components>
