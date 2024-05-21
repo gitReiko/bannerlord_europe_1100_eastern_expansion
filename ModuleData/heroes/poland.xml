@@ -50,7 +50,7 @@
    <Hero id="lord_polish_8c" faction="Faction.clan_poland_8" />
 
 
-   <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" spouse="Hero.lord_polish_1d" mother="Hero.lord_polish_1ba_dead" faction="Faction.clan_poland_1" text="{=lord_polish_1c.text}Heir to the Polish throne. An active player in the Polish Game of Thrones. He was originally the primary heir. But due to Sieciech's intrigues, he united with his brother Zbigniew and turned against Sieciech and his father Władysław I Herman. The victory in the struggle led to the expulsion of Sieciech and the splitting of Poland into 2 states. Bolesław III Wrymouth became the Duke of Lesser Poland, Silesia and Sandomierz. After winning in the struggle with his brother Zbigniew, he became ruler of all Poland." />
-   <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_1" />
+   <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" spouse="Hero.lord_polish_1d" mother="Hero.lord_polish_1ba_dead" faction="Faction.clan_poland_9" text="{=lord_polish_1c.text}Heir to the Polish throne. An active player in the Polish Game of Thrones. He was originally the primary heir. But due to Sieciech's intrigues, he united with his brother Zbigniew and turned against Sieciech and his father Władysław I Herman. The victory in the struggle led to the expulsion of Sieciech and the splitting of Poland into 2 states. Bolesław III Wrymouth became the Duke of Lesser Poland, Silesia and Sandomierz. After winning in the struggle with his brother Zbigniew, he became ruler of all Poland." />
+   <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_9" />
 
 </Heroes>

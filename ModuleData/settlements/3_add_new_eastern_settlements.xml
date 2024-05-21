@@ -912,7 +912,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_sandomierz" name="{=reiko_sandomierz.name}Sandomierz Castle" owner="Faction.clan_poland_1" posX="812.252" posY="1143.920" culture="Culture.polish"  gate_posX="812.032" gate_posY="1143.173">
+  <Settlement id="reiko_sandomierz" name="{=reiko_sandomierz.name}Sandomierz Castle" owner="Faction.clan_poland_9" posX="812.252" posY="1143.920" culture="Culture.polish"  gate_posX="812.032" gate_posY="1143.173">
     <Components>
       <Town id="reiko_sandomierz_comp" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="1370" />
     </Components>
