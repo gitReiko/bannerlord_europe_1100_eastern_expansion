@@ -47,7 +47,7 @@
 		   
   <Faction id="clan_poland_5"
     name="{=clan_poland_5.name}Powałowie"
-    tier="5"
+    tier="4"
     owner="Hero.lord_polish_5a"
     culture="Culture.polish"
     super_faction="Kingdom.poland"

@@ -31,8 +31,10 @@
    <Hero id="lord_polish_4e" father="Hero.lord_polish_4a" mother="Hero.lord_polish_4b" faction="Faction.clan_poland_4" text="{=lord_polish_4c.text}The age of the son is known. Name unknown." />
 
 
-   <Hero id="lord_polish_5a" spouse="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />
+   <Hero id="lord_polish_5a" spouse="Hero.lord_polish_5b" faction="Faction.clan_poland_5" text="{=lord_polish_5a.text}The founder of the Powałowie (Ogończyk) family. He was a blood relative of Sieciech. Thanks to Sieciech was Bolesław III Wrymouth tutor and Count of Wrocław. During the struggle for the throne, he takes Bolesław III Wrymouth side and gets seriously injured in battle. Because of ties with Sieciech and distrust of the Wrocław knighthood, he loses Wrocław in 1099. But remains a wealthy and influential Polish magnate and lives a long life." />
    <Hero id="lord_polish_5b" spouse="Hero.lord_polish_5a" faction="Faction.clan_poland_5" />
+   <Hero id="lord_polish_5c" father="Hero.lord_polish_5a" mother="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />
+   <Hero id="lord_polish_5d" father="Hero.lord_polish_5a" mother="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />
 
 
    <Hero id="lord_polish_6a" spouse="Hero.lord_polish_6b" faction="Faction.clan_poland_6" />
