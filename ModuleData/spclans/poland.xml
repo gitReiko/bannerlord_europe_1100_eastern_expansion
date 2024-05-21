@@ -46,13 +46,15 @@
   />
 		   
   <Faction id="clan_poland_5"
-           name="{=Bogoria}Bogoria"
-           tier="5"
-           owner="Hero.lord_polish_5a"
-           culture="Culture.polish"
-           super_faction="Kingdom.poland"
-		   is_noble="true"
-           banner_key="11.142.19.2958.2958.779.782.0.0.-30.510.40.116.273.415.753.895.1.0.89.528.40.116.493.358.751.917.1.1.-1.503.40.116.77.48.753.785.1.0.-1.510.40.116.273.415.755.612.1.0.89.528.40.116.493.358.755.586.1.0.180.503.40.116.77.48.757.724.1.0.-1" />
+    name="{=clan_poland_5.name}Powałowie"
+    tier="5"
+    owner="Hero.lord_polish_5a"
+    culture="Culture.polish"
+    super_faction="Kingdom.poland"
+    is_noble="true"
+    banner_key="11.48.146.2085.2085.764.764.1.0.0.503.35.116.370.370.764.942.0.1.0.503.48.116.290.290.764.942.0.1.0.505.48.116.450.290.764.1070.0.1.0.510.35.116.230.250.764.695.0.1.90.510.35.116.50.400.764.779.0.1.90.510.35.116.270.250.692.673.0.1.44.510.35.116.270.250.836.674.0.1.-46.505.48.116.170.50.931.768.0.1.1.505.48.116.170.50.596.768.0.1.1" 
+    color="FFe44535" color2="FFf5f5f5" alternative_color="FFe44535" alternative_color2="FFf5f5f5"
+    />
 		   
   <Faction id="clan_poland_6"
            name="{=Odrowąż}Odrowąż"
