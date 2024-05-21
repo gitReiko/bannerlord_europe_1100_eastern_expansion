@@ -11,9 +11,11 @@
    <Hero id="lord_polish_1j" faction="Faction.clan_poland_1" />
 
 
-   <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
+   <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" text="{=lord_polish_2b.text}Apparently a descendant of Pomeranian Duke Siemomysł. Świętobor recognized the supremacy of the Holy Roman Empire and tried to get rid of dependence on the Polish Dukedom. The struggle resulted in imprisonment and he was released by his relative Bolesław III Wrymouth. Possibly the founder of the House of Griffin." />
    <Hero id="lord_polish_2b" spouse="Hero.lord_polish_2a" faction="Faction.clan_poland_2" />
    <Hero id="lord_polish_2c" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
+   <Hero id="lord_polish_2d" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
+   <Hero id="lord_polish_2e" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
 
 
    <Hero id="lord_polish_3a" spouse="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />

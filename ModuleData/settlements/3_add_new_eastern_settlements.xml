@@ -994,7 +994,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_slawno" name="{=reiko_slawno.name}Sławno Castle" owner="Faction.clan_poland_1" posX="703.381" posY="1214.827" culture="Culture.polish"  gate_posX="704.170" gate_posY="1214.565">
+  <Settlement id="reiko_slawno" name="{=reiko_slawno.name}Sławno Castle" owner="Faction.clan_poland_2" posX="703.381" posY="1214.827" culture="Culture.polish"  gate_posX="704.170" gate_posY="1214.565">
     <Components>
       <Town id="reiko_slawno_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="875" />
     </Components>

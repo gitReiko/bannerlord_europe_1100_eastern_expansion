@@ -3,7 +3,7 @@
 <Heroes>
 
    <Hero id="lord_halych_1a" faction="Faction.clan_halych_1" spouse="Hero.lord_halych_1b" mother="Hero.lord_halych_1c" text="{=lord_halych_1a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1084 together with Volodar Rostyslavych first captured Volodymyr and then blocked the trade route to Byzantium. In 1086 has joined to the brother Rurik and began to rule in Zvenigorod. In 1097 at the Liubech Congress legally confirmed the possession of the Principality of Peremyshl." />
-   <Hero id="lord_halych_1b" faction="Faction.clan_halych_1" spouse="Hero.lord_halych_1a" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
+   <Hero id="lord_halych_1b" faction="Faction.clan_halych_1" spouse="Hero.lord_halych_1a" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2a"  />
    <Hero id="lord_halych_1c" faction="Faction.clan_halych_1" />
    <Hero id="lord_halych_1d" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />
    <Hero id="lord_halych_1e" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />

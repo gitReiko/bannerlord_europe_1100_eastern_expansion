@@ -50,12 +50,12 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_halych_1b"
-                name="{=lord_halych_1b.name}Ganna*"
+                name="{=lord_halych_1b.name}Anna Swantiborides"
                 voice="softspoken"
-                age="27"
+                age="28"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.volhynian"
+                culture="Culture.polish"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
