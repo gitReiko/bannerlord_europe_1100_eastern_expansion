@@ -59,7 +59,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.09" weight="0.4139" build="0.3589"  key="0018A8081F58300393B284988C88BADB8BA8CB7A797764B1579A44564B846975008566030887E878000000000000000000000000000000000000000060FC2103"  />
+        <BodyProperties version="4" age="22" weight="0.1867" build="0.4722"  key="000A6004C0CC00045887B6424347969A9B6489C766778A61CADCB4A984949B910077360307847AB7000000000000000000000000000000000000000014F44103"  />
     </face>
 	<skills>
         <skill id="Tactics" value="50" />
