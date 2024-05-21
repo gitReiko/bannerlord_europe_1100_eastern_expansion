@@ -670,7 +670,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22.21" weight="0.6433" build="0.2955"  key="0005800080FC364BAB454A8AA4AD494BB2AD9776D74926CD6255728A273C54810074A60307566AD6000000000000000000000000000000000000000006F480C2"  />
+      <BodyProperties version="4" age="22.09" weight="0.4298" build="0.4066"  key="0005180080FC309CA9454A8AA4AB4949B2AB9776B74926CD62557688273A54810066660306566AD6000000000000000000000000000000000000000006D480C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="75" />
@@ -719,7 +719,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-      <BodyProperties version="4" age="22.21" weight="0.6433" build="0.2955"  key="0005800080FC364BAB454A8AA4AD494BB2AD9776D74926CD6255728A273C54810074A60307566AD6000000000000000000000000000000000000000006F480C2"  />
+      <BodyProperties version="4" age="22.09" weight="0.4298" build="0.4066"  key="0005180140FC1149A9454A8A84AB494982789776B74726BD62557688273A54810066660306566AD6000000000000000000000000000000000000000006D480C4"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="25" />
@@ -768,7 +768,7 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-   <BodyProperties version="4" age="22.21" weight="0.4926" build="0.6992"  key="000580020000018682594CB888646C4C764D94BA74E9549999779456735A677B006A760306BA4A8C000000000000000000000000000000000000000028BC2042"  />
+      <BodyProperties version="4" age="22.21" weight="0.4926" build="0.6992"  key="000580020000018682594CB888646C4C764D94BA74E9549999779456735A677B006A760306BA4A8C000000000000000000000000000000000000000028BC2042"  />
     </face>
 	  <skills>
       <skill id="Engineering" value="150" />
@@ -795,6 +795,195 @@
       <Trait id="Honor" value="-2" />
       <Trait id="Generosity" value="0" />
       <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_4b"
+                name="{=lord_polish_4b.name}Swinisława*"
+                default_group="Cavalry"
+                age="57"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.4005" build="0.5"  key="0023680E40A000057A3D7B89767D69B5A44794D79A3882B6774CDA4988974C2800576603059949780000000000000000000000000000000000000000269C4003"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="100" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="75" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="150" />
+      <skill id="Crossbow" value="75" />
+      <skill id="OneHanded" value="45" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lady" />
+      <EquipmentSet id="pol_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_4c"
+                name="{=lord_polish_4c}Sułek Sieciechowicz*"
+                voice="softspoken"
+                age="30"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.2677" build="0.4336"  key="000580080000010582594CB888646A4A764B94BA74C95499997794567358677B0087460308BA4A8C0000000000000000000000000000000000000000291C2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="200" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="125" />
+      <skill id="Throwing" value="60" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="175" />
+      <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_4d"
+                name="{=lord_polish_4d}Żegota Sieciechowicz"
+                voice="softspoken"
+                age="28"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.1906" build="0.1713"  key="0005A408000006C8825949B888646948764B94BA74C95499997784567358677B0063360306884A8A000000000000000000000000000000000000000028BC2042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="125" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="250" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Polearm" value="100" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_4e"
+                name="{=lord_polish_4e}Pałuka Sieciechowicz*"
+                voice="softspoken"
+                age="26"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.8773" build="0.341"  key="000554098000000C8259499866646948765A94BA74C9549999779D567358677B0095D60309884A8A000000000000000000000000000000000000000029242042"  />
+    </face>
+	  <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="225" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="75" />
+      <skill id="Tactics" value="100" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="150" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="175" />
+      <skill id="Polearm" value="150" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
       <Trait id="Egalitarian" value="0" />
       <Trait id="Oligarchic" value="2" />
       <Trait id="Authoritarian" value="2" />
