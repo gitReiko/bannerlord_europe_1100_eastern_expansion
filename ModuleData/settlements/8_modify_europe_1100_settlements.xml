@@ -931,7 +931,7 @@
     castle_K3 changes
     name = Bytom
   -->
-  <Settlement id="castle_K3" name="{=Settlements.Settlement.ECM.castle_K3}Bytom Castle" owner="Faction.clan_poland_5" posX="720.345" posY="1125.011" culture="Culture.polish" gate_posX="720.8953" gate_posY="1123.289">
+  <Settlement id="castle_K3" name="{=Settlements.Settlement.ECM.castle_K3}Bytom Castle" owner="Faction.clan_poland_3" posX="720.345" posY="1125.011" culture="Culture.polish" gate_posX="720.8953" gate_posY="1123.289">
    <Components>
       <Town id="castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
     </Components>
