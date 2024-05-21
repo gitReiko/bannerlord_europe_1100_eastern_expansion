@@ -758,9 +758,9 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_polish_4a"
-                name="{=Sieciech}Sieciech"
+                name="{=lord_polish_4a}Sieciech Walgierzowicz"
                 voice="softspoken"
-                age="26"
+                age="60"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.polish"
@@ -770,28 +770,34 @@
       <!-- Face key needs redoing, repurposed from female-->
    <BodyProperties version="4" age="22.21" weight="0.4926" build="0.6992"  key="000580020000018682594CB888646C4C764D94BA74E9549999779456735A677B006A760306BA4A8C000000000000000000000000000000000000000028BC2042"  />
     </face>
-	<skills>
-	<skill id="Leadership" value="95" />
-<skill id="Scouting" value="77" />
-<skill id="Tactics" value="180" />
-<skill id="Athletics" value="76" />
-<skill id="Riding" value="44" />
-<skill id="Throwing" value="44" />
-<skill id="Crossbow" value="77" />
-<skill id="Bow" value="65" />
-<skill id="Polearm" value="174" />
-<skill id="TwoHanded" value="92" />
-<skill id="OneHanded" value="97" />
-</skills>
+	  <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="275" />
+      <skill id="Steward" value="275" />
+      <skill id="Trade" value="225" />
+      <skill id="Charm" value="250" />
+      <skill id="Roguery" value="225" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="250" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="225" />
+      <skill id="OneHanded" value="150" />
+    </skills>
     <Traits>
-<Trait id="Mercy" value="2" />
-<Trait id="Valor" value="-1" />
-<Trait id="Honor" value="-1" />
-<Trait id="Generosity" value="2" />
-<Trait id="Calculating" value="-1" />
-<Trait id="Egalitarian" value="2" />
-<Trait id="Oligarchic" value="1" />
-<Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="pol_lord" />

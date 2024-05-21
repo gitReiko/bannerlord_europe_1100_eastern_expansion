@@ -35,13 +35,15 @@
     />
 		   
   <Faction id="clan_poland_4"
-           name="{=Sieciech}Sieciech"
-           tier="5"
-           owner="Hero.lord_polish_4a"
-           culture="Culture.polish"
-           super_faction="Kingdom.poland"
-		   is_noble="true"
-           banner_key="11.83.19.1836.1836.779.782.1.0.-30.505.143.116.447.696.762.587.0.0.-90" />
+    name="{=clan_poland_4.name}Starża-Toporczyk"
+    tier="6"
+    owner="Hero.lord_polish_4a"
+    culture="Culture.polish"
+    super_faction="Kingdom.poland"
+    is_noble="true"
+    banner_key="11.48.146.2085.2085.764.764.1.0.0.503.35.116.423.507.771.605.0.0.10.505.48.116.414.226.864.715.0.1.-136.505.48.116.414.226.801.452.0.0.-14.503.48.116.95.507.687.780.0.0.-40.510.132.116.450.350.861.782.0.0.90.505.35.116.78.137.861.605.0.0.0.505.35.116.122.37.801.562.0.0.0.503.48.116.95.145.793.510.0.0.75.503.35.116.20.78.860.661.0.0.90.503.35.116.20.78.860.549.0.0.90" 
+    color="FFf1c131" color2="FFe44535" alternative_color="FFf1c131" alternative_color2="FFe44535" 
+  />
 		   
   <Faction id="clan_poland_5"
            name="{=Bogoria}Bogoria"

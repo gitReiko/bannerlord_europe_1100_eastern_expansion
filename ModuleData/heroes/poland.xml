@@ -24,7 +24,7 @@
    <Hero id="lord_polish_3d" father="Hero.lord_polish_3a" mother="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />
 
 
-   <Hero id="lord_polish_4a" faction="Faction.clan_poland_4" />
+   <Hero id="lord_polish_4a" faction="Faction.clan_poland_4" text="{=lord_polish_4a.text}One of the main players in the Polish Game of Thrones. Openly tried to take the throne in Poland. Probably contributed to the expulsion of Duke Bolesław II the Bold. He was Władysław I Herman palatine and served as ruler of Poland in his absence. In 1099, defeated in a struggle with the hereditary dukes and lost power." />
 
 
    <Hero id="lord_polish_5a" spouse="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />

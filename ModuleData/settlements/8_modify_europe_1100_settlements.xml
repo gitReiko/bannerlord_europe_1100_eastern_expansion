@@ -615,6 +615,7 @@
   <!-- 
     town_K4 changes
     name = Pułtusk
+    owner = clan_poland_1
     level = 1
   -->
     <Settlement id="town_K4" name="{=Settlements.Settlement.ECM.town_K4}Pułtusk" owner="Faction.clan_poland_1" posX="809.803" posY="1183.145" culture="Culture.polish" gate_posX="809.7895" gate_posY="1185.478" text="{=ECM_Dxnj5JQE}Pułtusk">
@@ -721,6 +722,7 @@
   <!-- 
     castle_EN1 changes
     name = Poznań
+    owner = clan_poland_1
   -->
   <Settlement id="castle_EN1" name="{=Settlements.Settlement.ECM.castle_EN1}Poznań Castle" owner="Faction.clan_poland_1" posX="704.443" posY="1174.63" culture="Culture.polish" gate_posX="707.4806" gate_posY="1174.908">
     <Components>
@@ -930,6 +932,7 @@
   <!-- 
     castle_K3 changes
     name = Bytom
+    owner = clan_poland_3
   -->
   <Settlement id="castle_K3" name="{=Settlements.Settlement.ECM.castle_K3}Bytom Castle" owner="Faction.clan_poland_3" posX="720.345" posY="1125.011" culture="Culture.polish" gate_posX="720.8953" gate_posY="1123.289">
    <Components>
@@ -978,7 +981,11 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_K6" name="{=Settlements.Settlement.ECM.town_K6}Kraków" owner="Faction.clan_poland_1" posX="758.574" posY="1117.888" culture="Culture.polish" gate_posX="761.5339" gate_posY="1115.937" text="{=ECM_ygJkPxyc}The town of Kraków sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">
+  <!-- 
+    town_K6 changes
+    owner = clan_poland_4
+  -->
+  <Settlement id="town_K6" name="{=Settlements.Settlement.ECM.town_K6}Kraków" owner="Faction.clan_poland_4" posX="758.574" posY="1117.888" culture="Culture.polish" gate_posX="761.5339" gate_posY="1115.937" text="{=ECM_ygJkPxyc}The town of Kraków sits at the foot of Kohi Rohini, the mountains of the dawn. Among the most remote of the towns of the Devseg, it is reputed to have been the abode of King Ahhak, a mythical tyrant from whose shoulders flowed serpents. Even today the Kohi Rohini has a reputation for black magic and mystery that helps keep outsiders at bay. The city fell during the Khuzait conquest to the Harfit clan, who have intermarried with the mountain peoples, and who honor their customs, participate in their rituals, and keep their secrets.">
    <Components>
       <Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" prosperity="1700" />
     </Components>
