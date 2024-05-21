@@ -850,7 +850,7 @@
   <NPCCharacter id="latvian_experienced_spearman"
 		default_group="Infantry"
 		level="21"
-		name="{=latvian_spearman.name}Latvian Experienced Spearman"
+		name="{=latvian_experienced_spearman.name}Latvian Experienced Spearman"
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
@@ -1207,7 +1207,7 @@
   <NPCCharacter id="latvian_mounted_skirmisher"
 		default_group="HorseArcher"
 		level="16"
-		name="{=latvian_spearman.name}Latvian Mounted Skirmisher"
+		name="{=latvian_mounted_skirmisher.name}Latvian Mounted Skirmisher"
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>
@@ -1318,7 +1318,7 @@
   <NPCCharacter id="latvian_experienced_mounted_skirmisher"
 		default_group="HorseArcher"
 		level="21"
-		name="{=latvian_spearman.name}Latvian Experienced Mounted Skirmisher"
+		name="{=latvian_experienced_mounted_skirmisher.name}Latvian Experienced Mounted Skirmisher"
 		occupation="Soldier"
 		culture="Culture.latvian">
 		<face>

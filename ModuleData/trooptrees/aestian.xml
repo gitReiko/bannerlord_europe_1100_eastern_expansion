@@ -839,7 +839,7 @@
 	<NPCCharacter id="aestian_seasoned_sodalane"
 		default_group="Infantry"
 		level="21"
-		name="{=aestian_sodalane.name}Aestian Seasoned Sõdalane"
+		name="{=aestian_seasoned_sodalane.name}Aestian Seasoned Sõdalane"
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
@@ -1283,7 +1283,7 @@
 	<NPCCharacter id="aestian_kilbikandija"
 		default_group="Cavalry"
 		level="21"
-		name="{=aestian_sodalane.name}Aestian Kilbikandija"
+		name="{=aestian_kilbikandija.name}Aestian Kilbikandija"
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
@@ -1381,7 +1381,7 @@
 	<NPCCharacter id="aestian_ulik"
 		default_group="Infantry"
 		level="21"
-		name="{=aestian_sodalane.name}Aestian Ülik"
+		name="{=aestian_ulik.name}Aestian Ülik"
 		occupation="Soldier"
 		culture="Culture.aestian">
 		<face>
