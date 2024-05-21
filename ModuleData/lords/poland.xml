@@ -1320,9 +1320,9 @@
   </NPCCharacter>
 
  <NPCCharacter id="lord_polish_7a"
-                name="{=Lambert III}Lambert III"
+                name="{=lord_polish_7a.name}Borko"
                 voice="softspoken"
-                age="60"
+                age="28"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.polish"
@@ -1330,30 +1330,36 @@
                 default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
-<BodyProperties version="4" age="22.03" weight="0.3937" build="0.905"  key="000A180D00CC218C58868787A5A786489E648CC766778A61CADCB4DD84949B9100AE66030A847BB70000000000000000000000000000000000000000155C5102"  />
+      <BodyProperties version="4" age="22" weight="0.3937" build="0.905"  key="000ACC0D14CC210B58868787A5A786489E648CC766778A61CADCB4DD84949B9100AE66030A847BB70000000000000000000000000000000000000000155C5102"  />
     </face>
-	<skills>
-<skill id="Leadership" value="19" />
-<skill id="Scouting" value="178" />
-<skill id="Tactics" value="19" />
-<skill id="Athletics" value="172" />
-<skill id="Riding" value="129" />
-<skill id="Throwing" value="72" />
-<skill id="Crossbow" value="80" />
-<skill id="Bow" value="2" />
-<skill id="Polearm" value="51" />
-<skill id="TwoHanded" value="101" />
-<skill id="OneHanded" value="134" />
-</skills>
+	  <skills>
+      <skill id="Engineering" value="75" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="75" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="125" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="175" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="175" />
+    </skills>
     <Traits>
-<Trait id="Mercy" value="1" />
-<Trait id="Valor" value="0" />
-<Trait id="Honor" value="2" />
-<Trait id="Generosity" value="0" />
-<Trait id="Calculating" value="2" />
-<Trait id="Egalitarian" value="1" />
-<Trait id="Oligarchic" value="-1" />
-<Trait id="Authoritarian" value="-2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="pol_lord" />

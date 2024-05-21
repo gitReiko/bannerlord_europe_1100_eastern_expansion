@@ -68,12 +68,14 @@
     />
 		   
   <Faction id="clan_poland_7"
-           name="{=Zula}Zula"
-           tier="5"
-           owner="Hero.lord_polish_7a"
-           culture="Culture.polish"
-           super_faction="Kingdom.poland"
-		   is_noble="true"
-           banner_key="11.83.19.1836.1836.779.782.1.0.-30.104.35.116.555.579.764.776.1.0.0.340.7.116.150.178.814.576.1.0.-45.438.7.116.429.507.467.1061.1.0.-180.438.7.116.429.507.1056.1061.1.0.-180.438.7.116.429.507.471.465.1.1.359.438.7.116.429.507.1056.467.1.1.359.505.83.116.283.920.340.764.0.1.359.505.83.116.283.920.1186.774.0.1.359" />
+    name="{=clan_poland_7.name}Borko"
+    tier="3"
+    owner="Hero.lord_polish_7a"
+    culture="Culture.polish"
+    super_faction="Kingdom.poland"
+    is_noble="true"
+    banner_key="11.132.146.2085.2085.764.764.1.0.0.148.48.116.322.386.764.654.0.1.-8.148.48.116.322.386.764.874.0.1.-8" 
+    color="FFf1c131" color2="FFe44535" alternative_color="FFf1c131" alternative_color2="FFe44535"
+    />
 	
 </Factions>

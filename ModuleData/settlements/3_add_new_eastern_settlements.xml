@@ -983,7 +983,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_stargard" name="{=reiko_stargard.name}Stargard Castle" owner="Faction.clan_poland_1" posX="653.173" posY="1197.450" culture="Culture.polish" gate_posX="653.391" gate_posY="1197.914" text="{=reiko_stargard.text}Stargard Castle">
+  <Settlement id="reiko_stargard" name="{=reiko_stargard.name}Stargard Castle" owner="Faction.clan_poland_7" posX="653.173" posY="1197.450" culture="Culture.polish" gate_posX="653.391" gate_posY="1197.914" text="{=reiko_stargard.text}Stargard Castle">
     <Components>
       <Town id="reiko_stargard_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="932" />
     </Components>
