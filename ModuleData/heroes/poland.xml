@@ -25,7 +25,7 @@
 
 
    <Hero id="lord_polish_4a" spouse="Hero.lord_polish_4b" faction="Faction.clan_poland_4" text="{=lord_polish_4a.text}One of the main players in the Polish Game of Thrones. Openly tried to take the throne in Poland. Probably contributed to the expulsion of Duke Bolesław II the Bold. He was Władysław I Herman palatine and served as ruler of Poland in his absence. In 1099, defeated in a struggle with the hereditary dukes and lost power." />
-   <Hero id="lord_polish_4b" spouse="Hero.lord_polish_4a" faction="Faction.clan_poland_4" text="{=lord_polish_4b.text}The count had a wife, but nothing is known about her."  />
+   <Hero id="lord_polish_4b" spouse="Hero.lord_polish_4a" faction="Faction.clan_poland_4" text="{=lord_polish_4b.text}The notable had a wife, but nothing is known about her."  />
    <Hero id="lord_polish_4c" father="Hero.lord_polish_4a" mother="Hero.lord_polish_4b" faction="Faction.clan_poland_4" text="{=lord_polish_4c.text}The age of the son is known. Name unknown." />
    <Hero id="lord_polish_4d" father="Hero.lord_polish_4a" mother="Hero.lord_polish_4b" faction="Faction.clan_poland_4" />
    <Hero id="lord_polish_4e" father="Hero.lord_polish_4a" mother="Hero.lord_polish_4b" faction="Faction.clan_poland_4" text="{=lord_polish_4c.text}The age of the son is known. Name unknown." />
@@ -37,8 +37,9 @@
    <Hero id="lord_polish_5d" father="Hero.lord_polish_5a" mother="Hero.lord_polish_5b" faction="Faction.clan_poland_5" />
 
 
-   <Hero id="lord_polish_6a" spouse="Hero.lord_polish_6b" faction="Faction.clan_poland_6" />
-   <Hero id="lord_polish_6b" spouse="Hero.lord_polish_6a" faction="Faction.clan_poland_6" />
+   <Hero id="lord_polish_6a" spouse="Hero.lord_polish_6b" faction="Faction.clan_poland_6" text="{=lord_polish_6a.text}Practically nothing is known about Wisław Prandotawicz (Vislav I Prandota). He was the son of Prandota, who moved to Poland from Great Moravia (Czechia). Had the coat of arms of Beneszow in Czechia, Odrowąż in Poland. Later, the Odrowąż coat of arms was taken by many families in Poland." />
+   <Hero id="lord_polish_6b" spouse="Hero.lord_polish_6a" faction="Faction.clan_poland_6" text="{=lord_polish_4b.text}The notable had a wife, but nothing is known about her." />
+   <Hero id="lord_polish_6c" father="Hero.lord_polish_6a" mother="Hero.lord_polish_6b" faction="Faction.clan_poland_6" />
    
    
    <Hero id="lord_polish_7a" faction="Faction.clan_poland_7" />
