@@ -53,4 +53,11 @@
    <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" spouse="Hero.lord_polish_1d" mother="Hero.lord_polish_1ba_dead" faction="Faction.clan_poland_9" text="{=lord_polish_1c.text}Heir to the Polish throne. An active player in the Polish Game of Thrones. He was originally the primary heir. But due to Sieciech's intrigues, he united with his brother Zbigniew and turned against Sieciech and his father Władysław I Herman. The victory in the struggle led to the expulsion of Sieciech and the splitting of Poland into 2 states. Bolesław III Wrymouth became the Duke of Lesser Poland, Silesia and Sandomierz. After winning in the struggle with his brother Zbigniew, he became ruler of all Poland." />
    <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_9" />
 
+
+   <Hero id="lord_polish_10a" faction="Faction.clan_poland_10" text="{=lord_polish_10a.text}Almost nothing is known about Michał The Old. He was a Polish magnate and founded a Benedictine monastery at Lubin. His son Skarbimir was tutor, advisor and count palatine of Polish duke Bolesław III Wrymouth." />
+   <Hero id="lord_polish_10b" spouse="Hero.lord_polish_10d" father="Hero.lord_polish_10a" faction="Faction.clan_poland_10" />
+   <Hero id="lord_polish_10c" father="Hero.lord_polish_10a" faction="Faction.clan_poland_10" />
+   <Hero id="lord_polish_10d" spouse="Hero.lord_polish_10b" faction="Faction.clan_poland_10" text="{=lord_polish_10d.text}The person's name is fictitious. Only the wife's age is known." />
+   <Hero id="lord_polish_10e" father="Hero.lord_polish_10b" mother="Hero.lord_polish_10d" faction="Faction.clan_poland_10" />
+
 </Heroes>

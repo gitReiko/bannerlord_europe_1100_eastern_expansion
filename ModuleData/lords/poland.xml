@@ -1556,7 +1556,7 @@
     </Equipments>
   </NPCCharacter>
   
-   <NPCCharacter id="lord_polish_1e"
+  <NPCCharacter id="lord_polish_1e"
                 name="{=lord_polish_1e.name}Zbyslava of Kiev"
                 default_group="Cavalry"
                 age="15"
@@ -1599,6 +1599,232 @@
     <Equipments>
       <EquipmentSet id="pol_lady" />
       <EquipmentSet id="pol_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_10a"
+                name="{=lord_polish_10a.name}Michał The Old"
+                voice="softspoken"
+                age="70"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.81" build="0.5"  key="0008880400A03804762699B7676848E38B286369A4889645AD5A378583EA8BA90077C60307A44A4900000000000000000000000000000000000000005AE45142"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="125" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="125" />
+      <skill id="Crossbow" value="125" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="200" />
+      <skill id="TwoHanded" value="150" />
+      <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_10b"
+                name="{=lord_polish_10b.name}Michał Michałowicz"
+                voice="softspoken"
+                age="42"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.2215" build="0.2292"  key="00084C081EA03381862699A7676848A38B28636984889645AA5A378583EA8BA90063360306A44A4900000000000000000000000000000000000000005AC45142"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="75" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="75" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="200" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Polearm" value="125" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-2" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_10c"
+                name="{=lord_polish_10c.name}Skarbimir Michałowicz"
+                voice="softspoken"
+                age="40"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.4606" build="0.5262"  key="0008CC08C0A001CE862699A7676848A38B26636984887645AA58378583CA8BA90098760309A44A4900000000000000000000000000000000000000005B344142"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="175" />
+      <skill id="Trade" value="100" />
+      <skill id="Charm" value="225" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="150" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="50" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="-2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_polish_10d"
+                name="{=lord_polish_10d.name}Mirosława*"
+                default_group="Cavalry"
+                age="30"
+                voice="ironic"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.341" build="0.3912"  key="0002BC0800B41007494788D8E5878C797A7A287E347AB2A7B7E495C7267EB7870086560308A9683500000000000000000000000000000000000000003D0C0083"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="50" />
+      <skill id="Medicine" value="50" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="175" />
+      <skill id="Charm" value="150" />
+      <skill id="Roguery" value="175" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="125" />
+      <skill id="Athletics" value="100" />
+      <skill id="Riding" value="100" />
+      <skill id="Crossbow" value="75" />
+      <skill id="OneHanded" value="50" />
+	  </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lady" />
+      <EquipmentSet id="pol_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<NPCCharacter id="lord_polish_10e"
+                name="{=lord_polish_10e.name}Jaszczołt Michałowicz"
+                voice="softspoken"
+                age="2"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.polish"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.2369" build="0.534"  key="0008B808C0A00082872699A7676848A38756636884887645AA58378583CA89470088460308A4484900000000000000000000000000000000000000005B144142"  />
+    </face>
+    <skills>
+      <skill id="Charm" value="15" />
+      <skill id="Scouting" value="25" />
+      <skill id="Athletics" value="25" />
+      <skill id="Throwing" value="10" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="pol_lord" />
+      <EquipmentSet id="pol_lord"
                     civilian="true" />
     </Equipments>
   </NPCCharacter>

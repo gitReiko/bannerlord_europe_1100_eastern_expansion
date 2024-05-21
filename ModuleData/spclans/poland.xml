@@ -100,7 +100,16 @@
     color="FF2e4d86" color2="FFf4ca16" alternative_color="FF2e4d86" alternative_color2="FFf4ca16"
   />
 
-
+  <Faction id="clan_poland_10"
+    name="{=clan_poland_10.name}Awdaniec"
+    tier="5"
+    owner="Hero.lord_polish_10a"
+    culture="Culture.polish"
+    super_faction="Kingdom.poland"
+    is_noble="true"
+    banner_key="11.48.146.2085.2085.764.764.1.0.0.505.35.116.531.350.778.764.0.1.0.505.48.116.200.200.765.900.0.1.45.505.48.116.200.200.565.900.0.1.45.505.48.116.200.200.965.900.0.1.45.505.48.116.200.200.864.629.0.1.45.505.48.116.200.200.664.629.0.1.45.505.48.116.200.200.1064.629.0.1.45.505.48.116.200.200.1050.732.0.1.0.505.48.116.200.355.478.732.0.1.0" 
+    color="FFe44535" color2="FFf5f5f5" alternative_color="FFe44535" alternative_color2="FFf5f5f5"
+  />
 
 
 
