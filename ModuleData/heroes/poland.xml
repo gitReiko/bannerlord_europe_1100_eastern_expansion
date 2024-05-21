@@ -45,11 +45,12 @@
    <Hero id="lord_polish_7a" faction="Faction.clan_poland_7" text="{=lord_polish_7a.text}The von Borck (Borkowie) are an old noble family from Western Pomerania. Borko I - is the first member of the family who was mentioned in written sources. Borko I was a nobleman of Slavic origin in the service of the Dukes of Pomerania. Borko is the father of Borko I, taken from genealogical trees. Couldn't find any information about him, probably a legendary person." />
 
 
+   <Hero id="lord_polish_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_8b" faction="Faction.clan_poland_8" text="{=lord_polish_1f.text}Heir to the Polish throne. Władysław I Herman eldest son. Probably was not born of a Christian marriage, so he had problems with succession to the throne. He was imprisoned in a monastery. Dissatisfied with Sieciech's rule, the Silesian nobility freed Zbigniew and created his faction. As a result of the struggle for the throne, Poland was divided into 2 states. Zbigniew became the Duke of Greater Poland, Kuyavia and Masovia. He wanted to rule all of Poland. Because of this, he started a struggle with his brother Bolesław III Wrymouth and lost." />
+   <Hero id="lord_polish_8b" faction="Faction.clan_poland_8" />
+   <Hero id="lord_polish_8c" faction="Faction.clan_poland_8" />
+
+
    <Hero id="lord_polish_1c" father="Hero.lord_polish_1a" spouse="Hero.lord_polish_1d" mother="Hero.lord_polish_1ba_dead" faction="Faction.clan_poland_1" text="{=lord_polish_1c.text}Heir to the Polish throne. An active player in the Polish Game of Thrones. He was originally the primary heir. But due to Sieciech's intrigues, he united with his brother Zbigniew and turned against Sieciech and his father Władysław I Herman. The victory in the struggle led to the expulsion of Sieciech and the splitting of Poland into 2 states. Bolesław III Wrymouth became the Duke of Lesser Poland, Silesia and Sandomierz. After winning in the struggle with his brother Zbigniew, he became ruler of all Poland." />
    <Hero id="lord_polish_1e" spouse="Hero.lord_polish_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_poland_1" />
-
-
-   <Hero id="lord_polish_1f" father="Hero.lord_polish_1a" mother="Hero.lord_polish_1b" faction="Faction.clan_poland_1" />
-
 
 </Heroes>

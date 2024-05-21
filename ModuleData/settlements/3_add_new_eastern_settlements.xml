@@ -948,7 +948,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_wloclawek" name="{=reiko_wloclawek.name}Włocławek" owner="Faction.clan_poland_2" posX="745.707" posY="1175.260" culture="Culture.polish"  gate_posX="744.660" gate_posY="1176.450" text="{=reiko_wloclawek.text}Włocławek">
+  <Settlement id="reiko_wloclawek" name="{=reiko_wloclawek.name}Włocławek" owner="Faction.clan_poland_8" posX="745.707" posY="1175.260" culture="Culture.polish"  gate_posX="744.660" gate_posY="1176.450" text="{=reiko_wloclawek.text}Włocławek">
     <Components>
       <Town id="reiko_wloclawek_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1400" />
     </Components>
