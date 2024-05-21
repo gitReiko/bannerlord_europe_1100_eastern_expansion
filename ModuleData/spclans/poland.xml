@@ -24,7 +24,7 @@
   />
 		   
   <Faction id="clan_poland_3"
-    name="{=Łabędź}Łabędź"
+    name="{=clan_poland_3.name}Łabędź"
     tier="4"
     owner="Hero.lord_polish_3a"
     culture="Culture.polish"

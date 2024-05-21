@@ -14,9 +14,9 @@
 		   culture="Culture.polish"
 		   settlement_banner_mesh="encounter_flag_a"
 		   flag_mesh="info_screen_flags_b"
-		   name="{=polish_kingdom_name}The Duchy of Poland"
-		   short_name="{=polish_kingdom_short_name}Poles"
-		   title="{=polish_kingdom_title}Duchy of Poland"
+		   name="{=polish_kingdom_name}The Poland Duchy"
+		   short_name="{=polish_kingdom_short_name}Poland"
+		   title="{=polish_kingdom_title}Poland Duchy"
 		   ruler_title="{=polish_ruler_title}Duke"
 		   text="{=polish_kingdom_text}In the year 1100, the Grand Duchy of Poland experienced a significant period of political and territorial transformation. At this time, the Polish state was ruled by Władysław I Herman, a member of the Piast dynasty. Władysław I sought to consolidate and expand his authority, focusing on strengthening the central power of the Grand Duchy. His reign saw an increased integration of various Polish regions and the establishment of a more cohesive political structure. Additionally, Władysław I faced challenges from neighboring powers, including the Holy Roman Empire and Kievan Rus, which influenced the geopolitical dynamics of the region. Despite these challenges, the Grand Duchy of Poland, with its capital in Gniezno and later Kraków, continued to evolve and set the stage for further developments in the centuries to come.">
     <relationships>

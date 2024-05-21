@@ -11,15 +11,17 @@
    <Hero id="lord_polish_1j" faction="Faction.clan_poland_1" />
 
 
-   <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" text="{=lord_polish_2b.text}Apparently a descendant of Pomeranian Duke Siemomysł. Świętobor recognized the supremacy of the Holy Roman Empire and tried to get rid of dependence on the Polish Dukedom. The struggle resulted in imprisonment and he was released by his relative Bolesław III Wrymouth. Possibly the founder of the House of Griffin." />
+   <Hero id="lord_polish_2a" spouse="Hero.lord_polish_2b" faction="Faction.clan_poland_2" text="{=lord_polish_2a.text}Apparently a descendant of Pomeranian Duke Siemomysł. Świętobor recognized the supremacy of the Holy Roman Empire and tried to get rid of dependence on the Polish Dukedom. The struggle resulted in imprisonment and he was released by his relative Bolesław III Wrymouth. Possibly the founder of the House of Griffin." />
    <Hero id="lord_polish_2b" spouse="Hero.lord_polish_2a" faction="Faction.clan_poland_2" />
    <Hero id="lord_polish_2c" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
    <Hero id="lord_polish_2d" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
    <Hero id="lord_polish_2e" father="Hero.lord_polish_2a" mother="Hero.lord_polish_2b" faction="Faction.clan_poland_2" />
 
 
-   <Hero id="lord_polish_3a" spouse="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />
-   <Hero id="lord_polish_3b" spouse="Hero.lord_polish_3a" faction="Faction.clan_poland_3" />
+   <Hero id="lord_polish_3a" spouse="Hero.lord_polish_3b" faction="Faction.clan_poland_3" text="{=lord_polish_3a.text}He was of Danish origin. Due to control of traffic across the Oder, he was an influential Noble in Silesia. He owned several estates in Wrocław. After the dismissal of Sieciech and his supporters from power, he became Count of Wrocław." />
+   <Hero id="lord_polish_3b" spouse="Hero.lord_polish_3a" faction="Faction.clan_poland_3" father="Hero.lord_danish_1a" text="{=lord_polish_3b.text}The person's name is fictitious. It is known her husband's name and that she is Eric I of Denmark illegitimate daughter." />
+   <Hero id="lord_polish_3c" father="Hero.lord_polish_3a" mother="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />
+   <Hero id="lord_polish_3d" father="Hero.lord_polish_3a" mother="Hero.lord_polish_3b" faction="Faction.clan_poland_3" />
 
 
    <Hero id="lord_polish_4a" faction="Faction.clan_poland_4" />
