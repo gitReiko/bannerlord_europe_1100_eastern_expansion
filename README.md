@@ -1,16 +1,16 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.9.1, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.9.2, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 !!! Warning. Mod now requires Open Source Armory.
 
 The mod on this page will be updated to match the Empires of Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.3.0
+Update 1.4.0 Poland Duchy
 
-- compatible with Europa 1100 1.2.9.1
-- 12 new kingdoms: Latgalia and Aestia
-- 1 new Aestian culture
-- other changes
+- 4 new castles and 1 new city for Poland
+- 1 new city for Hungary
+- rework of all Poland clanes and lords
+- 10 clanes and 39 historical lords for Poland
 
 This mod has two purposes:
 
@@ -21,14 +21,15 @@ Eastern Europe has the same 1090-1005 timeline. Submod also tries to be as histo
 
 At this moment, the mod adds:
 
-- 13 cities, 21 castles, 51 villages
+- 15 cities, 25 castles, 54 villages
 - 10 kingdoms (Aestia, Galicia, Jatvingia, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
 - 6 cultures (Aestian, Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
+- expands 1 kingdom (Poland)
 
 My future plans
 
-- Add historical settlements and clans for Poland, possibly Hungary
 - add Dregovian culture and further creation of Kyivan kingdom
+- expand of Hungary
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
 Discussion, suggestions, critics
