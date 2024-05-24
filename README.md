@@ -19,12 +19,12 @@ This mod has two purposes:
 
 Eastern Europe has the same 1090-1005 timeline. Submod also tries to be as historical as possible (lack of historical and archaeological materials and my competence).
 
-At this moment, the mod adds:
+At this moment mod:
 
-- 15 cities, 25 castles, 54 villages
-- 10 kingdoms (Aestia, Galicia, Jatvingia, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
-- 6 cultures (Aestian, Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
-- expands 1 kingdom (Poland)
+- add 15 cities, 25 castles, 54 villages
+- add 10 kingdoms (Aestia, Galicia, Jatvingia, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
+- add 6 cultures (Aestian, Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
+- expand 1 kingdom (Poland)
 
 My future plans
 
