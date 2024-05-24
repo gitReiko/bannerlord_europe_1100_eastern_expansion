@@ -1061,4 +1061,71 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="town_K5" name="{=Settlements.Settlement.ECM.town_K5}Zagreb" owner="Faction.clan_hungary_2" posX="698.757" posY="1015.879" culture="Culture.hungary" gate_posX="702.506" gate_posY="1018.282" text="{=ECM_SUnaVliN}Zagreb sits by the reed-marshes on the edge of Lake Tanaesis. In the years when the east was an imperial protectorate, boats laden with hides, wool and salt shuttled across the lake's placid waters, returning with imperial silks and silver. With the coming of the Khuzaits and the subsequent wars the water-trade stopped, but Zagreb remains a major trade entrepot and military base, the fief of the ruling Urkhunait clan. From the pavilions of his palace, the khan can look out across the lake and see the hazy outline of hills that he may one day graze his horses upon.">
+     <Components>
+      <Town id="town_comp_K5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.508" prosperity="3900" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="vlandia_town_e" scene_name_1="vlandia_town_e" scene_name_2="vlandia_town_e" scene_name_3="vlandia_town_e" />
+      <Location id="arena" scene_name="arena_vlandia_a" />
+      <Location id="tavern" scene_name="vlandia_tavern_interior_a" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+      <Location id="house_1" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_2" scene_name="vlandia_city_house_a_interior_house" />
+      <Location id="house_3" scene_name="vlandia_city_house_a_interior_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+
+  <Settlement id="village_K5_2" name="{=Settlements.Settlement.ECM.village_K5_2}Szombathely" posX="675.524" posY="1038.704" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_2}Okhutan is a village at the center of a wheat-growing district on a narrow stretch of plain between the Akkan hills and Lake Tanaesis, which the Khuzaits call the Tanaz Sea.">
+    <Components>
+      <Village id="village_comp_K5_2" village_type="VillageType.cattle_farm" hearth="326" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    village_K5_3 changes
+    name = Buda
+  -->
+  <Settlement id="village_K5_3" name="{=Settlements.Settlement.ECM.village_K5_3}Buda" posX="716.204" posY="1036.28" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_3}Ispantar is a village on a rocky spur of the Akkan hills overlooking Lake Tanaesis, which the Khuzaits call the Tanaz Sea. The villagers here make most of their income from the raising of sheep.">
+    <Components>
+      <Village id="village_comp_K5_3" village_type="VillageType.sheep_farm" hearth="327" bound="Settlement.reiko_budapest" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_K5_4" name="{=Settlements.Settlement.ECM.village_K5_4}Pécs" posX="718.482" posY="1014.174" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_4}Pabastan sits in the narrow plain between the Akkan hills and Lake Tanaesis, which the Khuzaits call the Tanaz Sea. This land is fine country for wheat.">
+    <Components>
+      <Village id="village_comp_K5_4" village_type="VillageType.wheat_farm" hearth="239" gate_rotation="0.008" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
 </Settlements>
