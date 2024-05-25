@@ -211,7 +211,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_svislac" name="{=reiko_svislac.name}Svisłač Castle" owner="Faction.clan_polotsk_2" posX="1010.000" posY="1223.380" culture="Culture.kryvich" gate_posX="1009.810" gate_posY="1223.920">
+  <Settlement id="reiko_svislac" name="{=reiko_svislac.name}Śvisłač Castle" owner="Faction.clan_polotsk_2" posX="1010.000" posY="1223.380" culture="Culture.kryvich" gate_posX="1009.810" gate_posY="1223.920">
     <Components>
       <Town id="reiko_svislac_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -275,7 +275,7 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horodnia" owner="Faction.clan_jatvingian_1" posX="883.800" posY="1213.200" culture="Culture.jatvingian"  gate_posX="885.120" gate_posY="1211.550" text="{=reiko_hrodna.text}Horodnia.">
+    <Settlement id="reiko_hrodna" name="{=reiko_hrodna.name}Horodna" owner="Faction.clan_jatvingian_1" posX="883.800" posY="1213.200" culture="Culture.jatvingian"  gate_posX="885.120" gate_posY="1211.550" text="{=reiko_hrodna.text}Horodna.">
     <Components>
       <Town id="reiko_hrodna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1100" />
     </Components>
@@ -321,7 +321,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_vaukavysk_vil_1" name="{=reiko_vaukavysk_vil_1.name}Lyskovo" posX="896.054" posY="1186.393" culture="Culture.jatvingian" text="{=reiko_vaukavysk_vil_1.text}Lyskovo">
+  <Settlement id="reiko_vaukavysk_vil_1" name="{=reiko_vaukavysk_vil_1.name}Lyskova" posX="896.054" posY="1186.393" culture="Culture.jatvingian" text="{=reiko_vaukavysk_vil_1.text}Lyskova">
     <Components>
       <Village id="reiko_vaukavysk_vil_1_comp" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -337,7 +337,7 @@
 
   <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokołka" posX="859.170" posY="1209.170" culture="Culture.jatvingian" text="{=reiko_rajgrod_vil_2.text}Sokołka">
     <Components>
-      <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.trapper" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.trapper" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

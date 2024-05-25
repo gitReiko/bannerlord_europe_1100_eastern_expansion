@@ -275,14 +275,14 @@
 
   <!-- 
     castle_village_KR4_2 changes
-    name = Volka
+    name = Usłonim
     hearth = 233
-    bound = reiko_vaukavysk
+    bound = reiko_navahradak
     culture = jatvingian
   -->
   <Settlement id="castle_village_KR4_2" name="{=castle_village_KR4_2_ee.name}Usłonim" posX="925.051" posY="1196.069" culture="Culture.jatvingian" text="{=castle_village_KR4_2_ee.text}Usłonim">
     <Components>
-      <Village id="castle_village_comp_KR4_2" village_type="VillageType.cattle_farm" hearth="233" gate_rotation="0.008" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="castle_village_comp_KR4_2" village_type="VillageType.cattle_farm" hearth="233" gate_rotation="0.008" bound="Settlement.reiko_navahradak" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_h" />
@@ -387,7 +387,7 @@
   -->
   <Settlement id="village_KR2_1" name="{village_KR2_1_ee.name}Svisłoč" posX="883.919" posY="1193.015" culture="Culture.jatvingian" text="{=village_KR2_1_ee.text}Svisłoč">
     <Components>
-      <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.reiko_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
@@ -407,7 +407,7 @@
   -->
   <Settlement id="village_KR2_2" name="{=village_KR2_2_ee.name}Parczew" posX="861.696" posY="1162.636" culture="Culture.jatvingian" text="{=village_KR2_2_ee.text}Parczew">
     <Components>
-      <Village id="village_comp_KR2_2" village_type="VillageType.silver_mine" hearth="322" gate_rotation="0.168" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="village_comp_KR2_2" village_type="VillageType.silver_mine" hearth="322" gate_rotation="0.168" bound="Settlement.reiko_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />
