@@ -8236,29 +8236,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="Golden_castle_K3" name="{=Settlements.Settlement.name.ECM.Golden_castle_K3}Soroca Castle" owner="Faction.clan_rus_1" posX="996.439" posY="1083.641" culture="Culture.rus" gate_posX="997.9226" gate_posY="1082.607">
-    <Components>
-      <Town id="Golden_castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
-  <Settlement id="Golden_castle_village_K3_1" name="{=Settlements.Settlement.name.ECM.Golden_castle_village_K3_1}Jytomyr" posX="975.872" posY="1103.607" culture="Culture.rus" text="{=Settlements.Settlement.text.castle_village_K3_1}The village of Hakkun is perched atop the escarpment of the Akkan hills. The people of these parts have long mined silver from the mountains, a trade that the Khuzait khans were happy to encourage when they conquered this region.">
-    <Components>
-      <Village id="Golden_castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <Settlement id="Golden_castle_K4" name="{=Settlements.Settlement.name.ECM.Golden_castle_K4}Mykolaiv Castle" owner="Faction.clan_khuzait_1" posX="1092.765" posY="1044.539" culture="Culture.khuzait" gate_posX="1090.887" gate_posY="1044.214">
     <Components>
       <Town id="Golden_castle_comp_K4" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="530" />
@@ -8558,19 +8536,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="Golden_castle_village_K3_2" name="{=Settlements.Settlement.name.ECM.Golden_castle_village_K3_2}Vinnytsia" posX="1022.31" posY="1107.402" culture="Culture.rus" text="{=Settlements.Settlement.text.village_K2_4}Kiraz lies in a basin at the southern end of the Devseg plateau. Until recently, this land was dominated by nomads, and the people here still make their living by raising sheep.">
-    <Components>
-      <Village id="Golden_castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
   <!-- swamp city, Atil -->
   <Settlement id="Golden_town_K3" name="{=Settlements.Settlement.name.ECM.Golden_town_K3}Hadjibey" owner="Faction.clan_pech_4" posX="1050.014" posY="1015.734" culture="Culture.khuzait" gate_posX="1050.308" gate_posY="1017.916" text="{=bPDqyqkb}Makeb sits on the northern tip of Lake Tanaesis, Tanaz in the steppe tongue. Here, it guards the cataract over which the Karakaz river empties into the lake. This city has long been ruled by petty khans and shahs, who collect tolls from traders forced to haul their boats around the rapids. The last of those rulers was beheaded by Urkhun himself after he refused a demand of tribute, after which the ruling family of the Khuzaits seized this town for themselves.">
@@ -8856,29 +8822,6 @@
   
   <!--Rus-->
   
-   <Settlement id="castle_KR1" name="{=Settlements.Settlement.ECM.KR.castle_KR1}Kamianets-Podilskyi Castle" owner="Faction.clan_rus_1" posX="997.511" posY="1133.374" culture="Culture.rus" gate_posX="997.3046" gate_posY="1131.483">
-    <Components>
-      <Town id="castle_comp_KR1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" prosperity="890" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="sturgia_castle_siege_001" scene_name_1="sturgia_castle_siege_001" scene_name_2="sturgia_castle_siege_001" scene_name_3="sturgia_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="sturgia_dungeon_a" />
-    </Locations>
-  </Settlement>
-  <Settlement id="castle_village_KR1_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR1_1}Tchortkiv" posX="959.29" posY="1157.051" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR1_1}Tchortkiv.">
-    <Components>
-      <Village id="castle_village_comp_KR1_1" village_type="VillageType.cattle_farm" hearth="240" gate_rotation="0.258" bound="Settlement.castle_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
 
   <Settlement id="castle_KR3" name="{=Settlements.Settlement.ECM.KR.castle_KR3}Torzhok Castle" owner="Faction.clan_rus_7" posX="1150.777" posY="1323.425" culture="Culture.rus" gate_posX="1151.903" gate_posY="1324.941">
     <Components>
@@ -9133,19 +9076,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_KR1_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR1_2}Radomychl" posX="1007.394" posY="1134.854" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR7_3}Radomychl.">
-    <Components>
-      <Village id="castle_village_comp_KR1_2" village_type="VillageType.sturgian_horse_ranch" hearth="100" gate_rotation="0.758" bound="Settlement.castle_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
    <!-- Sami People  -->
  <!--
   <Settlement id="castle_SAM1" name="{=Settlements.Settlement.ECM.SAM.castle_SAM1}Hämeenlinna Castle" owner="Faction.clan_sami_1" posX="863.1" posY="1389.978" culture="Culture.sami" gate_posX="863.4372" gate_posY="1388.106">

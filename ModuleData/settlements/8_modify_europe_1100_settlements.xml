@@ -109,10 +109,10 @@
 
   <!-- 
     castle_village_KR2_1 changes
-    name = Słučiesk
+    name = Słučsk
     hearth = 170
   -->
-  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Słučiesk" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Słučiesk.">
+  <Settlement id="castle_village_KR2_1" name="{=Settlements.Settlement.ECM.KR.castle_village_KR2_1}Słučsk" posX="979.793" posY="1196.682" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.castle_village_KR2_1}Słučsk">
     <Components>
       <Village id="castle_village_comp_KR2_1" village_type="VillageType.wheat_farm" hearth="170" gate_rotation="0.258" bound="Settlement.castle_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -280,7 +280,7 @@
     bound = reiko_vaukavysk
     culture = jatvingian
   -->
-  <Settlement id="castle_village_KR4_2" name="{=Settlements.Settlement.ECM.KR.castle_village_KR4_2}Volka" posX="925.051" posY="1196.069" culture="Culture.jatvingian" text="{=ECM_Settlements.Settlement.text.castle_village_KR4_2}Volka.">
+  <Settlement id="castle_village_KR4_2" name="{=castle_village_KR4_2_ee.name}Usłonim" posX="925.051" posY="1196.069" culture="Culture.jatvingian" text="{=castle_village_KR4_2_ee.text}Usłonim">
     <Components>
       <Village id="castle_village_comp_KR4_2" village_type="VillageType.cattle_farm" hearth="233" gate_rotation="0.008" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -381,11 +381,11 @@
 
   <!-- 
     village_KR2_1 changes
-    name = Svisłač
+    name = Svisłoč
     culture = jatvingian
     bound = reiko_drohiczyn
   -->
-  <Settlement id="village_KR2_1" name="{=Settlements.Settlement.ECM.KR.village_KR2_1}Svisłač" posX="883.919" posY="1193.015" culture="Culture.jatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_1}Svisłač">
+  <Settlement id="village_KR2_1" name="{village_KR2_1_ee.name}Svisłoč" posX="883.919" posY="1193.015" culture="Culture.jatvingian" text="{=village_KR2_1_ee.text}Svisłoč">
     <Components>
       <Village id="village_comp_KR2_1" village_type="VillageType.lumberjack" hearth="112" gate_rotation="0.008" bound="Settlement.reiko_drohiczyn" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -401,11 +401,11 @@
 
   <!-- 
     village_KR2_2 changes
-    name = Wisznice
+    name = Parczew
     village type = fisherman
     culture = jatvingian
   -->
-  <Settlement id="village_KR2_2" name="{=Settlements.Settlement.ECM.KR.village_KR2_2}Wisznice" posX="861.696" posY="1162.636" culture="Culture.jatvingian" text="{=ECM_Settlements.Settlement.text.village_KR2_2}Wisznice.">
+  <Settlement id="village_KR2_2" name="{=village_KR2_2_ee.name}Parczew" posX="861.696" posY="1162.636" culture="Culture.jatvingian" text="{=village_KR2_2_ee.text}Parczew">
     <Components>
       <Village id="village_comp_KR2_2" village_type="VillageType.silver_mine" hearth="322" gate_rotation="0.168" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -1120,6 +1120,109 @@
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_KR1 changes
+    name = Zhytomyr
+    level = 1
+  -->
+  <Settlement id="castle_KR1" name="{=castle_KR1_ee.name}Zhytomyr Castle" owner="Faction.clan_rus_1" posX="997.511" posY="1133.374" culture="Culture.rus" gate_posX="997.3046" gate_posY="1131.483">
+    <Components>
+      <Town id="castle_comp_KR1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" prosperity="890" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="sturgia_castle_siege_001" scene_name_1="sturgia_castle_siege_001" scene_name_2="sturgia_castle_siege_001" scene_name_3="sturgia_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="sturgia_castle_keep_a_l2_interior" scene_name_2="sturgia_castle_keep_a_l2_interior" scene_name_3="sturgia_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="sturgia_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+    <!-- 
+    castle_village_KR1_1 changes
+    name = Strilsk
+  -->
+  <Settlement id="castle_village_KR1_1" name="{=castle_village_KR1_1_ee.name}Strilsk" posX="959.29" posY="1157.051" culture="Culture.rus" text="{=castle_village_KR1_1_ee.text}Strilsk">
+    <Components>
+      <Village id="castle_village_comp_KR1_1" village_type="VillageType.cattle_farm" hearth="240" gate_rotation="0.258" bound="Settlement.castle_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_KR1_2 changes
+    name = Zhytomyr
+  -->
+  <Settlement id="castle_village_KR1_2" name="{=castle_village_KR1_2_ee.name}Khminychi" posX="1007.394" posY="1134.854" culture="Culture.rus" text="{=castle_village_KR1_2_ee.text}Khminychi">
+    <Components>
+      <Village id="castle_village_comp_KR1_2" village_type="VillageType.sturgian_horse_ranch" hearth="100" gate_rotation="0.758" bound="Settlement.castle_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    Golden_castle_K3 changes
+    name = Nizhnyi Bozhskyi
+  -->
+  <Settlement id="Golden_castle_K3" name="{=Golden_castle_K3_ee.name}Nizhnyi Bozhskyi Castle" owner="Faction.clan_rus_1" posX="996.439" posY="1083.641" culture="Culture.rus" gate_posX="997.9226" gate_posY="1082.607">
+    <Components>
+      <Town id="Golden_castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    Golden_castle_village_K3_1 changes
+    name = Letychiv
+  -->
+  <Settlement id="Golden_castle_village_K3_1" name="{=Golden_castle_village_K3_1_ee.name}Letychiv" posX="975.872" posY="1103.607" culture="Culture.rus" text="{=Golden_castle_village_K3_1_ee.text}Letychiv">
+    <Components>
+      <Village id="Golden_castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    Golden_castle_village_K3_2 changes
+    name = Skorgorodok
+  -->
+  <Settlement id="Golden_castle_village_K3_2" name="{=Golden_castle_village_K3_2_ee.name}Skorgorodok" posX="1022.31" posY="1107.402" culture="Culture.rus" text="{=Golden_castle_village_K3_2_ee.name}Skorgorodok">
+    <Components>
+      <Village id="Golden_castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />

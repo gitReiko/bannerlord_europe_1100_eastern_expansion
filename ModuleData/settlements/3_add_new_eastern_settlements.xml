@@ -296,7 +296,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_hrodna_vil_2" name="{=reiko_hrodna_vil_2.name}Kaścienieva" posX="907.205" posY="1218.040" culture="Culture.jatvingian" text="{=reiko_hrodna_vil_2.text}Kaścienieva">
+  <Settlement id="reiko_hrodna_vil_2" name="{=reiko_hrodna_vil_2.name}Kościenieva" posX="907.205" posY="1218.040" culture="Culture.jatvingian" text="{=reiko_hrodna_vil_2.text}Kościenieva">
     <Components>
       <Village id="reiko_hrodna_vil_2_comp" village_type="VillageType.wheat_farm" hearth="145" bound="Settlement.reiko_hrodna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -310,7 +310,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_vaukavysk" name="{=reiko_vaukavysk.name}Vaŭkavysk Castle" owner="Faction.clan_jatvingian_2" posX="899.836" posY="1200.157" culture="Culture.jatvingian"  gate_posX="899.802" gate_posY="1199.414">
+  <Settlement id="reiko_vaukavysk" name="{=reiko_vaukavysk.name}Vołkovysk Castle" owner="Faction.clan_jatvingian_2" posX="899.836" posY="1200.157" culture="Culture.jatvingian"  gate_posX="899.802" gate_posY="1199.414">
     <Components>
       <Town id="reiko_vaukavysk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="700" />
     </Components>
@@ -321,7 +321,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_vaukavysk_vil_1" name="{=reiko_vaukavysk_vil_1.name}Narewka" posX="896.054" posY="1186.393" culture="Culture.jatvingian" text="{=reiko_vaukavysk_vil_1.text}Narewka.">
+  <Settlement id="reiko_vaukavysk_vil_1" name="{=reiko_vaukavysk_vil_1.name}Lyskovo" posX="896.054" posY="1186.393" culture="Culture.jatvingian" text="{=reiko_vaukavysk_vil_1.text}Lyskovo">
     <Components>
       <Village id="reiko_vaukavysk_vil_1_comp" village_type="VillageType.clay_mine" hearth="140" gate_rotation="0.758" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -335,7 +335,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokółka" posX="859.170" posY="1209.170" culture="Culture.jatvingian" text="{=reiko_rajgrod_vil_2.text}Sokółka.">
+  <Settlement id="reiko_rajgrod_vil_2" name="{=reiko_rajgrod_vil_2.name}Sokołka" posX="859.170" posY="1209.170" culture="Culture.jatvingian" text="{=reiko_rajgrod_vil_2.text}Sokołka">
     <Components>
       <Village id="reiko_rajgrod_vil_2_comp" village_type="VillageType.trapper" hearth="147" gate_rotation="0.408" bound="Settlement.reiko_vaukavysk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -508,7 +508,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_navahradak_vil_1" name="{=reiko_navahradak_vil_1.name}Karčova" posX="959.562" posY="1209.014" culture="Culture.jatvingian" text="{=reiko_navahradak_vil_1.text}Karčova">
+  <Settlement id="reiko_navahradak_vil_1" name="{=reiko_navahradak_vil_1.name}Turec" posX="959.562" posY="1209.014" culture="Culture.jatvingian" text="{=reiko_navahradak_vil_1.text}Turec">
     <Components>
       <Village id="reiko_navahradak_vil_1_comp" village_type="VillageType.lumberjack" hearth="174" gate_rotation="0.008" bound="Settlement.reiko_navahradak" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
