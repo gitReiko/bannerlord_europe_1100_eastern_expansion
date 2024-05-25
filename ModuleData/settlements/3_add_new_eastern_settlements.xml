@@ -682,7 +682,7 @@
     </CommonAreas>
   </Settlement>
 
-    <Settlement id="reiko_vilnius_vil_1" name="{=reiko_vilnius_vil_1.name}Holša" posX="947.454" posY="1220.670" culture="Culture.goldenhorde" text="{=reiko_vilnius_vil_1.text}Holša.">
+    <Settlement id="reiko_vilnius_vil_1" name="{=reiko_vilnius_vil_1.name}Holša" posX="948.988" posY="1226.230" culture="Culture.goldenhorde" text="{=reiko_vilnius_vil_1.text}Holša.">
     <Components>
       <Village id="reiko_vilnius_vil_1_comp" village_type="VillageType.sturgian_horse_ranch" hearth="290" gate_rotation="0.758" bound="Settlement.reiko_vilnius" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
