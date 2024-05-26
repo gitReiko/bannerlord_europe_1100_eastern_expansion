@@ -222,7 +222,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Zborsk" posX="988.210" posY="1212.910" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Zborsk">
+  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Zborsk" posX="994.954" posY="1218.642" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Zborsk">
     <Components>
       <Village id="reiko_svislac_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_svislac" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -247,26 +247,12 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Kamajsk" posX="1009.655" posY="1233.560" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Kamajsk">
+  <Settlement id="reiko_lukoml_vil_1" name="{=reiko_lukoml_vil_1.name}Kamień" posX="1004.636" posY="1247.200" culture="Culture.kryvich" text="{=reiko_lukoml_vil_1.text}Kamień">
     <Components>
       <Village id="reiko_lukoml_vil_1_comp" village_type="VillageType.flax_plant" hearth="164" gate_rotation="0.008" bound="Settlement.reiko_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_j" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-
-    <Settlement id="reiko_lukoml_vil_2" name="{=reiko_lukoml_vil_2.name}Kamień" posX="993.714" posY="1241.770" culture="Culture.kryvich" text="{=reiko_lukoml_vil_2.text}Kamień">
-    <Components>
-      <Village id="reiko_lukoml_vil_2_comp" village_type="VillageType.sturgian_horse_ranch" hearth="123" gate_rotation="0.408" bound="Settlement.reiko_lukoml" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="sturgia_village_f" />
     </Locations>
     <CommonAreas>
       <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
