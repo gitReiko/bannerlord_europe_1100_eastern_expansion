@@ -1149,10 +1149,12 @@
     <!-- 
     castle_village_KR1_1 changes
     name = Strilsk
+    bound = reiko_dubrovytsia
+    hearth = 157
   -->
   <Settlement id="castle_village_KR1_1" name="{=castle_village_KR1_1_ee.name}Strilsk" posX="959.29" posY="1157.051" culture="Culture.rus" text="{=castle_village_KR1_1_ee.text}Strilsk">
     <Components>
-      <Village id="castle_village_comp_KR1_1" village_type="VillageType.cattle_farm" hearth="240" gate_rotation="0.258" bound="Settlement.castle_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+      <Village id="castle_village_comp_KR1_1" village_type="VillageType.cattle_farm" hearth="157" gate_rotation="0.258" bound="Settlement.reiko_dubrovytsia" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="sturgia_village_f" />

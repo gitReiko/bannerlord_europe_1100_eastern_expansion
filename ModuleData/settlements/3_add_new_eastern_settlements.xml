@@ -513,7 +513,7 @@
       <Town id="reiko_terebovlia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1600" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
+      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
       <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
       <Location id="prison" scene_name="battania_dungeon_a" />
     </Locations>
@@ -1056,6 +1056,17 @@
       <Area type="Clearing" name="{=LWHIVshb}Clearing" />
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
+  </Settlement>
+
+  <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_rus_1" posX="950.358" posY="1168.737" culture="Culture.jatvingian"  gate_posX="950.692" gate_posY="1167.080">
+    <Components>
+      <Town id="reiko_dubrovytsia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="730" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_b" scene_name_1="battania_castle_b" scene_name_2="battania_castle_b" scene_name_3="battania_castle_b" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
   </Settlement>
 
   <!-- Europe 1700 -->
