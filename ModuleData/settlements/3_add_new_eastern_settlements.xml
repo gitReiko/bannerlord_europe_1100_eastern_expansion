@@ -1057,6 +1057,20 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
+  
+  <Settlement id="reiko_turau_vil_1" name="{=reiko_turau_vil_1.name}Haradok" posX="969.340" posY="1175.950" culture="Culture.jatvingian" text="{=reiko_turau_vil_1.text}Haradok">
+    <Components>
+      <Village id="reiko_turau_vil_1_comp" village_type="VillageType.fisherman" hearth="144" gate_rotation="0.008" bound="Settlement.reiko_turau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
 
   <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_rus_1" posX="950.358" posY="1168.737" culture="Culture.jatvingian"  gate_posX="950.692" gate_posY="1167.080">
     <Components>
