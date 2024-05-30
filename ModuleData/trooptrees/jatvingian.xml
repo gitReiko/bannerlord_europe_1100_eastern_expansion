@@ -1633,7 +1633,7 @@
 	<NPCCharacter id="jatv_dregovian_archer"
 		default_group="Ranged"
 		level="11"
-		name="{=jatv_dregovian_archer.name}Dregovian Archer"
+		name="{=jatv_dregovian_archer.name}Jatvingian Dregovian Archer"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
@@ -1725,7 +1725,7 @@
 	<NPCCharacter id="jatv_dregovian_experienced_archer"
 		default_group="Ranged"
 		level="16"
-		name="{=jatv_dregovian_experienced_archer.name}Dregovian Experienced Archer"
+		name="{=jatv_dregovian_experienced_archer.name}Jatvingian Dregovian Experienced Archer"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
@@ -1829,7 +1829,7 @@
 	<NPCCharacter id="jatv_dregovian_pancyrny_archer"
 		default_group="Ranged"
 		level="21"
-		name="{=jatv_dregovian_pancyrny_archer.name}Dregovian Pancyrny Archer"
+		name="{=jatv_dregovian_pancyrny_archer.name}Jatvingian Dregovian Pancyrny Archer"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
@@ -1926,7 +1926,7 @@
 	<NPCCharacter id="jatv_dregovian_pancyrny_archer_veteran"
 		default_group="Ranged"
 		level="26"
-		name="{=jatv_dregovian_pancyrny_archer_veteran.name}Dregovian Pancyrny Archer Veteran"
+		name="{=jatv_dregovian_pancyrny_archer_veteran.name}Jatvingian Dregovian Pancyrny Archer Veteran"
 		occupation="Soldier"
 		culture="Culture.jatvingian">
 		<face>
