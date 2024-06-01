@@ -6,10 +6,10 @@
                 level="1"
                 name="{=villager_dregovian.name}Dregovian Peasant"
                 occupation="Villager"
-                culture="Culture.jatvingian"
+                culture="Culture.dregovian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_jatvingian" />
+      <face_key_template value="BodyProperty.fighter_dregovian" />
     </face>
     <skills></skills>
     <upgrade_targets>
@@ -148,9 +148,9 @@
 				level="26"
 				name="{=caravan_master_dregovian.name}Dregovian Caravan Master"
 				occupation="CaravanGuard"
-				culture="Culture.jatvingian">
+				culture="Culture.dregovian">
 	<face>
-		<face_key_template value="BodyProperty.fighter_jatvingian" />
+		<face_key_template value="BodyProperty.fighter_dregovian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -212,9 +212,9 @@
 				name="{=caravan_guard_dregovian.name}Dregovian Caravan Guard"
 				upgrade_requires="ItemCategory.horse"
 				occupation="CaravanGuard"
-				culture="Culture.jatvingian">
+				culture="Culture.dregovian">
 	<face>
-		<face_key_template value="BodyProperty.fighter_jatvingian" />
+		<face_key_template value="BodyProperty.fighter_dregovian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -296,9 +296,9 @@
 				level="26"
 				name="{=veteran_caravan_guard_dregovian.name}Dregovian Veteran Caravan Guard"
 				occupation="CaravanGuard"
-				culture="Culture.jatvingian">
+				culture="Culture.dregovian">
 	<face>
-		<face_key_template value="BodyProperty.fighter_jatvingian" />
+		<face_key_template value="BodyProperty.fighter_dregovian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -385,10 +385,10 @@
 				level="16"
 				name="{=armed_trader_dregovian.name}Dregovian Armed Trader"
 				occupation="CaravanGuard"
-				culture="Culture.jatvingian"
+				culture="Culture.dregovian"
 				is_basic_troop="true">
 	<face>
-		<face_key_template value="BodyProperty.fighter_jatvingian" />
+		<face_key_template value="BodyProperty.fighter_dregovian" />
 	</face>
 	<skills>
 		<skill id="Athletics"
@@ -460,9 +460,9 @@
 		level="6"
 		name="{=dregovian_levy.name}Dregovian Levy"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="25"/>
@@ -540,9 +540,9 @@
 		level="11"
 		name="{=dregovian_levy_archer.name}Dregovian Levy Archer"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="50"/>
@@ -632,9 +632,9 @@
 		level="16"
 		name="{=dregovian_palkavy_archer.name}Dregovian Palkavy Archer"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="75"/>
@@ -736,9 +736,9 @@
 		level="21"
 		name="{=dregovian_pancyrny_palkavy_archer.name}Dregovian Pancyrny Palkavy Archer"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
@@ -830,9 +830,9 @@
 		level="21"
 		name="{=dregovian_dziecki.name}Dregovian Dziecki"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
@@ -927,9 +927,9 @@
 		level="26"
 		name="{=dregovian_kniazacki_muz.name}Dregovian Kniažacki Muž"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="150"/>
@@ -1023,9 +1023,9 @@
 		level="31"
 		name="{=dregovian_kniaz.name}Dregovian Kniaź"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="200"/>
@@ -1128,9 +1128,9 @@
 		level="11"
 		name="{=dregovian_levy_spearman.name}Dregovian Levy Spearman"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="40"/>
@@ -1221,9 +1221,9 @@
 		level="16"
 		name="{=dregovian_palkavy.name}Dregovian Palkavy"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="75"/>
@@ -1319,9 +1319,9 @@
 		level="21"
 		name="{=dregovian_pancyrny_palkavy.name}Dregovian Pancyrny Palkavy"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
@@ -1408,9 +1408,9 @@
 		level="11"
 		name="{=dregovian_levy_skirmisher.name}Dregovian Levy Skirmisher"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="50"/>
@@ -1508,9 +1508,9 @@
 		level="16"
 		name="{=dregovian_palkavy_skirmisher.name}Dregovian Palkavy Skirmisher"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills>
 			<skill id="Athletics" value="75"/>
@@ -1609,9 +1609,9 @@
 		level="21"
 		name="{=dregovian_palkavy_horseman.name}Dregovian Palkavy Horseman"
 		occupation="Soldier"
-		culture="Culture.jatvingian">
+		culture="Culture.dregovian">
 		<face>
-			<face_key_template value="BodyProperty.villager_jatvingian"/>
+			<face_key_template value="BodyProperty.villager_dregovian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
