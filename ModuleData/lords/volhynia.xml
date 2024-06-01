@@ -288,7 +288,7 @@
                 age="32"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -323,19 +323,19 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="volhynian_lord" />
-      <EquipmentSet id="volhynian_lord"
+      <EquipmentSet id="dregovian_lord" />
+      <EquipmentSet id="dregovian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_2b"
-                name="{=lord_volyan_2b.name}Marylia*"
+                name="{=lord_volyan_2b.name}Maryla*"
                 voice="softspoken"
                 age="28"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -367,8 +367,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="volhynian_lady" />
-      <EquipmentSet id="volhynian_lady"
+      <EquipmentSet id="dregovian_lady" />
+      <EquipmentSet id="dregovian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -379,7 +379,7 @@
                 age="29"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -414,8 +414,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="volhynian_lord" />
-      <EquipmentSet id="volhynian_lord"
+      <EquipmentSet id="dregovian_lord" />
+      <EquipmentSet id="dregovian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -426,7 +426,7 @@
                 age="10"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -461,8 +461,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="volhynian_lord" />
-      <EquipmentSet id="volhynian_lord"
+      <EquipmentSet id="dregovian_lord" />
+      <EquipmentSet id="dregovian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -473,7 +473,7 @@
                 age="2"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -495,8 +495,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="volhynian_lord" />
-      <EquipmentSet id="volhynian_lord"
+      <EquipmentSet id="dregovian_lord" />
+      <EquipmentSet id="dregovian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

@@ -1,0 +1,22 @@
+<strings>
+
+<!--Baltic-->
+  <string id="str_player_father_name.dregovian" text="{=dregovianfather}Bazyl" />
+  <string id="str_player_mother_name.dregovian" text="{=dregovianmother}Mira" />
+  <string id="str_culture_description.dregovian" text="{=dregoviandescription}The Dregoviches are originally associated with the Zarubintsy culture (3 century BC – 2 century AD). As the Ice Age progressed into the territory of modern Belarus, the Zarubinians moved to the Balkans. In the Balkans they became known as Draguvites (Drougoubitai). After the end of the Ice Age, some of the Draguvites migrated back to Belarus. But the area was already settled by other ethnicities. After the Draguvites mixed with these ethnicities, the Dregoviches were formed. Modern genetic research has confirmed this hypothesis: the Dregoviches have a 50% Balkan component. Before the 10th century Dregoviches already had their own state. The Turaŭ (Turov) Principality was formed on its basis. From the 10th century to 1158 the Turaŭ Principality was conquered by Rus. From 1158 the independence of the state was restored. But Rus constantly tried to capture Turaŭ. By the beginning of the 13th century, Turaŭ had fallen into vassal dependence on the Rus Kingdom (Galicia). To liberate themselves, the Dregoviches made an alliance with Lithuania and joined it as an autonomy. During more than 500 years in the Lithuanian state, the Dregoviches mixed with other Belarusian ethnicities and formed the Belarusian nation." />
+  <string id="str_faction_ruler_name_with_title.dregovian" text="{=dregovianrulertitle}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_faction_noble_name_with_title.dregovian" text="{=dregoviannobletitle}{?RULER.GENDER}Pasadnica{?}Pasadnik{\?} {RULER.NAME}" />
+  <string id="str_faction_official.dregovian" text="{=dregovianofficial}pasadnik" />
+  <string id="str_faction_official.dregovian_f" text="{=dregovianofficialf}pasadnica" />
+  <string id="str_faction_ruler.dregovian" text="{=dregovianruler}Knyaz" />
+  <string id="str_faction_ruler.dregovian_f" text="{=dregovianrulerf}Knyazna" />
+  <string id="str_faction_ruler_term_in_speech.dregovian" text="{=dregovianrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.dregovian" text="{=dregovianfactionadjective}Dregovian" />
+  <string id="str_short_term_for_faction.dregovian" text="{=dregovianfactionshortterm}Dregovia" />
+  <string id="str_faction_formal_name_for_culture.dregovian" text="{=dregovianfactionformalname}The Turaŭ Principality" />
+  <string id="str_faction_informal_name_for_culture.dregovian" text="{=dregovianfactioninformalname}the Turaŭ Principality" />
+  <string id="str_adjective_for_culture.dregovian" text="{=dregoviancultureadjective}Dregovian" />
+  <string id="str_neutral_term_for_culture.dregovian" text="{=dregoviancultureneutralterm}Dregovia" />
+  <string id="str_culture_rich_name.dregovian" text="{=dregovianmembers}Dregovia" />	
+	
+</strings>

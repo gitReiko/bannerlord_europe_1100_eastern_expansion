@@ -12,11 +12,11 @@
   <string id="str_faction_ruler.kryvich_f" text="{=kryvichrulerf}Knyazna" />
   <string id="str_faction_ruler_term_in_speech.kryvich" text="{=kryvichrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
   <string id="str_adjective_for_faction.kryvich" text="{=kryvichfactionadjective}Kryvian" />
-  <string id="str_short_term_for_faction.kryvich" text="{=kryvichfactionshortterm}Kryvian" />
+  <string id="str_short_term_for_faction.kryvich" text="{=kryvichfactionshortterm}Kryvia" />
   <string id="str_faction_formal_name_for_culture.kryvich" text="{=kryvichfactionformalname}The Polatsk Principality" />
   <string id="str_faction_informal_name_for_culture.kryvich" text="{=kryvichfactioninformalname}the Polatsk Principality" />
   <string id="str_adjective_for_culture.kryvich" text="{=kryvichcultureadjective}Kryvian" />
-  <string id="str_neutral_term_for_culture.kryvich" text="{=kryvichcultureneutralterm}Kryvian" />
-  <string id="str_culture_rich_name.kryvich" text="{=kryvichmembers}Kryvian" />	
+  <string id="str_neutral_term_for_culture.kryvich" text="{=kryvichcultureneutralterm}Kryvia" />
+  <string id="str_culture_rich_name.kryvich" text="{=kryvichmembers}Kryvia" />	
 	
 </strings>

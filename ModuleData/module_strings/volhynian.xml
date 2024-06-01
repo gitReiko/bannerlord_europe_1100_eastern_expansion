@@ -11,11 +11,11 @@
   <string id="str_faction_ruler.volhynian_f" text="{=volhynianrulerf}Knyazna" />
   <string id="str_faction_ruler_term_in_speech.volhynian" text="{=volhynianrulerterm}{?RULER.GENDER}Knyazna{?}Knyaz{\?} {RULER.NAME}" />
   <string id="str_adjective_for_faction.volhynian" text="{=volhynianfactionadjective}Volhynian" />
-  <string id="str_short_term_for_faction.volhynian" text="{=volhynianfactionshortterm}Volhynian" />
+  <string id="str_short_term_for_faction.volhynian" text="{=volhynianfactionshortterm}Volhynia" />
   <string id="str_faction_formal_name_for_culture.volhynian" text="{=volhynianfactionformalname}The Volhynia Principality" />
   <string id="str_faction_informal_name_for_culture.volhynian" text="{=volhynianfactioninformalname}the Volhynia Principality" />
   <string id="str_adjective_for_culture.volhynian" text="{=volhyniancultureadjective}Volhynian" />
-  <string id="str_neutral_term_for_culture.volhynian" text="{=volhyniancultureneutralterm}Volhynian" />
-  <string id="str_culture_rich_name.volhynian" text="{=volhynianmembers}Volhynian" />	
+  <string id="str_neutral_term_for_culture.volhynian" text="{=volhyniancultureneutralterm}Volhynia" />
+  <string id="str_culture_rich_name.volhynian" text="{=volhynianmembers}Volhynia" />	
 	
 </strings>

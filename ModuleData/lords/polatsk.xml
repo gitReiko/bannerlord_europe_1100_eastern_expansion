@@ -400,7 +400,7 @@
                 age="26"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.kryvich"
+                culture="Culture.dregovian"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -433,8 +433,8 @@
         <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="kryvich_lady" />
-      <EquipmentSet id="kryvich_lady"
+      <EquipmentSet id="dregovian_lady" />
+      <EquipmentSet id="dregovian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

@@ -1,0 +1,59 @@
+<partyTemplates>
+
+    <MBPartyTemplate id="villager_dregovian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="15" max_value="30" troop="NPCCharacter.villager_dregovian" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="rebels_dregovian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.dregovian_levy" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="caravan_template_dregovian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_dregovian" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.caravan_guard_dregovian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.veteran_caravan_guard_dregovian" />
+    </stacks>
+  </MBPartyTemplate>
+
+  <MBPartyTemplate id="elite_caravan_template_dregovian" >
+    <stacks>
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.armed_trader_dregovian" />
+      <PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.caravan_guard_dregovian" />
+      <PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.veteran_caravan_guard_dregovian" />
+      <PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.caravan_master_dregovian" />
+    </stacks>
+  </MBPartyTemplate>
+  
+    <MBPartyTemplate id="militia_dregovian_template" >
+      <stacks>
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.dregovian_levy_spearman" />
+        <PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.dregovian_levy_archer" />
+      </stacks>
+    </MBPartyTemplate>
+	
+  <MBPartyTemplate id="kingdom_hero_party_dregovian_template" >
+    <stacks>
+      <PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.dregovian_levy" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.dregovian_levy_spearman" />
+      <PartyTemplateStack min_value="13" max_value="13" troop="NPCCharacter.dregovian_levy_archer" />
+      <PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.dregovian_palkavy" />
+      <PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.dregovian_palkavy_skirmisher" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.dregovian_dziecki" />
+      <PartyTemplateStack min_value="2" max_value="4" troop="NPCCharacter.dregovian_kniazacki_muz" />
+      <PartyTemplateStack min_value="3" max_value="3" troop="NPCCharacter.dregovian_palkavy_horseman" />
+    </stacks>
+  </MBPartyTemplate>
+  
+  <MBPartyTemplate id="vassal_reward_troops_dregovian" >
+    <stacks>
+      <PartyTemplateStack min_value="3" max_value="5" troop="NPCCharacter.dregovian_kniazacki_muz" />
+      <PartyTemplateStack min_value="2" max_value="3" troop="NPCCharacter.dregovian_kniaz" />
+    </stacks>
+  </MBPartyTemplate>
+
+</partyTemplates>
