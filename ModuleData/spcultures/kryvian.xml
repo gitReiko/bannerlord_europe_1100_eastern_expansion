@@ -24,7 +24,7 @@
            rebels_party_template="PartyTemplate.rebels_kryvich_template"
            vassal_reward_party_template="PartyTemplate.vassal_reward_troops_kryvich"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-           text="{=kryvich.text}Some researchers believe that the Kryvichs came from the lands of modern Poland or Germany. The Kryvichs left many archaeological monuments, such as the remnants of agricultural settlements with traces of ironworks, jeweler's art, blacksmith's work and other handicrafts; long burial mounds of the 6th to 9th centuries with cremated bodies; burial mounds of rich warriors with weapons; sets of distinctive jewelry. The Kryvichs are a largest Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Polatsk, Smolensk and Pskov. In the second half of the 10th century the Kryvichs formed the Polatsk state, which existed for more than 500 years, from the second half of the 13th century as an autonomy within Lithuania. The Kryvichs greatly influenced on the forming of the Belarusian ethnos and the existence of the state. Nowadays Kryvichs are part of the Belarusian and Russian ethnoses."
+           text="{=kryvich.text}Some researchers believe that the Kryvichs came from the lands of modern Poland or Germany. The Kryvichs left many archaeological monuments, such as the remnants of agricultural settlements with traces of ironworks, jeweler's art, blacksmith's work and other handicrafts; long burial mounds of the 6th to 9th centuries with cremated bodies; burial mounds of rich warriors with weapons; sets of distinctive jewelry. The Kryvichs are a largest Eastern European tribal union. It consisted mainly of Slavic and Baltic tribes. It also had Finns and Normans components. Over time, the culture divided into three branches: Połack (Polatsk), Smolensk and Pskov. In the second half of the 10th century the Kryvichs formed the Połack State, which existed for more than 500 years, from the second half of the 13th century as an autonomy within Lithuania. The Kryvichs greatly influenced on the forming of the Belarusian ethnos and the existence of the state. Nowadays Kryvichs are part of the Belarusian and Russian ethnoses."
            tournament_master="NPCCharacter.tournament_master_kryvich"
            villager="NPCCharacter.villager_kryvich"
            caravan_master="NPCCharacter.caravan_master_kryvich"
@@ -86,92 +86,112 @@
       <policy id="policy_sacred_majesty" />
     </default_policies>
     <male_names>
-      <name name="{=kryvich_male_1}Aŭhik" />
-      <name name="{=kryvich_male_2}Anisim" />
-      <name name="{=kryvich_male_3}Adzik" />
-      <name name="{=kryvich_male_4}Adaś" />
-      <name name="{=kryvich_male_5}Bračysłaŭ" />
-      <name name="{=kryvich_male_6}Rahvałod" />
-      <name name="{=kryvich_male_7}Hleb" />
-      <name name="{=kryvich_male_8}Barys" />
-      <name name="{=kryvich_male_9}Iziasłaŭ" />
-      <name name="{=kryvich_male_10}Śviatasłaŭ" />
-      <name name="{=kryvich_male_11}Haraś" />
-      <name name="{=kryvich_male_12}Hianiuk" />
-      <name name="{=kryvich_male_13}Jarema" />
-      <name name="{=kryvich_male_14}Jakant" />
-      <name name="{=kryvich_male_15}Radzik" />
-      <name name="{=kryvich_male_16}Ivaś" />
-      <name name="{=kryvich_male_17}Kirył" />
-      <name name="{=kryvich_male_18}Kastuś" />
-      <name name="{=kryvich_male_19}Ryška" />
-      <name name="{=kryvich_male_20}Staś" />
-      <name name="{=kryvich_male_21}Taduk" />
-      <name name="{=kryvich_male_22}Davyd" />
-      <name name="{=kryvich_male_23}Maćviej" />
-      <name name="{=kryvich_male_24}Vałodša" />
-      <name name="{=kryvich_male_25}Viačasłaŭ" />
-      <name name="{=kryvich_male_26}Davił" />
-      <name name="{=kryvich_male_27}Kanstancin" />
-      <name name="{=kryvich_male_28}Viačka" />
-      <name name="{=kryvich_male_29}Maŭkold" />
-      <name name="{=kryvich_male_30}Alhimont" />
-      <name name="{=kryvich_male_31}Haštoŭt" />
-      <name name="{=kryvich_male_32}Lutavier" />
-      <name name="{=kryvich_male_33}Švintaroh" />
-      <name name="{=kryvich_male_34}Ratmir" />
-      <name name="{=kryvich_male_35}Daraž" />
-      <name name="{=kryvich_male_36}Jamant" />
-      <name name="{=kryvich_male_37}Žyrasłaŭ" />
-      <name name="{=kryvich_male_38}Jarasłaŭ" />
-      <name name="{=kryvich_male_39}Vasil" />
-      <name name="{=kryvich_male_40}Daŭmont" />
+      <name name="{=kryvich_male_1}Bračysłaŭ" />
+      <name name="{=kryvich_male_2}Rahvałod" />
+      <name name="{=kryvich_male_3}Iziasłaŭ" />
+      <name name="{=kryvich_male_4}Śviatasłaŭ" />
+      <name name="{=kryvich_male_5}Vałodša" />
+      <name name="{=kryvich_male_6}Viačasłaŭ" />
+      <name name="{=kryvich_male_7}Ratmir" />
+      <name name="{=kryvich_male_8}Žyrasłaŭ" />
+      <name name="{=kryvich_male_9}Jarasłaŭ" />
+      <name name="{=kryvich_male_10}Bahusłaŭ" />
+      <name name="{=kryvich_male_11}Barysłaŭ" />
+      <name name="{=kryvich_male_12}Stanisłaŭ" />
+      <name name="{=kryvich_male_13}Časłaŭ" />
+      <name name="{=kryvich_male_14}Bahdan" />
+      <name name="{=kryvich_male_15}Vadzim" />
+      <name name="{=kryvich_male_16}Vaładar" />
+      <name name="{=kryvich_male_17}Budzisłaŭ" />
+      <name name="{=kryvich_male_18}Ždan" />
+      <name name="{=kryvich_male_19}Bohša" />
+      <name name="{=kryvich_male_20}Słava" />
+      <name name="{=kryvich_male_21}Anisim" />
+      <name name="{=kryvich_male_22}Adaś" />
+      <name name="{=kryvich_male_23}Hleb" />
+      <name name="{=kryvich_male_24}Barys" />
+      <name name="{=kryvich_male_25}Davyd" />
+      <name name="{=kryvich_male_26}Bazyl" />
+      <name name="{=kryvich_male_27}Haraś" />
+      <name name="{=kryvich_male_28}Ryhor" />
+      <name name="{=kryvich_male_29}Jachim" />
+      <name name="{=kryvich_male_30}Jaś" />
+      <name name="{=kryvich_male_31}Kastuś" />
+      <name name="{=kryvich_male_32}Piatruś" />
+      <name name="{=kryvich_male_33}Radzivon" />
+      <name name="{=kryvich_male_34}Symon" />
+      <name name="{=kryvich_male_35}Pilip" />
+      <name name="{=kryvich_male_36}Łaŭryš" />
+      <name name="{=kryvich_male_37}Januš" />
+      <name name="{=kryvich_male_38}Michał" />
+      <name name="{=kryvich_male_39}Mikita" />
+      <name name="{=kryvich_male_40}Šymon" />
+      <name name="{=kryvich_male_41}Javnut" />
+      <name name="{=kryvich_male_42}Vojdat" />
+      <name name="{=kryvich_male_43}Vihunt" />
+      <name name="{=kryvich_male_44}Viačka" />
+      <name name="{=kryvich_male_45}Dahnis" />
+      <name name="{=kryvich_male_46}Hajdzis" />
+      <name name="{=kryvich_male_47}Łajmonis" />
+      <name name="{=kryvich_male_48}Bałvis" />
+      <name name="{=kryvich_male_49}Venc" />
+      <name name="{=kryvich_male_50}Vikint" />
     </male_names>
     <female_names>
-      <name name="{=kryvich_female_1}Dziunia" />
-      <name name="{=kryvich_female_2}Aŭhuta" />
-      <name name="{=kryvich_female_3}Ahata" />
-      <name name="{=kryvich_female_4}Hasia" />
-      <name name="{=kryvich_female_5}Aniśka" />
-      <name name="{=kryvich_female_6}Varka" />
-      <name name="{=kryvich_female_7}Varusia" />
-      <name name="{=kryvich_female_8}Vierka" />
-      <name name="{=kryvich_female_9}Prosia" />
-      <name name="{=kryvich_female_10}Hela" />
-      <name name="{=kryvich_female_11}Hala" />
-      <name name="{=kryvich_female_12}Janka" />
-      <name name="{=kryvich_female_13}Julasia" />
-      <name name="{=kryvich_female_14}Julka" />
-      <name name="{=kryvich_female_15}Krysia" />
-      <name name="{=kryvich_female_16}Marcia" />
-      <name name="{=kryvich_female_17}Natala" />
-      <name name="{=kryvich_female_18}Raśka" />
-      <name name="{=kryvich_female_19}Zoja" />
-      <name name="{=kryvich_female_20}Sofija" />
-      <name name="{=kryvich_female_21}Dabradzieja" />
-      <name name="{=kryvich_female_22}Źvienisłava" />
-      <name name="{=kryvich_female_23}Ryksa" />
-      <name name="{=kryvich_female_24}Pradsłava" />
-      <name name="{=kryvich_female_25}Volha" />
-      <name name="{=kryvich_female_26}Hardzisłava" />
-      <name name="{=kryvich_female_27}Maryja" />
-      <name name="{=kryvich_female_28}Zulka" />
-      <name name="{=kryvich_female_29}Kirynija " />
-      <name name="{=kryvich_female_30}Ahafja" />
-      <name name="{=kryvich_female_31}Miłka" />
-      <name name="{=kryvich_female_32}Vierchusłava" />
-      <name name="{=kryvich_female_33}Jeŭpraksija" />
-      <name name="{=kryvich_female_34}Jefrasińnia" />
-      <name name="{=kryvich_female_35}Hita" />
-      <name name="{=kryvich_female_36}Ahrafiena" />
-      <name name="{=kryvich_female_37}Agra" />
-      <name name="{=kryvich_female_38}Cera" />
-      <name name="{=kryvich_female_39}Freja" />
-      <name name="{=kryvich_female_40}Rieta" />
+      <name name="{=kryvich_female_1}Budzisłava" />
+      <name name="{=kryvich_female_2}Branisłava" />
+      <name name="{=kryvich_female_3}Viačasłava" />
+      <name name="{=kryvich_female_4}Harysłava" />
+      <name name="{=kryvich_female_5}Lubava" />
+      <name name="{=kryvich_female_6}Lubaša" />
+      <name name="{=kryvich_female_7}Lubamira" />
+      <name name="{=kryvich_female_8}Luboŭ" />
+      <name name="{=kryvich_female_9}Ludmiła" />
+      <name name="{=kryvich_female_10}Miła" />
+      <name name="{=kryvich_female_11}Miłka" />
+      <name name="{=kryvich_female_12}Śviatasłava" />
+      <name name="{=kryvich_female_13}Časłava" />
+      <name name="{=kryvich_female_14}Bohusłava" />
+      <name name="{=kryvich_female_15}Ratmira" />
+      <name name="{=kryvich_female_16}Žyrasłava" />
+      <name name="{=kryvich_female_17}Rahnieda" />
+      <name name="{=kryvich_female_18}Źvienisłava" />
+      <name name="{=kryvich_female_19}Pradsłava" />
+      <name name="{=kryvich_female_20}Hardzisłava" />
+      <name name="{=kryvich_female_21}Aŭhuta" />
+      <name name="{=kryvich_female_22}Ahata" />
+      <name name="{=kryvich_female_23}Aniśka" />
+      <name name="{=kryvich_female_24}Vika" />
+      <name name="{=kryvich_female_25}Daruś" />
+      <name name="{=kryvich_female_26}Darota" />
+      <name name="{=kryvich_female_27}Prośka" />
+      <name name="{=kryvich_female_28}Zita" />
+      <name name="{=kryvich_female_29}Marka " />
+      <name name="{=kryvich_female_30}Mara" />
+      <name name="{=kryvich_female_31}Marta" />
+      <name name="{=kryvich_female_32}Nasta" />
+      <name name="{=kryvich_female_33}Volka" />
+      <name name="{=kryvich_female_34}Paraska" />
+      <name name="{=kryvich_female_35}Zośka" />
+      <name name="{=kryvich_female_36}Sońka" />
+      <name name="{=kryvich_female_37}Tekla" />
+      <name name="{=kryvich_female_38}Tadosia" />
+      <name name="{=kryvich_female_39}Anusia" />
+      <name name="{=kryvich_female_40}Hasia" />
+      <name name="{=kryvich_female_41}Birete" />
+      <name name="{=kryvich_female_42}Dzehuze" />
+      <name name="{=kryvich_female_43}Mite" />
+      <name name="{=kryvich_female_44}Ścirna" />
+      <name name="{=kryvich_female_45}Jeŭna" />
+      <name name="{=kryvich_female_46}Aldona" />
+      <name name="{=kryvich_female_47}Žara" />
+      <name name="{=kryvich_female_48}Jurate" />
+      <name name="{=kryvich_female_49}Judre" />
+      <name name="{=kryvich_female_50}Sihita" />
     </female_names>
     <clan_names>
       <name name="{=kryvich_clan_1}Połackija" />
-      <name name="{=kryvich_clan_2}Mienskija" />
+      <name name="{=kryvich_clan_2}Łahojskija" />
       <name name="{=kryvich_clan_3}Łukomskija" />
       <name name="{=kryvich_clan_4}Barysaŭskija" />
       <name name="{=kryvich_clan_5}Smalenskija" />
@@ -182,8 +202,8 @@
       <name name="{=kryvich_clan_10}Tarapieckija" />
     </clan_names>
     <cultural_feats>
-<feat id="sturgian_cheaper_recruits_infantry" />
-<feat id="aserai_cheaper_caravans" />
+      <feat id="sturgian_cheaper_recruits_infantry" />
+      <feat id="aserai_cheaper_caravans" />
     </cultural_feats>
     <possible_clan_banner_icon_ids>
       <icon id="112" />

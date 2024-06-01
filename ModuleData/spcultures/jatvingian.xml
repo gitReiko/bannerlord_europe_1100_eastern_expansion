@@ -113,51 +113,51 @@
       <name name="{=jatvingian_male_25}Lubart" />
       <name name="{=jatvingian_male_26}Jaŭnut" />
       <name name="{=jatvingian_male_27}Narymont" />
-      <name name="{=jatvingian_male_28}Andrej" />
-      <name name="{=jatvingian_male_29}Uładzimir" />
-      <name name="{=jatvingian_male_30}Kanstancin" />
-      <name name="{=jatvingian_male_31}Siamion" />
-      <name name="{=jatvingian_male_32}Vasil" />
-      <name name="{=jatvingian_male_33}Juryj" />
-      <name name="{=jatvingian_male_34}Vojdat" />
-      <name name="{=jatvingian_male_35}Śviatapołk" />
-      <name name="{=jatvingian_male_36}Iziasłaŭ" />
+      <name name="{=jatvingian_male_28}Pietryk" />
+      <name name="{=jatvingian_male_29}Kiryła" />
+      <name name="{=jatvingian_male_30}Daniła" />
+      <name name="{=jatvingian_male_31}Mikita" />
+      <name name="{=jatvingian_male_32}Hleb" />
+      <name name="{=jatvingian_male_33}Barys" />
+      <name name="{=jatvingian_male_34}Łaŭren" />
+      <name name="{=jatvingian_male_35}Paŭła" />
+      <name name="{=jatvingian_male_36}Davyd" />
       <name name="{=jatvingian_male_37}Viačasłaŭ" />
-      <name name="{=jatvingian_male_38}Jarapołk" />
-      <name name="{=jatvingian_male_39}Hleb" />
-      <name name="{=jatvingian_male_40}Jarasłaŭ" />
+      <name name="{=jatvingian_male_38}Iziasłaŭ" />
+      <name name="{=jatvingian_male_39}Bračysłaŭ" />
+      <name name="{=jatvingian_male_40}Bahdan" />
     </male_names>
     <female_names>
-      <name name="{=jatvingian_female_1}Aldona" />
-      <name name="{=jatvingian_female_2}Anastasija" />
-      <name name="{=jatvingian_female_3}Elžbeta" />
-      <name name="{=jatvingian_female_4}Jaŭfimija" />
-      <name name="{=jatvingian_female_5}Maryja" />
-      <name name="{=jatvingian_female_6}Lizavieta" />
-      <name name="{=jatvingian_female_7}Kunihunda" />
-      <name name="{=jatvingian_female_8}Ahrypina" />
-      <name name="{=jatvingian_female_9}Alaksandra" />
-      <name name="{=jatvingian_female_10}Kiena" />
-      <name name="{=jatvingian_female_11}Alena" />
-      <name name="{=jatvingian_female_12}Minihajła" />
-      <name name="{=jatvingian_female_13}Jadviha" />
-      <name name="{=jatvingian_female_14}Fieadora" />
-      <name name="{=jatvingian_female_15}Jefrasińnia" />
-      <name name="{=jatvingian_female_16}Jeŭna" />
-      <name name="{=jatvingian_female_17}Danuta" />
-      <name name="{=jatvingian_female_18}Haŭdziemunda" />
-      <name name="{=jatvingian_female_19}Anna" />
-      <name name="{=jatvingian_female_20}Ahafija" />
-      <name name="{=jatvingian_female_21}Iryna" />
-      <name name="{=jatvingian_female_22}Sbysłava" />
-      <name name="{=jatvingian_female_23}Malfryda" />
-      <name name="{=jatvingian_female_24}Pradsłava" />
-      <name name="{=jatvingian_female_25}Lubarta" />
-      <name name="{=jatvingian_female_26}Jaŭnuta" />
-      <name name="{=jatvingian_female_27}Narymonta" />
-      <name name="{=jatvingian_female_28}Łuhviena" />
-      <name name="{=jatvingian_female_29}Macilda " />
-      <name name="{=jatvingian_female_30}Anastaśsia" />
+      <name name="{=jatvingian_female_1}Malfryda" />
+      <name name="{=jatvingian_female_2}Kunihunda" />
+      <name name="{=jatvingian_female_3}Aldona" />
+      <name name="{=jatvingian_female_4}Kiena" />
+      <name name="{=jatvingian_female_5}Jeŭna" />
+      <name name="{=jatvingian_female_6}Danuta" />
+      <name name="{=jatvingian_female_7}Vilkė" />
+      <name name="{=jatvingian_female_8}Vainutė" />
+      <name name="{=jatvingian_female_9}Morta" />
+      <name name="{=jatvingian_female_10}Milda" />
+      <name name="{=jatvingian_female_11}Darota" />
+      <name name="{=jatvingian_female_12}Vanda" />
+      <name name="{=jatvingian_female_13}Judrė" />
+      <name name="{=jatvingian_female_14}Ilža" />
+      <name name="{=jatvingian_female_15}Allune" />
+      <name name="{=jatvingian_female_16}Stirna" />
+      <name name="{=jatvingian_female_17}Ziede" />
+      <name name="{=jatvingian_female_18}Ilsene" />
+      <name name="{=jatvingian_female_19}Elžbeta" />
+      <name name="{=jatvingian_female_20}Anna" />
+      <name name="{=jatvingian_female_21}Ahata" />
+      <name name="{=jatvingian_female_22}Sofa" />
+      <name name="{=jatvingian_female_23}Elina" />
+      <name name="{=jatvingian_female_24}Toma" />
+      <name name="{=jatvingian_female_25}Chryścina" />
+      <name name="{=jatvingian_female_26}Nika" />
+      <name name="{=jatvingian_female_27}Alesia" />
+      <name name="{=jatvingian_female_28}Luba" />
+      <name name="{=jatvingian_female_29}Budzisłava " />
+      <name name="{=jatvingian_female_30}Branisłava" />
     </female_names>
     <clan_names>
       <name name="{=jatvingian_clan_1}Suduva" />

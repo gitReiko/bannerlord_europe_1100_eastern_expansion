@@ -87,22 +87,22 @@
     </default_policies>
     <male_names>
       <name name="{=volhynian_male_1}Volodymyr" />
-      <name name="{=volhynian_male_2}Yaroslav" />
-      <name name="{=volhynian_male_3}Rostislav" />
+      <name name="{=volhynian_male_2}Iaroslav" />
+      <name name="{=volhynian_male_3}Rostyslav" />
       <name name="{=volhynian_male_4}Volodar" />
       <name name="{=volhynian_male_5}Vasylko" />
-      <name name="{=volhynian_male_6}Yaropolk" />
-      <name name="{=volhynian_male_7}Illya" />
+      <name name="{=volhynian_male_6}Iaropolk" />
+      <name name="{=volhynian_male_7}Illia" />
       <name name="{=volhynian_male_8}Ruryk" />
       <name name="{=volhynian_male_9}Vsevolod" />
-      <name name="{=volhynian_male_10}Izyaslav" />
+      <name name="{=volhynian_male_10}Iziaslav" />
       <name name="{=volhynian_male_11}Ivan" />
       <name name="{=volhynian_male_12}Volodymyrko" />
       <name name="{=volhynian_male_13}Mykola" />
       <name name="{=volhynian_male_14}Igor" />
       <name name="{=volhynian_male_15}Oleg" />
       <name name="{=volhynian_male_16}Roman" />
-      <name name="{=volhynian_male_17}Svyatoslav" />
+      <name name="{=volhynian_male_17}Sviatoslav" />
       <name name="{=volhynian_male_18}Vladyslav" />
       <name name="{=volhynian_male_19}Danylo" />
       <name name="{=volhynian_male_20}Iraklyi" />
@@ -115,11 +115,27 @@
       <name name="{=volhynian_male_27}Jyroslav" />
       <name name="{=volhynian_male_28}Grygoryi" />
       <name name="{=volhynian_male_29}Dobroslav" />
-      <name name="{=volhynian_male_30}Vyacheslav" />
+      <name name="{=volhynian_male_30}Viacheslav" />
+      <name name="{=volhynian_male_31}Bogomyr" />
+      <name name="{=volhynian_male_32}Stefan" />
+      <name name="{=volhynian_male_33}Mykolai" />
+      <name name="{=volhynian_male_34}Volodyslav" />
+      <name name="{=volhynian_male_35}Kormyl" />
+      <name name="{=volhynian_male_36}Ksniatyn" />
+      <name name="{=volhynian_male_37}Siroslav" />
+      <name name="{=volhynian_male_38}Demian" />
+      <name name="{=volhynian_male_39}Pylyp" />
+      <name name="{=volhynian_male_40}Oleksandr" />
+      <name name="{=volhynian_male_41}Miroslav" />
+      <name name="{=volhynian_male_42}Tudor" />
+      <name name="{=volhynian_male_43}Kuzma" />
+      <name name="{=volhynian_male_44}Borys" />
+      <name name="{=volhynian_male_45}Vasylyi" />
+      <name name="{=volhynian_male_46}Symon" />
     </male_names>
     <female_names>
       <name name="{=volhynian_female_1}Anna" />
-      <name name="{=volhynian_female_2}Aleksandra" />
+      <name name="{=volhynian_female_2}Oleksandra" />
       <name name="{=volhynian_female_3}Oda" />
       <name name="{=volhynian_female_4}Ingegerd" />
       <name name="{=volhynian_female_5}Lanka" />
@@ -137,20 +153,21 @@
       <name name="{=volhynian_female_17}Fedora" />
       <name name="{=volhynian_female_18}Nastaska" />
       <name name="{=volhynian_female_19}Ryksa" />
-      <name name="{=volhynian_female_20}Pereyaslava" />
+      <name name="{=volhynian_female_20}Pereiaslava" />
       <name name="{=volhynian_female_21}Ustynia" />
-      <name name="{=volhynian_female_22}Svyatoslava" />
+      <name name="{=volhynian_female_22}Sviatoslava" />
       <name name="{=volhynian_female_23}Gremislava" />
       <name name="{=volhynian_female_24}Dobrava" />
       <name name="{=volhynian_female_25}Ganna" />
       <name name="{=volhynian_female_26}Dobroslava" />
-      <name name="{=volhynian_female_27}Rostislava" />
+      <name name="{=volhynian_female_27}Rostyslava" />
       <name name="{=volhynian_female_28}Vladyslava" />
       <name name="{=volhynian_female_29}Jyroslava" />
       <name name="{=volhynian_female_30}Agafia" />
+      <name name="{=volhynian_female_31}Boleslava" />
     </female_names>
     <clan_names>
-      <name name="{=volhynian_clan_1}Yaropolkovichy" />
+      <name name="{=volhynian_clan_1}Iaropolkovichy" />
       <name name="{=volhynian_clan_2}Vsevolodovichy" />
       <name name="{=volhynian_clan_3}Romanovichy" />
       <name name="{=volhynian_clan_4}Danylovichy" />
@@ -159,7 +176,7 @@
       <name name="{=volhynian_clan_7}Vasylkovichy" />
       <name name="{=volhynian_clan_8}Ivanovichy" />
       <name name="{=volhynian_clan_9}Olegovichy" />
-      <name name="{=volhynian_clan_10}Svyatoslavichy" />
+      <name name="{=volhynian_clan_10}Sviatoslavichy" />
     </clan_names>
     <cultural_feats>
 <feat id="vlandian_villages_production_bonus" />
