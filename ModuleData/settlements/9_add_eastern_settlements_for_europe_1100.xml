@@ -51,7 +51,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_brest_vil_3" name="{=reiko_brest_vil_3.name}Vetly" posX="932.230" posY="1167.200" culture="Culture.jatvingian" text="{=reiko_brest_vil_3.text}Vetly">
+  <Settlement id="reiko_brest_vil_3" name="{=reiko_brest_vil_3.name}Vetly" posX="932.230" posY="1167.200" culture="Culture.dregovian" text="{=reiko_brest_vil_3.text}Vetly">
     <Components>
       <Village id="reiko_brest_vil_3_comp" village_type="VillageType.clay_mine" hearth="134" gate_rotation="0.008" bound="Settlement.town_KR2" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

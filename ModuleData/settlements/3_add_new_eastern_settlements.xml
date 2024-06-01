@@ -211,7 +211,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_svislac" name="{=reiko_svislac.name}Śvisłač Castle" owner="Faction.clan_polotsk_2" posX="1010.000" posY="1223.380" culture="Culture.kryvich" gate_posX="1009.810" gate_posY="1223.920">
+  <Settlement id="reiko_svislac" name="{=reiko_svislac.name}Śvisłač Castle" owner="Faction.clan_polotsk_2" posX="1010.000" posY="1223.380" culture="Culture.dregovian" gate_posX="1009.810" gate_posY="1223.920">
     <Components>
       <Town id="reiko_svislac_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="500" />
     </Components>
@@ -222,7 +222,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Zborsk" posX="994.954" posY="1218.642" culture="Culture.kryvich" text="{=reiko_svislac_vil_1.text}Zborsk">
+  <Settlement id="reiko_svislac_vil_1" name="{=reiko_svislac_vil_1.name}Zborsk" posX="994.954" posY="1218.642" culture="Culture.dregovian" text="{=reiko_svislac_vil_1.text}Zborsk">
     <Components>
       <Village id="reiko_svislac_vil_1_comp" village_type="VillageType.clay_mine" hearth="100" gate_rotation="0.758" bound="Settlement.reiko_svislac" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -1012,7 +1012,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_pinsk" name="{=reiko_pinsk.name}Pińsk Castle" owner="Faction.clan_rus_1" posX="944.087" posY="1184.326" culture="Culture.jatvingian"  gate_posX="943.994" gate_posY="1183.826">
+  <Settlement id="reiko_pinsk" name="{=reiko_pinsk.name}Pińsk Castle" owner="Faction.clan_rus_1" posX="944.087" posY="1184.326" culture="Culture.dregovian"  gate_posX="943.994" gate_posY="1183.826">
     <Components>
       <Town id="reiko_pinsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="548" />
     </Components>
@@ -1023,7 +1023,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_pinsk_vil_1" name="{=reiko_pinsk_vil_1.name}Klečsk" posX="960.719" posY="1197.019" culture="Culture.jatvingian" text="{=reiko_pinsk_vil_1.text}Klečsk">
+  <Settlement id="reiko_pinsk_vil_1" name="{=reiko_pinsk_vil_1.name}Klečsk" posX="960.719" posY="1197.019" culture="Culture.dregovian" text="{=reiko_pinsk_vil_1.text}Klečsk">
     <Components>
       <Village id="reiko_pinsk_vil_1_comp" village_type="VillageType.iron_mine" hearth="313" gate_rotation="0.408" bound="Settlement.reiko_pinsk" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -1037,7 +1037,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_turau" name="{=reiko_turau.name}Turaŭ" owner="Faction.clan_rus_1" posX="981.604" posY="1182.130" culture="Culture.jatvingian" gate_posX="979.098" gate_posY="1180.506" text="{=reiko_turau.text}Turaŭ">
+  <Settlement id="reiko_turau" name="{=reiko_turau.name}Turaŭ" owner="Faction.clan_rus_1" posX="981.604" posY="1182.130" culture="Culture.dregovian" gate_posX="979.098" gate_posY="1180.506" text="{=reiko_turau.text}Turaŭ">
     <Components>
       <Town id="reiko_turau_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="3800" />
     </Components>
@@ -1058,7 +1058,7 @@
     </CommonAreas>
   </Settlement>
   
-  <Settlement id="reiko_turau_vil_1" name="{=reiko_turau_vil_1.name}Haradok" posX="969.340" posY="1175.950" culture="Culture.jatvingian" text="{=reiko_turau_vil_1.text}Haradok">
+  <Settlement id="reiko_turau_vil_1" name="{=reiko_turau_vil_1.name}Haradok" posX="969.340" posY="1175.950" culture="Culture.dregovian" text="{=reiko_turau_vil_1.text}Haradok">
     <Components>
       <Village id="reiko_turau_vil_1_comp" village_type="VillageType.fisherman" hearth="144" gate_rotation="0.008" bound="Settlement.reiko_turau" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -1072,7 +1072,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_rus_1" posX="950.358" posY="1168.737" culture="Culture.jatvingian"  gate_posX="950.692" gate_posY="1167.080">
+  <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_rus_1" posX="950.358" posY="1168.737" culture="Culture.dregovian"  gate_posX="950.692" gate_posY="1167.080">
     <Components>
       <Town id="reiko_dubrovytsia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="730" />
     </Components>
@@ -1083,7 +1083,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_mozyr" name="{=reiko_mozyr.name}Mozyr Castle" owner="Faction.clan_rus_1" posX="1012.970" posY="1183.580" culture="Culture.jatvingian"  gate_posX="1013.037" gate_posY="1182.890">
+  <Settlement id="reiko_mozyr" name="{=reiko_mozyr.name}Mozyr Castle" owner="Faction.clan_rus_1" posX="1012.970" posY="1183.580" culture="Culture.dregovian"  gate_posX="1013.037" gate_posY="1182.890">
     <Components>
       <Town id="reiko_mozyr_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="617" />
     </Components>
@@ -1094,7 +1094,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_mozyr_vil_1" name="{=reiko_mozyr_vil_1.name}Pietrykaŭ" posX="998.858" posY="1181.217" culture="Culture.jatvingian" text="{=reiko_mozyr_vil_1.text}Pietrykaŭ">
+  <Settlement id="reiko_mozyr_vil_1" name="{=reiko_mozyr_vil_1.name}Pietrykaŭ" posX="998.858" posY="1181.217" culture="Culture.dregovian" text="{=reiko_mozyr_vil_1.text}Pietrykaŭ">
     <Components>
       <Village id="reiko_mozyr_vil_1_comp" village_type="VillageType.iron_mine" hearth="244" gate_rotation="0.008" bound="Settlement.reiko_mozyr" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
