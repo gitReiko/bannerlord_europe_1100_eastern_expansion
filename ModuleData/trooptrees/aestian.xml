@@ -258,7 +258,9 @@
 		<skill id="Throwing"
 				value="15" />
 	</skills>
-	<upgrade_targets></upgrade_targets>
+	<upgrade_targets>
+      <upgrade_target id="NPCCharacter.veteran_caravan_guard_aestian"/>
+    </upgrade_targets>
 	<Equipments>
 		<EquipmentRoster>
 		<equipment slot="Item0"

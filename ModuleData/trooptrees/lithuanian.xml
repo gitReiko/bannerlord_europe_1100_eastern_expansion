@@ -228,7 +228,7 @@
 		</EquipmentRoster>
 	</Equipments>
 	</NPCCharacter>
-  
+
 	<NPCCharacter id="caravan_guard_lithuanian"
 				default_group="Cavalry"
 				level="21"
@@ -257,7 +257,9 @@
 		<skill id="Throwing"
 				value="15" />
 	</skills>
-	<upgrade_targets></upgrade_targets>
+	<upgrade_targets>
+      <upgrade_target id="NPCCharacter.veteran_caravan_guard_lithuanian"/>
+    </upgrade_targets>
 	<Equipments>
 		<EquipmentRoster>
 		<equipment slot="Item0"
@@ -351,7 +353,7 @@
 					id="Item.northern_noble_harness" />
 	</Equipments>
 	</NPCCharacter>
-  
+
 	<NPCCharacter id="veteran_caravan_guard_lithuanian"
 				default_group="Cavalry"
 				level="26"
@@ -487,7 +489,7 @@
 					id="Item.steppe_harness" />
 	</Equipments>
 	</NPCCharacter>
-  
+
 	<NPCCharacter id="armed_trader_lithuanian"
 				default_group="Ranged"
 				level="16"
@@ -592,131 +594,6 @@
 		<equipment slot="Head"
 					id="Item.northern_fur_cap" />
 		</EquipmentRoster>
-	</Equipments>
-	</NPCCharacter>
-  
-  <!--caravan guard-->
-  
-	<NPCCharacter id="caravan_guard_lithuanian"
-				default_group="Cavalry"
-				level="21"
-				name="{=caravan_guard_lithuanian.name}Lithuanian Caravan Guard"
-				upgrade_requires="ItemCategory.horse"
-				occupation="CaravanGuard"
-				culture="Culture.goldenhorde">
-	<face>
-		<face_key_template value="BodyProperty.fighter_baltic" />
-	</face>
-	<skills>
-		<skill id="Athletics"
-				value="40" />
-		<skill id="Riding"
-				value="110" />
-		<skill id="OneHanded"
-				value="110" />
-		<skill id="TwoHanded"
-				value="15" />
-		<skill id="Polearm"
-				value="150" />
-		<skill id="Bow"
-				value="40" />
-		<skill id="Crossbow"
-				value="15" />
-		<skill id="Throwing"
-				value="15" />
-	</skills>
-	<upgrade_targets></upgrade_targets>
-	<Equipments>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_1_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.roughhide_cap" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.battania_woodland_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_1_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.nasalhelm_over_mail" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.ragged_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		</EquipmentRoster>
-		<EquipmentRoster>
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.northern_fur_cap" />
-		<equipment slot="Body"
-					id="Item.decorated_nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.highland_leg_wrappings" />
-		<equipment slot="Gloves"
-					id="Item.highland_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster civilian="true">
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.northern_fur_cap" />
-		<equipment slot="Body"
-					id="Item.decorated_nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.highland_leg_wrappings" />
-		<equipment slot="Gloves"
-					id="Item.highland_gloves" />
-		<equipment slot="Cape"
-					id="Item.scarf" />
-		</EquipmentRoster>
-		<EquipmentRoster civilian="true">
-		<equipment slot="Item0"
-					id="Item.northern_spear_1_t2" />
-		<equipment slot="Item1"
-					id="Item.battania_mace_2_t2" />
-		<equipment slot="Item2"
-					id="Item.northern_scouts_shield" />
-		<equipment slot="Head"
-					id="Item.nasalhelm_over_mail" />
-		<equipment slot="Body"
-					id="Item.nordic_hauberk" />
-		<equipment slot="Leg"
-					id="Item.ragged_boots" />
-		<equipment slot="Gloves"
-					id="Item.leather_gloves" />
-		</EquipmentRoster>
-		<equipment slot="Horse"
-					id="Item.sturgia_horse" />
-		<equipment slot="HorseHarness"
-					id="Item.northern_noble_harness" />
 	</Equipments>
 	</NPCCharacter>
 
