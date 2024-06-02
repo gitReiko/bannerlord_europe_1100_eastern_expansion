@@ -5,12 +5,13 @@
 
 The mod on this page will be updated to match the Empires of Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.4.0 Poland Duchy
+Update 1.4.1 Kyiv Principality
 
-- 4 new castles and 1 new city for Poland
-- 1 new city for Hungary
-- rework of all Poland clanes and lords
-- 10 clanes and 39 historical lords for Poland
+- better culture names
+- better culture names
+- 1 new culture (Dregovian)
+- * new settlements
+- other improvements
 
 This mod has two purposes:
 
