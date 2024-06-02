@@ -10,7 +10,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -56,7 +56,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -108,7 +108,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -163,7 +163,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -209,7 +209,7 @@
                 name="{=jx8ohENz}Armorer"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -279,7 +279,7 @@
                 name="{=79ElOr2x}Horse Trader"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -317,7 +317,7 @@
                 name="{=thbcgVVO}Trader"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -426,7 +426,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <skills></skills>
     <!-- Uses village hair -->
@@ -460,7 +460,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -490,7 +490,7 @@
                 name="{=IHKXNP9H}Tournament Master"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -523,7 +523,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -546,7 +546,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -583,7 +583,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -628,7 +628,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -657,7 +657,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -700,7 +700,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -752,7 +752,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.wanderer_female_kryvich" />
+      <face_key_template value="BodyProperty.wanderer_female_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1251,7 +1251,7 @@
                 culture="Culture.empire"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills>
       <skill id="OneHanded"
@@ -1308,7 +1308,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1374,7 +1374,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1397,7 +1397,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1434,7 +1434,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -1476,7 +1476,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1610,7 +1610,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1745,7 +1745,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -1880,7 +1880,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2015,7 +2015,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2151,7 +2151,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
                 level="16">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2274,7 +2274,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2328,7 +2328,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2351,7 +2351,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2390,7 +2390,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -2435,7 +2435,7 @@
                 name="{=WH7EGGIg}Barber"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2479,7 +2479,7 @@
                 name="{=UaN2lfwi}Weaponsmith"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2529,7 +2529,7 @@
                 name="{=bNnQt4jN}Blacksmith"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.villager_kryvich" />
+      <face_key_template value="BodyProperty.villager_kryvian" />
     </face>
     <skills></skills>
     <Equipments>
@@ -2581,7 +2581,7 @@
                 name="{=XgjXfmM1}Prison Guard"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills>
       <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
@@ -2721,7 +2721,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2744,7 +2744,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2767,7 +2767,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2798,7 +2798,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2829,7 +2829,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2862,7 +2862,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -2909,7 +2909,7 @@
                 culture="Culture.kryvich"
                 skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills></skills>
     <upgrade_targets></upgrade_targets>
@@ -3007,7 +3007,7 @@
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
                 is_hidden_encyclopedia="true">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
     <skills>
       <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->

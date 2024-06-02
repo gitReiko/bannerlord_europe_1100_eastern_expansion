@@ -88,7 +88,7 @@
 				culture="Culture.kryvich" 
 				occupation="Lord">
     <face>
-      <face_key_template value="BodyProperty.fighter_kryvich" />
+      <face_key_template value="BodyProperty.fighter_kryvian" />
     </face>
 
     <skills></skills>

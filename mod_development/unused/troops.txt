@@ -5,7 +5,7 @@
 		occupation="Soldier"
 		culture="Culture.kryvich">
 		<face>
-			<face_key_template value="BodyProperty.villager_kryvich"/>
+			<face_key_template value="BodyProperty.villager_kryvian"/>
 		</face>
 		<skills >
 			<skill id="Athletics" value="100"/>
