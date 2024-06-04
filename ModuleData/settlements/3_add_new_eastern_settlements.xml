@@ -1143,6 +1143,17 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_bila_tserkva" name="{=reiko_bila_tserkva.name}Yuriv Castle" owner="Faction.clan_rus_1" posX="1029.832" posY="1118.730" culture="Culture.rus"  gate_posX="1029.737" gate_posY="1118.323">
+    <Components>
+      <Town id="reiko_bila_tserkva_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="476" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="vlandia_castle_c" scene_name_1="vlandia_castle_c" scene_name_2="vlandia_castle_c" scene_name_3="vlandia_castle_c" />
+      <Location id="lordshall" scene_name_1="european_castle_keep_a_l1_interior" scene_name_2="european_castle_keep_a_l2_interior" scene_name_3="european_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="vlandia_dungeon_a" />
+    </Locations>
+  </Settlement>
+
   <!-- Europe 1700 -->
 
   <Settlement id="reiko_pereiaslav" name="{=reiko_pereiaslav.name}Pereiaslav" owner="Faction.clan_rus_2" posX="1068.560" posY="1127.535" culture="Culture.rus" gate_posX="1071.905" gate_posY="1128.922" text="{=reiko_pereiaslav.text}Pereiaslav.">

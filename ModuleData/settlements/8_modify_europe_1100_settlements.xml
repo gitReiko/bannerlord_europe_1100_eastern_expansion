@@ -1225,10 +1225,11 @@
   <!-- 
     Golden_castle_village_K3_2 changes
     name = Skorgorodok
+    bound = reiko_bila_tserkva
   -->
   <Settlement id="Golden_castle_village_K3_2" name="{=Golden_castle_village_K3_2_ee.name}Skorgorodok" posX="1022.31" posY="1107.402" culture="Culture.rus" text="{=Golden_castle_village_K3_2_ee.name}Skorgorodok">
     <Components>
-      <Village id="Golden_castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="Golden_castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.reiko_bila_tserkva" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_l" />
