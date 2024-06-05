@@ -1207,10 +1207,11 @@
   <!-- 
     Golden_castle_village_K3_1 changes
     name = Letychiv
+    bound = reiko_liubar
   -->
   <Settlement id="Golden_castle_village_K3_1" name="{=Golden_castle_village_K3_1_ee.name}Letychiv" posX="975.872" posY="1103.607" culture="Culture.rus" text="{=Golden_castle_village_K3_1_ee.text}Letychiv">
     <Components>
-      <Village id="Golden_castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+      <Village id="Golden_castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.reiko_liubar" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_j" />
@@ -1281,7 +1282,11 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="village_KR1_3" name="{=Settlements.Settlement.ECM.KR.village_KR1_3}Tchornobyl" posX="1058.429" posY="1167.098" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_3}Tchornobyl.">
+  <!-- 
+    village_KR1_3 changes
+    name = Chornobyl
+  -->
+  <Settlement id="village_KR1_3" name="{=Settlements.Settlement.ECM.KR.village_KR1_3}Chornobyl" posX="1058.429" posY="1167.098" culture="Culture.rus" text="{=ECM_Settlements.Settlement.text.village_KR1_3}Chornobyl.">
     <Components>
       <Village id="village_comp_KR1_3" village_type="VillageType.fisherman" hearth="197" bound="Settlement.town_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

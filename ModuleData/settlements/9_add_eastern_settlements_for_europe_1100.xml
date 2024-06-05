@@ -149,5 +149,35 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_nizhnyi_bozhskyi_vil_1" name="{=reiko_nizhnyi_bozhskyi_vil_1.name}Gaisa" posX="1016.114" posY="1078.854" culture="Culture.rus" text="{=reiko_nizhnyi_bozhskyi_vil_1.text}Gaisa">
+    <Components>
+      <Village id="reiko_nizhnyi_bozhskyi_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="146" gate_rotation="0.758" bound="Settlement.Golden_castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
  
+  <Settlement id="reiko_kyiv_vil_1" name="{=reiko_kyiv_vil_1.name}Trudinov" posX="1026.350" posY="1162.795" culture="Culture.rus" text="{=reiko_kyiv_vil_1.text}Trudinov">
+    <Components>
+      <Village id="reiko_kyiv_vil_1_comp" village_type="VillageType.europe_horse_ranch" hearth="263" gate_rotation="0.758" bound="Settlement.town_KR1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="sturgia_village_f" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+
+
+
 </Settlements>
