@@ -1139,7 +1139,7 @@
     name = Zhytomyr
     level = 1
   -->
-  <Settlement id="castle_KR1" name="{=castle_KR1_ee.name}Zhytomyr Castle" owner="Faction.clan_rus_1" posX="997.511" posY="1133.374" culture="Culture.rus" gate_posX="997.3046" gate_posY="1131.483">
+  <Settlement id="castle_KR1" name="{=castle_KR1_ee.name}Zhytomyr Castle" owner="Faction.clan_kyiv_4" posX="997.511" posY="1133.374" culture="Culture.rus" gate_posX="997.3046" gate_posY="1131.483">
     <Components>
       <Town id="castle_comp_KR1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" prosperity="890" />
     </Components>
@@ -1193,7 +1193,7 @@
     Golden_castle_K3 changes
     name = Nizhnyi Bozhskyi
   -->
-  <Settlement id="Golden_castle_K3" name="{=Golden_castle_K3_ee.name}Nizhnyi Bozhskyi Castle" owner="Faction.clan_rus_1" posX="996.439" posY="1083.641" culture="Culture.rus" gate_posX="997.9226" gate_posY="1082.607">
+  <Settlement id="Golden_castle_K3" name="{=Golden_castle_K3_ee.name}Nizhnyi Bozhskyi Castle" owner="Faction.clan_kyiv_8" posX="996.439" posY="1083.641" culture="Culture.rus" gate_posX="997.9226" gate_posY="1082.607">
     <Components>
       <Town id="Golden_castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
     </Components>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+  <Hero id="lord_rus_1a" spouse="Hero.lord_rus_1b" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1b" spouse="Hero.lord_rus_1a" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1d" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1e" spouse="Hero.lord_rus_1f" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1f" spouse="Hero.lord_rus_1e" faction="Faction.clan_rus_1" />
+
+
+  <Hero id="lord_kyiv_2a" faction="Faction.clan_kyiv_2" />
+
+
+  <Hero id="lord_kyiv_3a" faction="Faction.clan_kyiv_3" />
+
+
+  <Hero id="lord_kyiv_4a" faction="Faction.clan_kyiv_4" />
+
+
+  <Hero id="lord_kyiv_5a" faction="Faction.clan_kyiv_5" />
+
+
+  <Hero id="lord_kyiv_6a" faction="Faction.clan_kyiv_6" />
+
+
+  <Hero id="lord_kyiv_7a" faction="Faction.clan_kyiv_7" />
+
+
+  <Hero id="lord_kyiv_8a" faction="Faction.clan_kyiv_8" />
+
+
+  <Hero id="lord_kyiv_9a" faction="Faction.clan_kyiv_9" />
+
+
+
+
+
+
+</Heroes>

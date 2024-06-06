@@ -1012,7 +1012,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_pinsk" name="{=reiko_pinsk.name}Pińsk Castle" owner="Faction.clan_rus_1" posX="944.087" posY="1184.326" culture="Culture.dregovian"  gate_posX="943.994" gate_posY="1183.826">
+  <Settlement id="reiko_pinsk" name="{=reiko_pinsk.name}Pińsk Castle" owner="Faction.clan_kyiv_2" posX="944.087" posY="1184.326" culture="Culture.dregovian"  gate_posX="943.994" gate_posY="1183.826">
     <Components>
       <Town id="reiko_pinsk_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="548" />
     </Components>
@@ -1072,7 +1072,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_rus_1" posX="950.358" posY="1168.737" culture="Culture.dregovian"  gate_posX="950.692" gate_posY="1167.080">
+  <Settlement id="reiko_dubrovytsia" name="{=reiko_dubrovytsia.name}Dubrovitsia Castle" owner="Faction.clan_kyiv_2" posX="950.358" posY="1168.737" culture="Culture.dregovian"  gate_posX="950.692" gate_posY="1167.080">
     <Components>
       <Town id="reiko_dubrovytsia_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="730" />
     </Components>
@@ -1083,7 +1083,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_mozyr" name="{=reiko_mozyr.name}Mozyr Castle" owner="Faction.clan_rus_1" posX="1012.970" posY="1183.580" culture="Culture.dregovian"  gate_posX="1013.037" gate_posY="1182.890">
+  <Settlement id="reiko_mozyr" name="{=reiko_mozyr.name}Mozyr Castle" owner="Faction.clan_kyiv_3" posX="1012.970" posY="1183.580" culture="Culture.dregovian"  gate_posX="1013.037" gate_posY="1182.890">
     <Components>
       <Town id="reiko_mozyr_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="617" />
     </Components>
@@ -1108,7 +1108,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_korosten" name="{=reiko_korosten.name}Iskorosten" owner="Faction.clan_rus_1" posX="999.596" posY="1155.188" culture="Culture.rus"  gate_posX="996.755" gate_posY="1152.900" text="{=reiko_korosten.text}Volodymyr">
+  <Settlement id="reiko_korosten" name="{=reiko_korosten.name}Iskorosten" owner="Faction.clan_kyiv_6" posX="999.596" posY="1155.188" culture="Culture.rus"  gate_posX="996.755" gate_posY="1152.900" text="{=reiko_korosten.text}Volodymyr">
     <Components>
       <Town id="reiko_korosten_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="3050" />
     </Components>
@@ -1143,7 +1143,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_bila_tserkva" name="{=reiko_bila_tserkva.name}Yuriv Castle" owner="Faction.clan_rus_1" posX="1029.832" posY="1118.730" culture="Culture.rus"  gate_posX="1029.737" gate_posY="1118.323">
+  <Settlement id="reiko_bila_tserkva" name="{=reiko_bila_tserkva.name}Yuriv Castle" owner="Faction.clan_kyiv_5" posX="1029.832" posY="1118.730" culture="Culture.rus"  gate_posX="1029.737" gate_posY="1118.323">
     <Components>
       <Town id="reiko_bila_tserkva_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="476" />
     </Components>
@@ -1154,7 +1154,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_korsun" name="{=reiko_korsun.name}Korsun Castle" owner="Faction.clan_rus_1" posX="1067.555" posY="1103.445" culture="Culture.kryvich"  gate_posX="1066.480" gate_posY="1102.357">
+  <Settlement id="reiko_korsun" name="{=reiko_korsun.name}Korsun Castle" owner="Faction.clan_kyiv_9" posX="1067.555" posY="1103.445" culture="Culture.kryvich"  gate_posX="1066.480" gate_posY="1102.357">
     <Components>
       <Town id="reiko_korsun_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="320" />
     </Components>
@@ -1179,7 +1179,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_liubar" name="{=reiko_liubar.name}Bolokhov Castle" owner="Faction.clan_rus_1" posX="966.441" posY="1114.656" culture="Culture.rus"  gate_posX="965.441" gate_posY="1113.656">
+  <Settlement id="reiko_liubar" name="{=reiko_liubar.name}Bolokhov Castle" owner="Faction.clan_kyiv_7" posX="966.441" posY="1114.656" culture="Culture.rus"  gate_posX="965.441" gate_posY="1113.656">
     <Components>
       <Town id="reiko_liubar_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="387" />
     </Components>
