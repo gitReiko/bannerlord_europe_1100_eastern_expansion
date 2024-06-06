@@ -405,7 +405,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_halych_2c"
-                name="{=lord_halych_2c.name}Yaropolk*"
+                name="{=lord_halych_2c.name}Iaropolk*"
                 voice="softspoken"
                 age="28"
                 is_female="false"
@@ -499,7 +499,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_halych_3b"
-                name="{=lord_halych_3b.name}Aleksandra*"
+                name="{=lord_halych_3b.name}Oleksandra*"
                 voice="softspoken"
                 age="24"
                 is_female="true"
