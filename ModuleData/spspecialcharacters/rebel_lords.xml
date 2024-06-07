@@ -15,11 +15,12 @@
 
     <skills></skills>
     <Traits>
-      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="SergeantCommandSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="aestian_lord" />
@@ -41,11 +42,11 @@
 
     <skills></skills>
     <Traits>
-      <Trait id="Honor" value="-1" />
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="SergeantCommandSkills" value="3" />
+      <Trait id="ArcherFIghtingSkills" value="7" />
     </Traits>
     <Equipments>
       <EquipmentSet id="dregovian_lord" />
@@ -67,11 +68,13 @@
 
     <skills></skills>
     <Traits>
-      <Trait id="Honor" value="-1" />
-      <Trait id="Calculating" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="HuscarlFightingSkills" value="6" />
+      <Trait id="PeltastFightingSkills" value="5" />
     </Traits>
     <Equipments>
       <EquipmentSet id="jatvingian_lord" />
@@ -98,6 +101,7 @@
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
       <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="PeltastFightingSkills" value="3" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -119,11 +123,12 @@
 
     <skills></skills>
     <Traits>
-      <Trait id="Honor" value="-1" />
-      <Trait id="Calculating" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="PeltastFightingSkills" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="latvian_lord" />
@@ -145,11 +150,11 @@
 
     <skills></skills>
     <Traits>
-      <Trait id="Honor" value="-1" />
+      <Trait id="Honor" value="1" />
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="14" />
       <Trait id="BalancedFightingSkills" value="2" />
-      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="KnightFightingSkills" value="5" />
     </Traits>
     <Equipments>
       <EquipmentSet id="volhynian_lord" />
