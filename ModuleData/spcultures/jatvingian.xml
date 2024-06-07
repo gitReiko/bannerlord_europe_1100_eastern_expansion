@@ -86,25 +86,25 @@
       <policy id="policy_council_of_the_commons" />
     </default_policies>
     <male_names>
-      <name name="{=jatvingian_male_1}Šutr" />
-      <name name="{=jatvingian_male_2}Ściehut" />
-      <name name="{=jatvingian_male_3}Mondun" />
-      <name name="{=jatvingian_male_4}Zibr" />
-      <name name="{=jatvingian_male_5}Niebr" />
-      <name name="{=jatvingian_male_6}Skamond" />
-      <name name="{=jatvingian_male_7}Borut" />
-      <name name="{=jatvingian_male_8}Jaščełt" />
-      <name name="{=jatvingian_male_9}Ściekint" />
-      <name name="{=jatvingian_male_10}Komiet" />
-      <name name="{=jatvingian_male_11}Jundził" />
-      <name name="{=jatvingian_male_12}Mintele" />
-      <name name="{=jatvingian_male_13}Šurpa" />
-      <name name="{=jatvingian_male_14}Mudziejka" />
-      <name name="{=jatvingian_male_15}Pieściła" />
-      <name name="{=jatvingian_male_16}Ajkał" />
-      <name name="{=jatvingian_male_17}Komat" />
-      <name name="{=jatvingian_male_18}Skałamiend" />
-      <name name="{=jatvingian_male_19}Niabiast" />
+      <name name="{=jatvingian_male_1}Videvut" />
+      <name name="{=jatvingian_male_2}Hunihard" />
+      <name name="{=jatvingian_male_3}Bauh" />
+      <name name="{=jatvingian_male_4}Hunnar" />
+      <name name="{=jatvingian_male_5}Komat" />
+      <name name="{=jatvingian_male_6}Mintela" />
+      <name name="{=jatvingian_male_7}Mudiejko" />
+      <name name="{=jatvingian_male_8}Šutr" />
+      <name name="{=jatvingian_male_9}Šiurpa" />
+      <name name="{=jatvingian_male_10}Niebr" />
+      <name name="{=jatvingian_male_11}Mondun" />
+      <name name="{=jatvingian_male_12}Skomond" />
+      <name name="{=jatvingian_male_13}Mondovida" />
+      <name name="{=jatvingian_male_14}Ziebr" />
+      <name name="{=jatvingian_male_15}Stiehut" />
+      <name name="{=jatvingian_male_16}Ziebra" />
+      <name name="{=jatvingian_male_17}Skumo" />
+      <name name="{=jatvingian_male_18}Skumond" />
+      <name name="{=jatvingian_male_19}Skołomiend" />
       <name name="{=jatvingian_male_20}Daŭmont" />
       <name name="{=jatvingian_male_21}Vicień" />
       <name name="{=jatvingian_male_22}Skumand" />
@@ -126,6 +126,19 @@
       <name name="{=jatvingian_male_38}Iziasłaŭ" />
       <name name="{=jatvingian_male_39}Bračysłaŭ" />
       <name name="{=jatvingian_male_40}Bahdan" />
+      <name name="{=jatvingian_male_41}Skurdo" />
+      <name name="{=jatvingian_male_42}Stiekint" />
+      <name name="{=jatvingian_male_43}Dor" />
+      <name name="{=jatvingian_male_44}Burial" />
+      <name name="{=jatvingian_male_45}Borut" />
+      <name name="{=jatvingian_male_46}Jundił" />
+      <name name="{=jatvingian_male_47}Ankad" />
+      <name name="{=jatvingian_male_48}Skałamiend" />
+      <name name="{=jatvingian_male_49}Šiutra" />
+      <name name="{=jatvingian_male_50}Piestiła" />
+      <name name="{=jatvingian_male_51}Ajkał" />
+      <name name="{=jatvingian_male_52}Niebiast" />
+      <name name="{=jatvingian_male_53}Jaščiełt" />
     </male_names>
     <female_names>
       <name name="{=jatvingian_female_1}Malfryda" />
