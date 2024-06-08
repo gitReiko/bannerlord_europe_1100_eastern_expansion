@@ -20,7 +20,7 @@
 		   ruler_title="{=aestia_ruler_title}High Chieftan"
 		   text="{=aestia_kingdom_text}Estonia in the 1100-1200 AD was characterized by a decentralized political landscape. The Estonian people, primarily of Finno-Ugric descent, inhabited a land of dense forests, fertile plains, and a coastline dotted with small ports. The society was organized into various tribes or clans, each led by chieftains or elders. These tribes engaged in agriculture, fishing, and trading activities, forming the backbone of the economy. The Estonians were skilled craftsmen, known for their expertise in metalwork, woodworking, and textile production. Despite their decentralized structure, the Estonian tribes often united under a common cause to defend against external threats. They faced frequent raids from neighboring powers, such as the Swedes, Danes, Russians and Germans, who sought to expand their influence into the Baltic region. By the late 12th century, the influence of Christianity began to permeate Estonia through trade and missionary activities. However, the conversion process was gradual and met with resistance from some pagan factions. Overall, Estonia in the 1100-1200 AD was a land of diverse cultures, where tribal identities intersected with emerging political dynamics, shaping the course of its history.">
     <relationships>
-
+		<relationship kingdom="Kingdom.latgalian" value="-50" isAtWar="true" />
 	</relationships>
     <policies>
 

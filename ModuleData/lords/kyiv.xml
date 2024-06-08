@@ -219,7 +219,7 @@
       <EquipmentSet id="rus_lord"
                     civilian="true" />
     </Equipments>
-    </NPCCharacter>  
+    </NPCCharacter>
   
     <NPCCharacter id="lord_rus_1f"
                 name="{=lord_rus_1f.name}Mikita*"
@@ -723,39 +723,207 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_kyiv_5a"
-                name="{=Iaroslav}Iaroslav"
+                name="{=lord_kyiv_5a.name}Miroslav"
                 voice="softspoken"
-                age="30"
+                age="39"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.rus"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.18" weight="0.4375" build="0.5"  key="0000000000000002797A2785686678B9A35E866295A0967774414A498C8336860097760309A7B7A500000000000000000000000000000000000000003D3C2002"  />
+        <BodyProperties version="4" age="22" weight="0.625" build="0.484"  key="0008D80C40E413DB61479A8544A6484C7C66492C8796651B474831791A95083C0067960306653CD900000000000000000000000000000000000000002CC41082"  />
     </face>
 	<skills>
-        <skill id="Leadership" value="53" />
-        <skill id="Scouting" value="60" />
-        <skill id="Tactics" value="115" />
-        <skill id="Athletics" value="78" />
-        <skill id="Riding" value="30" />
-        <skill id="Throwing" value="177" />
-        <skill id="Crossbow" value="41" />
-        <skill id="Bow" value="47" />
-        <skill id="Polearm" value="17" />
-        <skill id="TwoHanded" value="82" />
-        <skill id="OneHanded" value="150" />
+        <skill id="Engineering" value="150" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="125" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="150" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="100" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="-1" />
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="1" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_5b"
+                name="{=lord_kyiv_5b.name}Agafia*"
+                voice="softspoken"
+                age="37"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.2562" build="0.2639"  key="0008AC08C0A030023BA8AA4C6423D685518EB483DA85657883B4A3A56A376EC9007446030722524B000000000000000000000000000000000000000056DC3103"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="75" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="50" />
+        <skill id="OneHanded" value="40" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_5c"
+                name="{=lord_kyiv_5c.name}Gyurgei Prokopych"
+                voice="softspoken"
+                age="19"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.3218" build="0.26"  key="0008B80A40E410C661479A8544A6484C7B684928879665184748387787950837008456030855388900000000000000000000000000000000000000002D0C1082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="50" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Polearm" value="150" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="-1" />
-        <Trait id="Egalitarian" value="-1" />
-        <Trait id="Oligarchic" value="-1" />
-        <Trait id="Authoritarian" value="-2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_5d"
+                name="{=lord_kyiv_5d.name}Matylda*"
+                voice="softspoken"
+                age="20"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.4212" build="0.5281"  key="0008280080A0000EA7699A738C767DB34487079766748986BA436B93C59383A60078660307E9277A000000000000000000000000000000000000000040DC1003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="50" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="50" />
+        <skill id="Riding" value="75" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="35" />
+        <skill id="OneHanded" value="35" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_5e"
+                name="{=lord_kyiv_5e.name}Ivor Gyurgevych"
+                voice="softspoken"
+                age="1"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.3218" build="0.4877"  key="0008180414E4169C6347788544A6484978654928879665164748387787950837007756030765388700000000000000000000000000000000000000002CE41082"  />
+    </face>
+	<skills>
+        <skill id="Charm" value="10" />
+        <skill id="Roguery" value="5" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="rus_lord" />

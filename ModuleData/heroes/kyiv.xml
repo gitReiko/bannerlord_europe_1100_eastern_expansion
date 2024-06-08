@@ -26,7 +26,11 @@
   <Hero id="lord_kyiv_4d" father="Hero.lord_kyiv_4a" mother="Hero.lord_kyiv_4c" faction="Faction.clan_kyiv_4"  />
 
 
-  <Hero id="lord_kyiv_5a" faction="Faction.clan_kyiv_5" text="{=lord_kyiv_5a.text}Mentioned in the chronicle as a supporter of the Olgovyches family. The Olgovyches are a branch of the Rurikids dynasty. Rurik is a semi-legendary character whose existence cannot be checked. But the existence of his son Igor can be verified. Igor is considered the actual founder of the dynasty. Probably Miroslavl owned a small unfortified city Miroslavl near Kyiv." />
+  <Hero id="lord_kyiv_5a" spouse="Hero.lord_kyiv_5b" faction="Faction.clan_kyiv_5" text="{=lord_kyiv_5a.text}Probably the Christian name is Prokop. Mentioned in the chronicle as a supporter of the Olgovyches family. The Olgovyches are a branch of the Rurikids dynasty. Rurik is a semi-legendary character whose existence cannot be checked. But the existence of his son Igor can be verified. Igor is considered the actual founder of the dynasty. Probably Miroslavl owned a small unfortified city Miroslavl near Kyiv." />
+  <Hero id="lord_kyiv_5b" spouse="Hero.lord_kyiv_5a" faction="Faction.clan_kyiv_5" text="{=lord_kyiv_5b.text}The person's name is fictitious because unknown."  />
+  <Hero id="lord_kyiv_5c" father="Hero.lord_kyiv_5a" mother="Hero.lord_kyiv_5b" spouse="Hero.lord_kyiv_5d" faction="Faction.clan_kyiv_5"  />
+  <Hero id="lord_kyiv_5d" spouse="Hero.lord_kyiv_5c" faction="Faction.clan_kyiv_5" text="{=lord_kyiv_5b.text}The person's name is fictitious because unknown."  />
+  <Hero id="lord_kyiv_5e" father="Hero.lord_kyiv_5c" mother="Hero.lord_kyiv_5d" faction="Faction.clan_kyiv_5"  />
 
 
   <Hero id="lord_kyiv_6a" faction="Faction.clan_kyiv_6" text="{=lord_kyiv_6a.text}Perhaps Putiata is a descendant of knyaz Mal, who was a ruler of the Drevlians state. The Drevlian state was conquered by Rus and incorporated into it. But members of the old Drevlian dynasty had a high status in Rus. Putiata was the tysiatskyi of Kyiv Principality. He led the armies of Kyiv in campaigns and held a very high status in Rus."  />

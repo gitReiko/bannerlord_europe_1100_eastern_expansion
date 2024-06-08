@@ -20,8 +20,8 @@
 		   ruler_title="{=zemgalian_ruler_title}Prince"
 		   text="{=zemgalian_kingdom_text}During the Viking Age, the Zemgalians (Semigallians) fought against Swedish Vikings for control of the lower part of the Daugava waterway. In 1100 there was no unified state on the territory of Zemgalia (Semigallia). The region was divided among several tribal Zemgalian principalities, which united against common enemies, traded among themselves and fought each other. In 1106 Polatsk made an attempt to conquer the Zemgalian lands, but was defeated and lost 9.000 warriors (the number is obviously exaggerated, but the losses for Polatsk were very significant). At the start of German conquests Zemgalians lands were divided in Upmale, Dobele, Spārnene, Dobe, Rakte, Silene and Tērvete tribal principalities.">
     <relationships>
-		<relationship kingdom="Kingdom.polotsk" value="-50" isAtWar="false" />
-		<relationship kingdom="Kingdom.lithuanian" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.polotsk" value="-50" isAtWar="true" />
+		<relationship kingdom="Kingdom.lithuanian" value="-50" isAtWar="true" />
 	</relationships>
     <policies>
 

@@ -20,7 +20,8 @@
 		   ruler_title="{=polish_ruler_title}Kunigs"
 		   text="{=baltic_tribes_text}In 1100 the Prussians were not united by a common state. Prussia was divided into 11 principalities: Pameddi, Wārmi, Paguddi, Notangi, Semba, Nadrāuwa, Barta, Skallawa, Sūdawa, Galinda and Kulmus. These principalities traded and fought with each other and united against common enemies. In 996 Mieszko I attempted to conquer the principalities. Beginning in 1147, the Polish duke Bolesław IV the Curly tried to subdue Prussia. Several attacks by Konrad of Masovia in the early 13th century were successfully repelled by the Prussians. In 1226, Konrad I, Duke of Masovia, appealed to the Knights to defend his borders and subdue the pagan Prussians, allowing the Teutonic Knights use of Chełmno Land as a base for their campaign. By the second half of the 13th century, the Teutonic Order had conquered Prussia.">
     <relationships>
-	
+		<relationship kingdom="Kingdom.jatvingian" value="-75" isAtWar="true" />
+		<relationship kingdom="Kingdom.zemaitian" value="-50" isAtWar="true" />
 	</relationships>
     <policies>
 

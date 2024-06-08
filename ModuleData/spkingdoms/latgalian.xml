@@ -20,7 +20,7 @@
 		   ruler_title="{=latgalian_ruler_title}Prince"
 		   text="{=latgalian_kingdom_text}In the X-XIII centuries, Latgalians lived in the eastern part of present-day Vidzeme. The following principalities were fully or partially Latgalian: Atzele, Jersika, Idums, Lotigola, Koknese and Talava. In 1100 Latgalians, located along the river Daugava (Western Dvina), was in strong vassal dependence on Polatsk. The Princedom of Jersika was a part of the Polatsk state. In 1111 Novgorod prince Mstyslav Volodymyrovich The Great invaded in the Atzele principality. The campaign was unsuccessful, because in 1180 Novgorod organized a new attack on Atzele. Other principalities were independent but did not have a unified state.">
     <relationships>
-
+		<relationship kingdom="Kingdom.aestia" value="-50" isAtWar="true" />
 	</relationships>
     <policies>
 

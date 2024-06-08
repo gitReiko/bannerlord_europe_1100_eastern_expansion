@@ -11,6 +11,8 @@ Update 1.4.1 Kyiv Principality
 - better culture names
 - 1 new culture (Dregovian)
 - * new settlements
+- Polatsk principality improvements (character traits)
+- balancing of kingdom relations
 - other improvements
 
 This mod has two purposes:

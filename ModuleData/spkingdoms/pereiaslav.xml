@@ -20,7 +20,8 @@
 			 ruler_title="{=pereiaslav_ruler_title}Prince" 
 			 text="{=pereiaslav_kingdom_text}The kingdom is not ready. It's temporary.">
     <relationships>
-	  <relationship kingdom="Kingdom.khuzait" value="-1" isAtWar="true" />
+	  <relationship kingdom="Kingdom.khuzait" value="-70" isAtWar="true" />
+	  <relationship kingdom="Kingdom.lithuanian" value="-35" isAtWar="true" />
     </relationships>
     <policies>
 

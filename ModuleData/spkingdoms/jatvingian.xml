@@ -20,8 +20,8 @@
 	ruler_title="{=jatvingian_ruler_title}Knyaz"
 	text="{=jatvingian_kingdom_text}In 983 Prince Volodymyr I Sviatoslavych burned down the regional Jatvingian center on the place of modern Franapol and subjugated these lands. Brest became the frontier fortress of Rus. Further attempts Rus to subdue the Jatvingian lands were unsuccessful. In 1100 Navahrudak, Hrodna, Vaŭkavysk and other princedoms probably existed on the Belarusian lands. Due to lack of written sources it is difficult to tell exact names and borders of princedoms. Outside of Belarus existed the principalities of Dainava and Sūduva. After a successful invasion in 1258, Ruthenian king of Danylo Romanovych succeeded in capturing the Vaŭkavysk princedom, for a short time. The further destiny of the Jatvingian principalities is connected with joining to the Lithuanian Principality for resistance to common enemies: Golden Horde, Ruthenian Kingdom and Teutonic Order.">
     <relationships>
-		<relationship kingdom="Kingdom.zemaitian" value="-75" isAtWar="false" />
-		<relationship kingdom="Kingdom.volhynia" value="-75" isAtWar="false" />
+		<relationship kingdom="Kingdom.zemaitian" value="-75" isAtWar="true" />
+		<relationship kingdom="Kingdom.goldenhorde" value="-75" isAtWar="true" />
 	</relationships>
     <policies>
 

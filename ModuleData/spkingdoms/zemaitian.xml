@@ -20,8 +20,8 @@
 		   ruler_title="{=zemaitian_ruler_title}Knyaz"
 		   text="{=zemaitian_kingdom_text}The archaeological Žemaitian culture of burial grounds existed from the 5th to the 14th century. In 1100 there was no unified state on the territory of Žemaitia (Samogitia). The region was divided among several tribal Žemaitian principalities, which united against common enemies, traded among themselves and fought each other (Karšuva, Knituva, Kulenė, Šaule, Upytė). Due to the lack of written sources, information about the region has been reconstructed from archaeology and later written sources.">
     <relationships>
-		<relationship kingdom="Kingdom.poland" value="-75" isAtWar="false" />
-		<relationship kingdom="Kingdom.jatvingian" value="-50" isAtWar="false" />
+		<relationship kingdom="Kingdom.goldenhorde" value="-50" isAtWar="true" />
+		<relationship kingdom="Kingdom.jatvingian" value="-50" isAtWar="true" />
 	</relationships>
     <policies>
 
