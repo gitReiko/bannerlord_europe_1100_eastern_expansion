@@ -2,12 +2,12 @@
 
 <Heroes>
 
-  <Hero id="lord_rus_1a" spouse="Hero.lord_rus_1b" faction="Faction.clan_rus_1" text="{=lord_rus_1a.text}In 1069 he ruled in Połack instead of killed Mstyslav. In 1071 Usiasłaŭ II the Seer restored the independence of the Połack state. Sviatopolk returned to his father in Kyiv, and then was exiled with him. From 1078 to 1088 he ruled the Novgorod principality. As son of Grand Prince of Rus wanted to claim the main throne. For this purpose has moved nearer to Kyiv in Turaŭ princedom. After death of Grand Prince Vsevolod Iaroslavych became ruler of Rus. His close relative Volodymyr Monomakh was afraid of war and did not claim the throne. As ruler of Rus had shaky positions of his reliance on the Dregoviches retinue. The Dregoviches were considered as outsiders." />
+  <Hero id="lord_rus_1a" spouse="Hero.lord_rus_1b" mother="Hero.lord_rus_1c" faction="Faction.clan_rus_1" text="{=lord_rus_1a.text}In 1069 he ruled in Połack instead of killed Mstyslav. In 1071 Usiasłaŭ II the Seer restored the independence of the Połack state. Sviatopolk returned to his father in Kyiv, and then was exiled with him. From 1078 to 1088 he ruled the Novgorod principality. As son of Grand Prince of Rus wanted to claim the main throne. For this purpose has moved nearer to Kyiv in Turaŭ princedom. After death of Grand Prince Vsevolod Iaroslavych became ruler of Rus. His close relative Volodymyr Monomakh was afraid of war and did not claim the throne. As ruler of Rus had shaky positions of his reliance on the Dregoviches retinue. The Dregoviches were considered as outsiders." />
   <Hero id="lord_rus_1b" spouse="Hero.lord_rus_1a" faction="Faction.clan_rus_1" />
-  <Hero id="lord_rus_1c" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_1" />
-  <Hero id="lord_rus_1d" faction="Faction.clan_rus_1" />
-  <Hero id="lord_rus_1e" spouse="Hero.lord_rus_1f" faction="Faction.clan_rus_1" />
-  <Hero id="lord_rus_1f" spouse="Hero.lord_rus_1e" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1c" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1d" faction="Faction.clan_rus_1" father="Hero.lord_rus_1a" mother="Hero.lord_kyiv_3b" />
+  <Hero id="lord_rus_1e" faction="Faction.clan_rus_1" />
+  <Hero id="lord_rus_1f" faction="Faction.clan_rus_1" text="{=lord_rus_1f.text}This is not a historical person. Reprises the Dregoviches boyarship." />
 
 
   <Hero id="lord_kyiv_2a" father="Hero.lord_rus_1a" mother="Hero.lord_kyiv_2b" faction="Faction.clan_kyiv_2" text="{=lord_kyiv_2a.text}Elder son of Sviatopolk II Iziaslavych from a concubine. Since probably itself Sviatopolk had problems with legitimate birth, Mstyslav occupied high position in Kyiv princedom. In 1099 he was killed by an arrow fired from a bow during the siege of Volodymyr." />
