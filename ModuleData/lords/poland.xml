@@ -1374,7 +1374,7 @@
                 age="30"
                 voice="ironic"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -1563,7 +1563,7 @@
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.rus"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
@@ -1755,7 +1755,7 @@
                 voice="ironic"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.goldenhorde"
+                culture="Culture.polish"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>

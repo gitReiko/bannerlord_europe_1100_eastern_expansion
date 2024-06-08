@@ -490,7 +490,7 @@
                 age="28"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.hungary"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
