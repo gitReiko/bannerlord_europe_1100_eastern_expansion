@@ -35,14 +35,14 @@
         <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="2" />
-        <Trait id="Egalitarian" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="2" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="2" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_king" />
@@ -84,13 +84,13 @@
         <skill id="OneHanded" value="156" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="2" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="-1" />
         <Trait id="Authoritarian" value="-1" />
     </Traits>
     <Equipments>
@@ -129,8 +129,8 @@
         <skill id="OneHanded" value="30" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-2" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="2" />
         <Trait id="Calculating" value="1" />
@@ -176,14 +176,14 @@
         <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="-1" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-2" />
+        <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="-2" />
-        <Trait id="Authoritarian" value="0" />
+        <Trait id="Oligarchic" value="-1" />
+        <Trait id="Authoritarian" value="-2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -223,14 +223,14 @@
         <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-1" />
-        <Trait id="Valor" value="-1" />
-        <Trait id="Honor" value="2" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="-2" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="-2" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="-1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -258,10 +258,10 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
+        <Trait id="Valor" value="1" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
+        <Trait id="Calculating" value="1" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
@@ -286,16 +286,15 @@
     <BodyProperties version="4" age="22" weight="0.3164" build="0.2948"  key="0018780AC0FC1004482C6489396A76858987EB4AB3738379618AA839579987B70074560307959849000000000000000000000000000000000000000044DC2003"  />
     </face>
 	<skills>
-        <skill id="Charm" value="10" />
-        <skill id="Roguery" value="5" />
+        <skill id="Charm" value="15" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
+        <Trait id="Mercy" value="2" />
         <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="2" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
+        <Trait id="Egalitarian" value="2" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
@@ -330,14 +329,14 @@
         <skill id="Athletics" value="25" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="2" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="-1" />
+        <Trait id="Calculating" value="-2" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -379,13 +378,13 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="0" />
+        <Trait id="Valor" value="2" />
         <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="2" />
+        <Trait id="Calculating" value="-1" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_king" />
@@ -428,9 +427,9 @@
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="2" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="dregovian_lady" />
@@ -469,14 +468,14 @@
         <skill id="TwoHanded" value="15" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
+        <Trait id="Calculating" value="2" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -515,13 +514,13 @@
         <skill id="TwoHanded" value="20" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
+        <Trait id="Mercy" value="-1" />
         <Trait id="Valor" value="2" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
+        <Trait id="Generosity" value="2" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="1" />
+        <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -552,10 +551,10 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="2" />
+        <Trait id="Valor" value="-1" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
+        <Trait id="Calculating" value="1" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="0" />
@@ -598,7 +597,7 @@
         <skill id="OneHanded" value="150" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="2" />
+        <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="0" />
         <Trait id="Honor" value="1" />
         <Trait id="Generosity" value="1" />
@@ -650,7 +649,7 @@
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Authoritarian" value="-2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lady" />
@@ -689,13 +688,13 @@
         <skill id="TwoHanded" value="90" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
+        <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="2" />
+        <Trait id="Honor" value="1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="1" />
-        <Trait id="Oligarchic" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -725,12 +724,12 @@
         <skill id="Scouting" value="20" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="2" />
-        <Trait id="Honor" value="0" />
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="1" />
-        <Trait id="Egalitarian" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="2" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
@@ -758,12 +757,12 @@
         <skill id="Roguery" value="20" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-1" />
-        <Trait id="Valor" value="0" />
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="-2" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
+        <Trait id="Egalitarian" value="1" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
@@ -805,14 +804,14 @@
         <skill id="OneHanded" value="125" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
+        <Trait id="Mercy" value="-1" />
         <Trait id="Valor" value="0" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
+        <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="kryvich_lord" />
@@ -850,9 +849,9 @@
         <skill id="OneHanded" value="75" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
+        <Trait id="Mercy" value="-1" />
         <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
+        <Trait id="Honor" value="-2" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
@@ -887,12 +886,12 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
+        <Trait id="Oligarchic" value="1" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -939,11 +938,11 @@
         <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="1" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
+        <Trait id="Generosity" value="-2" />
         <Trait id="Calculating" value="-1" />
-        <Trait id="Egalitarian" value="1" />
+        <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="1" />
-        <Trait id="Authoritarian" value="2" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="latvian_lord" />
@@ -980,10 +979,10 @@
         <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="1" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="2" />
-        <Trait id="Calculating" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="-2" />
-        <Trait id="Oligarchic" value="1" />
+        <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="2" />
     </Traits>
     <Equipments>
@@ -1023,9 +1022,9 @@
         <skill id="OneHanded" value="25" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="-1" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
@@ -1072,12 +1071,12 @@
     <Traits>
         <Trait id="Mercy" value="1" />
         <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="-1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="1" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="aestian_lord" />
@@ -1113,11 +1112,11 @@
         <skill id="OneHanded" value="25" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="1" />
+        <Trait id="Calculating" value="2" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
@@ -1161,12 +1160,12 @@
     </skills>
     <Traits>
         <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
-        <Trait id="Generosity" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="-2" />
+        <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -1251,12 +1250,12 @@
     <Traits>
         <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="-1" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-2" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
       <EquipmentSet id="aestian_lord" />
@@ -1303,7 +1302,7 @@
         <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="-1" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="latvian_lord" />
@@ -1344,9 +1343,9 @@
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
         <Trait id="Calculating" value="-1" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="2" />
-        <Trait id="Authoritarian" value="1" />
+        <Trait id="Egalitarian" value="-1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="latvian_lady" />
@@ -1375,7 +1374,7 @@
         <skill id="Bow" value="5" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
+        <Trait id="Mercy" value="1" />
         <Trait id="Valor" value="0" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="0" />
