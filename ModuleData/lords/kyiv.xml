@@ -12,7 +12,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.18" weight="0.5" build="0.5"  key="000500000000100D797A4B84B33EB6BAA35E866295A0967774414A498C8336860077760307A7B7A500000000000000000000000000000000000000003CFC2002"  />
+        <BodyProperties version="4" age="22" weight="0.4066" build="0.3681"  key="000DA80C4000168F7957488493398698B3CC866295A0967774414A498A83367800A666030AA7B7A500000000000000000000000000000000000000003D4C2002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="170" />
@@ -106,7 +106,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22" weight="0.2832" build="0.287"  key="0005A00B80001006797A4A849338867AA35E566285A0767774414C498C83368600644603067587A500000000000000000000000000000000000000003CBC2002"  />
+        <BodyProperties version="4" age="22" weight="0.2832" build="0.287"  key="0005A008C0001006797A4A849338867AA35E566285A0767774414C498C83368600644603067587A500000000000000000000000000000000000000003CBC2002"  />
     </face>
     <skills>
         <skill id="Engineering" value="100" />
@@ -145,7 +145,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22" weight="0.1559" build="0.1674"  key="0008500800001007777848848338B68A935A866295809677744348498B83368600932603097787A500000000000000000000000000000000000000003D2C3002"  />
+        <BodyProperties version="4" age="22" weight="0.2099" build="0.2292"  key="0002140AC00010077957488493398698B3CC566295809677744148478A833678007336030777978500000000000000000000000000000000000000003CF42004"  />
     </face>
 	<skills>
         <skill id="Engineering" value="15" />
@@ -278,7 +278,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22" weight="0.3372" build="0.3256"  key="000240054F000344767A279568667879835B86627580967774414A478A83368600855603086787A500000000000000000000000000000000000000003D042002"  />
+        <BodyProperties version="4" age="22" weight="0.4838" build="0.5262"  key="0010A00C400016C279574684733966959398866295A0965774414A495A83367800887603086797A500000000000000000000000000000000000000003D1C4002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="100" />
@@ -417,7 +417,7 @@
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.18" weight="0.4375" build="0.5"  key="0000000000000002797A2785686678B9A35E866295A0967774414A498C8336860097760309A7B7A500000000000000000000000000000000000000003D3C2002"  />
+        <BodyProperties version="4" age="22" weight="0.5995" build="0.4105"  key="0010D4098000138E77576667733666969398866295A0965774424A495A833678008696030867978500000000000000000000000000000000000000003D1C4002"  />
     </face>
 	<skills>
         <skill id="Engineering" value="110" />
@@ -538,42 +538,182 @@
       <EquipmentSet id="rus_lady"
                     civilian="true" />
     </Equipments>
-    </NPCCharacter>  
+    </NPCCharacter>
 
     <NPCCharacter id="lord_kyiv_4a"
-                name="{=Iaroslav}Iaroslav"
+                name="{=lord_kyiv_4a.name}Mykula Chudin"
                 voice="softspoken"
-                age="30"
+                age="54"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.rus"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-        <BodyProperties version="4" age="22.18" weight="0.4375" build="0.5"  key="0000000000000002797A2785686678B9A35E866295A0967774414A498C8336860097760309A7B7A500000000000000000000000000000000000000003D3C2002"  />
+        <BodyProperties version="4" age="22" weight="0.6728" build="0.2562"  key="0013040000A0234ED69A4465E72675254649899677BAEAC86BB475D2185547B40054A60305E659A50000000000000000000000000000000000000000189C5042"  />
     </face>
 	<skills>
-        <skill id="Leadership" value="53" />
-        <skill id="Scouting" value="60" />
-        <skill id="Tactics" value="115" />
-        <skill id="Athletics" value="78" />
-        <skill id="Riding" value="30" />
-        <skill id="Throwing" value="177" />
-        <skill id="Crossbow" value="41" />
-        <skill id="Bow" value="47" />
-        <skill id="Polearm" value="17" />
-        <skill id="TwoHanded" value="82" />
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="225" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="200" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="75" />
         <skill id="OneHanded" value="150" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-2" />
+        <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="-1" />
         <Trait id="Honor" value="0" />
         <Trait id="Generosity" value="-1" />
-        <Trait id="Calculating" value="-1" />
-        <Trait id="Egalitarian" value="-1" />
-        <Trait id="Oligarchic" value="-1" />
-        <Trait id="Authoritarian" value="-2" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_4b"
+                name="{=lord_kyiv_4b.name}Tuky Chudin"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.5262" build="0.3488"  key="0013040080A0264BA69A4465E726752546468996779AAAC86BB47BA2165547B400658603068659A5000000000000000000000000000000000000000018DC2042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_4c"
+                name="{=lord_kyiv_4c.name}Kateryna*"
+                voice="softspoken"
+                age="48"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.2832" build="0.233"  key="0015A80B80CC100BF7A8B444B0655A7449553898A4B6278C797878A5D985997800734603077A5E9800000000000000000000000000000000000000004CF44083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="25" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="175" />
+        <skill id="Charm" value="175" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="100" />
+        <skill id="Bow" value="50" />
+        <skill id="OneHanded" value="25" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_kyiv_4d"
+                name="{=lord_kyiv_4d.name}Ivan Chudin"
+                voice="softspoken"
+                age="25"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22" weight="0.4221" build="0.341"  key="001348080EA00141869A4465E72675254647899677BABAC86BB475D2165547640075660307886785000000000000000000000000000000000000000018F41042"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="150" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="100" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
       <EquipmentSet id="rus_lord" />
