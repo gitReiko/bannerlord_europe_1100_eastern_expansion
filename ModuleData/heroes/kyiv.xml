@@ -44,7 +44,9 @@
   <Hero id="lord_kyiv_7c" faction="Faction.clan_kyiv_7"  />
 
 
-  <Hero id="lord_kyiv_8a" faction="Faction.clan_kyiv_8" text="{=lord_kyiv_8a.text}In 1142 Lazar Sakovskyi leads the Kyiv army of Vsevolod Olgovych, united with the Pechenegs. The campaign is organized against the pretender to the throne Iziaslav Mstyslavych. In 1147 he became a tysiatskyi of Kyiv. In 1149 Lazar buries Igor Olgovych, who was killed as a result of a conspiracy."  />
+  <Hero id="lord_kyiv_8a" spouse="Hero.lord_kyiv_8b" faction="Faction.clan_kyiv_8" text="{=lord_kyiv_8a.text}In 1142 Lazar Sakovskyi leads the Kyiv army of Vsevolod Olgovych, united with the Pechenegs. The campaign is organized against the pretender to the throne Iziaslav Mstyslavych. In 1147 he became a tysiatskyi of Kyiv. In 1149 Lazar buries Igor Olgovych, who was killed as a result of a conspiracy."  />
+  <Hero id="lord_kyiv_8b" spouse="Hero.lord_kyiv_8a" faction="Faction.clan_kyiv_8" text="{=lord_kyiv_8b.text}This is not a historical person. Reprises the Rus boyarship."  />
+  <Hero id="lord_kyiv_8c" father="Hero.lord_kyiv_8a" mother="Hero.lord_kyiv_8b" faction="Faction.clan_kyiv_8"  />
 
 
   <Hero id="lord_kyiv_9a" faction="Faction.clan_kyiv_9" text="{=lord_kyiv_9a.text}Mentioned in 1136 as the Kyiv tysiatskyi who was imprisoned after the battle. The battle took place between different branches of Rurikids dynasty due to attempts to conquer new possessions. On one side were the Olgovychs and Cumans. On the other side were the Monomakhovychs."  />
