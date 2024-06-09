@@ -33,7 +33,10 @@
   <Hero id="lord_kyiv_5e" father="Hero.lord_kyiv_5c" mother="Hero.lord_kyiv_5d" faction="Faction.clan_kyiv_5"  />
 
 
-  <Hero id="lord_kyiv_6a" faction="Faction.clan_kyiv_6" text="{=lord_kyiv_6a.text}Perhaps Putiata is a descendant of knyaz Mal, who was a ruler of the Drevlians state. The Drevlian state was conquered by Rus and incorporated into it. But members of the old Drevlian dynasty had a high status in Rus. Putiata was the tysiatskyi of Kyiv Principality. He led the armies of Kyiv in campaigns and held a very high status in Rus."  />
+  <Hero id="lord_kyiv_6a" spouse="Hero.lord_kyiv_6b" faction="Faction.clan_kyiv_6" text="{=lord_kyiv_6a.text}Perhaps Putiata is a descendant of knyaz Mal, who was a ruler of the Drevlians state. The Drevlian state was conquered by Rus and incorporated into it. But members of the old Drevlian dynasty had a high status in Rus. Putiata was the tysiatskyi of Kyiv Principality. He led the armies of Kyiv in campaigns and held a very high status in Rus."  />
+  <Hero id="lord_kyiv_6b" spouse="Hero.lord_kyiv_6a" faction="Faction.clan_kyiv_6" text="{=lord_kyiv_6b.text}This is not a historical person. Reprises the Rus boyarship."  />
+  <Hero id="lord_kyiv_6d" spouse="Hero.lord_kyiv_6e" faction="Faction.clan_kyiv_6"  />
+  <Hero id="lord_kyiv_6e" spouse="Hero.lord_kyiv_6d" faction="Faction.clan_kyiv_6"  />
 
 
   <Hero id="lord_kyiv_7a" faction="Faction.clan_kyiv_7" text="{=lord_kyiv_7a.text}The first mention of Ivan is in 1106., when he, together with Putiata Vyshatych and his brother Jan, go on the Cumans. Kiev troops defeated the enemy and freed the captives. The next mention is in 1146, when he successfully leads the defense, besieged Zvenygorod."  />

@@ -1192,10 +1192,11 @@
   <!-- 
     Golden_castle_K3 changes
     name = Nizhnyi Bozhskyi
+    level = 1
   -->
   <Settlement id="Golden_castle_K3" name="{=Golden_castle_K3_ee.name}Nizhnyi Bozhskyi Castle" owner="Faction.clan_kyiv_8" posX="996.439" posY="1083.641" culture="Culture.rus" gate_posX="997.9226" gate_posY="1082.607">
     <Components>
-      <Town id="Golden_castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
+      <Town id="Golden_castle_comp_K3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.castle_complex">
       <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
@@ -1242,9 +1243,13 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    town_KR1 changes
+    level = 1
+  -->
   <Settlement id="town_KR1" name="{=Settlements.Settlement.ECM.KR.town_KR1}Kyiv" owner="Faction.clan_rus_1" posX="1045.635" posY="1151.028" culture="Culture.rus" gate_posX="1047.319" gate_posY="1155.054">
     <Components>
-      <Town id="town_comp_KR1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.608" prosperity="3100" />
+      <Town id="town_comp_KR1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.608" prosperity="4900" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.town_complex">
       <Location id="center" scene_name="sturgia_town_c" scene_name_1="sturgia_town_c" scene_name_2="sturgia_town_c" scene_name_3="sturgia_town_c" />
