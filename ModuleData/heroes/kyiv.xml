@@ -50,9 +50,9 @@
 
 
   <Hero id="lord_kyiv_9a" faction="Faction.clan_kyiv_9" text="{=lord_kyiv_9a.text}Mentioned in 1136 as the Kyiv tysiatskyi who was imprisoned after the battle. The battle took place between different branches of Rurikids dynasty due to attempts to conquer new possessions. On one side were the Olgovychs and Cumans. On the other side were the Monomakhovychs."  />
-
-
-
+  <Hero id="lord_kyiv_9b" faction="Faction.clan_kyiv_9"  />
+  <Hero id="lord_kyiv_9c" faction="Faction.clan_kyiv_9"  />
+  <Hero id="lord_kyiv_9d" faction="Faction.clan_kyiv_9"  />
 
 
 
