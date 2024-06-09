@@ -7,12 +7,13 @@ The mod on this page will be updated to match the Empires of Europe 1100 version
 
 Update 1.4.1 Kyiv Principality
 
-- better culture names
-- better culture names
+- 1 new kingdom (Kyiv)
 - 1 new culture (Dregovian)
 - * new settlements
+- better culture names
+- better culture names
 - Polatsk principality improvements (character traits)
-- balancing of kingdom relations
+- kingdom relations balancing
 - other improvements
 
 This mod has two purposes:
