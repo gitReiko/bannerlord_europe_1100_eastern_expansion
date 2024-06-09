@@ -65,13 +65,13 @@
     />
 
     <Faction id="clan_kyiv_7"
-           name="{=clan_kyiv_7.name}Zakharychy"
+           name="{=clan_kyiv_7.name}Ivan Zakharych"
            tier="4"
            owner="Hero.lord_kyiv_7a"
            culture="Culture.rus"
            super_faction="Kingdom.kyiv"
            banner_key="11.74.19.1836.1836.768.788.1.0.-30.302.5.116.540.485.764.764.0.0.0.505.74.116.128.136.834.676.0.0.0.505.74.116.128.136.694.676.0.0.0.405.5.116.252.252.764.764.0.0.0.505.74.116.127.314.833.818.0.0.0.505.74.116.127.314.695.818.0.1.0.505.74.116.66.88.838.680.0.1.-25.505.74.116.66.88.690.680.0.0.205.505.74.116.95.89.764.588.0.0.0.331.5.116.110.110.764.613.0.0.0.505.74.116.91.54.764.630.0.0.0.510.5.116.108.108.764.645.0.0.90.510.5.116.29.56.764.581.0.0.90" 
-           text="{=clan_kyiv_7.text}Represents the Zakharychy family of voivods. The coat of arms is a sword found on the territory of the Kyiv principality archeologically dated to the 12th century."
+           text="{=clan_kyiv_7.text}Represents the Ivan Zakharych family and related Uleb person. The coat of arms is a sword found on the territory of the Kyiv principality archeologically dated to the 12th century."
            color="FFfcde90" color2="FF53b7c6" alternative_color="FFfcde90" alternative_color2="FF53b7c6"
     />
 

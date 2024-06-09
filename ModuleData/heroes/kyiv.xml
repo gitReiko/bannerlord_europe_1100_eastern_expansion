@@ -39,7 +39,9 @@
   <Hero id="lord_kyiv_6e" spouse="Hero.lord_kyiv_6d" faction="Faction.clan_kyiv_6"  />
 
 
-  <Hero id="lord_kyiv_7a" faction="Faction.clan_kyiv_7" text="{=lord_kyiv_7a.text}The first mention of Ivan is in 1106., when he, together with Putiata Vyshatych and his brother Jan, go on the Cumans. Kiev troops defeated the enemy and freed the captives. The next mention is in 1146, when he successfully leads the defense, besieged Zvenygorod."  />
+  <Hero id="lord_kyiv_7a" spouse="Hero.lord_kyiv_7b" faction="Faction.clan_kyiv_7" text="{=lord_kyiv_7a.text}The first mention of Ivan is in 1106., when he, together with Putiata Vyshatych and his brother Jan, go on the Cumans. Kiev troops defeated the enemy and freed the captives. The next mention is in 1146, when he successfully leads the defense, besieged Zvenygorod."  />
+  <Hero id="lord_kyiv_7b" spouse="Hero.lord_kyiv_7a" faction="Faction.clan_kyiv_7" text="{=lord_kyiv_7b.text}This is not a historical person. Reprises the Rus boyarship."  />
+  <Hero id="lord_kyiv_7c" faction="Faction.clan_kyiv_7"  />
 
 
   <Hero id="lord_kyiv_8a" faction="Faction.clan_kyiv_8" text="{=lord_kyiv_8a.text}In 1142 Lazar Sakovskyi leads the Kyiv army of Vsevolod Olgovych, united with the Pechenegs. The campaign is organized against the pretender to the throne Iziaslav Mstyslavych. In 1147 he became a tysiatskyi of Kyiv. In 1149 Lazar buries Igor Olgovych, who was killed as a result of a conspiracy."  />
