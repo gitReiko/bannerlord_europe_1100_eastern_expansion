@@ -1288,7 +1288,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_starodub" name="{=reiko_starodub.name}Staradub Castle" owner="Faction.clan_rus_4" posX="1103.607" posY="1204.630" culture="Culture.rus" gate_posX="1104.566" gate_posY="1205.327">
+  <Settlement id="reiko_starodub" name="{=reiko_starodub.name}Staradub Castle" owner="Faction.clan_rus_4" posX="1103.607" posY="1204.630" culture="Culture.volga_fin" gate_posX="1104.566" gate_posY="1205.327">
     <Components>
       <Town id="reiko_starodub_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1350" />
     </Components>
@@ -1299,7 +1299,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_starodub_vil_1" name="{=reiko_starodub_vil_1.name}Radagoshch" posX="1123.092" posY="1204.391" culture="Culture.rus" text="{=reiko_starodub_vil_1.name}Radagoshch.">
+  <Settlement id="reiko_starodub_vil_1" name="{=reiko_starodub_vil_1.name}Radagoshch" posX="1123.092" posY="1204.391" culture="Culture.volga_fin" text="{=reiko_starodub_vil_1.name}Radagoshch.">
     <Components>
       <Village id="reiko_starodub_vil_1_comp" village_type="VillageType.lumberjack" hearth="197" gate_rotation="0.408" bound="Settlement.reiko_starodub" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -1398,7 +1398,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_ladoga" name="{=reiko_ladoga.name}Aldeigja Castle" owner="Faction.clan_rus_7" posX="1097.830" posY="1348.488" culture="Culture.rus" gate_posX="1097.976" gate_posY="1347.457">
+  <Settlement id="reiko_ladoga" name="{=reiko_ladoga.name}Aldeigja Castle" owner="Faction.clan_rus_7" posX="1097.830" posY="1348.488" culture="Culture.volga_fin" gate_posX="1097.976" gate_posY="1347.457">
     <Components>
       <Town id="reiko_ladoga_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" prosperity="600" />
     </Components>
@@ -1409,7 +1409,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_ladoga_vil_1" name="{=reiko_ladoga_vil_1.name}Pogost" posX="1118.275" posY="1333.190" culture="Culture.rus" text="{=reiko_ladoga_vil_1.text}Pogost.">
+  <Settlement id="reiko_ladoga_vil_1" name="{=reiko_ladoga_vil_1.name}Pogost" posX="1118.275" posY="1333.190" culture="Culture.volga_fin" text="{=reiko_ladoga_vil_1.text}Pogost.">
     <Components>
       <Village id="reiko_ladoga_vil_1_comp" village_type="VillageType.trapper" hearth="264" gate_rotation="0.758" bound="Settlement.reiko_ladoga" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>

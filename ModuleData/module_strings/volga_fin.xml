@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.volga_fin" text="{=volga_finfather}Vladimir" />
+  <string id="str_player_mother_name.volga_fin" text="{=volga_finmother}Olga" />
+  <string id="str_culture_description.volga_fin" text="{=volga_findescription}This culture is a temporary placeholder. It is based on the vanilla Rus culture from the Europa 1100 mod. In the future it will be replaced by the following cultures: Novgorodian, Radimian (Radimichs), Vyatian (Vyatichs) and Volgian. Volgian is a generalized culture for the Finnish tribes living in the Volga River region." />
+  <string id="str_faction_ruler_name_with_title.volga_fin" text="{=volga_finrulertitle}{RULER.NAME} {?RULER.GENDER}Knyazna{?}Knyaz{\?}" />
+  <string id="str_faction_noble_name_with_title.volga_fin" text="{=volga_finnobletitle}{RULER.NAME} {?RULER.GENDER}Knyazna{?}Knyaz{\?}" />
+  <string id="str_faction_official.volga_fin" text="{=volga_finofficial}knyaz" />
+  <string id="str_faction_official.volga_fin_f" text="{=volga_finofficialf}knyazna" />
+  <string id="str_faction_ruler.volga_fin" text="{=volga_finruler}knyaz" />
+  <string id="str_faction_ruler.volga_fin_f" text="{=volga_finrulerf}knyazna" />
+  <string id="str_faction_ruler_term_in_speech.volga_fin" text="{=volga_finrulerterm}{RULER.NAME} {?RULER.GENDER}Knyazna{?}Knyaz{\?}" />
+  <string id="str_adjective_for_faction.volga_fin" text="{=volga_finfactionadjective}Eastern Rus" />
+  <string id="str_short_term_for_faction.volga_fin" text="{=volga_finfactionshortterm}Eastern Rus" />
+  <string id="str_faction_formal_name_for_culture.volga_fin" text="{=volga_finfactionformalname}The Eastern Rus" />
+  <string id="str_faction_informal_name_for_culture.volga_fin" text="{=volga_finfactioninformalname}the Eastern Rus" />
+  <string id="str_adjective_for_culture.volga_fin" text="{=volga_fincultureadjective}Eastern Rus" />
+  <string id="str_neutral_term_for_culture.volga_fin" text="{=volga_fincultureneutralterm}Eastern Rus" />
+  <string id="str_culture_rich_name.volga_fin" text="{=volga_finmembers}Eastern Rus" />	
+	
+	</strings>
