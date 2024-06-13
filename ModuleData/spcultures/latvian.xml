@@ -245,7 +245,8 @@
       <template name="NPCCharacter.nordic_huscarl" />
       <template name="NPCCharacter.lithuanian_volunteer" />
       <template name="NPCCharacter.lithuanian_noble_spearman" />
-      <template name="NPCCharacter.jatv_dregovian_archer" />
+      <template name="NPCCharacter.kryvich_druzinnik_son" />
+      <template name="NPCCharacter.kryvich_levy" />
     </basic_mercenary_troops>
   </Culture>
   

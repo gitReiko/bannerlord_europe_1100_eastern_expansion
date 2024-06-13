@@ -1,0 +1,21 @@
+<strings>
+
+  <string id="str_player_father_name.rus" text="{=rusfather}Vasylyi" />
+  <string id="str_player_mother_name.rus" text="{=rusmother}Feofania" />
+  <string id="str_culture_description.rus" text="{=rusdescription}Confusion with the term Rus. The term originally had 3 different definitions. First, Rus as a state. All ethnicities belonging to Rus can be called Rus. Second, Rus as ethnos which has created the state and from which the name of the state has gone. Russian scientist Boris Rybakov has analyzed all chronicles of the Rus period and has defined on what territory the population considered itself as Rus, and on what opposed itself to Rus. These data were correlated with archaeological cultures. Initially ethnoses of Severians and Polans considered themselves as Rus. In the 13th century Volhynians and White Croats began to consider themselves as Rus. But in the 13th century Rus as a state in most of the territory of the former empire stopped to exist. In the 13th-14th centuries, the third definition of Rus starts to use widely. Rus as an Orthodox person. In the religious meaning of an Orthodox person, the term extends to the territory of modern Belarus and Russia. Later, the term changed its meaning many times and had many meanings at the same time. In this mod only ethnoses of Severians and Polans are considered as Rus. They are the core of this civilization in the timeline." />
+  <string id="str_faction_ruler_name_with_title.rus" text="{=rusrulertitle}{RULER.NAME} {?RULER.GENDER}Grand Knyazna{?}Grand Knyaz{\?}" />
+  <string id="str_faction_noble_name_with_title.rus" text="{=rusnobletitle}{RULER.NAME} {?RULER.GENDER}Knyazna{?}Knyaz{\?}" />
+  <string id="str_faction_official.rus" text="{=rusofficial}knyaz" />
+  <string id="str_faction_official.rus_f" text="{=rusofficialf}knyazna" />
+  <string id="str_faction_ruler.rus" text="{=rusruler}grand knyaz" />
+  <string id="str_faction_ruler.rus_f" text="{=rusrulerf}grand knyazna" />
+  <string id="str_faction_ruler_term_in_speech.rus" text="{=rusrulerterm}{?RULER.GENDER}Grand Knyazna{?}Grand Knyaz{\?} {RULER.NAME}" />
+  <string id="str_adjective_for_faction.rus" text="{=rusfactionadjective}Rus" />
+  <string id="str_short_term_for_faction.rus" text="{=rusfactionshortterm}Rus" />
+  <string id="str_faction_formal_name_for_culture.rus" text="{=rusfactionformalname}The Rus" />
+  <string id="str_faction_informal_name_for_culture.rus" text="{=rusfactioninformalname}the Rus" />
+  <string id="str_adjective_for_culture.rus" text="{=ruscultureadjective}Rus" />
+  <string id="str_neutral_term_for_culture.rus" text="{=ruscultureneutralterm}Rus" />
+  <string id="str_culture_rich_name.rus" text="{=rusmembers}Rus" />	
+	
+	</strings>
