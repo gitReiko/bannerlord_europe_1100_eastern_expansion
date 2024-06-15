@@ -1129,6 +1129,214 @@
 		</Equipments>
 	</NPCCharacter>
 
+	<NPCCharacter id="rus_younger_dryzhynnik"
+		default_group="Cavalry"
+		level="21"
+		name="{=rus_polkovy_pantsyrny_horseman.name}Rus Younger Dryzhynnyk"
+		occupation="Soldier"
+		culture="Culture.rus">
+		<face>
+			<face_key_template value="BodyProperty.villager_rus"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="50"/>
+			<skill id="Riding" value="100"/>
+			<skill id="OneHanded" value="100"/>
+			<skill id="TwoHanded" value="25"/>
+			<skill id="Polearm" value="100"/>
+			<skill id="Bow" value="25"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="25"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.rus_seasoned_younger_dryzhynnik"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.AR_sturgia_helmet_m"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.AR_vaegir_helmet_a"/>
+				<equipment slot="Body" id="Item.mail_shirt"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_j"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item1" id="Item.northern_horsemans_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_l"/>
+				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_i"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_armor"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.AR_sturgia_helmet_m"/>
+				<equipment slot="Body" id="Item.nordic_hauberk"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item1" id="Item.northern_horsemans_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_battania_helmet_l"/>
+                <equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="rus_seasoned_younger_dryzhynnik"
+		default_group="Cavalry"
+		level="26"
+		name="{=rus_seasoned_younger_dryzhynnik.name}Rus Seasoned Younger Dryzhynnyk"
+		occupation="Soldier"
+		culture="Culture.rus">
+		<face>
+			<face_key_template value="BodyProperty.villager_rus"/>
+		</face>
+		<skills >
+      		<skill id="Athletics" value="75"/>
+			<skill id="Riding" value="125"/>
+			<skill id="OneHanded" value="125"/>
+			<skill id="TwoHanded" value="50"/>
+			<skill id="Polearm" value="150"/>
+			<skill id="Bow" value="40"/>
+			<skill id="Crossbow" value="25"/>
+			<skill id="Throwing" value="40"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.black_klobuk_noble"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.empire_sword_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_h"/>
+				<equipment slot="Cape" id="Item.brass_lamellar_cape"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_lord_helmet_b2"/>
+				<equipment slot="Body" id="Item.AR_sturgia_armor_f"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_lord_helmet_b2"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_u"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item1" id="Item.northern_horsemans_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_c"/>
+				<equipment slot="Body" id="Item.AR_sturgia_armor_f2"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+				<equipment slot="Item1" id="Item.heavy_horsemans_kite_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_e"/>
+				<equipment slot="Cape" id="Item.AR_aserai_shoulder_u"/>
+				<equipment slot="Body" id="Item.nordic_lamellar_armor"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Item1" id="Item.northern_scouts_shield"/>
+				<equipment slot="Item2" id="Item.vlandia_lance_3_t5"/>
+				<equipment slot="Head" id="Item.TV_sturgia_helmet_g"/>
+				<equipment slot="Body" id="Item.AR_aserai_lamellar_b"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.t2_empire_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item1" id="Item.northern_horsemans_shield"/>
+				<equipment slot="Item2" id="Item.sturgia_lance_2_t5"/>
+				<equipment slot="Head" id="Item.sturgian_helmet_b_open"/>
+				<equipment slot="Cape" id="Item.brass_lamellar_cape"/>
+                <equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.t2_sturgia_horse"/>
+				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
+				<equipment slot="Head" id="Item.nordic_fur_cap"/>
+				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
 
 
 </NPCCharacters>
