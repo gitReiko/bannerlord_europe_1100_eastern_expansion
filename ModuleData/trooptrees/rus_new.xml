@@ -163,6 +163,7 @@
 		<upgrade_targets>
 			<upgrade_target id="NPCCharacter.rus_armed_opolchenets"/>
 			<upgrade_target id="NPCCharacter.rus_opolchenets_archer"/>
+			<upgrade_target id="NPCCharacter.black_klobuk_scout"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -821,6 +822,107 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter id="black_klobuk_scout"
+		default_group="HorseArcher"
+		level="11"
+		name="{=black_klobuk_scout.name}Black Klobuk Scout"
+		occupation="Soldier"
+		culture="Culture.rus">
+		<face>
+			<face_key_template value="BodyProperty.fighter_khuzait"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="25"/>
+			<skill id="Riding" value="50"/>
+			<skill id="OneHanded" value="25"/>
+			<skill id="TwoHanded" value="10"/>
+			<skill id="Polearm" value="10"/>
+			<skill id="Bow" value="30"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="10"/>
+		</skills>
+		<upgrade_targets>
+			<upgrade_target id="NPCCharacter.rus_polkovy_archer"/>
+		</upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_khuzait_mace_2_t3"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.khuzait_belt_leather"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.eastern_cap"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_khuzait_mace_2_t3"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.eastern_cap"/>
+				<equipment slot="Body" id="Item.desert_robe"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.DZ_khuzait_armor_b"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.AR_khuzait_mace_2_t3"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.upturned_fur_cap"/>
+				<equipment slot="Body" id="Item.khuzait_belt_leather"/>
+				<equipment slot="Leg" id="Item.TV_aserai_boots_h"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+      		<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
+				<equipment slot="Item1" id="Item.steppe_bow"/>
+				<equipment slot="Item2" id="Item.default_arrows"/>
+				<equipment slot="Head" id="Item.eastern_cap"/>
+                <equipment slot="Body" id="Item.DZ_khuzait_armor_b"/>
+				<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				<equipment slot="Horse" id="Item.khuzait_horse"/>
+				<equipment slot="HorseHarness" id="Item.steppe_harness"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
+				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 		</Equipments>
