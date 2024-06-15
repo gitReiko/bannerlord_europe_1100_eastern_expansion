@@ -13,7 +13,7 @@
 	</face>
 	<skills></skills>
 	<upgrade_targets>
-		<upgrade_target id="NPCCharacter.rus_levy" />
+		<upgrade_target id="NPCCharacter.rus_opolchenets" />
 	</upgrade_targets>
 	<Equipments>
 		<EquipmentRoster civilian="true">
@@ -141,10 +141,10 @@
 	</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_levy"
+	<NPCCharacter id="rus_opolchenets"
 		default_group="Infantry"
 		level="6"
-		name="{=rus_levy.name}Rus Levy"
+		name="{=rus_opolchenets.name}Rus Opolchenets"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -161,8 +161,8 @@
 			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.rus_armed_levy"/>
-			<upgrade_target id="NPCCharacter.rus_levy_archer"/>
+			<upgrade_target id="NPCCharacter.rus_armed_opolchenets"/>
+			<upgrade_target id="NPCCharacter.rus_opolchenets_archer"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -208,10 +208,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_armed_levy"
+	<NPCCharacter id="rus_armed_opolchenets"
 		default_group="Infantry"
 		level="11"
-		name="{=rus_armed_levy.name}Rus Armed Levy"
+		name="{=rus_armed_opolchenets.name}Rus Armed Opolchenets"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -228,8 +228,8 @@
 			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.rus_foot_opolchenets"/>
-			<upgrade_target id="NPCCharacter.rus_horse_opolchenets"/>
+			<upgrade_target id="NPCCharacter.rus_polkovy_infantryman"/>
+			<upgrade_target id="NPCCharacter.rus_polkovy_horseman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -289,10 +289,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_levy_archer"
+	<NPCCharacter id="rus_opolchenets_archer"
 		default_group="Ranged"
 		level="11"
-		name="{=rus_levy_archer.name}Rus Levy Archer"
+		name="{=rus_opolchenets_archer.name}Rus Opolchenets Archer"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -309,7 +309,7 @@
 			<skill id="Throwing" value="15"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.rus_archer_opolchenets"/>
+			<upgrade_target id="NPCCharacter.rus_polkovy_archer"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -369,10 +369,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_foot_opolchenets"
+	<NPCCharacter id="rus_polkovy_infantryman"
 		default_group="Infantry"
 		level="16"
-		name="{=rus_foot_opolchenets.name}Rus Foot Opolchenets"
+		name="{=rus_polkovy_infantryman.name}Rus Polkovy Infantryman"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -389,7 +389,7 @@
 			<skill id="Throwing" value="15"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.rus_pantsyrny_opolchenets"/>
+			<upgrade_target id="NPCCharacter.rus_polkovy_pantsyrny_infantryman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -457,10 +457,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_archer_opolchenets"
+	<NPCCharacter id="rus_polkovy_archer"
 		default_group="Ranged"
 		level="16"
-		name="{=rus_archer_opolchenets.name}Rus Archer Opolchenets"
+		name="{=rus_polkovy_archer.name}Rus Polkovy Archer"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -539,10 +539,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_horse_opolchenets"
+	<NPCCharacter id="rus_polkovy_horseman"
 		default_group="Cavalry"
 		level="16"
-		name="{=rus_horse_opolchenets.name}Rus Horse Opolchenets"
+		name="{=rus_polkovy_horseman.name}Rus Polkovy Horseman"
 		occupation="Soldier"
 		upgrade_requires="ItemCategory.horse"
 		culture="Culture.rus">
@@ -560,7 +560,7 @@
 			<skill id="Throwing" value="10"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.rus_polkovyi_pantsyrnyi_horseman"/>
+			<upgrade_target id="NPCCharacter.rus_polkovy_pantsyrny_horseman"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster>
@@ -642,10 +642,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_pantsyrny_opolchenets"
+	<NPCCharacter id="rus_polkovy_pantsyrny_infantryman"
 		default_group="Infantry"
 		level="21"
-		name="{=rus_foot_opolchenets.name}Rus Pantsyrny Opolchenets"
+		name="{=rus_polkovy_pantsyrny_infantryman.name}Rus Polkovy Pantsyrny Infantryman"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
@@ -727,10 +727,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="rus_polkovyi_pantsyrnyi_horseman"
+	<NPCCharacter id="rus_polkovy_pantsyrny_horseman"
 		default_group="Cavalry"
 		level="21"
-		name="{=rus_polkovyi_pantsyrnyi_horseman.name}Rus Polkovyi Pantsyrnyi Horseman"
+		name="{=rus_polkovy_pantsyrny_horseman.name}Rus Polkovy Pantsyrny Horseman"
 		occupation="Soldier"
 		culture="Culture.rus">
 		<face>
