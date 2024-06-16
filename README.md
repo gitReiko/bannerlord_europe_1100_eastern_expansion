@@ -5,14 +5,14 @@
 
 The mod on this page will be updated to match the Empires of Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
 
-Update 1.4.1 Kyiv Principality
+Update 1.5.0 Kyiv Principality
 
 - 1 new kingdom (Kyiv)
-- 1 new culture (Dregovian)
+- 2 new Dregovian and Rus cultures (old Rus culture renamed to Eastern Rus)
 - * new settlements
-- better culture names
-- better culture names
-- Polatsk principality improvements (character traits)
+- banners recolor for better understanding of kingdoms borders (only for banners with unknown colors)
+- better npc names for Kryvian, Jatvingian and Volhynian cultures
+- Polatsk principality improvements (character traits, cavalry troops)
 - kingdom relations balancing
 - other improvements
 
