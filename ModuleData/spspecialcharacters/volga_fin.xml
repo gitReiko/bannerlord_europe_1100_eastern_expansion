@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="spc_wanderer_volga_fin_0" name="{=yr5pa0hs}{FIRSTNAME} Willowbark" voice="softspoken" age="28" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <Traits>
+      <Trait id="PeltastFightingSkills" value="2" />
+      <Trait id="Surgeon" value="3" />
+      <!-- maybe have the WoodsScoutSkills/surgeon combo give herbalist perk -->
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!--braggart backstory - claims he found skolderbrotva too soft -->
+  <NPCCharacter id="spc_wanderer_volga_fin_1" name="{=W7aa22Yl}{FIRSTNAME} Breakskull" voice="earnest" age="27" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="HuscarlFightingSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!--enterprising young would-be raider, wants to do his father proud -->
+  <NPCCharacter id="spc_wanderer_volga_fin_2" name="{=aE8abvsQ}{FIRSTNAME} the Lucky" voice="earnest" age="21" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="HuscarlFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- vaegir guard veteran backstory - bitter about riots -->
+  <NPCCharacter id="spc_wanderer_volga_fin_3" name="{=LmlL8fVu}{FIRSTNAME} Bloodaxe" voice="curt" age="35" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="3" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!--outlaw backstory,  easily angered  -->
+  <NPCCharacter id="spc_wanderer_volga_fin_4" name="{=WU5GnkvR}{FIRSTNAME} the Fish" voice="softspoken" age="23" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_4" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="HillScoutSkills" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="-1" />
+      <!--<Trait id="RuralClanIsNemesis" value="1" />-->
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- coalbiter backstory -->
+  <NPCCharacter id="spc_wanderer_volga_fin_5" name="{=NSaetzNJ}{FIRSTNAME} Coalbiter" voice="curt" age="30" default_group="Infantry" is_hero="false" is_template="true" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_5" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="Blacksmith" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!--icebeard - mossbeard. Simple misanthrope, cheated in marriage by brother-in-law, went to woods -->
+  <NPCCharacter id="spc_wanderer_volga_fin_6" name="{=zXjdb1zT}{FIRSTNAME} Frostbeard" voice="curt" age="24" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="HillScoutSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- dispossessed because of birthmark -->
+  <NPCCharacter id="spc_wanderer_volga_fin_7" name="{=QyQPJJ9B}{FIRSTNAME} the Accursed" voice="ironic" age="24" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_7" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="EngineerSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- shield maiden -->
+  <NPCCharacter id="spc_wanderer_volga_fin_8" name="{=rtsnnL2J}{FIRSTNAME} the Shieldmaiden" voice="curt" age="29" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <!--<Trait id="RuralClanIsNemesis" value="1" />-->
+      <Trait id="HuscarlFightingSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+  <!--proud hireling who will do any task, values professionalism -->
+  <NPCCharacter id="spc_wanderer_volga_fin_9" name="{=akALDUs0}{FIRSTNAME} Longknife" voice="ironic" age="26" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.volga_fin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_wanderer_volga_fin_9" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="3" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_sturgia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_volga_fin_merch1" name="{=!}Ironic Kryvian merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_0" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_0" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_merch2" name="{=!}curt Kryvian merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_1" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_merch3" name="{=!}Daring Kryvian merchant" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_2" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <!-- TEMPLATE INFO -->
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <!-- CHARACTER -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_merch4" name="{=!}Softspoken Kryvian merchant" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_2b" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="3" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_2b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_merch5" name="{=!}Devious female volgian merchant" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_3c" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3c" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_volga_fin_1" name="{=!}Honorable female volgian merchant" voice="earnest" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_3" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_3" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_volga_fin_1b" name="{=!}Kryvian artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.volga_fin" is_female="true" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_2" name="{=!}Puritan male preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_4" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_3" name="{=!}Rebellious female preacher" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.volga_fin" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.wanderer_female_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_5" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <!-- Vlandian gang leaders-->
+  <NPCCharacter id="spc_volga_fin_gangleader_1" name="{=!}Standard male gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_volga_fin_gangleader_2" name="{=!}Female gang leader" voice="ironic" is_template="true" default_group="Infantry" is_female="true" culture="Culture.volga_fin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_volga_fin_gangleader_3" name="{=!}Male gang leader" voice="ironic" is_template="true" default_group="Infantry" culture="Culture.volga_fin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_6" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_6" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_artisan_1" name="{=!}Kryvian artisan 1" voice="earnest" is_template="true" default_group="Infantry" culture="Culture.volga_fin" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_artisan_2" name="{=!}Kryvian artisan 2" voice="curt" is_template="true" default_group="Infantry" culture="Culture.volga_fin" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_8" faction="Kingdom.sturgia" />-->
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+      <EquipmentSet id="spc_notable_sturgia_8" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_volga_fin_rural_1" name="{=!}Kryvian yeoman" voice="curt" is_template="true" default_group="Infantry" culture="Culture.volga_fin" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_volga_fin_rural_2" name="{=!}Kryvian yeoman" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.volga_fin" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+ 
+  <NPCCharacter id="spc_volga_fin_headman_1" name="{=!}Kryvian rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_volga_fin_headman_2" name="{=!}Kryvian conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_volga_fin_headman_3" name="{=!}Kryvian devious headman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.volga_fin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_volga_fin" />
+    </face>
+    <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RusHair" value="1" />
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_sturgia" />
+      <EquipmentSet id="npc_wanderer_equipment_template_sturgia" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_wanderer_equipment_volga_fin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}wanderer_equipment" occupation="NotAssigned" culture="Culture.volga_fin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_wanderer_equipment_volga_fin" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_artisan_equipment_volga_fin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}artisan_equipment" occupation="NotAssigned" culture="Culture.volga_fin">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_artisan_equipment_volga_fin" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_gang_leader_equipment_volga_fin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gang_leader_equipment" occupation="NotAssigned" culture="Culture.volga_fin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_volga_fin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_gang_leader_equipment_volga_fin" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_preacher_equipment_volga_fin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}preacher_equipment" occupation="NotAssigned" culture="Culture.volga_fin">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_preacher_equipment_volga_fin" />
+    </Equipments>
+  </NPCCharacter>
+  
+    <NPCCharacter id="npc_merchant_equipment_volga_fin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}merchant_equipment" occupation="NotAssigned" culture="Culture.volga_fin">
+    <face>
+      <face_key_template value="BodyProperty.villager_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_merchant_equipment_volga_fin" />
+    </Equipments>
+  </NPCCharacter>
+ 
+</NPCCharacters>

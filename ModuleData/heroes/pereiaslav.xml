@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+  
+  <Hero id="lord_rus_2a" spouse="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2b" spouse="Hero.lord_rus_2a" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2c" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2d" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2e" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2f" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2g" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" spouse="Hero.lord_rus_2h" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2h" spouse="Hero.lord_rus_2g" faction="Faction.clan_rus_2" />
+  <Hero id="lord_rus_2i" father="Hero.lord_rus_2a" mother="Hero.lord_rus_2b" faction="Faction.clan_rus_2" />
+  
+  <Hero id="lord_rus_3a" spouse="Hero.lord_rus_3b" faction="Faction.clan_rus_3" />
+  <Hero id="lord_rus_3b" spouse="Hero.lord_rus_3a" faction="Faction.clan_rus_3" />
+  <Hero id="lord_rus_3c" father="Hero.lord_rus_3a" mother="Hero.lord_rus_3b" faction="Faction.clan_rus_3" />
+  
+  <Hero id="lord_rus_4a" spouse="Hero.lord_rus_4b" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_4" />
+  <Hero id="lord_rus_4b" spouse="Hero.lord_rus_4a" faction="Faction.clan_rus_4" />
+  
+  <Hero id="lord_rus_5a" spouse="Hero.lord_rus_5b" faction="Faction.clan_rus_5" />
+  <Hero id="lord_rus_5b" spouse="Hero.lord_rus_5a" faction="Faction.clan_rus_5" />
+  <Hero id="lord_rus_5c" father="Hero.lord_rus_5a" mother="Hero.lord_rus_5b" faction="Faction.clan_rus_5" />
+  <Hero id="lord_rus_5d" father="Hero.lord_rus_5a" mother="Hero.lord_rus_5b" faction="Faction.clan_rus_5" />
+  <Hero id="lord_rus_5e" father="Hero.lord_rus_5a" mother="Hero.lord_rus_5b" faction="Faction.clan_rus_5" /> 
+ 
+  <Hero id="lord_rus_6a" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_6" /> 
+  
+  <Hero id="lord_rus_7a" spouse="Hero.lord_rus_7b" father="Hero.lord_rus_1a" mother="Hero.lord_rus_1b" faction="Faction.clan_rus_7" />
+  <Hero id="lord_rus_7b" spouse="Hero.lord_rus_7a" faction="Faction.clan_rus_7" />
+  <Hero id="lord_rus_7c" father="Hero.lord_rus_7a" mother="Hero.lord_rus_7b" faction="Faction.clan_rus_7" />
+  <Hero id="lord_rus_7d" father="Hero.lord_rus_7a" mother="Hero.lord_rus_7b" faction="Faction.clan_rus_7" />
+
+   <Hero id="lord_rus_8a" spouse="Hero.lord_rus_8b" faction="Faction.clan_rus_8" />
+   <Hero id="lord_rus_8b" spouse="Hero.lord_rus_8a" faction="Faction.clan_rus_8" />
+   <Hero id="lord_rus_8c" father="Hero.lord_rus_8a" mother="Hero.lord_rus_8b" faction="Faction.clan_rus_8" />
+   
+</Heroes>

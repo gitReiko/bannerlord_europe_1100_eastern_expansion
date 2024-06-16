@@ -6,10 +6,10 @@
 				level="1"
 				name="{=villager_rus.name}Rus Peasant"
 				occupation="Villager"
-				culture="Culture.dregovian"
+				culture="Culture.rus"
 				skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 	<face>
-		<face_key_template value="BodyProperty.fighter_dregovian" />
+		<face_key_template value="BodyProperty.villager_rus" />
 	</face>
 	<skills></skills>
 	<upgrade_targets>
