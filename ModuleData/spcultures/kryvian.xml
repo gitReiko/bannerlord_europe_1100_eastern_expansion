@@ -2,7 +2,7 @@
 <SPCultures>
   
   <Culture id="kryvich"
-           name="{=kryvich.name}Kryvich"
+           name="{=kryvich.name}Kryvian"
            is_main_culture="true"
            color="0xff3b6298"
            color2="0xffffffff"

@@ -1322,7 +1322,7 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
@@ -1332,7 +1332,7 @@
 			</EquipmentRoster>
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_spear_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
@@ -1342,7 +1342,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
@@ -1352,7 +1352,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.western_spear_2_t2"/>
+				<equipment slot="Item1" id="Item.northern_spear_1_t2"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1362,7 +1362,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
 				<equipment slot="Head" id="Item.fur_hood"/>
 				<equipment slot="Cape" id="Item.female_scarf"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
@@ -1372,7 +1372,7 @@
 			</EquipmentRoster>
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.northern_spear_1_t2"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
         		<equipment slot="Cape" id="Item.scarf"/>
 				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
@@ -1382,7 +1382,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.AR_crude_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.nordic_padded_cloth"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
