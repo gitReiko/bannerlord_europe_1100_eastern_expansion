@@ -492,8 +492,8 @@
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="rus_queen" />
-      <EquipmentSet id="rus_queen"
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>  
