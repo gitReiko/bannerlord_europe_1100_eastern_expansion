@@ -38,7 +38,7 @@
                 default_group="Infantry"
                 is_female="true"
                 level="1"
-                name="{=townswoman_dregovian.name}Kryvian Townswoman"
+                name="{=townswoman_dregovian.name}Dregovian Townswoman"
                 occupation="Townsfolk"
                 culture="Culture.dregovian"
                 skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">

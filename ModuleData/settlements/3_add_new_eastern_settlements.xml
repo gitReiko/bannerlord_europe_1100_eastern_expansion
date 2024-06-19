@@ -1108,7 +1108,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_korosten" name="{=reiko_korosten.name}Iskorosten" owner="Faction.clan_kyiv_6" posX="999.596" posY="1155.188" culture="Culture.rus"  gate_posX="996.755" gate_posY="1152.900" text="{=reiko_korosten.text}Volodymyr">
+  <Settlement id="reiko_korosten" name="{=reiko_korosten.name}Iskorosten" owner="Faction.clan_kyiv_6" posX="999.596" posY="1155.188" culture="Culture.rus"  gate_posX="996.755" gate_posY="1152.900" text="{=reiko_korosten.text}Iskorosten">
     <Components>
       <Town id="reiko_korosten_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" prosperity="3050" />
     </Components>
