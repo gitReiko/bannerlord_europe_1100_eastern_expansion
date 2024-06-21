@@ -9,7 +9,7 @@ Update 1.5.0 Kyiv Principality
 
 - 1 new kingdom (Kyiv)
 - 2 new Dregovian and Rus cultures (old Rus culture renamed to Eastern Rus)
-- * new settlements
+- ** new settlements
 - banners recolor for better understanding of kingdoms borders (only for banners with unknown colors)
 - better npc names for Kryvian, Jatvingian and Volhynian cultures
 - Polatsk principality improvements (character traits, cavalry troops)
