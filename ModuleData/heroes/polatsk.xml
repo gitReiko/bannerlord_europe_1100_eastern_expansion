@@ -46,5 +46,8 @@
    <Hero id="lord_baltic_06b" spouse="Hero.lord_baltic_06a" faction="Faction.clan_baltic_06" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
    <Hero id="lord_baltic_06c" father="Hero.lord_baltic_06a" mother="Hero.lord_baltic_06b" faction="Faction.clan_baltic_06" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
 
+   <Hero id="lord_polotsk_8a" spouse="Hero.lord_polotsk_8b" faction="Faction.clan_polotsk_8" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_polotsk_8b" spouse="Hero.lord_polotsk_8a" faction="Faction.clan_polotsk_8" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
    
 </Heroes>
