@@ -7,6 +7,7 @@ The mod on this page will be updated to match the Empires of Europe 1100 version
 
 Update 1.5.0 Kyiv Principality
 
+- restored compatibility with Erik's troops
 - 1 new kingdom (Kyiv)
 - 2 new Dregovian and Rus cultures (old Rus culture renamed to Eastern Rus)
 - ** new settlements
