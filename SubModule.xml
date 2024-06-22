@@ -230,6 +230,14 @@
         </IncludedGameTypes>
     </XmlNode>
 
+    <XmlNode>
+      <XmlName id="CultureStartPositions" path="ELPData/CultureStartPositions"/>
+      <IncludedGameTypes>
+          <GameType value="Campaign"/>
+          <GameType value="CampaignStoryMode"/>
+      </IncludedGameTypes>
+    </XmlNode>
+
 
 
   </Xmls>

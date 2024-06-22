@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CultureStartPositions>
+    <CultureStartPosition id="default" x="332.96" y="1056.39"/>
+    <CultureStartPosition id="empire" x="548" y="1179"/>
+    <CultureStartPosition id="sturgia" x="597" y="1299"/>
+    <CultureStartPosition id="aserai" x="132" y="712"/>
+    <CultureStartPosition id="battania" x="134" y="1197"/>
+    <CultureStartPosition id="khuzait" x="1513" y="1243"/>
+    <CultureStartPosition id="vlandia" x="331.67" y="1055.77"/>
+    <CultureStartPosition id="ayyubid" x="1057.82" y="579.62"/>
+    <CultureStartPosition id="byzantine" x="1003" y="887"/>	
+    <CultureStartPosition id="goldenhorde" x="906" y="1274"/>	
+    <CultureStartPosition id="rus" x="1049" y="1155"/>
+	
+	<CultureStartPosition id="polish" x="762" y="1112"/>
+	<CultureStartPosition id="english" x="285" y="1163"/>
+	<CultureStartPosition id="scottish" x="183" y="1259"/>
+	<CultureStartPosition id="spanish" x="258" y="838"/>
+	<CultureStartPosition id="persian" x="1113" y="863"/>
+	<CultureStartPosition id="hungary" x="704" y="1019"/>
+	<CultureStartPosition id="italian" x="594" y="911"/>
+	<CultureStartPosition id="sicilian" x="620" y="804"/>
+	<CultureStartPosition id="portuguese" x="109" y="891"/>
+	<CultureStartPosition id="bulgarian" x="875" y="937"/>
+	<CultureStartPosition id="georgia" x="1350" y="923"/>
+	<CultureStartPosition id="serbian" x="767" y="948"/>
+	<CultureStartPosition id="welch" x="177" y="1156"/>
+	<CultureStartPosition id="sami" x="1179" y="779"/>
+
+	<CultureStartPosition id="aestian" x="1049" y="1155"/>
+	<CultureStartPosition id="dregovian" x="1049" y="1155"/>
+	<CultureStartPosition id="jatvingian" x="1049" y="1155"/>
+	<CultureStartPosition id="kryvich" x="1049" y="1155"/>
+	<CultureStartPosition id="latvian" x="1049" y="1155"/>
+	<CultureStartPosition id="volga_fin" x="1049" y="1155"/>
+	<CultureStartPosition id="volhynian" x="1049" y="1155"/>
+	
+</CultureStartPositions>
