@@ -16,6 +16,6 @@
   <string id="str_faction_informal_name_for_culture.goldenhorde" text="{=goldenhordefactioninformalname}the Lithuanian Principality" />
   <string id="str_adjective_for_culture.goldenhorde" text="{=goldenhordecultureadjective}Lithuanian" />
   <string id="str_neutral_term_for_culture.goldenhorde" text="{=goldenhordecultureneutralterm}Lithuania" />
-  <string id="str_culture_rich_name.goldenhorde" text="{=goldenhordemembers}Lithuania" />	
+  <string id="str_culture_rich_name.goldenhorde" text="{=goldenhordemembers}Lithuanian" />	
 	
 	</strings>

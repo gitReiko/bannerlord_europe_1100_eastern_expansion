@@ -17,6 +17,6 @@
   <string id="str_faction_informal_name_for_culture.kryvich" text="{=kryvichfactioninformalname}the Kryvia Principality" />
   <string id="str_adjective_for_culture.kryvich" text="{=kryvichcultureadjective}Kryvian" />
   <string id="str_neutral_term_for_culture.kryvich" text="{=kryvichcultureneutralterm}Kryvia" />
-  <string id="str_culture_rich_name.kryvich" text="{=kryvichmembers}Kryvia" />	
+  <string id="str_culture_rich_name.kryvich" text="{=kryvichmembers}Kryvian" />	
 	
 </strings>

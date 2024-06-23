@@ -16,6 +16,6 @@
   <string id="str_faction_informal_name_for_culture.jatvingian" text="{=jatvingianfactioninformalname}the Jatvingian Tribal Principalities" />
   <string id="str_adjective_for_culture.jatvingian" text="{=jatvingiancultureadjective}Jatvingian" />
   <string id="str_neutral_term_for_culture.jatvingian" text="{=jatvingiancultureneutralterm}Jatvingia" />
-  <string id="str_culture_rich_name.jatvingian" text="{=jatvingianmembers}Jatvingia" />	
+  <string id="str_culture_rich_name.jatvingian" text="{=jatvingianmembers}Jatvingian" />	
 	
 </strings>

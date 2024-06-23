@@ -17,6 +17,6 @@
   <string id="str_faction_informal_name_for_culture.aestian" text="{=aestianfactioninformalname}the Aestian Principality" />
   <string id="str_adjective_for_culture.aestian" text="{=aestiancultureadjective}Aestian" />
   <string id="str_neutral_term_for_culture.aestian" text="{=aestiancultureneutralterm}Aestia" />
-  <string id="str_culture_rich_name.aestian" text="{=aestianmembers}Aestia" />	
+  <string id="str_culture_rich_name.aestian" text="{=aestianmembers}Aestian" />	
 	
 </strings>

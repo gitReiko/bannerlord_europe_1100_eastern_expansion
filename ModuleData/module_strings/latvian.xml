@@ -17,6 +17,6 @@
   <string id="str_faction_informal_name_for_culture.latvian" text="{=latvianfactioninformalname}the Latvian Principality" />
   <string id="str_adjective_for_culture.latvian" text="{=latviancultureadjective}Latvian" />
   <string id="str_neutral_term_for_culture.latvian" text="{=latviancultureneutralterm}Latvia" />
-  <string id="str_culture_rich_name.latvian" text="{=latvianmembers}Latvia" />	
+  <string id="str_culture_rich_name.latvian" text="{=latvianmembers}Latvian" />	
 	
 </strings>

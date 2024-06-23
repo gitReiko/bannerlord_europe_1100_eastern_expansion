@@ -16,6 +16,6 @@
   <string id="str_faction_informal_name_for_culture.volhynian" text="{=volhynianfactioninformalname}the Volhynia Principality" />
   <string id="str_adjective_for_culture.volhynian" text="{=volhyniancultureadjective}Volhynian" />
   <string id="str_neutral_term_for_culture.volhynian" text="{=volhyniancultureneutralterm}Volhynia" />
-  <string id="str_culture_rich_name.volhynian" text="{=volhynianmembers}Volhynia" />	
+  <string id="str_culture_rich_name.volhynian" text="{=volhynianmembers}Volhynian" />	
 	
 </strings>

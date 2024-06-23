@@ -17,6 +17,6 @@
   <string id="str_faction_informal_name_for_culture.dregovian" text="{=dregovianfactioninformalname}the Turaŭ Principality" />
   <string id="str_adjective_for_culture.dregovian" text="{=dregoviancultureadjective}Dregovian" />
   <string id="str_neutral_term_for_culture.dregovian" text="{=dregoviancultureneutralterm}Dregovia" />
-  <string id="str_culture_rich_name.dregovian" text="{=dregovianmembers}Dregovia" />	
+  <string id="str_culture_rich_name.dregovian" text="{=dregovianmembers}Dregovian" />	
 	
 </strings>
