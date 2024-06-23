@@ -2,7 +2,7 @@
 <Module>
   <Name value="Empires of Europe 1100 - Eastern Europe Expansion"/>
   <Id value="Europe1100EasternEuropeExpansion"/>
-  <Version value="v1.4.0"/>
+  <Version value="v1.5.0"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <DependedModules>
@@ -10,7 +10,8 @@
     <DependedModule Id="SandBoxCore" DependentVersion="v1.2.9"/>
     <DependedModule Id="Sandbox" DependentVersion="v1.2.9"/>
     <DependedModule Id="StoryMode" DependentVersion="v1.2.9"/>
-
+	  <DependedModule Id="Europe_LemmyProject" DependentVersion="v1.2.9.3"/>
+    <DependedModule Id="Europe1100" DependentVersion="v1.2.9.2"/>
   </DependedModules>
   <SubModules>
   </SubModules>
