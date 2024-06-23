@@ -42,7 +42,7 @@ My future plans
 
 For modders
 
-You can use and modify any materials from my mod (settlements, banners, npc names), but do not forget to specify me as the author of the mod from which the content was taken.
+You can use any materials from my mod (settlements, banners, npc names), but do not forget to specify me as the author of the mod from which the content was taken.
 
 Discussion, suggestions, critics
 
