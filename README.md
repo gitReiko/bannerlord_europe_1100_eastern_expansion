@@ -10,7 +10,7 @@ Update 1.5.0 Kyiv Principality
 - restored compatibility with Erik's troops
 - 1 new kingdom (Kyiv)
 - 2 new Dregovian and Rus cultures (old Rus culture renamed to Eastern Rus)
-- ** new settlements
+- 2 new cities, 6 new catles, 8 new villages
 - banners recolor for better understanding of kingdoms borders (only for banners with unknown colors)
 - better npc names for Kryvian, Jatvingian and Volhynian cultures
 - Polatsk principality improvements (lords traits, cavalry troops improvements, 1 new clan)
@@ -27,16 +27,22 @@ Eastern Europe has the same 1090-1005 timeline. Submod also tries to be as histo
 
 At this moment mod:
 
-- add 15 cities, 25 castles, 54 villages
-- add 10 kingdoms (Aestia, Galicia, Jatvingia, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
-- add 6 cultures (Aestian, Kryvian, Jatvingian, Volhynia, Lithuanian, Latvian)
+- add 17 cities, 31 castles, 62 villages
+- add 10 kingdoms (Aestia, Galicia, Jatvingia, Kyiv, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
+- add 6 cultures (Aestian, Dregovian, Kryvian, Jatvingian, Volhynia, Lithuanian, Rus (reworked), Latvian)
 - expand 1 kingdom (Poland)
+- 270+ lords
 
 My future plans
 
-- add Dregovian culture and further creation of Kyivan kingdom
-- expand of Hungary
+- Hungary kingdom expand
+- Mercenary clans
+- Chernigov kingdom
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
+
+For modders
+
+You can use and modify any materials from my mod (settlements, banners, npc names), but do not forget to specify me as the author of the mod from which the content was taken.
 
 Discussion, suggestions, critics
 
