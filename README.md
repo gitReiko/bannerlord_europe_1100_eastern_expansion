@@ -15,6 +15,7 @@ Update 1.5.0 Kyiv Principality
 - better npc names for Kryvian, Jatvingian and Volhynian cultures
 - Polatsk principality improvements (lords traits, cavalry troops improvements, 1 new clan)
 - kingdom relations balancing
+- better culture images
 - other improvements
 
 This mod has two purposes:
