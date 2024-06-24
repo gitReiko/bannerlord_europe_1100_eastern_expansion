@@ -272,5 +272,110 @@
       <template name="NPCCharacter.dregovian_levy" />
     </basic_mercenary_troops>
   </Culture>
-  
+
+
+<!--
+
+About names
+
+Latinization according to modern Belarusian standards.
+
+East Baltic = Names of neighboring eastern tribes
+West Baltic = Jatvingian names from Galicia-Volhynia chronicle
+Christian = possible local Christian names
+Slavic = common Slavic names
+
+Male names
+
+1,Відэвут,Yotvingian,Videvut
+2,Гунігард,Yotvingian,Hunihard
+3,Бауг,Yotvingian,Bauh
+4,Гуннар,Yotvingian,Hunnar
+5,Комат,Yotvingian,Komat
+6,Мінтэля,Yotvingian,Mintela
+7,Мудейко,Yotvingian,Mudiejko
+8,Шутр,Yotvingian,Šutr
+9,Шюрпа,Yotvingian,Šiurpa
+10,Небр,Yotvingian,Niebr
+11,Мондун,Yotvingian,Mondun
+12,Скомонд,Yotvingian,Skomond
+13,Мондовіда,Yotvingian,Mondovida
+14,Зебр,Yotvingian,Ziebr
+15,Стегут,Yotvingian,Stiehut
+16,Зебра,Yotvingian,Ziebra
+17,Скумо,Yotvingian,Skumo
+18,Скумонд,Yotvingian,Skumond
+19,Сколоменд,Yotvingian,Skołomiend
+20,Скурдо,Yotvingian,Skurdo
+21,Стекінт,Yotvingian,Stiekint
+22,Дор,Yotvingian,Dor
+23,Буряль,Yotvingian,Burial
+24,Борут,Yotvingian,Borut
+25,Юнділ,Yotvingian,Jundił
+26,Анкад,Yotvingian,Ankad
+27,Ящелт,Yotvingian,Jaščiełt
+28,Скаламенд,Yotvingian,Skałamiend
+29,Шютра,Yotvingian,Šiutra
+30,Пестіла,Yotvingian,Piestiła
+31,Айкал,Yotvingian,Ajkał
+32,Небяст,Yotvingian,Niebiast
+33,Даўмонт,East Baltic,Daŭmont
+34,Віцень,East Baltic,Vicień
+35,Скуманд,East Baltic,Skumand
+36,Відэвут,East Baltic,Videvut
+37,Карыбут,East Baltic,Karybut
+38,Любарт,East Baltic,Lubart
+39,Яўнут,East Baltic,Jaŭnut
+40,Нарымонт,East Baltic,Narymont
+41,Петрык,Christian,Pietryk
+42,Кірыла,Christian,Kiryła
+43,Даніла,Christian,Daniła
+44,Мікіта,Christian,Mikita
+45,Глеб,Christian,Hleb
+46,Барыс,Christian,Barys
+47,Лаўрэн,Christian,Łaŭren
+48,Паўла,Christian,Paŭła
+49,Давыд,Christian,Davyd
+50,Вячаслаў,Slavic,Viačasłaŭ
+51,Ізяслаў,Slavic,Iziasłaŭ
+52,Брачыслаў,Slavic,Bračysłaŭ
+53,Багдан,Slavic,Bahdan
+
+Female names
+
+1,,German,Malfryda
+2,,German,Kunihunda
+3,,East Baltic,Aldona
+4,,East Baltic,Kiena
+5,,East Baltic,Jeŭna
+6,,East Baltic,Danuta
+7,,East Baltic,Vilkė
+8,,East Baltic,Vainutė
+9,,East Baltic,Morta
+10,,East Baltic,Milda
+11,,East Baltic,Darota
+12,,East Baltic,Vanda
+13,,East Baltic,Judrė
+14,,East Baltic,Ilža
+15,,East Baltic,Allune
+16,,East Baltic,Stirna
+17,,East Baltic,Ziede
+18,,East Baltic,Ilsene
+19,Эльжбэта,Christian,Elžbeta
+20,Анна,Christian,Anna
+21,Агата,Christian,Ahata
+22,Софа,Christian,Sofa
+23,Эліна,Christian,Elina
+24,Тома,Christian,Toma
+25,Хрысьціна,Christian,Chryścina
+26,Ніка,Christian,Nika
+27,Алеся,Christian,Alesia
+28,Люба,Slavic,Luba
+29,Будзіслава,Slavic,Budzisłava
+30,Браніслава,Slavic,Branisłava
+
+
+-->
+
+
 </SPCultures> 

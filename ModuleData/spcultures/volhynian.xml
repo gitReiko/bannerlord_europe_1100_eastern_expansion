@@ -267,5 +267,114 @@
       <template name="NPCCharacter.cuman_light_cavalry" />
     </basic_mercenary_troops>
   </Culture>
-  
+
+
+<!--
+
+About names
+
+Latinization by modern Ukrainian patterns.
+
+Princely and boyar names connected with Volhynia and Galicia.
+
+Male names
+
+1,Volodymyr,Володимир,
+2,Iaroslav,Ярослав,
+3,Rostyslav,Ростислав,
+4,Volodar,Володар,
+5,Vasylko,Василько,
+6,Iaropolk,Ярополк,
+7,Illia,Ілля,
+8,Ruryk,Рурык,
+9,Vsevolod,Всеволод,
+10,Iziaslav,Ізяслав,
+11,Ivan,Іван,
+12,Volodymyrko,Володимирко,
+13,Mykola,Микола,
+14,Igor,Ігор,
+15,Oleg,Олег,
+16,Roman,Роман,
+17,Sviatoslav,Святослав,
+18,Vladyslav,Владислав,
+19,Danylo,Данило,
+20,Iraklyi,Іраклій,
+21,Liv,Лів,
+22,Kostiantyn,Костянтин,
+23,Mikhailo,Міхайло,
+24,Andryi,Андрій,
+25,Sudyslav,Судислав,
+26,Dmytro,Дмитро,
+27,Jyroslav,Жирослав,
+28,Grygoryi,Григорій,
+29,Dobroslav,Доброслав,
+30,Viacheslav,Вячеслав,
+31,Bogomyr,Богомир,
+32,Stefan,Стефан,
+33,Mykolai,Миколай,
+34,Volodyslav,Володислав,
+35,Kormyl,Кормил,??? (from father name)
+36,Ksniatyn,Кснятин,
+37,Siroslav,Сірослав,
+38,Demian,Дем'ян,
+39,Pylyp,Пилип,
+40,Oleksandr,Олександр,
+41,Miroslav,Мирослав,
+42,Tudor,Тудор,
+43,Kuzma,Кузьма,
+44,Borys,Борис,
+45,Vasylyi,Василій,
+46,Symon,Симон,
+
+Female names
+
+1,Anna,Анна
+2,Oleksandra,Олександра
+3,Oda,Ода
+4,Ingegerd,Інгегерд
+5,Lanka,Ланка
+6,Ilona,Ілона
+7,Iryna,Ірина
+8,Olena,Олена
+9,Sofia,Софія ??
+10,Maria,Марія ??
+11,Anastasia,Анастасія
+12,Evdokia,Евдокія
+13,Nastasia,Настасья
+14,Olga,Ольга
+15,Efrosynia,Ефросинія ??
+16,Visheslava,Вішеслава
+17,Fedora,Федора
+18,Nastaska,Настаска
+19,Ryksa,Рикса
+20,Pereiaslava,Переяслава
+21,Ustynia,Устинія
+22,Sviatoslava,Святослава
+23,Gremislava,Греміслава
+24,Dobrava,Добрава
+25,Ganna,Ганна
+26,Dobroslava,Доброслава
+27,Rostyslava,Ростислава
+28,Vladyslava,Владислава
+29,Jyroslava,Жирослава
+30,Agafia,Агафія
+31,Boleslava,Болеслава
+
+Clan names
+
+1,Iaropolkovichy
+2,Vsevolodovichy
+3,Romanovichy
+4,Danylovichy
+5,Jyroslavichy
+6,Dobroslavichy
+7,Vasylkovichy
+8,Ivanovichy
+9,Olegovichy
+10,Sviatoslavichy
+
+
+-->
+
+
 </SPCultures> 
