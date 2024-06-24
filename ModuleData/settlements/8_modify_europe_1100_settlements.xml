@@ -342,8 +342,9 @@
     name = Cathow
     village type = sturgian_horse_ranch
     hearth = 205
+    culture = goldenhorde
   -->
-  <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow" posX="842.404" posY="1221.339" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
+  <Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.ECM.castle_village_K4_2}Cathow" posX="842.404" posY="1221.339" culture="Culture.goldenhorde" text="{=ECM_Settlements.Settlement.text.village_K1_3}Kuruluk sits alongside the Zakhan, a tributary of the Karakaz river. Though this valley is snowbound for much of the year, steppe ponies thrive on the spring grasses and in the winter dig through the snow for food, their thick coats protecting them from the icy blasts of wind.">
     <Components>
       <Village id="castle_village_comp_K4_2" village_type="VillageType.sturgian_horse_ranch" hearth="205" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
