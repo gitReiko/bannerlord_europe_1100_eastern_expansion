@@ -1610,4 +1610,24 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    castle_village_K8_1 changes
+    name = Kolozsvár
+    culture = hungary
+    bound = reiko_turda
+  -->
+  <Settlement id="castle_village_K8_1" name="{=Settlements.Settlement.ECM.castle_village_K8_1}Kolozsvár" posX="871.409" posY="1046.753" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K8_1}Erzenur alongside the Tiagys river, known in the local dialect as the Teyagh. The waters here have a distinct reddish tint from the iron in the soil, which the villagers mine from riverside outcrops.">
+    <Components>
+      <Village id="castle_village_comp_K8_1" village_type="VillageType.iron_mine" hearth="370" gate_rotation="0.508" bound="Settlement.reiko_turda" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
 </Settlements>
