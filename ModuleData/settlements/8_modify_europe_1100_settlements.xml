@@ -1630,4 +1630,22 @@
     </CommonAreas>
   </Settlement>
 
+  <!-- 
+    castle_village_K6_1 changes
+    bound = reiko_kraszna
+  -->
+  <Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.ECM.castle_village_K6_1}Napoca" posX="814.758" posY="1042.767" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K6_1}Dinar lies in the far north of the Khuzait confederacy, along the Karakaz river. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
+    <Components>
+      <Village id="castle_village_comp_K6_1" village_type="VillageType.sheep_farm" hearth="240" gate_rotation="0.508" bound="Settlement.reiko_kraszna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_d" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
 </Settlements>
