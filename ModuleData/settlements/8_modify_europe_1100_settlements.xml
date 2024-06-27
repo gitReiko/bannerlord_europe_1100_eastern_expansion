@@ -962,11 +962,13 @@
  
   <!-- 
     village_K6_1 changes
-    name = Poprad
+    name = Zobor
+    culture = hungary
+    bound = reiko_trencin
   -->
-  <Settlement id="village_K6_1" name="{=Settlements.Settlement.ECM.village_K6_1}Poprad" posX="759.382" posY="1073.826" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_1}Poprad">
+  <Settlement id="village_K6_1" name="{=Settlements.Settlement.ECM.village_K6_1}Zobor" posX="759.382" posY="1073.826" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_1}Zobor">
     <Components>
-      <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
+      <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221" bound="Settlement.reiko_trencin" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_e" />

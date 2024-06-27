@@ -1236,6 +1236,17 @@
     </CommonAreas>
   </Settlement>
 
+  <Settlement id="reiko_trencin" name="{=reiko_trencin.name}Trenčín" owner="Faction.clan_hungary_4" posX="747.975" posY="1086.405" culture="Culture.hungary" gate_posX="748.264" gate_posY="1087.070" text="{=reiko_trencin.text}Trenčín">
+    <Components>
+      <Town id="reiko_trencin_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="834" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="battania_castle_a" scene_name_1="battania_castle_a" scene_name_2="battania_castle_a" scene_name_3="battania_castle_a" />
+      <Location id="lordshall" scene_name_1="battania_castle_keep_a_l1_interior" scene_name_2="battania_castle_keep_a_l2_interior" scene_name_3="battania_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="battania_dungeon_a" />
+    </Locations>
+  </Settlement>
+
 
   <!-- Europe 1700 -->
 
