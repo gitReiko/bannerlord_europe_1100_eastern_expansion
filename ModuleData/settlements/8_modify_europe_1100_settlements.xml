@@ -983,10 +983,12 @@
   <!-- 
     village_K6_2 changes
     name = Biecz
+    culture = hungary
+    bound = reiko_presov
   -->
-  <Settlement id="village_K6_2" name="{=Settlements.Settlement.ECM.village_K6_2}Biecz" posX="803.968" posY="1096.869" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_2}Biecz">
+  <Settlement id="village_K6_2" name="{=Settlements.Settlement.ECM.village_K6_2}Biecz" posX="803.968" posY="1096.869" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_2}Biecz">
     <Components>
-      <Village id="village_comp_K6_2" village_type="VillageType.wheat_farm" hearth="168" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+      <Village id="village_comp_K6_2" village_type="VillageType.wheat_farm" hearth="168" bound="Settlement.reiko_presov" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="khuzait_village_f" />
