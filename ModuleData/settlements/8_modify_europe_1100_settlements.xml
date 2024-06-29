@@ -966,7 +966,7 @@
     culture = hungary
     bound = reiko_trencin
   -->
-  <Settlement id="village_K6_1" name="{=Settlements.Settlement.ECM.village_K6_1}Zobor" posX="759.382" posY="1073.826" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_1}Zobor">
+  <Settlement id="village_K6_1" name="{=village_K6_1.name}Zobor" posX="759.382" posY="1073.826" culture="Culture.hungary" text="{=village_K6_1.text}Zobor">
     <Components>
       <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221" bound="Settlement.reiko_trencin" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
     </Components>
@@ -986,7 +986,7 @@
     culture = hungary
     bound = reiko_presov
   -->
-  <Settlement id="village_K6_2" name="{=Settlements.Settlement.ECM.village_K6_2}Biecz" posX="803.968" posY="1096.869" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_2}Biecz">
+  <Settlement id="village_K6_2" name="{=village_K6_2.name}Biecz" posX="803.968" posY="1096.869" culture="Culture.hungary" text="{=village_K6_2.text}Biecz">
     <Components>
       <Village id="village_comp_K6_2" village_type="VillageType.wheat_farm" hearth="168" bound="Settlement.reiko_presov" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -1004,7 +1004,7 @@
     village_K6_3 changes
     name = Wieliczka
   -->
-  <Settlement id="village_K6_3" name="{=Settlements.Settlement.ECM.village_K6_3}Wieliczka" posX="768.919" posY="1101.96" culture="Culture.polish" text="{=ECM_Settlements.Settlement.text.village_K6_3}Wieliczka">
+  <Settlement id="village_K6_3" name="{=village_K6_3_ee.name}Wieliczka" posX="768.919" posY="1101.96" culture="Culture.polish" text="{=village_K6_3_ee.text}Wieliczka">
     <Components>
       <Village id="village_comp_K6_3" village_type="VillageType.salt_mine" hearth="272" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -1018,7 +1018,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="town_K5" name="{=Settlements.Settlement.ECM.town_K5}Zagreb" owner="Faction.clan_hungary_2" posX="698.757" posY="1015.879" culture="Culture.hungary" gate_posX="702.506" gate_posY="1018.282" text="{=ECM_SUnaVliN}Zagreb sits by the reed-marshes on the edge of Lake Tanaesis. In the years when the east was an imperial protectorate, boats laden with hides, wool and salt shuttled across the lake's placid waters, returning with imperial silks and silver. With the coming of the Khuzaits and the subsequent wars the water-trade stopped, but Zagreb remains a major trade entrepot and military base, the fief of the ruling Urkhunait clan. From the pavilions of his palace, the khan can look out across the lake and see the hazy outline of hills that he may one day graze his horses upon.">
+  <Settlement id="town_K5" name="{=town_K5_ee.name}Zagreb" owner="Faction.clan_hungary_2" posX="698.757" posY="1015.879" culture="Culture.hungary" gate_posX="702.506" gate_posY="1018.282" text="{=town_K5_ee.text}Zagreb">
      <Components>
       <Town id="town_comp_K5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.508" prosperity="3900" />
     </Components>
@@ -1039,7 +1039,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="village_K5_2" name="{=Settlements.Settlement.ECM.village_K5_2}Szombathely" posX="675.524" posY="1038.704" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_2}Okhutan is a village at the center of a wheat-growing district on a narrow stretch of plain between the Akkan hills and Lake Tanaesis, which the Khuzaits call the Tanaz Sea.">
+  <Settlement id="village_K5_2" name="{=village_K5_2_ee.name}Szombathely" posX="675.524" posY="1038.704" culture="Culture.hungary" text="{=village_K5_2_ee.text}Szombathely">
     <Components>
       <Village id="village_comp_K5_2" village_type="VillageType.cattle_farm" hearth="326" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -1055,9 +1055,9 @@
 
   <!-- 
     village_K5_3 changes
-    name = Buda
+    name = Veszprém
   -->
-  <Settlement id="village_K5_3" name="{=Settlements.Settlement.ECM.village_K5_3}Buda" posX="716.204" posY="1036.28" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_3}Ispantar is a village on a rocky spur of the Akkan hills overlooking Lake Tanaesis, which the Khuzaits call the Tanaz Sea. The villagers here make most of their income from the raising of sheep.">
+  <Settlement id="village_K5_3" name="{=village_K5_3_ee.name}Veszprém" posX="716.204" posY="1036.28" culture="Culture.hungary" text="{=village_K5_3_ee.text}Veszprém">
     <Components>
       <Village id="village_comp_K5_3" village_type="VillageType.sheep_farm" hearth="327" bound="Settlement.reiko_budapest" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -1070,8 +1070,12 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  
-  <Settlement id="village_K5_4" name="{=Settlements.Settlement.ECM.village_K5_4}Pécs" posX="718.482" posY="1014.174" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K5_4}Pabastan sits in the narrow plain between the Akkan hills and Lake Tanaesis, which the Khuzaits call the Tanaz Sea. This land is fine country for wheat.">
+
+  <!-- 
+    village_K5_4 changes
+    name = Križevci
+  -->
+  <Settlement id="village_K5_4" name="{=village_K5_4.name}Križevci" posX="718.482" posY="1014.174" culture="Culture.hungary" text="{=village_K5_4.text}Križevci">
     <Components>
       <Village id="village_comp_K5_4" village_type="VillageType.wheat_farm" hearth="239" gate_rotation="0.008" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -1620,7 +1624,7 @@
     culture = hungary
     bound = reiko_turda
   -->
-  <Settlement id="castle_village_K8_1" name="{=Settlements.Settlement.ECM.castle_village_K8_1}Kolozsvár" posX="871.409" posY="1046.753" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K8_1}Erzenur alongside the Tiagys river, known in the local dialect as the Teyagh. The waters here have a distinct reddish tint from the iron in the soil, which the villagers mine from riverside outcrops.">
+  <Settlement id="castle_village_K8_1" name="{=castle_village_K8_1_ee.name}Kolozsvár" posX="871.409" posY="1046.753" culture="Culture.hungary" text="{=castle_village_K8_1.text}Kolozsvár">
     <Components>
       <Village id="castle_village_comp_K8_1" village_type="VillageType.iron_mine" hearth="370" gate_rotation="0.508" bound="Settlement.reiko_turda" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -1636,9 +1640,10 @@
 
   <!-- 
     castle_village_K6_1 changes
+    name = Várad
     bound = reiko_kraszna
   -->
-  <Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.ECM.castle_village_K6_1}Napoca" posX="814.758" posY="1042.767" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K6_1}Dinar lies in the far north of the Khuzait confederacy, along the Karakaz river. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from this land's icy winds.">
+  <Settlement id="castle_village_K6_1" name="{=castle_village_K6_1_ee.name}Várad" posX="814.758" posY="1042.767" culture="Culture.hungary" text="{=castle_village_K6_1_ee.text}Várad">
     <Components>
       <Village id="castle_village_comp_K6_1" village_type="VillageType.sheep_farm" hearth="240" gate_rotation="0.508" bound="Settlement.reiko_kraszna" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -1651,5 +1656,193 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+
+  <!-- 
+    castle_K7 changes
+    name = Nyitra
+  -->
+  <Settlement id="castle_K7" name="{=castle_K7_ee.name}Nyitra Castle" owner="Faction.clan_hungary_1" posX="732.369" posY="1061.611" culture="Culture.hungary" gate_posX="732.097" gate_posY="1059.826">
+    <Components>
+      <Town id="castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    castle_K7 changes
+    name = Udvard
+  -->
+  <Settlement id="castle_village_K7_1" name="{=castle_village_K7_1_ee.name}Udvard" posX="747.796" posY="1052.542" culture="Culture.hungary" text="{=castle_village_K7_1_ee.text}Udvard">
+    <Components>
+      <Village id="castle_village_comp_K7_1" village_type="VillageType.cattle_farm" hearth="177" gate_rotation="0.508" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_b" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_K7_2 changes
+    name = Vác
+  -->
+  <Settlement id="castle_village_K7_2" name="{=castle_village_K7_2_ee.name}Vác" posX="772.287" posY="1048.183" culture="Culture.hungary" text="{=castle_village_K7_2.text}Vác">
+    <Components>
+      <Village id="castle_village_comp_K7_2" village_type="VillageType.steppe_horse_ranch" hearth="230" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_K6 changes
+    name = Szabolcs
+  -->
+  <Settlement id="castle_K6" name="{=castle_K6_ee.name}Szabolcs Fortress" owner="Faction.clan_hungary_6" posX="810.641" posY="1062.959" culture="Culture.hungary" gate_posX="810.5973" gate_posY="1061.181">
+       <Components>
+      <Town id="castle_comp_K6" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="620" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+  <!-- 
+    castle_village_K6_2 changes
+    name = Tokaj
+  -->
+  <Settlement id="castle_village_K6_2" name="{=castle_village_K6_2_ee.name}Tokaj" posX="797.126" posY="1061.948" culture="Culture.hungary" text="{=castle_village_K6_2_ee.text}Tokaj">
+    <Components>
+      <Village id="castle_village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="415" gate_rotation="0.508" bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_K5 changes
+    name = Csanád
+  -->
+  <Settlement id="castle_K5" name="{=castle_K5_ee.name}Csanád Fortress" owner="Faction.clan_hungary_3" posX="785.932" posY="1018.905" culture="Culture.hungary" gate_posX="787.6445" gate_posY="1019.355">
+   <Components>
+      <Town id="castle_comp_K5" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    castle_village_K5_1 changes
+    name = Dench
+  -->
+  <Settlement id="castle_village_K5_1" name="{=castle_village_K5_1_ee.name}Dench" posX="781.896" posY="1004.023" culture="Culture.hungary" text="{=castle_village_K5_1_ee.text}Dench">
+    <Components>
+      <Village id="castle_village_comp_K5_1" village_type="VillageType.clay_mine" hearth="363" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_e" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_K5_2 changes
+    name = Bodrog
+  -->
+  <Settlement id="castle_village_K5_2" name="{=castle_village_K5_2.name}Bodrog" posX="758.279" posY="1008.99" culture="Culture.hungary" text="{=castle_village_K5_2.text}Bodrog">
+    <Components>
+      <Village id="castle_village_comp_K5_2" village_type="VillageType.lumberjack" hearth="370" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_K9 changes
+    name = Temesvár
+  -->
+  <Settlement id="castle_K9" name="{=castle_K9_ee.name}Temesvár Citadel" owner="Faction.clan_hungary_7" posX="821.46" posY="1006.757" culture="Culture.hungary" gate_posX="822.9227" gate_posY="1006.53">
+    <Components>
+      <Town id="castle_comp_K9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+
+  <!-- 
+    castle_village_K9_1 changes
+    name = Krassó
+  -->
+  <Settlement id="castle_village_K9_1" name="{=castle_village_K9_1_ee.name}Krassó" posX="839.572" posY="978.294" culture="Culture.hungary" text="{=castle_village_K9_1_ee.text}Krassó">
+    <Components>
+      <Village id="castle_village_comp_K9_1" village_type="VillageType.cattle_farm" hearth="339" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_k" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+  <!-- 
+    castle_village_K9_2 changes
+    name = Arad
+  -->
+  <Settlement id="castle_village_K9_2" name="{=castle_village_K9_2_ee.name}Arad" posX="812.76" posY="1017.638" culture="Culture.hungary" text="{=castle_village_K9_2_ee.text}Arad">
+    <Components>
+      <Village id="castle_village_comp_K9_2" village_type="VillageType.wheat_farm" hearth="204" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_c" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+
+
 
 </Settlements>

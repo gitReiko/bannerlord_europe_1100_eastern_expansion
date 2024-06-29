@@ -4975,79 +4975,9 @@
     </CommonAreas>
   </Settlement>
   -->
-  <Settlement id="castle_K5" name="{=Settlements.Settlement.ECM.castle_K5}Dezna Fortress" owner="Faction.clan_hungary_3" posX="785.932" posY="1018.905" culture="Culture.hungary" gate_posX="787.6445" gate_posY="1019.355">
-   <Components>
-      <Town id="castle_comp_K5" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
-  
-  <Settlement id="castle_village_K5_1" name="{=Settlements.Settlement.ECM.castle_village_K5_1}Temesiensis" posX="781.896" posY="1004.023" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K5_1}Khimli sits in a basin the Devseg plateau. Though this land is dry most of the year, it experiences winter snowfalls and muddy springs. Fine clay can be collected from the pools left by the snowmelt and the rains.">
-    <Components>
-      <Village id="castle_village_comp_K5_1" village_type="VillageType.clay_mine" hearth="363" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_e" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="castle_K6" name="{=Settlements.Settlement.ECM.castle_K6}Ardud fortress" owner="Faction.clan_hungary_6" posX="810.641" posY="1062.959" culture="Culture.hungary" gate_posX="810.5973" gate_posY="1061.181">
-       <Components>
-      <Town id="castle_comp_K6" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="620" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
   
   
-  <Settlement id="castle_village_K6_2" name="{=Settlements.Settlement.ECM.castle_village_K6_2}Karul" posX="797.126" posY="1061.948" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K6_2}Karahalli lies in the far north of the Khuzait confederacy, not far from the icy Byalic Sea. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from the icy winds blowing off of the waters.">
-    <Components>
-      <Village id="castle_village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="415" gate_rotation="0.508" bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_l" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="castle_K7" name="{=Settlements.Settlement.ECM.castle_K7}Hajnáčka Castle" owner="Faction.clan_hungary_1" posX="732.369" posY="1061.611" culture="Culture.hungary" gate_posX="732.097" gate_posY="1059.826">
-    <Components>
-      <Town id="castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_002" scene_name_1="khuzait_castle_002" scene_name_2="khuzait_castle_002" scene_name_3="khuzait_castle_002" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
-
-  <Settlement id="castle_village_K7_1" name="{=Settlements.Settlement.ECM.castle_village_K7_1}Miscoucy" posX="747.796" posY="1052.542" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K7_1}Simira sits near the east of the Devseg plateau, as it begins to descend into the great grass sea of the east. Villagers here raise cattle bred to withstand both cold winters and hot summer.">
-    <Components>
-      <Village id="castle_village_comp_K7_1" village_type="VillageType.cattle_farm" hearth="177" gate_rotation="0.508" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_b" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <Settlement id="castle_K8" name="{=Settlements.Settlement.ECM.castle_K8}Suceva Fortress" owner="Faction.clan_pech_2" posX="916.722" posY="1023.195" culture="Culture.khuzait" gate_posX="918.0933" gate_posY="1024.255">
     <Components>
       <Town id="castle_comp_K8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="430" />
@@ -5059,43 +4989,7 @@
     </Locations>
   </Settlement>
   
-  <Settlement id="castle_K9" name="{=Settlements.Settlement.ECM.castle_K9}Aiud Citadel" owner="Faction.clan_hungary_7" posX="821.46" posY="1006.757" culture="Culture.hungary" gate_posX="822.9227" gate_posY="1006.53">
-    <Components>
-      <Town id="castle_comp_K9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
-
-  <Settlement id="castle_village_K9_1" name="{=Settlements.Settlement.ECM.castle_village_K9_1}Dewa" posX="839.572" posY="978.294" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K9_1}Kaysar sits in the north and east of the lands ruled by the Khuzaits, in the valley of the Karakaz river. This district is snowbound for much of the year, but villagers still raise herds of cattle bred to withstand the icy winds coming downriver from the north.">
-    <Components>
-      <Village id="castle_village_comp_K9_1" village_type="VillageType.cattle_farm" hearth="339" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_k" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="castle_village_K9_2" name="{=Settlements.Settlement.ECM.castle_village_K9_2}Tordavár" posX="812.76" posY="1017.638" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K9_2}Payam lies alongside the Karakaz river in the cold north of the Khuzait lands. Though the land is snowbound much of the year, the villagers sow wheat and barley as soon as the melt starts, taking in a good crop before the autumn.">
-    <Components>
-      <Village id="castle_village_comp_K9_2" village_type="VillageType.wheat_farm" hearth="204" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_c" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
   <!-- clan 3, Arkits, lords 5, 9, 15 -->
   <Settlement id="town_K1" name="{=Settlements.Settlement.ECM.town_K1}Belgrade" owner="Faction.clan_empire_south_8" posX="767.864" posY="973.962" culture="Culture.serbian" gate_posX="764.2687" gate_posY="973.6921" text="{=ECM_YNm9vaHw}Belgrade, the Fortress of the Axe, was settled by the Iltanlar, mountain-dwelling cousins of the Khuzaits. Centuries ago their beys descended into the plains and created the fortress here that guards the portages of Iltan, the network of lakes and rivers that divides the Sturgian lands from the Khuzaits' realm. Bitter winters protected them from the reach of the Empire, but no blast of wind was cutting enough to stop the horsemen of Khan Urkhun, who 40 years ago forced this town to submit to the khanate.">
   <Components>
@@ -5226,19 +5120,7 @@
 
 
   
-  <Settlement id="castle_village_K5_2" name="{=Settlements.Settlement.ECM.castle_village_K5_2}Újvidék" posX="758.279" posY="1008.99" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K4_1}Omrotok sits at the foot of the Sulun Dag mountains, that mark the eastern border of the Devseg plateau. Villagers go to the nearby woods to harvest one of the Devseg's few sources of timber.">
-    <Components>
-      <Village id="castle_village_comp_K5_2" village_type="VillageType.lumberjack" hearth="370" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_k" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
 
   <Settlement id="castle_village_K2_2" name="{=Settlements.Settlement.ECM.castle_village_K2_2}Licovrissi" posX="960.861" posY="960.807" culture="Culture.khuzait" text="{=ECM_Settlements.Settlement.text.village_K5_1}Kamshar sits by the shores of Lake Tanaesis, which the Khuzaits call the Tanaz Sea. The fishing is poor in these parts but villagers collect clay from the lakeside for sale to the potters of Chaikhand and other towns.">
     <Components>
@@ -5255,19 +5137,7 @@
   </Settlement>
   
   
-  <Settlement id="castle_village_K7_2" name="{=Settlements.Settlement.ECM.castle_village_K7_2}Debrecen" posX="772.287" posY="1048.183" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.village_K6_4}Kohi Ajik lies in a narrow, dry valley at the foot of the so-called Lover's Mountain, from which its name derives. The peoples of this land buy horses from the nomads to their east and sell them to the Khuzait aristocracy in the towns.">
-    <Components>
-      <Village id="castle_village_comp_K7_2" village_type="VillageType.steppe_horse_ranch" hearth="230" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_k" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+
 
  <!-- Hideouts -->
   <!-- Forest Bandit  Hideouts -->
