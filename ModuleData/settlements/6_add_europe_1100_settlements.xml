@@ -4898,43 +4898,7 @@
     </CommonAreas>
   </Settlement>  
   <!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
-  <Settlement id="castle_K1" name="{=Settlements.Settlement.ECM.castle_K1}Bužim Castle" owner="Faction.clan_hungary_4" posX="695.527" posY="975.302" culture="Culture.hungary" gate_posX="693.5497" gate_posY="975.7935">
-    <Components>
-      <Town id="castle_comp_K1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.castle_complex">
-      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
-      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
-      <Location id="prison" scene_name="khuzait_dungeon_a" />
-    </Locations>
-  </Settlement>
   
-  <Settlement id="castle_village_K1_1" name="{=Settlements.Settlement.ECM.castle_village_K1_1}Knin" posX="696.482" posY="956.216" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K1_1}Usek sits at the foot of the Akkan hills on the eastern shores of Lake Tanaesis, which the Khuzaits call the Tanaz Sea. The villagers, who until recently were nomads, raise sheep known for the long, fine wool.">
-    <Components>
-      <Village id="castle_village_comp_K1_1" village_type="VillageType.sheep_farm" hearth="130" gate_rotation="0.508" bound="Settlement.castle_K1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_h" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
-  <Settlement id="castle_village_K1_2" name="{=Settlements.Settlement.ECM.castle_village_K1_2}Jajce" posX="710.419" posY="966.677" culture="Culture.hungary" text="{=ECM_Settlements.Settlement.text.castle_village_K1_2}The village of Esme and its surrounding hamlets lie on the landward side of the Akkan hills on the Devseg plateau, prime grazing lands for the flocks of the Khuzaits and their confederates.">
-    <Components>
-      <Village id="castle_village_comp_K1_2" village_type="VillageType.steppe_horse_ranch" hearth="106" gate_rotation="0.508" bound="Settlement.castle_K1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_i" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
   <Settlement id="castle_K2" name="{=Settlements.Settlement.ECM.castle_K2}Bacău" owner="Faction.clan_pech_3" posX="957.839" posY="1000.835" culture="Culture.khuzait" gate_posX="956.533" gate_posY="999.4001">
     <Components>
       <Town id="castle_comp_K2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="480" />

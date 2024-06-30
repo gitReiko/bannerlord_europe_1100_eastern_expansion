@@ -991,7 +991,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_budapest" name="{=reiko_budapest.name}Fehérvár" owner="Faction.clan_hungary_1" posX="738.192" posY="1043.933" culture="Culture.hungary"  gate_posX="737.449" gate_posY="1042.194" text="{=reiko_budapest.text}Fehérvár">
+  <Settlement id="reiko_budapest" name="{=reiko_budapest.name}Fehérvár" owner="Faction.clan_hungary_11" posX="738.192" posY="1043.933" culture="Culture.hungary"  gate_posX="737.449" gate_posY="1042.194" text="{=reiko_budapest.text}Fehérvár">
     <Components>
       <Town id="reiko_budapest_comp" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="1540" />
     </Components>
@@ -1190,7 +1190,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_turda" name="{=reiko_turda.name}Torda Castle" owner="Faction.clan_hungary_1" posX="875.300" posY="1039.070" culture="Culture.hungary"  gate_posX="875.825" gate_posY="1039.130">
+  <Settlement id="reiko_turda" name="{=reiko_turda.name}Torda Castle" owner="Faction.clan_hungary_7" posX="875.300" posY="1039.070" culture="Culture.hungary"  gate_posX="875.825" gate_posY="1039.130">
     <Components>
       <Town id="reiko_turda_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="867" />
     </Components>
@@ -1215,7 +1215,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_kraszna" name="{=reiko_kraszna.name}Kraszna" owner="Faction.clan_hungary_3" posX="834.770" posY="1048.844" culture="Culture.hungary"  gate_posX="835.575" gate_posY="1047.977" text="{=reiko_kraszna.text}Kraszna.">
+  <Settlement id="reiko_kraszna" name="{=reiko_kraszna.name}Kraszna" owner="Faction.clan_hungary_1" posX="834.770" posY="1048.844" culture="Culture.hungary"  gate_posX="835.575" gate_posY="1047.977" text="{=reiko_kraszna.text}Kraszna.">
     <Components>
       <Town id="reiko_kraszna_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="876" />
     </Components>
@@ -1236,7 +1236,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_trencin" name="{=reiko_trencin.name}Trenčín" owner="Faction.clan_hungary_4" posX="747.975" posY="1086.405" culture="Culture.hungary" gate_posX="748.264" gate_posY="1087.070" text="{=reiko_trencin.text}Trenčín">
+  <Settlement id="reiko_trencin" name="{=reiko_trencin.name}Trenčín" owner="Faction.clan_hungary_8" posX="747.975" posY="1086.405" culture="Culture.hungary" gate_posX="748.264" gate_posY="1087.070" text="{=reiko_trencin.text}Trenčín">
     <Components>
       <Town id="reiko_trencin_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="834" />
     </Components>
@@ -1247,7 +1247,7 @@
     </Locations>
   </Settlement>
 
-  <Settlement id="reiko_presov" name="{=reiko_presov.name}Sarus" owner="Faction.clan_hungary_3" posX="792.140" posY="1088.000" culture="Culture.hungary"  gate_posX="793.364" gate_posY="1087.650" text="{=reiko_presov.text}Sarus">
+  <Settlement id="reiko_presov" name="{=reiko_presov.name}Sarus" owner="Faction.clan_hungary_6" posX="792.140" posY="1088.000" culture="Culture.hungary"  gate_posX="793.364" gate_posY="1087.650" text="{=reiko_presov.text}Sarus">
     <Components>
       <Town id="reiko_presov_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="569" />
     </Components>
