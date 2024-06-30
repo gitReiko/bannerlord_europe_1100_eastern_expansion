@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_hungary_1"
+           name="{=Árpád}Árpád"
+           tier="6"
+           owner="Hero.lord_hungary_1a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.35.19.1836.1836.779.782.1.0.-30.505.142.116.120.7638.748.441.0.0.-90.505.142.116.120.7644.748.857.0.0.-90.505.142.116.120.6646.748.652.0.0.-90.505.142.116.120.4701.748.1063.0.0.-90" />
+		   
+  <Faction id="clan_hungary_2"
+           name="{=Snačić}Snačić"
+           tier="5"
+           owner="Hero.lord_hungary_2a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.141.19.1836.1836.779.782.1.0.-30.340.143.116.502.554.749.853.1.0.0.424.143.116.324.250.751.595.1.0.0.503.40.116.89.86.551.670.1.0.0.503.83.116.89.86.952.676.1.0.0" />
+		   
+  <Faction id="clan_hungary_3"
+           name="{=Körtvélyessy}Körtvélyessy"
+           tier="5"
+           owner="Hero.lord_hungary_3a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.83.19.1836.1836.779.782.1.0.-30.340.7.116.281.291.763.1030.1.0.0.301.7.116.389.403.635.571.1.0.11.140.40.116.458.474.761.727.1.0.0" />
+		   
+  <Faction id="clan_hungary_4"
+           name="{=Frankopan}Frankopan"
+           tier="5"
+           owner="Hero.lord_hungary_4a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="1.83.84.1399.1438.779.782.1.0.270.518.7.116.397.434.768.585.1.0.210.518.84.116.356.389.768.585.0.0.210.518.5.116.300.328.768.585.0.0.210" />
+		   
+  <Faction id="clan_hungary_5"
+           name="{=Újlaki}Újlaki"
+           tier="5"
+           owner="Hero.lord_hungary_5a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.142.19.1836.1836.779.782.1.0.-30.510.35.116.6576.634.771.434.0.0.0.510.35.116.6576.634.767.610.0.0.0" />
+		   
+  <Faction id="clan_hungary_6"
+           name="{=Bogátradvány}Bogátradvány"
+           tier="5"
+           owner="Hero.lord_hungary_6a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.35.19.1836.1836.779.782.1.0.-30.505.142.116.120.7638.748.441.0.0.-90.505.142.116.120.7644.748.857.0.0.-90.505.142.116.120.6646.748.652.0.0.-90.505.142.116.120.4701.748.1063.0.0.-90" />		
+		   
+  <Faction id="clan_hungary_7"
+           name="{=Bellegrate}Bellegrate"
+           tier="5"
+           owner="Hero.lord_hungary_7a"
+           culture="Culture.hungary"
+           super_faction="Kingdom.hungary"
+		   is_noble="true"
+           banner_key="11.119.19.1836.1836.779.782.1.0.-30.505.128.116.345.852.913.764.0.0.0.505.119.116.318.810.626.764.0.0.0.104.128.116.570.744.759.774.1.0.0.104.119.116.570.744.759.774.0.0.0.104.128.116.570.744.759.774.1.0.0" />		
+
+</Factions>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+   <Hero id="lord_hungary_1a" spouse="Hero.lord_hungary_1b" faction="Faction.clan_hungary_1" text="{=lord_hungary_1a.text}Coloman the Learned, was King of Hungary from 1095 and King of Croatia from 1097 until his death. Because Coloman and his younger brother Álmos were underage when their father Géza I died, their uncle Ladislaus I ascended the throne in 1077. Ladislaus prepared Coloman, who was half-blind and humpbacked, according to late medieval Hungarian chronicles, for a church career, and Coloman was eventually appointed bishop of Eger or Várad in the early 1090s. The dying King Ladislaus preferred Álmos to Coloman when nominating his heir in early 1095. Coloman fled from Hungary but returned around 19 July 1095 when his uncle died. He was crowned in early 1096; the circumstances of his accession to the throne are unknown. He granted the Hungarian Duchy, one-third of the Kingdom of Hungary, to Álmos." />
+   <Hero id="lord_hungary_1b" spouse="Hero.lord_hungary_1a" father="Hero.lord_1_27" faction="Faction.clan_hungary_1" />
+   <Hero id="lord_hungary_1c" father="Hero.lord_hungary_1a" mother="Hero.lord_hungary_1b" faction="Faction.clan_hungary_1" />
+   <Hero id="lord_hungary_1d" spouse="Hero.lord_hungary_1e" faction="Faction.clan_hungary_1" />
+   <Hero id="lord_hungary_1e" spouse="Hero.lord_hungary_1d" faction="Faction.clan_hungary_1" />
+   <Hero id="lord_hungary_2a" faction="Faction.clan_hungary_2" />
+   <Hero id="lord_hungary_3a" spouse="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3b" spouse="Hero.lord_hungary_3a" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_4a" spouse="Hero.lord_hungary_4b" faction="Faction.clan_hungary_4" />
+   <Hero id="lord_hungary_4b" spouse="Hero.lord_hungary_4a" faction="Faction.clan_hungary_4" />
+   <Hero id="lord_hungary_5a" spouse="Hero.lord_hungary_5b" faction="Faction.clan_hungary_5" />
+   <Hero id="lord_hungary_5b" spouse="Hero.lord_hungary_5a" faction="Faction.clan_hungary_5" />
+   <Hero id="lord_hungary_6a" spouse="Hero.lord_hungary_6b" faction="Faction.clan_hungary_6" />
+   <Hero id="lord_hungary_6b" spouse="Hero.lord_hungary_6a" faction="Faction.clan_hungary_6" />
+   <Hero id="lord_hungary_7a" spouse="Hero.lord_hungary_7b" faction="Faction.clan_hungary_7" />
+   <Hero id="lord_hungary_7b" spouse="Hero.lord_hungary_7a" faction="Faction.clan_hungary_7" />
+   
+   </Heroes>
