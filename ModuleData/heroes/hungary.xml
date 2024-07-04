@@ -11,6 +11,8 @@
 
 
    <Hero id="lord_hungary_2a" faction="Faction.clan_hungary_2" />
+   <Hero id="lord_hungary_2b" faction="Faction.clan_hungary_2" text="{=lord_hungary_2b.text}Brother of the King of Croatia. His name is unknown, the name introduced in the mod is fictitious." />
+   <Hero id="lord_hungary_2с" faction="Faction.clan_hungary_2" />
 
 
    <Hero id="lord_hungary_3a" spouse="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
