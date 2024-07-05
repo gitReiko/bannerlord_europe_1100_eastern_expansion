@@ -15,8 +15,13 @@
    <Hero id="lord_hungary_2с" faction="Faction.clan_hungary_2" />
 
 
-   <Hero id="lord_hungary_3a" spouse="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
-   <Hero id="lord_hungary_3b" spouse="Hero.lord_hungary_3a" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3a" spouse="Hero.lord_hungary_3b" father="Hero.lord_hungary_3d" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3b" spouse="Hero.lord_hungary_3a" faction="Faction.clan_hungary_3" text="{=lord_hungary_3b.text}Nothing is known about the persona. It is created for construction of the clan's family tree." /> />
+   <Hero id="lord_hungary_3c" father="Hero.lord_hungary_3d" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3d" alive="false" faction="Faction.clan_hungary_3" text="{=lord_hungary_3d.text}Nothing is known about the persona. It is created for construction of the clan's family tree." />
+   <Hero id="lord_hungary_3e" father="Hero.lord_hungary_3a" mother="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3f" father="Hero.lord_hungary_3a" mother="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
+   <Hero id="lord_hungary_3g" father="Hero.lord_hungary_3a" mother="Hero.lord_hungary_3b" faction="Faction.clan_hungary_3" />
 
 
    <Hero id="lord_hungary_4a" spouse="Hero.lord_hungary_4b" faction="Faction.clan_hungary_4" />
