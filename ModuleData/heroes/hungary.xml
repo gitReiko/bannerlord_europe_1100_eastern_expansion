@@ -29,11 +29,12 @@
 
 
    <Hero id="lord_hungary_5a" spouse="Hero.lord_hungary_5b" faction="Faction.clan_hungary_5" />
-   <Hero id="lord_hungary_5b" spouse="Hero.lord_hungary_5a" faction="Faction.clan_hungary_5" />
+   <Hero id="lord_hungary_5b" spouse="Hero.lord_hungary_5a" faction="Faction.clan_hungary_5" text="{=lord_hungary_5b.text}Nothing is known about the persona. It is created for construction of the clan's family tree." />
 
 
-   <Hero id="lord_hungary_6a" spouse="Hero.lord_hungary_6b" faction="Faction.clan_hungary_6" />
-   <Hero id="lord_hungary_6b" spouse="Hero.lord_hungary_6a" faction="Faction.clan_hungary_6" />
+   <Hero id="lord_hungary_6a" spouse="Hero.lord_hungary_6b" father="Hero.lord_hungary_6c" faction="Faction.clan_hungary_6" />
+   <Hero id="lord_hungary_6b" spouse="Hero.lord_hungary_6a" faction="Faction.clan_hungary_6" text="{=lord_hungary_5b.text}Nothing is known about the persona. It is created for construction of the clan's family tree." />
+   <Hero id="lord_hungary_6c" faction="Faction.clan_hungary_6" />
 
 
    <Hero id="lord_hungary_7a" spouse="Hero.lord_hungary_7b" faction="Faction.clan_hungary_7" />

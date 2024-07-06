@@ -59,7 +59,7 @@
   <Faction id="clan_hungary_6"
     name="{=clan_hungary_6.name}Bogátradvány"
     tier="4"
-    owner="Hero.lord_hungary_6a"
+    owner="Hero.lord_hungary_6c"
     culture="Culture.hungary"
     super_faction="Kingdom.hungary"
     is_noble="true"
