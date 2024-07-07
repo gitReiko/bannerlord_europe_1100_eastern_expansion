@@ -54,7 +54,9 @@
    <Hero id="lord_hungary_9c" faction="Faction.clan_hungary_9" />
 
 
-   <Hero id="lord_hungary_10a" faction="Faction.clan_hungary_10" />
+   <Hero id="lord_hungary_10a" spouse="Hero.lord_hungary_10b" faction="Faction.clan_hungary_10" />
+   <Hero id="lord_hungary_10b" spouse="Hero.lord_hungary_10a" faction="Faction.clan_hungary_10" />
+   <Hero id="lord_hungary_10c" father="Hero.lord_hungary_10a" mother="Hero.lord_hungary_10b" faction="Faction.clan_hungary_10" />
 
 
    <Hero id="lord_hungary_11a" faction="Faction.clan_hungary_11" />
