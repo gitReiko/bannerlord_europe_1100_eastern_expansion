@@ -42,7 +42,11 @@
    <Hero id="lord_hungary_7c" faction="Faction.clan_hungary_7" />
 
 
-   <Hero id="lord_hungary_8a" faction="Faction.clan_hungary_8" />
+   <Hero id="lord_hungary_8a" spouse="Hero.lord_hungary_8c" faction="Faction.clan_hungary_8" text="{=lord_hungary_8a.text}Lampert inherited large-scale domains in Upper Hungary. By the end of his life, he possessed approximately 30 landholdings, becoming one of the richest aristocrats of the Kingdom of Hungary at the turn of the 11th and 12th centuries." />
+   <Hero id="lord_hungary_8b" faction="Faction.clan_hungary_8" />
+   <Hero id="lord_hungary_8c" spouse="Hero.lord_hungary_8a" faction="Faction.clan_hungary_8" />
+   <Hero id="lord_hungary_8d" father="Hero.lord_hungary_8a" mother="Hero.lord_hungary_8c" faction="Faction.clan_hungary_8" />
+   <Hero id="lord_hungary_8e" father="Hero.lord_hungary_8a" mother="Hero.lord_hungary_8c" faction="Faction.clan_hungary_8" />
 
 
    <Hero id="lord_hungary_9a" faction="Faction.clan_hungary_9" />

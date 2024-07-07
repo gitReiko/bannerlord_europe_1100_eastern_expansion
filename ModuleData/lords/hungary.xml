@@ -1096,14 +1096,14 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_hungary_7a"
-                name="{=lord_hungary_7a.name}Vinkúr"
-                voice="softspoken"
-                age="56"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+    name="{=lord_hungary_7a.name}Vinkúr"
+    voice="softspoken"
+    age="56"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22.04" weight="0.5" build="0.6697"  key="0013300FC0003182B7366617D7285DBA8EB9B96D8CC688635577DAAD5856A7A900CA76030C39502600000000000000000000000000000000000000001F8C20C2"  />
@@ -1145,15 +1145,15 @@
   </NPCCharacter>
   
   <NPCCharacter id="lord_hungary_7b"
-                name="{=lord_hungary_7b.name}Zoé*"
-                default_group="Cavalry"
-                age="51"
-                voice="ironic"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                face_mesh_cache="true">
+    name="{=lord_hungary_7b.name}Zoé*"
+    default_group="Cavalry"
+    age="51"
+    voice="ironic"
+    is_female="true"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    face_mesh_cache="true">
     <face>
       <BodyProperties version="4" age="22.04" weight="0.5" build="0.6697"  key="0013E00FC0003002B7366617D7285DBA8EB9B96D8CC688635577DAAD5856A7A900CA76030C39502600000000000000000000000000000000000000001F8C20C3"  />
     </face>
@@ -1192,14 +1192,14 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_hungary_7c"
-                name="{=lord_hungary_7c.name}Merkúr"
-                voice="softspoken"
-                age="45"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+    name="{=lord_hungary_7c.name}Merkúr"
+    voice="softspoken"
+    age="45"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
       <!-- Face key needs redoing, repurposed from female-->
       <BodyProperties version="4" age="22.13" weight="0.3218" build="0.341"  key="001EB00ACE000009B6708BA699985229D3698B3ABDFE344C8227346938898868004556030423523700000000000000000000000000000000000000003E8C2002"  />
@@ -1241,93 +1241,287 @@
   </NPCCharacter>
 
   <NPCCharacter id="lord_hungary_8a"
-                name="{=lord_latgalian_2a.name}Saulnesis*"
-                voice="softspoken"
-                age="37"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+    name="{=lord_hungary_8a.name}Lampert"
+    voice="softspoken"
+    age="40"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
     <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
-        </face>
+      <BodyProperties version="4" age="22.19" weight="0.5" build="0.2424"  key="0015C408C0CC11D44CA5B9C995D7B363C5688886B6A78D56654185767669B7840074760307EA698300000000000000000000000000000000000000003ADC8042"  />
+    </face>
     <skills>
-        <skill id="Engineering" value="150" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="175" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="125" />
-        <skill id="Scouting" value="175" />
-        <skill id="Tactics" value="175" />
-        <skill id="Athletics" value="225" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="125" />
-        <skill id="Bow" value="100" />
-        <skill id="Polearm" value="225" />
-        <skill id="TwoHanded" value="125" />
-        <skill id="OneHanded" value="200" />
+      <skill id="Engineering" value="125" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="200" />
+      <skill id="Steward" value="125" />
+      <skill id="Trade" value="25" />
+      <skill id="Charm" value="100" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="125" />
+      <skill id="Tactics" value="150" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="175" />
+      <skill id="Throwing" value="75" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Polearm" value="150" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="-2" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="1" />
     </Traits>
     <Equipments>
         <EquipmentSet id="hun_lord" />
         <EquipmentSet id="hun_lord"
                         civilian="true" />
     </Equipments>
-    </NPCCharacter>
+  </NPCCharacter>
 
-  <NPCCharacter id="lord_hungary_9a"
-                name="{=lord_latgalian_2a.name}Saulnesis*"
-                voice="softspoken"
-                age="37"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+  <NPCCharacter id="lord_hungary_8b"
+    name="{=lord_hungary_8b.name}Ypolitus"
+    voice="softspoken"
+    age="39"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
-    <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
-        </face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22.19" weight="0.6034" build="0.4259"  key="00155C081ECC110F49A5B9B995D793659568888696A78B56654185765669B784008696030878698300000000000000000000000000000000000000003B147042"  />
+    </face>
     <skills>
-        <skill id="Engineering" value="150" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="175" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="125" />
-        <skill id="Scouting" value="175" />
-        <skill id="Tactics" value="175" />
-        <skill id="Athletics" value="225" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="125" />
-        <skill id="Bow" value="100" />
-        <skill id="Polearm" value="225" />
-        <skill id="TwoHanded" value="125" />
-        <skill id="OneHanded" value="200" />
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="175" />
+      <skill id="Leadership" value="150" />
+      <skill id="Steward" value="100" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="75" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="150" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="150" />
+      <skill id="Riding" value="150" />
+      <skill id="Throwing" value="100" />
+      <skill id="Crossbow" value="100" />
+      <skill id="Bow" value="50" />
+      <skill id="Polearm" value="175" />
+      <skill id="TwoHanded" value="75" />
+      <skill id="OneHanded" value="150" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="0" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="-1" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="hun_lord" />
+        <EquipmentSet id="hun_lord"
+                        civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungary_8c"
+    name="{=lord_hungary_8c.name}Zsófia"
+    default_group="Cavalry"
+    age="38"
+    voice="ironic"
+    is_female="true"
+    is_hero="true"
+    culture="Culture.sicilian"
+    occupation="Lord"
+    face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4" age="22.19" weight="0.2446" build="0.3554"  key="0015A40E40582007C46F9B717C99A56AD758795876A6A16A7CBAA671984A5798005546030532547600000000000000000000000000000000000000005E9400C3"  />
+    </face>
+    <skills>
+      <skill id="Tactics" value="50" />
+      <skill id="Engineering" value="100" />
+      <skill id="Medicine" value="125" />
+      <skill id="Leadership" value="75" />
+      <skill id="Steward" value="250" />
+      <skill id="Trade" value="125" />
+      <skill id="Charm" value="200" />
+      <skill id="Roguery" value="100" />
+      <skill id="Scouting" value="100" />
+      <skill id="Bow" value="75" />
+      <skill id="Crossbow" value="75" />
+      <skill id="OneHanded" value="50" />
+      <skill id="Riding" value="125" />
+      <skill id="Athletics" value="100" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="2" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="hun_lady" />
+      <EquipmentSet id="hun_lady"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungary_8d"
+    name="{=lord_hungary_8d.name}Bény II"
+    voice="softspoken"
+    age="11"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22.19" weight="0.5" build="0.2424"  key="0015880C40CC18054CA5B9C99597936595688886B6A78D566541657676678784006476030655688300000000000000000000000000000000000000003ADC7042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="25" />
+      <skill id="Medicine" value="25" />
+      <skill id="Leadership" value="50" />
+      <skill id="Steward" value="25" />
+      <skill id="Trade" value="15" />
+      <skill id="Charm" value="25" />
+      <skill id="Roguery" value="25" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="25" />
+      <skill id="Athletics" value="50" />
+      <skill id="Riding" value="25" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="35" />
+      <skill id="Bow" value="15" />
+      <skill id="Polearm" value="50" />
+      <skill id="TwoHanded" value="10" />
+      <skill id="OneHanded" value="40" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="hun_lord" />
+        <EquipmentSet id="hun_lord"
+                        civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungary_8e"
+    name="{=lord_hungary_8e.name}Nicolaus"
+    voice="softspoken"
+    age="9"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22.19" weight="0.3102" build="0.4336"  key="0015BC0D80CC060249A7B999959773659569888686A78A566541655676458784005756030555688300000000000000000000000000000000000000003AB46042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="15" />
+      <skill id="Medicine" value="20" />
+      <skill id="Leadership" value="25" />
+      <skill id="Steward" value="50" />
+      <skill id="Trade" value="15" />
+      <skill id="Charm" value="25" />
+      <skill id="Roguery" value="50" />
+      <skill id="Scouting" value="50" />
+      <skill id="Tactics" value="50" />
+      <skill id="Athletics" value="50" />
+      <skill id="Riding" value="50" />
+      <skill id="Throwing" value="25" />
+      <skill id="Crossbow" value="40" />
+      <skill id="Bow" value="25" />
+      <skill id="Polearm" value="25" />
+      <skill id="TwoHanded" value="10" />
+      <skill id="OneHanded" value="40" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="hun_lord" />
+        <EquipmentSet id="hun_lord"
+                        civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_hungary_9a"
+    name="{=lord_latgalian_2a.name}Saulnesis*"
+    voice="softspoken"
+    age="37"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
+    </face>
+    <skills>
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="225" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
         <EquipmentSet id="hun_lord" />
@@ -1337,45 +1531,45 @@
     </NPCCharacter>
 
   <NPCCharacter id="lord_hungary_10a"
-                name="{=lord_latgalian_2a.name}Saulnesis*"
-                voice="softspoken"
-                age="37"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+    name="{=lord_latgalian_2a.name}Saulnesis*"
+    voice="softspoken"
+    age="37"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
     <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
-        </face>
+      <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
+    </face>
     <skills>
-        <skill id="Engineering" value="150" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="175" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="125" />
-        <skill id="Scouting" value="175" />
-        <skill id="Tactics" value="175" />
-        <skill id="Athletics" value="225" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="125" />
-        <skill id="Bow" value="100" />
-        <skill id="Polearm" value="225" />
-        <skill id="TwoHanded" value="125" />
-        <skill id="OneHanded" value="200" />
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="225" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
         <EquipmentSet id="hun_lord" />
@@ -1385,93 +1579,93 @@
     </NPCCharacter>
   
   <NPCCharacter id="lord_hungary_11a"
-                name="{=lord_latgalian_2a.name}Saulnesis*"
-                voice="softspoken"
-                age="37"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+    name="{=lord_latgalian_2a.name}Saulnesis*"
+    voice="softspoken"
+    age="37"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
     <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
-        </face>
+      <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
+    </face>
     <skills>
-        <skill id="Engineering" value="150" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="175" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="125" />
-        <skill id="Scouting" value="175" />
-        <skill id="Tactics" value="175" />
-        <skill id="Athletics" value="225" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="125" />
-        <skill id="Bow" value="100" />
-        <skill id="Polearm" value="225" />
-        <skill id="TwoHanded" value="125" />
-        <skill id="OneHanded" value="200" />
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="225" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
         <EquipmentSet id="hun_lord" />
         <EquipmentSet id="hun_lord"
                         civilian="true" />
     </Equipments>
-    </NPCCharacter>
+  </NPCCharacter>
 
-    <NPCCharacter id="lord_hungary_12a"
-                name="{=lord_latgalian_2a.name}Saulnesis*"
-                voice="softspoken"
-                age="37"
-                is_female="false"
-                is_hero="true"
-                culture="Culture.hungary"
-                occupation="Lord"
-                default_group="Cavalry">
+  <NPCCharacter id="lord_hungary_12a"
+    name="{=lord_latgalian_2a.name}Saulnesis*"
+    voice="softspoken"
+    age="37"
+    is_female="false"
+    is_hero="true"
+    culture="Culture.hungary"
+    occupation="Lord"
+    default_group="Cavalry">
     <face>
     <!-- Face key needs redoing, repurposed from female-->
-    <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
-        </face>
+      <BodyProperties version="4" age="22" weight="0.3218" build="0.3995"  key="000D8C0980882594A5DCA5C66719BC9CD58C88847BAB71438875A5AC3C9A775800B656030B5342A500000000000000000000000000000000000000003D6C2042"  />
+    </face>
     <skills>
-        <skill id="Engineering" value="150" />
-        <skill id="Medicine" value="100" />
-        <skill id="Leadership" value="175" />
-        <skill id="Steward" value="150" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="50" />
-        <skill id="Roguery" value="125" />
-        <skill id="Scouting" value="175" />
-        <skill id="Tactics" value="175" />
-        <skill id="Athletics" value="225" />
-        <skill id="Riding" value="100" />
-        <skill id="Throwing" value="125" />
-        <skill id="Bow" value="100" />
-        <skill id="Polearm" value="225" />
-        <skill id="TwoHanded" value="125" />
-        <skill id="OneHanded" value="200" />
+      <skill id="Engineering" value="150" />
+      <skill id="Medicine" value="100" />
+      <skill id="Leadership" value="175" />
+      <skill id="Steward" value="150" />
+      <skill id="Trade" value="50" />
+      <skill id="Charm" value="50" />
+      <skill id="Roguery" value="125" />
+      <skill id="Scouting" value="175" />
+      <skill id="Tactics" value="175" />
+      <skill id="Athletics" value="225" />
+      <skill id="Riding" value="100" />
+      <skill id="Throwing" value="125" />
+      <skill id="Bow" value="100" />
+      <skill id="Polearm" value="225" />
+      <skill id="TwoHanded" value="125" />
+      <skill id="OneHanded" value="200" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Egalitarian" value="0" />
+      <Trait id="Oligarchic" value="0" />
+      <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
         <EquipmentSet id="hun_lord" />
