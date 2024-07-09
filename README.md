@@ -8,8 +8,9 @@ The mod on this page will be updated to match the Empires of Europe 1100 version
 Update 1.6.0 Hungary Kingdom
 
 - new settlements
-- new clanes
-- settlements scenes variety (only for settlements of this mod)
+- 12 clanes for Hungary
+- 42 lords for Hungary
+- towns scenes variety (only for towns of this mod)
 - other improvements
 
 This mod has two purposes:
