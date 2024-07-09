@@ -203,6 +203,13 @@
       </IncludedGameTypes>
 		</XmlNode>
 
+    <XmlNode>
+      <XmlName id="Items" path="easternEuropeItems"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+    </XmlNode>
 
     <!--ELPData-->
 

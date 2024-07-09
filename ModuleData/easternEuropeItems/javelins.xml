@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	
+    <CraftedItem id="pine_oval_hunting_sulica_t1_type1"
+        name="Pine Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <!-- Dregovian ?? -->
+    <CraftedItem id="ash_oval_hunting_sulica_t1_type1"
+        name="Ash Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="oaken_oval_hunting_sulica_t1_type1"
+        name="Oaken Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="pine_oval_sulica_t1_type1"
+        name="Pine Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <!-- Dregovian ?? -->
+    <CraftedItem id="ash_oval_sulica_t1_type1"
+        name="Ash Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="oaken_oval_sulica_t1_type1"
+        name="Oaken Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="pine_rhombic_sulica_t3_type1"
+        name="Pine Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <!-- Dregovian ?? -->
+    <CraftedItem id="ash_rhombic_sulica_t3_type1"
+        name="Ash Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="oaken_rhombic_sulica_t3_type1"
+        name="Oaken Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="pine_oval_war_sulica_t3_type1"
+        name="Pine Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_42" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <!-- Dregovian ?? -->
+    <CraftedItem id="ash_oval_war_sulica_t3_type1"
+        name="Ash Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_42" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="oaken_oval_war_sulica_t3_type1"
+        name="Oaken Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        crafting_template="Javelin">
+    <Pieces>
+        <Piece id="spear_blade_42" Type="Blade" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+	
+
+
+
+
+
+
+
+</Items>
