@@ -13,7 +13,7 @@
     Javellins of this type were used on the territory of modern Belarus, Estonia, Latvia and Lithuania.
 
     Sulica (Angon) - Petiole Type 3 [11th - 13th c.]
-    Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia.
+    Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia. Widely used by Curonians. In Belarus 3 spearheads were found in the western part.
 
     Sulica - Petiole Type 4 [11th - 14th c.]
     Javellins of this type were used on the territory of modern Belarus, Southern Eastern Baltica, Finland, Gotland and Northern Western Russian.
@@ -189,33 +189,33 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="jatvingian_pine_angon_t2_type3"
-        name="Jatvingian Pine Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_pine_angon_t3_type3"
+        name="Baltic Pine Angon - Petiole Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_38" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="jatvingian_ash_angon_t2_type3"
-        name="Jatvingian Ash Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_ash_angon_t3_type3"
+        name="Baltic Ash Angon - Petiole Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_38" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="jatvingian_oaken_angon_t2_type3"
-        name="Jatvingian Oaken Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_oaken_angon_t3_type3"
+        name="Baltic Oaken Angon - Petiole Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_38" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+
+	<CraftingPiece
+		id="baltic_angon_1"
+		name="{=jatv_angon_1.name}Baltic Angon Head"
+		tier="5"
+		piece_type="Blade"
+		mesh="spear_blade_38"
+		length="23.7"
+		weight="0.364"
+		excluded_item_usage_features="swing">
+		<BladeData
+			stack_amount="5"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_3_2"
+			holster_body_name="bo_throwing_spear_quiver_3_2"
+			holster_mesh_length="96.8">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.5" />
+		</BladeData>
+		<Flags>
+			<Flag
+				name="BonusAgainstShield" />
+			<Flag
+				name="NotStackable"
+				type="ItemFlags" />
+		</Flags>
+		<Materials>
+			<Material
+				id="Iron3"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+
+
+
+
+
+
+</CraftingPieces>

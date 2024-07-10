@@ -204,6 +204,24 @@
 		</XmlNode>
 
     <XmlNode>
+			<XmlName id="CraftingPieces" path="crafting_pieces" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+				<GameType value="CustomGame" />
+				<GameType value="EditorGame" />
+			</IncludedGameTypes>
+		</XmlNode>
+
+    <XmlNode>
+			<XmlName id="WeaponDescriptions" path="weapon_descriptions" />
+		</XmlNode>
+
+    <XmlNode>
+			<XmlName id="CraftingTemplates" path="crafting_templates" />
+		</XmlNode>
+
+    <XmlNode>
       <XmlName id="Items" path="easternEuropeItems"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
