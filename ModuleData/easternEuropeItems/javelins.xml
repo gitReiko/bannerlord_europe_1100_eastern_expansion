@@ -160,9 +160,9 @@
         name="Baltic Pine Sulica - Petiole Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_27" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -171,9 +171,9 @@
         name="Baltic Ash Sulica - Petiole Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_27" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -182,9 +182,9 @@
         name="Baltic Oaken Sulica - Petiole Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_27" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
