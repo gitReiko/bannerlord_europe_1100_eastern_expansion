@@ -3,7 +3,7 @@
 
 	<CraftingPiece
 		id="baltic_angon_1"
-		name="{=jatv_angon_1.name}Baltic Angon Head"
+		name="{=baltic_angon_1.name}Baltic Angon Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_38"
@@ -34,10 +34,6 @@
 				count="1" />
 		</Materials>
 	</CraftingPiece>
-
-
-
-
 
 
 
