@@ -9,6 +9,7 @@
     </xsl:template>
     
     <xsl:template match="CraftingTemplate[@id='Javelin']/UsablePieces/UsablePiece[1]">
+        <UsablePiece piece_id="rus_hunting_sulica_type_1"/>
         <UsablePiece piece_id="baltic_sulica_type_2"/>
         <UsablePiece piece_id="baltic_sulica_type_3"/>
         <xsl:copy>

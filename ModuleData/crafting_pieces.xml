@@ -2,13 +2,40 @@
 <CraftingPieces>
 
 	<CraftingPiece
+		id="rus_hunting_sulica_type_1"
+		name="{=rus_hunting_sulica_type_1.name}Baltic Hunting Sulica Type 1 Head"
+		tier="2"
+		piece_type="Blade"
+		mesh="spear_blade_41"
+		length="20.2"
+		weight="1.567"
+		excluded_item_usage_features="swing">
+		<BladeData
+			stack_amount="3"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_1"
+			holster_body_name="bo_throwing_spear_quiver_1"
+			holster_mesh_length="122.9">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="1.7" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron3"
+				count="2" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
 		id="baltic_sulica_type_2"
 		name="{=baltic_sulica_type_2.name}Baltic Sulica Type 3 Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_27"
 		length="39.5"
-		weight="0.5"
+		weight="0.3"
 		excluded_item_usage_features="swing">
 		<BladeData
 			stack_amount="5"

@@ -8,48 +8,51 @@
 
     Sulica - Type 1 [10th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Ukraine, Russia, Latvia and Lithuania.
+    (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, Radimiches, Volgian Bulgars, Samogitians???, Lithuanians??? other Baltic traibes???)
 
     Sulica - Type 2 [12th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Estonia, Latvia and Lithuania.
+    (Medieval ethnicities: Kryviches???, Yotvingians???, Samogitians???, Lithuanians??? other Baltic traibes???)
 
     Sulica (Angon) - Type 3 [11th - 13th c.]
     Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia. Widely used by Curonians. In Belarus 3 spearheads were found in the western part.
+    (Medieval ethnicities: Yotvingians, Curonians, Estonian Islanders)
 
     Sulica - Type 4 [11th - 14th c.]
     Javellins of this type were used on the territory of modern Belarus, Southern Eastern Baltica, Finland, Gotland and Northern Western Russian.
+    (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, South-East Baltic (Latgalians???, Estonians???), Gotland)
 
     -->
 	
-    <CraftedItem id="pine_oval_hunting_sulica_t1_type1"
-        name="Pine Oval Hunting Sulica - Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_pine_hunting_sulica_t1_type1"
+        name="Rus Pine Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="150" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <!-- Dregovian ?? -->
-    <CraftedItem id="ash_oval_hunting_sulica_t1_type1"
-        name="Ash Oval Hunting Sulica - Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_ash_hunting_sulica_t1_type1"
+        name="Rus Ash Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="150" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="oaken_oval_hunting_sulica_t1_type1"
-        name="Oaken Oval Hunting Sulica - Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_oaken_hunting_sulica_t1_type1"
+        name="Rus Oaken Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="150" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
