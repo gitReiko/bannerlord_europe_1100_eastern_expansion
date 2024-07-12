@@ -9,7 +9,7 @@
     </xsl:template>
     
     <xsl:template match="WeaponDescription[@id='Javelin']/AvailablePieces/AvailablePiece[1]">
-        <AvailablePiece id="baltic_angon_1"/>
+        <AvailablePiece id="baltic_sulica_type_2"/>
         <AvailablePiece id="baltic_sulica_type_3"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>

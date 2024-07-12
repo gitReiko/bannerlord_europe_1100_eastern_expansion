@@ -2,8 +2,35 @@
 <CraftingPieces>
 
 	<CraftingPiece
-		id="baltic_angon_1"
-		name="{=baltic_angon_1.name}Baltic Angon Head"
+		id="baltic_sulica_type_2"
+		name="{=baltic_sulica_type_2.name}Baltic Sulica Type 3 Head"
+		tier="5"
+		piece_type="Blade"
+		mesh="spear_blade_27"
+		length="39.5"
+		weight="0.5"
+		excluded_item_usage_features="swing">
+		<BladeData
+			stack_amount="5"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_1_1"
+			holster_body_name="bo_throwing_spear_quiver_1_1"
+			holster_mesh_length="68.9">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.8" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron3"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="baltic_sulica_type_3"
+		name="{=baltic_sulica_type_3.name}Baltic Angon Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_38"
@@ -28,33 +55,6 @@
 				name="NotStackable"
 				type="ItemFlags" />
 		</Flags>
-		<Materials>
-			<Material
-				id="Iron3"
-				count="1" />
-		</Materials>
-	</CraftingPiece>
-
-	<CraftingPiece
-		id="baltic_sulica_type_3"
-		name="{=baltic_sulica_type_3.name}Baltic Sulica Type 3 Head"
-		tier="5"
-		piece_type="Blade"
-		mesh="spear_blade_27"
-		length="39.5"
-		weight="0.5"
-		excluded_item_usage_features="swing">
-		<BladeData
-			stack_amount="5"
-			physics_material="wood_weapon"
-			body_name="bo_spear_b"
-			holster_mesh="throwing_spear_quiver_1_1"
-			holster_body_name="bo_throwing_spear_quiver_1_1"
-			holster_mesh_length="68.9">
-			<Thrust
-				damage_type="Pierce"
-				damage_factor="2.8" />
-		</BladeData>
 		<Materials>
 			<Material
 				id="Iron3"

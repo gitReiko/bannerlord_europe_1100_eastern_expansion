@@ -6,22 +6,22 @@
 
     Time of javellins use on the territory of modern Belarus.
 
-    Sulica - Petiole Type 1 [10th - 13th c.]
+    Sulica - Type 1 [10th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Ukraine, Russia, Latvia and Lithuania.
 
-    Sulica - Petiole Type 2 [12th - 13th c.]
+    Sulica - Type 2 [12th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Estonia, Latvia and Lithuania.
 
-    Sulica (Angon) - Petiole Type 3 [11th - 13th c.]
+    Sulica (Angon) - Type 3 [11th - 13th c.]
     Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia. Widely used by Curonians. In Belarus 3 spearheads were found in the western part.
 
-    Sulica - Petiole Type 4 [11th - 14th c.]
+    Sulica - Type 4 [11th - 14th c.]
     Javellins of this type were used on the territory of modern Belarus, Southern Eastern Baltica, Finland, Gotland and Northern Western Russian.
 
     -->
 	
     <CraftedItem id="pine_oval_hunting_sulica_t1_type1"
-        name="Pine Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Pine Oval Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
@@ -33,7 +33,7 @@
 
     <!-- Dregovian ?? -->
     <CraftedItem id="ash_oval_hunting_sulica_t1_type1"
-        name="Ash Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Ash Oval Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
@@ -44,7 +44,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_oval_hunting_sulica_t1_type1"
-        name="Oaken Oval Hunting Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Oaken Oval Hunting Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
@@ -55,7 +55,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_oval_sulica_t1_type1"
-        name="Pine Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Pine Oval Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -67,7 +67,7 @@
 
     <!-- Dregovian ?? -->
     <CraftedItem id="ash_oval_sulica_t1_type1"
-        name="Ash Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Ash Oval Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -78,7 +78,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_oval_sulica_t1_type1"
-        name="Oaken Oval Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Oaken Oval Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -89,7 +89,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_rhombic_sulica_t4_type1"
-        name="Pine Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Pine Rhombic Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -101,7 +101,7 @@
 
     <!-- Dregovian ?? -->
     <CraftedItem id="ash_rhombic_sulica_t4_type1"
-        name="Ash Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Ash Rhombic Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -112,7 +112,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_rhombic_sulica_t4_type1"
-        name="Oaken Rhombic Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Oaken Rhombic Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -123,7 +123,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_oval_war_sulica_t4_type1"
-        name="Pine Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Pine Oval War Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -135,7 +135,7 @@
 
     <!-- Dregovian ?? -->
     <CraftedItem id="ash_oval_war_sulica_t4_type1"
-        name="Ash Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Ash Oval War Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -146,7 +146,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_oval_war_sulica_t4_type1"
-        name="Oaken Oval War Sulica - Petiole Type 1 [10th - 13th c.]"
+        name="Oaken Oval War Sulica - Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -157,65 +157,65 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_pine_sulica_t5_type2"
-        name="Baltic Pine Sulica - Petiole Type 2 [12th - 13th c.]"
+        name="Baltic Pine Sulica - Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="140" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
     <CraftedItem id="baltic_ash_sulica_t5_type2"
-        name="Baltic Ash Sulica - Petiole Type 2 [12th - 13th c.]"
+        name="Baltic Ash Sulica - Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="140" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
     <CraftedItem id="baltic_oaken_sulica_t5_type2"
-        name="Baltic Oaken Sulica - Petiole Type 2 [12th - 13th c.]"
+        name="Baltic Oaken Sulica - Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="50" />
+        <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="140" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="baltic_pine_angon_t3_type3"
-        name="Baltic Pine Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_pine_sulica_t3_type3"
+        name="Baltic Pine Sulica - Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="baltic_ash_angon_t3_type3"
-        name="Baltic Ash Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_ash_sulica_t3_type3"
+        name="Baltic Ash Sulica - Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="baltic_oaken_angon_t3_type3"
-        name="Baltic Oaken Angon - Petiole Type 3 [11th - 13th c.]"
+    <CraftedItem id="baltic_oaken_sulica_t3_type3"
+        name="Baltic Oaken Sulica - Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="baltic_angon_1" Type="Blade" scale_factor="100" />
+        <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
