@@ -66,68 +66,68 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="pine_oval_sulica_t1_type1"
-        name="Pine Oval Sulica - Leaf Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_pine_oval_war_sulica_t3_type1"
+        name="Rus Pine Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="ash_oval_sulica_t1_type1"
-        name="Ash Oval Sulica - Leaf Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_ash_oval_war_sulica_t3_type1"
+        name="Rus Ash Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="oaken_oval_sulica_t1_type1"
-        name="Oaken Oval Sulica - Leaf Type 1 [10th - 13th c.]"
+    <CraftedItem id="rus_oaken_oval_war_sulica_t3_type1"
+        name="Rus Oaken Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
-        <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
+        <Piece id="rus_oval_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="140" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_rhombic_war_sulica_t2_type1"
+    <CraftedItem id="rus_pine_rhombic_war_sulica_t3_type1"
         name="Rus Pine Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="130" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_ash_rhombic_war_sulica_t2_type1"
+    <CraftedItem id="rus_ash_rhombic_war_sulica_t3_type1"
         name="Rus Ash Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="130" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_oaken_rhombic_war_sulica_t2_type1"
+    <CraftedItem id="rus_oaken_rhombic_war_sulica_t3_type1"
         name="Rus Oaken Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="130" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>

@@ -3,7 +3,7 @@
 
 	<CraftingPiece
 		id="rus_hunting_sulica_type_1"
-		name="{=rus_hunting_sulica_type_1.name}Baltic Hunting Sulica Type 1 Head"
+		name="{=rus_hunting_sulica_type_1.name}Rus Hunting Sulica Type 1 Head"
 		tier="2"
 		piece_type="Blade"
 		mesh="spear_blade_41"
@@ -30,7 +30,7 @@
 
 	<CraftingPiece
 		id="rus_rhombic_war_sulica_type_1"
-		name="{=rus_rhombic_war_sulica_type_1.name}Narrow Menavlon Head"
+		name="{=rus_rhombic_war_sulica_type_1.name}Rus Rhombic War Sulica Type 1 Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_14"
@@ -41,16 +41,43 @@
 			stack_amount="5"
 			physics_material="wood_weapon"
 			body_name="bo_spear_b"
-			holster_mesh="throwing_spear_quiver_3_1"
-			holster_body_name="bo_throwing_spear_quiver_3_1"
-			holster_mesh_length="96.2">
+			holster_mesh="throwing_spear_quiver_1_1"
+			holster_body_name="bo_throwing_spear_quiver_1_1"
+			holster_mesh_length="64.2">
 			<Thrust
 				damage_type="Pierce"
 				damage_factor="2.7" />
 		</BladeData>
 		<Materials>
 			<Material
-				id="Iron3"
+				id="Iron4"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_oval_war_sulica_type_1"
+		name="{=rus_oval_war_sulica_type_1.name}Rus Oval War Sulica Type 1 Head"
+		tier="4"
+		piece_type="Blade"
+		mesh="spear_blade_16"
+		length="23.328"
+		weight="0.423"
+		excluded_item_usage_features="swing">
+		<BladeData
+			stack_amount="5"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_1"
+			holster_body_name="bo_throwing_spear_quiver_1"
+			holster_mesh_length="110.8">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.1" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron4"
 				count="1" />
 		</Materials>
 	</CraftingPiece>
