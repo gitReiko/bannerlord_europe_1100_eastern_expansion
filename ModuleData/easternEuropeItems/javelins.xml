@@ -4,28 +4,37 @@
 
     <!-- Javellins
 
+    Unfortunately there is no commonly accepted classification of Rus javelins.
+    Classification of Plavinski Mikalai.
+
+    Almost half of the found Rus javellins are localized on a relatively small territory (modern Belarus). At the same time, more than half of the javellins found in Belarus are of Baltic origin. According to Plavinski Mikalai, the use of javellins on the territory of Belarus is an influence of the Baltic military tradition. 
+
+    The following medieval ethnic groups used javelins on the territory of Belarus: Yotvingians, Kryviches, Dregoviches, Lithuanians and Radimiches.
+
+    In Belarus, most javelins belonged to types 1 and 4.
+
     Time of javellins use on the territory of modern Belarus.
 
-    Sulica - Type 1 [10th - 13th c.]
+    Sulica - Leaf Type 1 [10th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Ukraine, Russia, Latvia and Lithuania.
     (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, Radimiches, Volgian Bulgars, Samogitians???, Lithuanians??? other Baltic traibes???)
 
-    Sulica - Type 2 [12th - 13th c.]
+    Sulica - Leaf Type 2 [12th - 13th c.]
     Javellins of this type were used on the territory of modern Belarus, Estonia, Latvia and Lithuania.
     (Medieval ethnicities: Kryviches???, Yotvingians???, Samogitians???, Lithuanians??? other Baltic traibes???)
 
-    Sulica (Angon) - Type 3 [11th - 13th c.]
+    Sulica (Angon) - Leaf Type 3 [11th - 13th c.]
     Javellins of this type were used on the territory of modern Western Belarus, Latvia (Curonian) and Estonia. Widely used by Curonians. In Belarus 3 spearheads were found in the western part.
     (Medieval ethnicities: Yotvingians, Curonians, Estonian Islanders)
 
-    Sulica - Type 4 [11th - 14th c.]
+    Sulica - Leaf Type 4 [11th - 14th c.]
     Javellins of this type were used on the territory of modern Belarus, Southern Eastern Baltica, Finland, Gotland and Northern Western Russian.
     (Medieval ethnicities: Kryviches, Dregoviches, Yotvingians, South-East Baltic (Latgalians???, Estonians???), Gotland)
 
     -->
 	
     <CraftedItem id="rus_pine_hunting_sulica_t1_type1"
-        name="Rus Pine Hunting Sulica - Type 1 [10th - 13th c.]"
+        name="Rus Pine Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
@@ -36,7 +45,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_ash_hunting_sulica_t1_type1"
-        name="Rus Ash Hunting Sulica - Type 1 [10th - 13th c.]"
+        name="Rus Ash Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
@@ -47,7 +56,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_oaken_hunting_sulica_t1_type1"
-        name="Rus Oaken Hunting Sulica - Type 1 [10th - 13th c.]"
+        name="Rus Oaken Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="rus_hunting_sulica_type_1" Type="Blade" scale_factor="40" />
@@ -58,7 +67,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_oval_sulica_t1_type1"
-        name="Pine Oval Sulica - Type 1 [10th - 13th c.]"
+        name="Pine Oval Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -68,9 +77,8 @@
     </Pieces>
     </CraftedItem>
 
-    <!-- Dregovian ?? -->
     <CraftedItem id="ash_oval_sulica_t1_type1"
-        name="Ash Oval Sulica - Type 1 [10th - 13th c.]"
+        name="Ash Oval Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -81,7 +89,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_oval_sulica_t1_type1"
-        name="Oaken Oval Sulica - Type 1 [10th - 13th c.]"
+        name="Oaken Oval Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_16" Type="Blade" scale_factor="110" />
@@ -92,7 +100,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_rhombic_sulica_t4_type1"
-        name="Pine Rhombic Sulica - Type 1 [10th - 13th c.]"
+        name="Pine Rhombic Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -102,9 +110,8 @@
     </Pieces>
     </CraftedItem>
 
-    <!-- Dregovian ?? -->
     <CraftedItem id="ash_rhombic_sulica_t4_type1"
-        name="Ash Rhombic Sulica - Type 1 [10th - 13th c.]"
+        name="Ash Rhombic Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -115,7 +122,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_rhombic_sulica_t4_type1"
-        name="Oaken Rhombic Sulica - Type 1 [10th - 13th c.]"
+        name="Oaken Rhombic Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" />
@@ -126,7 +133,7 @@
     </CraftedItem>
 
     <CraftedItem id="pine_oval_war_sulica_t4_type1"
-        name="Pine Oval War Sulica - Type 1 [10th - 13th c.]"
+        name="Pine Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -138,7 +145,7 @@
 
     <!-- Dregovian ?? -->
     <CraftedItem id="ash_oval_war_sulica_t4_type1"
-        name="Ash Oval War Sulica - Type 1 [10th - 13th c.]"
+        name="Ash Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -149,7 +156,7 @@
     </CraftedItem>
 
     <CraftedItem id="oaken_oval_war_sulica_t4_type1"
-        name="Oaken Oval War Sulica - Type 1 [10th - 13th c.]"
+        name="Oaken Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="spear_blade_42" Type="Blade" />
@@ -160,7 +167,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_pine_sulica_t5_type2"
-        name="Baltic Pine Sulica - Type 2 [12th - 13th c.]"
+        name="Baltic Pine Sulica - Leaf Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
@@ -171,7 +178,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_ash_sulica_t5_type2"
-        name="Baltic Ash Sulica - Type 2 [12th - 13th c.]"
+        name="Baltic Ash Sulica - Leaf Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
@@ -182,7 +189,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_oaken_sulica_t5_type2"
-        name="Baltic Oaken Sulica - Type 2 [12th - 13th c.]"
+        name="Baltic Oaken Sulica - Leaf Type 2 [12th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_2" Type="Blade" scale_factor="50" />
@@ -193,7 +200,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_pine_sulica_t3_type3"
-        name="Baltic Pine Sulica - Type 3 [11th - 13th c.]"
+        name="Baltic Pine Sulica - Leaf Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
@@ -204,7 +211,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_ash_sulica_t3_type3"
-        name="Baltic Ash Sulica - Type 3 [11th - 13th c.]"
+        name="Baltic Ash Sulica - Leaf Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
@@ -215,7 +222,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_oaken_sulica_t3_type3"
-        name="Baltic Oaken Sulica - Type 3 [11th - 13th c.]"
+        name="Baltic Oaken Sulica - Leaf Type 3 [11th - 13th c.]"
         crafting_template="Javelin">
     <Pieces>
         <Piece id="baltic_sulica_type_3" Type="Blade" scale_factor="100" />
