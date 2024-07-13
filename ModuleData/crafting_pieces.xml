@@ -60,7 +60,7 @@
 		name="{=rus_oval_war_sulica_type_1.name}Rus Oval War Sulica Type 1 Head"
 		tier="4"
 		piece_type="Blade"
-		mesh="spear_blade_16"
+		mesh="spear_blade_15"
 		length="23.328"
 		weight="0.423"
 		excluded_item_usage_features="swing">
