@@ -70,7 +70,7 @@
 			body_name="bo_spear_b"
 			holster_mesh="throwing_spear_quiver_1"
 			holster_body_name="bo_throwing_spear_quiver_1"
-			holster_mesh_length="110.8">
+			holster_mesh_length="97.8">
 			<Thrust
 				damage_type="Pierce"
 				damage_factor="2.1" />
