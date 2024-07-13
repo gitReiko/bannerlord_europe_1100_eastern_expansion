@@ -29,6 +29,33 @@
 	</CraftingPiece>
 
 	<CraftingPiece
+		id="rus_rhombic_war_sulica_type_1"
+		name="{=rus_rhombic_war_sulica_type_1.name}Narrow Menavlon Head"
+		tier="5"
+		piece_type="Blade"
+		mesh="spear_blade_14"
+		length="46.28"
+		weight="0.3768"
+		excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
+		<BladeData
+			stack_amount="5"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_3_1"
+			holster_body_name="bo_throwing_spear_quiver_3_1"
+			holster_mesh_length="96.2">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.7" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron3"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
 		id="baltic_sulica_type_2"
 		name="{=baltic_sulica_type_2.name}Baltic Sulica Type 3 Head"
 		tier="5"
