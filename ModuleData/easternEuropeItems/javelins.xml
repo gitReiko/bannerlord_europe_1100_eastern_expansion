@@ -105,7 +105,7 @@
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_2" Type="Handle" scale_factor="130" />
+        <Piece id="spear_handle_2" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -116,7 +116,7 @@
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_9" Type="Handle" scale_factor="130" />
+        <Piece id="spear_handle_9" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -127,7 +127,7 @@
     <Pieces>
         <Piece id="rus_rhombic_war_sulica_type_1" Type="Blade" scale_factor="40" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_10" Type="Handle" scale_factor="130" />
+        <Piece id="spear_handle_10" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
