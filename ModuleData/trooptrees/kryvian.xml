@@ -1202,7 +1202,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -1512,7 +1512,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1522,7 +1522,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
@@ -1531,7 +1531,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Gloves" id="Item.leather_gloves"/>
 				<equipment slot="Body" id="Item.short_padded_robe"/>
@@ -1541,7 +1541,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.wolfhead"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
@@ -1551,7 +1551,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
@@ -1561,7 +1561,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1571,7 +1571,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_oaken_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
@@ -1616,7 +1616,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1626,7 +1626,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
@@ -1635,7 +1635,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_fur_cap"/>
 				<equipment slot="Gloves" id="Item.leather_gloves"/>
 				<equipment slot="Body" id="Item.short_padded_robe"/>
@@ -1645,7 +1645,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.wolfhead"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
@@ -1655,7 +1655,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_ash_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.northern_fur_cap"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.northern_padded_gambeson"/>
@@ -1665,7 +1665,7 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nordic_leather_cap"/>
 				<equipment slot="Body" id="Item.ao_gen_gambeson_over_mail"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1675,7 +1675,7 @@
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
 				<equipment slot="Body" id="Item.imperial_padded_cloth"/>
@@ -1720,7 +1720,7 @@
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
 				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
@@ -1731,7 +1731,7 @@
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
@@ -1742,7 +1742,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
 				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
@@ -1753,7 +1753,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
@@ -1764,7 +1764,7 @@
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_oaken_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
@@ -1775,7 +1775,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
@@ -1786,7 +1786,7 @@
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
 				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
@@ -1828,7 +1828,7 @@
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_padded_cloth"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
@@ -1839,7 +1839,7 @@
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Cape" id="Item.fur_cloak_b"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
@@ -1850,7 +1850,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_ash_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
 				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
@@ -1861,7 +1861,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.viking_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_oval_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_wolf_pelt_g"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
@@ -1872,7 +1872,7 @@
 				<equipment slot="Item0" id="Item.empire_sword_2_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
 				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
@@ -1883,7 +1883,7 @@
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.TV_sturgia_shoulders_a"/>
 				<equipment slot="Body" id="Item.sturgian_lamellar_base"/>
@@ -1894,7 +1894,7 @@
 				<equipment slot="Item0" id="Item.empire_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.heavy_round_shield"/>
 				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-				<equipment slot="Item3" id="Item.northern_javelin_3_t4"/>
+				<equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_mail"/>
 				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>

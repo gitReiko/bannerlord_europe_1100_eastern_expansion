@@ -1139,8 +1139,8 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
@@ -1148,8 +1148,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_zf"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_ash_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_ash_hunting_sulica_t1_type1"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1157,8 +1157,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.northern_round_shield"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.cloth_tunic"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1166,8 +1166,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_zf"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
@@ -1175,16 +1175,16 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
 			</EquipmentRoster>
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.northern_round_shield"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_pine_hunting_sulica_t1_type1"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
         		<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
@@ -1192,8 +1192,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-				<equipment slot="Item2" id="Item.AR_crude_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.AR_crude_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
+				<equipment slot="Item3" id="Item.rus_oaken_hunting_sulica_t1_type1"/>
 				<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1232,8 +1232,8 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
 				<equipment slot="Body" id="Item.stitched_leather_vest"/>
@@ -1244,8 +1244,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1255,8 +1255,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
@@ -1267,8 +1267,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
         		<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
@@ -1279,8 +1279,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
+				<equipment slot="Item3" id="Item.rus_pine_rhombic_war_sulica_t3_type1"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_j"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
@@ -1290,8 +1290,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.western_spear_1_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_m"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 				<equipment slot="Leg" id="Item.TV_battania_boots_v"/>
@@ -1301,8 +1301,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.imperial_spear_t2"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.padded_short_coat"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1340,8 +1340,8 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
 				<equipment slot="Body" id="Item.stitched_leather_vest"/>
@@ -1352,8 +1352,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
@@ -1364,8 +1364,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
@@ -1376,8 +1376,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
@@ -1388,8 +1388,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_oaken_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
 				<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_j"/>
@@ -1400,8 +1400,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e2"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t5_type2"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
         		<equipment slot="Head" id="Item.tv_vlandia_helmet_c"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_m"/>
         		<equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
@@ -1412,8 +1412,8 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
 				<equipment slot="Item1" id="Item.AR_shield_infantry_e"/>
-				<equipment slot="Item2" id="Item.western_javelin_1_t2"/>
-				<equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+				<equipment slot="Item2" id="Item.baltic_pine_sulica_t3_type3"/>
+				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
 				<equipment slot="Cape" id="Item.empire_cape_a"/>
 				<equipment slot="Body" id="Item.padded_short_coat"/>

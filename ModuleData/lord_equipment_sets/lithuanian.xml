@@ -6,7 +6,7 @@
 		<Equipment slot="Item0" id="Item.sturgia_sword_4_t4"/>
 		<Equipment slot="Item1" id="Item.battania_large_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
         <Equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
         <Equipment slot="Cape" id="Item.empire_cape_a"/>
 		<Equipment slot="Body" id="Item.sturgian_lamellar_base"/>
@@ -18,7 +18,7 @@
 		<Equipment slot="Item0" id="Item.vlandia_sword_5_t5"/>
 		<Equipment slot="Item1" id="Item.western_kite_shield"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
         <Equipment slot="Head" id="Item.TV_vlandia_helmet_q2"/>
         <Equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
 		<Equipment slot="Body" id="Item.sturgian_lamellar_base"/>
@@ -30,7 +30,7 @@
 		<Equipment slot="Item0" id="Item.vlandia_sword_5_t5"/>
 		<Equipment slot="Item1" id="Item.AR_shield_infantry_zzg"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.rus_ash_rhombic_war_sulica_t3_type1"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
         <Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 		<Equipment slot="Body" id="Item.TV_sturgia_armor_a2"/>
@@ -54,7 +54,7 @@
 		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
 		<Equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.rus_oaken_rhombic_war_sulica_t3_type1"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_k6"/>
 		<Equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
 		<Equipment slot="Body" id="Item.TV_vlandia_armor_h"/>
@@ -66,7 +66,7 @@
 		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 		<Equipment slot="Item1" id="Item.battania_large_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
         <Equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
         <Equipment slot="Cape" id="Item.empire_cape_a"/>
 		<Equipment slot="Body" id="Item.nordic_hauberk"/>
@@ -78,7 +78,7 @@
 		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
 		<Equipment slot="Item1" id="Item.battania_large_shield_a"/>
 		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
 		<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 		<Equipment slot="Body" id="Item.mail_shirt"/>
@@ -90,7 +90,7 @@
 		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 		<Equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 		<Equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.rus_ash_rhombic_war_sulica_t3_type1"/>
 		<Equipment slot="Head" id="Item.nasal_helmet_over_padded_coif"/>
 		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 		<Equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
@@ -120,7 +120,7 @@
 		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
 		<Equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_k6"/>
 		<Equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
 		<Equipment slot="Body" id="Item.TV_vlandia_armor_h"/>
@@ -132,7 +132,7 @@
 		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 		<Equipment slot="Item1" id="Item.battania_large_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.rus_ash_rhombic_war_sulica_t3_type1"/>
         <Equipment slot="Head" id="Item.DZ_sturgia_helmet_c"/>
         <Equipment slot="Cape" id="Item.empire_cape_a"/>
 		<Equipment slot="Body" id="Item.nordic_hauberk"/>
@@ -144,7 +144,7 @@
 		<Equipment slot="Item0" id="Item.narrow_sword_t3"/>
 		<Equipment slot="Item1" id="Item.battania_large_shield_a"/>
 		<Equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
 		<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
 		<Equipment slot="Body" id="Item.mail_shirt"/>
@@ -156,7 +156,7 @@
 		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 		<Equipment slot="Item1" id="Item.AR_shield_infantry_zzf"/>
 		<Equipment slot="Item2" id="Item.highland_spear_3_t3"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.nasal_helmet_over_padded_coif"/>
 		<Equipment slot="Cape" id="Item.TV_battania_cloak_m"/>
 		<Equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>

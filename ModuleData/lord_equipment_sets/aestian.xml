@@ -6,7 +6,7 @@
 		<Equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 		<Equipment slot="Item1" id="Item.execution_axe"/>
 		<Equipment slot="Item2" id="Item.heavy_round_shield"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.TV_sturgia_helmet_g"/>
 		<Equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
 		<Equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
@@ -27,7 +27,7 @@
 		<Equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 		<Equipment slot="Item1" id="Item.northern_axe_t3"/>
 		<Equipment slot="Item2" id="Item.viking_round_shield"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
 		<Equipment slot="Head" id="Item.TV_sturgia_helmet_g"/>
 		<Equipment slot="Cape" id="Item.rough_bearskin"/>
 		<Equipment slot="Body" id="Item.AR_vlandia_armor_f"/>
@@ -50,7 +50,7 @@
 		<Equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 		<Equipment slot="Item1" id="Item.simple_sparth_axe_t2"/>
 		<Equipment slot="Item2" id="Item.viking_round_shield"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_c3"/>
 		<Equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
 		<Equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
@@ -69,7 +69,7 @@
 		<Equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 		<Equipment slot="Item1" id="Item.northern_axe_t3"/>
 		<Equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 		<Equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
 		<Equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
 		<Equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
@@ -88,7 +88,7 @@
 		<Equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
 		<Equipment slot="Item1" id="Item.bearded_axe_t3"/>
 		<Equipment slot="Item2" id="Item.heavy_round_shield"/>
-		<Equipment slot="Item3" id="Item.western_javelin_1_t2"/>
+		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 		<Equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 		<Equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 		<Equipment slot="Body" id="Item.vlandia_chainmail"/>
