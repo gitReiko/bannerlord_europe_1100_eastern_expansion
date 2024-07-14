@@ -11,6 +11,7 @@ Update 1.6.0 Hungary Kingdom
 - 12 clanes for Hungary
 - 42 lords for Hungary
 - towns scenes variety (only for towns of this mod)
+- 15 new javelins for Baltic factions
 - other improvements
 
 This mod has two purposes:
