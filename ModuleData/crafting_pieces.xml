@@ -3,13 +3,14 @@
 
 	<CraftingPiece
 		id="rus_hunting_sulica_type_1"
-		name="{=rus_hunting_sulica_type_1.name}Rus Hunting Sulica Type 1 Head"
+		name="Rus Hunting Sulica Type 1 Head"
 		tier="2"
 		piece_type="Blade"
 		mesh="spear_blade_41"
 		length="20.2"
 		weight="1.567"
-		excluded_item_usage_features="swing">
+		excluded_item_usage_features="swing"
+		is_hidden="true">
 		<BladeData
 			stack_amount="3"
 			physics_material="wood_weapon"
@@ -30,13 +31,14 @@
 
 	<CraftingPiece
 		id="rus_rhombic_war_sulica_type_1"
-		name="{=rus_rhombic_war_sulica_type_1.name}Rus Rhombic War Sulica Type 1 Head"
+		name="Rus Rhombic War Sulica Type 1 Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_14"
 		length="46.28"
 		weight="0.3768"
-		excluded_item_usage_features="swing:TwoHandedPolearm_Bracing">
+		excluded_item_usage_features="swing:TwoHandedPolearm_Bracing"
+		is_hidden="true">
 		<BladeData
 			stack_amount="5"
 			physics_material="wood_weapon"
@@ -57,13 +59,14 @@
 
 	<CraftingPiece
 		id="rus_oval_war_sulica_type_1"
-		name="{=rus_oval_war_sulica_type_1.name}Rus Oval War Sulica Type 1 Head"
+		name="Rus Oval War Sulica Type 1 Head"
 		tier="4"
 		piece_type="Blade"
 		mesh="spear_blade_15"
 		length="23.328"
 		weight="0.423"
-		excluded_item_usage_features="swing">
+		excluded_item_usage_features="swing"
+		is_hidden="true">
 		<BladeData
 			stack_amount="5"
 			physics_material="wood_weapon"
@@ -84,13 +87,14 @@
 
 	<CraftingPiece
 		id="baltic_sulica_type_2"
-		name="{=baltic_sulica_type_2.name}Baltic Sulica Type 3 Head"
+		name="Baltic Sulica Type 2 Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_27"
 		length="39.5"
 		weight="0.3"
-		excluded_item_usage_features="swing">
+		excluded_item_usage_features="swing"
+		is_hidden="true">
 		<BladeData
 			stack_amount="5"
 			physics_material="wood_weapon"
@@ -111,13 +115,14 @@
 
 	<CraftingPiece
 		id="baltic_sulica_type_3"
-		name="{=baltic_sulica_type_3.name}Baltic Angon Head"
+		name="Baltic Sulica Type 3 Head"
 		tier="5"
 		piece_type="Blade"
 		mesh="spear_blade_38"
 		length="23.7"
 		weight="0.364"
-		excluded_item_usage_features="swing">
+		excluded_item_usage_features="swing"
+		is_hidden="true">
 		<BladeData
 			stack_amount="5"
 			physics_material="wood_weapon"
