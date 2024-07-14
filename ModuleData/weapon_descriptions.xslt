@@ -19,5 +19,16 @@
         </xsl:copy>
     </xsl:template>
 
+    <xsl:template match="WeaponDescription[@id='OneHandedPolearm_JavelinAlternative']/AvailablePieces/AvailablePiece[1]">
+        <AvailablePiece id="rus_hunting_sulica_type_1"/>
+        <AvailablePiece id="rus_rhombic_war_sulica_type_1"/>
+        <AvailablePiece id="rus_oval_war_sulica_type_1"/>
+        <AvailablePiece id="baltic_sulica_type_2"/>
+        <AvailablePiece id="baltic_sulica_type_3"/>
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
     
 </xsl:stylesheet>

@@ -37,7 +37,7 @@
 		mesh="spear_blade_14"
 		length="46.28"
 		weight="0.3768"
-		excluded_item_usage_features="swing:TwoHandedPolearm_Bracing"
+		excluded_item_usage_features="swing"
 		is_hidden="true">
 		<BladeData
 			stack_amount="5"
