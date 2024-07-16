@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+
+    <!-- Spears
+
+
+
+    -->
+	
+    <CraftedItem id="rus_pine_kapjo_t1_type3"
+        name="Rus Pine Kapjo - Type 3 [10th - early 11th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+</Items>
