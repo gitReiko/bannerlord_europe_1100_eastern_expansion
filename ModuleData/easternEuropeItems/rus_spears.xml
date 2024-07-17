@@ -8,7 +8,7 @@
 
     -->
 	
-    <CraftedItem id="rus_pine_kapjo_t1_type3"
+    <CraftedItem id="rus_pine_kapjo_t1_type3_10_11"
         name="Rus Pine Kapjo - Type 3 [10th - early 11th c.]"
         culture="Culture.kryvich"
         crafting_template="TwoHandedPolearm" >
@@ -19,5 +19,118 @@
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t3_type3_11_12"
+        name="Rus Pine Kapjo - Type 3 [11th - 12th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t3_type3_12_13"
+        name="Rus Pine Kapjo - Type 3 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_6" Type="Blade" scale_factor="85" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t2_type3a"
+        name="Rus Pine Kapjo - Type 3 A [11th - 12th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t0_type4_11_12"
+        name="Rus Pine Kapjo - Type 4 [11th - 12th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t3_type4_12_13"
+        name="Rus Pine Kapjo - Type 4 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_simple_pine_rohatina_t1_type4a_12_13"
+        name="Rus Simple Pine Rohatina - Type 4 A [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_3" Type="Blade" scale_factor="90" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_fine_pine_rohatina_t3_type4a_12_13"
+        name="Rus Fine Pine Rohatina - Type 4 A [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_5" Type="Blade" scale_factor="120" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t1_type7_11_12"
+        name="Rus Pine Kapjo - Type 7 [11th - 12th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_38" Type="Blade" scale_factor="55" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_kapjo_t2_type7_12_13"
+        name="Rus Pine Kapjo - Type 7 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_38" Type="Blade" scale_factor="115" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+
+
+
+
 
 </Items>
