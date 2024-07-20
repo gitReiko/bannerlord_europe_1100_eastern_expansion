@@ -13,20 +13,25 @@
 
     Spear Type 3 A
 
+    10 - 11 century
+
     Spears of this type were mainly used by the following ethnicities: Merya, Murom and Meshchera.
 
     Single exemplars are found in the territory of the following ethnic groups: Dregoviches (2 spears) and Kryviches (1 spear).
 
+    11-12 century
+
+    Spears of this type were mainly used by the following ethnicities: Novgorod. 
 
     Spear Type 4
 
-    Spears of this type in Russia are in single samples. The spearheads of this type are widespread in the territory of modern Lithuania, Latvia and Estonia.
-
+    Spears of this type were mainly used by the following ethnicities: Novgorod. The spearheads of this type are widespread in the territory of modern Lithuania, Latvia and Estonia.
 
     Spear Type 4 A
 
     These weapons were used for hunting large animals and military use. Military samples are single and were not widely spread. They are found in different parts of Rus.
 
+    Spears of this type were mainly used by the following ethnicities: Novgorod, Merya, Meshchera, Rus, Volhynia and Halych.
 
     Spear Type 7
 
@@ -133,8 +138,8 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_kapjo_t1_type7_11_12"
-        name="Rus Pine Kapjo - Type 7 [11th - 12th c.]"
+    <CraftedItem id="rus_pine_hunting_kapjo_t1_type7_11_12"
+        name="Rus Pine Hunting Kapjo - Type 7 [11th - 12th c.]"
         culture="Culture.kryvich"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -145,8 +150,8 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_kapjo_t2_type7_12_13"
-        name="Rus Pine Kapjo - Type 7 [12th - 13th c.]"
+    <CraftedItem id="rus_pine_hunting_kapjo_t2_type7_12_13"
+        name="Rus Pine Hunting Kapjo - Type 7 [12th - 13th c.]"
         culture="Culture.kryvich"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
