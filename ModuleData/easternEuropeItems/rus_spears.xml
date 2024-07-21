@@ -49,7 +49,7 @@
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="104" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -61,7 +61,7 @@
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_5" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="110" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -73,19 +73,19 @@
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_18" Type="Handle" scale_factor="90" />
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="100" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_short_kapjo_t6_type3_11_12"
-        name="Rus Pine Short Kapjo - Type 3 [11th - 12th c.]"
+    <CraftedItem id="rus_pine_kapjo_t6_type3_11_12"
+        name="Rus Pine Kapjo - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_14" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_14" Type="Handle" scale_factor="105" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -109,7 +109,7 @@
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_20" Type="Handle" scale_factor="130" />
+        <Piece id="spear_handle_20" Type="Handle" scale_factor="105" />
         <Piece id="spear_pommel_10" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -137,7 +137,7 @@
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="85" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="120" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="115" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
