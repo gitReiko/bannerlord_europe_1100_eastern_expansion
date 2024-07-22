@@ -2620,7 +2620,7 @@
   </Settlement>
   <Settlement id="castle_village_A1_1" name="{=Settlements.Settlement.ECM.castle_village_A1_1}Sirt" posX="630.906" posY="673.41" culture="Culture.aserai" text="{=ECM_Settlements.Settlement.text.castle_village_A1_1}Tubilis lies on the Bay of Marseille, which the Aserai call Shariz. Villagers go fishing here amid the offshore islands in search of tuna, sardines, and shark.">
     <Components>
-      <Village id="castle_village_comp_A1_1" village_type="VillageType.fisherman" hearth="148" bound="Settlement.castle_A1" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="castle_village_comp_A1_1" village_type="VillageType.fisherman" hearth="148" bound="Settlement.castle_A1" trade_bound="Settlement.Ayyubid_town_A9" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_j" />
@@ -2916,7 +2916,7 @@
   </Settlement>
   <Settlement id="castle_village_A1_2" name="{=Settlements.Settlement.ECM.castle_village_A1_2}Gabes" posX="560.683" posY="695.622" culture="Culture.aserai" text="{=ECM_Settlements.Settlement.text.village_A1_3}Fanab sits in a low promontory between the bay that the Aserai call the Gulf of Shariz and the inner sea of the Bahr al-Yeshm.  The seawinds bring just enough rain to support the cultivation of olive trees.">
     <Components>
-      <Village id="castle_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="137" bound="Settlement.castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="castle_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="137" bound="Settlement.castle_A1" trade_bound="Settlement.town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_e" />
@@ -5063,19 +5063,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K8_2" name="{=Settlements.Settlement.ECM.castle_village_K8_2}Sibiu" posX="876.124" posY="1016.489" culture="Culture.khuzait" text="{=ECM_Settlements.Settlement.text.village_K2_3}Gereden and its outlying hamlets on the southern end of the Devseg plateau, near the juncture of Ozu and Teyagh rivers. Though rough country, it is known for the fine clay that can be gathered from the ravines.">
-    <Components>
-      <Village id="castle_village_comp_K8_2" village_type="VillageType.steppe_horse_ranch" hearth="272" bound="Settlement.castle_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
-    </Components>
-    <Locations complex_template="LocationComplexTemplate.village_complex">
-      <Location id="village_center" scene_name="khuzait_village_a" />
-    </Locations>
-    <CommonAreas>
-      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
-      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
-      <Area type="Bog" name="{=iXA5SttU}Bog" />
-    </CommonAreas>
-  </Settlement>
+  
 
   <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
   <!-- swamp city, Atil -->
@@ -6495,7 +6483,7 @@
   </Settlement>
   <Settlement id="Ayyubid_castle_village_A3_2" name="{=Settlements.Settlement.ECM.Ayyubid_castle_village_A3_2}Garian" posX="707.368" posY="622.106" culture="Culture.ayyubid" text="{=Settlements.Settlement.text.Ayyubid_castle_village_A3_2}Deir Hawa sits on the windswept southern shores of the sea that the Aserai call the Bahr al-Yeshm. Villagers trap run-off water from the hills and grow flax in the lowlands here.">
     <Components>
-      <Village id="Ayyubid_castle_village_comp_A3_2" village_type="VillageType.silver_mine" hearth="375" bound="Settlement.Ayyubid_castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
+      <Village id="Ayyubid_castle_village_comp_A3_2" village_type="VillageType.silver_mine" hearth="375" bound="Settlement.Ayyubid_castle_A3" bound_trade="Settlement.Ayyubid_town_A9" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="aserai_village_d" />
@@ -9476,6 +9464,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+  <!--
   <Settlement id="village_IRAN2_4" name="{=Settlements.Settlement.name.village_IRAN2_4}Hamadan" posX="1532.889" posY="708.937" culture="Culture.persian" text="{=Settlements.Settlement.text.village_IRAN2_4}Hamadan...">
     <Components>
       <Village id="village_comp_IRAN2_4" village_type="VillageType.desert_horse_ranch" hearth="148" bound="Settlement.town_IRAN2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
@@ -9489,6 +9478,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+  -->
   <Settlement id="town_IRAN3" name="{=Settlements.Settlement.ECM.town_IRAN3}Rey" owner="Faction.clan_seljuk_11" posX="1612.193" posY="728.011" culture="Culture.persian" gate_posX="1609.2" gate_posY="727.62" text="{=ECM_town_IRAN3_ImuW3My}Tehran...">
     <Components>
       <Town id="town_comp_IRAN3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_aserai_town" gate_rotation="0.108" prosperity="4000" />

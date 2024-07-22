@@ -26825,7 +26825,2314 @@
 		</game_entity>
 
 
-
+		
+		<game_entity name="reiko_budapest" old_prefab_name="__empty_object" mobility="1">
+			<transform position="738.192, 1043.933, 10.500" rotation_euler="0.000, -0.050, 1.500" scale="1.000, 1.000, 1.000"/>
+			<scripts>
+				<script name="Town Entity Manager">
+					<variables>
+						<variable name="Override Factor Color" value="false"/>
+						<variable name="Factor Color" value="1.000, 1.000, 1.000, 1.000"/>
+					</variables>
+				</script>
+			</scripts>
+			<children>
+				<game_entity name="bat_ph_wall_l3" old_prefab_name="" mobility="1">
+					<transform position="0.037, 0.286, -0.035"/>
+					<children>
+						<game_entity name="map_icons_battania_square_tower_3" old_prefab_name="map_icons_battania_square_tower_3" mobility="1">
+							<transform position="1.247, -1.895, 0.068" rotation_euler="0.000, 0.000, 0.259" scale="0.812, 0.812, 0.812"/>
+							<components>
+								<meta_mesh_component name="mi_bat_squaretower_3"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_gatehouse_l3" old_prefab_name="map_icons_battania_gatehouse_l3" mobility="1">
+							<transform position="-1.569, 0.328, -0.020" rotation_euler="0.000, 0.000, 0.000" scale="0.850, 0.850, 0.850"/>
+							<components>
+								<meta_mesh_component name="mi_bat_3_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="2.806, 1.150, -0.112" rotation_euler="0.000, 0.000, -2.556"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_large_gatehouse_l3" old_prefab_name="map_icons_battania_large_gatehouse_l3" mobility="1">
+							<transform position="1.567, 0.587, -0.124" rotation_euler="0.000, 0.000, -0.659"/>
+							<components>
+								<meta_mesh_component name="mi_bat_city_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.703, 1.850, -0.384" rotation_euler="0.000, 0.000, 0.282"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.623, 2.491, -0.384" rotation_euler="0.000, 0.000, -0.516"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.156, 2.964, -0.384" rotation_euler="0.000, 0.000, -1.026"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="2.449, 1.616, -0.384" rotation_euler="0.000, 0.000, -2.451"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l3" old_prefab_name="map_icons_battania_tower_l3" mobility="1">
+							<transform position="-2.598, -1.792, -0.315"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_3"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l3" old_prefab_name="map_icons_battania_tower_l3" mobility="1">
+							<transform position="2.380, 1.529, 0.109" rotation_euler="0.000, 0.000, 0.000" scale="0.762, 0.762, 0.762"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_3"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-2.400, -1.616, -0.384" rotation_euler="0.000, 0.000, -0.948"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-2.499, -2.042, -0.384" rotation_euler="0.000, 0.000, 0.714"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.936, -2.471, -0.384" rotation_euler="0.000, 0.000, 1.110"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.252, -2.704, -0.384" rotation_euler="0.000, 0.000, 1.368"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-0.497, -2.767, -0.384" rotation_euler="0.000, 0.000, 1.614" scale="1.000, 1.053, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="0.249, -2.638, -0.384" rotation_euler="0.000, 0.000, 1.863"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="1.617, -2.061, -0.330" rotation_euler="0.000, 0.000, 1.803"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="2.297, -1.968, -0.323" rotation_euler="0.000, 0.000, 1.590"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="3.281, -0.911, -0.384" rotation_euler="0.000, 0.000, -3.136"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="3.253, -0.174, -0.112" rotation_euler="0.000, 0.000, -3.046"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="3.116, 0.494, -0.112" rotation_euler="0.000, 0.000, -2.847"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-0.472, 3.220, -0.384" rotation_euler="0.000, 0.000, -1.428"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="0.244, 3.192, -0.384" rotation_euler="0.000, 0.000, -1.812"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="0.956, 2.915, -0.384" rotation_euler="0.000, 0.000, -2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="1.588, 2.491, -0.212" rotation_euler="0.000, 0.000, -2.268"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="2.118, 1.987, -0.212" rotation_euler="0.000, 0.000, -2.403"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="0.933, -2.343, -0.384" rotation_euler="0.000, 0.000, 2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="1.108, -1.605, -0.384" rotation_euler="0.000, 0.000, 0.279"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="1.019, -0.838, -0.384" rotation_euler="0.000, 0.000, -0.037" scale="1.000, 1.050, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="1.136, -0.049, -0.384" rotation_euler="0.000, 0.000, -0.266"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l3" old_prefab_name="map_icons_battania_wall_small_breach_l3" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.554, 1.059, -0.278" rotation_euler="0.000, 0.000, 0.051"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="-0.016, 0.069, -0.099"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_3s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="-0.016, 0.009, 0.000" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.367"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_breach_l3" old_prefab_name="map_icons_battania_wall_small_breach_l3" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.030, 0.063, 0.271"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_3s_collapsed"/>
+									</components>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+						<game_entity name="banner_pos" old_prefab_name="banner_pos" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_banner_placeholder"/>
+							</tags>
+							<transform position="-1.363, -0.214, 0.834" rotation_euler="0.000, 0.000, 1.566" scale="0.974, 0.418, 0.201"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.544, 0.482, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="2.013, 1.249, -0.384" rotation_euler="0.000, 0.000, -0.815" scale="1.000, 0.905, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l3" old_prefab_name="map_icons_battania_tower_l3" mobility="1">
+							<transform position="-1.517, 2.165, -0.228"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_3"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_keep_l3" old_prefab_name="map_icons_battania_keep_l3" mobility="1">
+							<transform position="2.733, -1.285, -0.297" rotation_euler="0.000, 0.000, -0.742" scale="0.862, 0.862, 0.862"/>
+							<components>
+								<meta_mesh_component name="mi_bat_keep_3"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+							<transform position="-1.639, -0.485, -0.384" rotation_euler="0.000, 0.000, -0.273"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_3s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l3" old_prefab_name="map_icons_battania_wall_small_breach_l3" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.938, -1.238, -0.282" rotation_euler="0.000, 0.000, -0.592"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_l3" old_prefab_name="map_icons_battania_wall_small_l3" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="-0.043, 0.066, -0.099"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_3s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="-0.016, 0.009, 0.000" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.367"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_breach_l3" old_prefab_name="map_icons_battania_wall_small_breach_l3" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.003, 0.060, 0.232"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_3s_collapsed"/>
+									</components>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+					</children>
+					<levels>
+						<level name="level_3"/>
+						<level name="civilian"/>
+						<level name="siege"/>
+					</levels>
+				</game_entity>
+				<game_entity name="bat_ph_wall_l1" old_prefab_name="" mobility="1">
+					<transform position="0.017, 0.273, 0.020"/>
+					<children>
+						<game_entity name="map_icons_battania_square_tower_l" old_prefab_name="map_icons_battania_square_tower_l" mobility="1">
+							<transform position="1.146, -2.226, 0.355" rotation_euler="0.000, 0.000, 0.428" scale="0.787, 0.787, 0.787"/>
+							<components>
+								<meta_mesh_component name="mi_bat_squaretower_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_gatehouse_l1" old_prefab_name="map_icons_battania_gatehouse_l1" mobility="1">
+							<transform position="-1.577, 0.285, -0.236" rotation_euler="0.000, 0.000, 0.000" scale="0.850, 0.850, 0.850"/>
+							<components>
+								<meta_mesh_component name="mi_bat_1_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="2.798, 1.107, 0.214" rotation_euler="0.000, 0.000, -2.556"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l1" old_prefab_name="map_icons_battania_tower_l1" mobility="1">
+							<transform position="-2.488, -1.947, -0.255"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.682, 1.842, -0.020" rotation_euler="0.000, 0.000, 0.282"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.646, 2.421, -0.020" rotation_euler="0.000, 0.000, -0.510"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.164, 2.921, -0.020" rotation_euler="0.000, 0.000, -1.026"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="2.441, 1.573, 0.132" rotation_euler="0.000, 0.000, -2.451"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_large_gatehouse_l3" old_prefab_name="map_icons_battania_large_gatehouse_l3" mobility="1">
+							<transform position="1.507, 0.656, -0.336" rotation_euler="0.000, 0.000, -0.763" scale="0.667, 0.667, 0.667"/>
+							<components>
+								<meta_mesh_component name="mi_bat_city_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l1" old_prefab_name="map_icons_battania_tower_l1" mobility="1">
+							<transform position="2.401, 1.525, 0.109" rotation_euler="0.000, 0.000, 0.000" scale="0.758, 0.758, 0.758"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-2.457, -1.799, -0.020" rotation_euler="0.000, 0.000, -0.948"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-2.507, -2.085, -0.020" rotation_euler="0.000, 0.000, 0.714"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.944, -2.514, -0.020" rotation_euler="0.000, 0.000, 1.110"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.260, -2.747, -0.020" rotation_euler="0.000, 0.000, 1.368"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-0.505, -2.810, -0.020" rotation_euler="0.000, 0.000, 1.614" scale="1.000, 1.053, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="0.241, -2.681, 0.081" rotation_euler="0.000, 0.000, 1.863"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.650, -2.042, -0.020" rotation_euler="0.000, 0.000, 1.959"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="2.393, -1.879, -0.020" rotation_euler="0.000, 0.000, 1.635"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="3.302, -0.788, 0.214" rotation_euler="0.000, 0.000, -3.022"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="3.245, -0.217, 0.214" rotation_euler="0.000, 0.000, -3.046"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="3.108, 0.451, 0.214" rotation_euler="0.000, 0.000, -2.847"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-0.489, 3.176, -0.020" rotation_euler="0.000, 0.000, -1.407"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="0.252, 3.145, 0.123" rotation_euler="0.000, 0.000, -1.812" scale="1.000, 1.036, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="0.948, 2.872, 0.123" rotation_euler="0.000, 0.000, -2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.580, 2.448, 0.132" rotation_euler="0.000, 0.000, -2.268"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="2.110, 1.944, 0.132" rotation_euler="0.000, 0.000, -2.403"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="0.925, -2.386, 0.081" rotation_euler="0.000, 0.000, 2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.124, -1.740, -0.020" rotation_euler="0.000, 0.000, 0.279"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.013, -1.016, -0.020" rotation_euler="0.000, 0.000, 0.036"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.079, -0.306, -0.020" rotation_euler="0.000, 0.000, -0.216"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.279, 0.327, -0.020" rotation_euler="0.000, 0.000, -0.429" scale="1.000, 0.724, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="1.950, 1.145, 0.092" rotation_euler="0.000, 0.000, -0.774"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="banner_pos" old_prefab_name="banner_pos" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_banner_placeholder"/>
+							</tags>
+							<transform position="-1.365, -0.147, 0.500" rotation_euler="0.000, 0.000, 1.589" scale="0.874, 0.304, 0.201"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l1" old_prefab_name="map_icons_battania_tower_l1" mobility="1">
+							<transform position="-1.643, 2.146, 0.071" rotation_euler="0.000, 0.000, -0.060"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_keep_l1" old_prefab_name="map_icons_battania_keep_l1" mobility="1">
+							<transform position="2.725, -1.328, -0.396" rotation_euler="0.000, 0.000, -0.988"/>
+							<components>
+								<meta_mesh_component name="mi_bat_keep_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+							<transform position="-1.647, -0.528, -0.020" rotation_euler="0.000, 0.000, -0.273"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_1s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l1" old_prefab_name="map_icons_battania_wall_small_breach_l1" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.960, -1.230, -0.037" rotation_euler="0.000, 0.000, -0.524"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_breach_l1" old_prefab_name="map_icons_battania_wall_small_breach_l1" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.013, 0.007, -0.110"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_1s_collapsed"/>
+									</components>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="0.015, 0.016, 0.009"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_1s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.002, 0.013, 0.009" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.368"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l1" old_prefab_name="map_icons_battania_wall_small_breach_l1" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.566, 1.070, -0.037" rotation_euler="0.000, 0.000, 0.054"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_breach_l1" old_prefab_name="map_icons_battania_wall_small_breach_l1" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.013, 0.007, -0.110"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_1s_collapsed"/>
+									</components>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_l1" old_prefab_name="map_icons_battania_wall_small_l1" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="0.015, 0.016, 0.009"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_1s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.002, 0.013, 0.009" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.368"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+						<game_entity name="banner_pos" old_prefab_name="banner_pos" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_banner_placeholder"/>
+							</tags>
+							<transform position="-1.365, -0.147, 0.500" rotation_euler="0.000, 0.000, 1.589" scale="0.874, 0.304, 0.201"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+								</game_entity>
+							</children>
+						</game_entity>
+					</children>
+					<levels>
+						<level name="level_1"/>
+						<level name="civilian"/>
+						<level name="siege"/>
+					</levels>
+				</game_entity>
+				<game_entity name="bat_ph_wall_l2" old_prefab_name="" mobility="1">
+					<transform position="0.017, 0.273, 0.020"/>
+					<children>
+						<game_entity name="map_icons_battania_large_gatehouse_l3" old_prefab_name="map_icons_battania_large_gatehouse_l3" mobility="1">
+							<transform position="1.492, 0.620, -0.218" rotation_euler="0.000, 0.000, -0.720" scale="0.732, 0.732, 0.732"/>
+							<components>
+								<meta_mesh_component name="mi_bat_city_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_gatehouse_l2" old_prefab_name="map_icons_battania_gatehouse_l2" mobility="1">
+							<transform position="-1.577, 0.285, -0.020" rotation_euler="0.000, 0.000, 0.000" scale="0.850, 0.850, 0.850"/>
+							<components>
+								<meta_mesh_component name="mi_bat_2_gatehouse"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="2.787, 1.136, -0.020" rotation_euler="0.000, 0.000, -2.556"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l2" old_prefab_name="" mobility="1">
+							<transform position="-2.606, -1.835, 0.196"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_2"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-1.724, 1.887, -0.240" rotation_euler="0.000, 0.000, 0.282"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-1.667, 2.396, -0.020" rotation_euler="0.000, 0.000, -0.510"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-1.164, 2.921, -0.020" rotation_euler="0.000, 0.000, -1.026"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l2" old_prefab_name="map_icons_battania_wall_small_breach_l2" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.590, 1.120, -0.022" rotation_euler="0.000, 0.000, 0.019"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="-0.026, 0.026, -0.214"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_2s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="-0.016, 0.009, 0.000" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.367"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_breach_l2" old_prefab_name="map_icons_battania_wall_small_breach_l2" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.020, 0.020, 0.140"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_2s_collapsed"/>
+									</components>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="" mobility="1">
+							<transform position="-1.647, -0.528, -0.313" rotation_euler="0.000, 0.000, -0.273"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l2" old_prefab_name="map_icons_battania_tower_l2" mobility="1">
+							<transform position="2.372, 1.486, 0.379" rotation_euler="0.000, 0.000, 0.000" scale="0.758, 0.758, 0.758"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_2"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="" mobility="1">
+							<transform position="-2.464, -1.709, -0.317" rotation_euler="0.000, 0.000, -0.948"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-2.507, -2.085, -0.179" rotation_euler="0.000, 0.000, 0.714"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-1.944, -2.514, -0.168" rotation_euler="0.000, 0.000, 1.110"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-1.260, -2.747, -0.172" rotation_euler="0.000, 0.000, 1.368"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-0.505, -2.810, -0.203" rotation_euler="0.000, 0.000, 1.614" scale="1.000, 1.053, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="0.241, -2.681, -0.202" rotation_euler="0.000, 0.000, 1.863"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.609, -2.104, -0.211" rotation_euler="0.000, 0.000, 1.803"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="2.338, -1.943, -0.213" rotation_euler="0.000, 0.000, 1.762"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="3.273, -0.954, -0.020" rotation_euler="0.000, 0.000, -3.136"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="3.245, -0.217, -0.020" rotation_euler="0.000, 0.000, -3.046"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="3.111, 0.475, -0.020" rotation_euler="0.000, 0.000, -2.832" scale="1.000, 0.898, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="-0.489, 3.176, -0.020" rotation_euler="0.000, 0.000, -1.407"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="0.252, 3.145, -0.020" rotation_euler="0.000, 0.000, -1.812" scale="1.000, 1.036, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="0.948, 2.872, -0.020" rotation_euler="0.000, 0.000, -2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.580, 2.448, -0.020" rotation_euler="0.000, 0.000, -2.268"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="2.110, 1.944, -0.020" rotation_euler="0.000, 0.000, -2.403"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="0.925, -2.386, -0.225" rotation_euler="0.000, 0.000, 2.073"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.103, -1.715, -0.336" rotation_euler="0.000, 0.000, 0.242"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="0.997, -1.007, -0.343" rotation_euler="0.000, 0.000, 0.036" scale="1.000, 0.826, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.047, -0.397, -0.327" rotation_euler="0.000, 0.000, -0.216" scale="1.000, 0.773, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.217, 0.178, -0.323" rotation_euler="0.000, 0.000, -0.359" scale="1.000, 0.770, 1.000"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+							<transform position="1.943, 1.189, -0.302" rotation_euler="0.000, 0.000, -0.789"/>
+							<components>
+								<meta_mesh_component name="mi_bat_wall_2s"/>
+							</components>
+						</game_entity>
+						<game_entity name="banner_pos" old_prefab_name="banner_pos" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_banner_placeholder"/>
+							</tags>
+							<transform position="-1.345, -0.228, 0.691" rotation_euler="0.000, 0.000, 1.581" scale="1.019, 0.467, 0.201"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="map_icons_battania_square_tower_2" old_prefab_name="map_icons_battania_square_tower_2" mobility="1">
+							<transform position="1.214, -2.670, -0.082" rotation_euler="0.000, 0.000, 0.402" scale="0.791, 0.791, 1.040"/>
+							<components>
+								<meta_mesh_component name="mi_bat_squaretower_2"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_tower_l2" old_prefab_name="map_icons_battania_tower_l2" mobility="1">
+							<transform position="-1.525, 2.122, 0.216"/>
+							<components>
+								<meta_mesh_component name="mi_bat_tower_2"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_keep_l2" old_prefab_name="map_icons_battania_keep_l2" mobility="1">
+							<transform position="2.725, -1.328, -0.273" rotation_euler="0.000, 0.000, -2.416"/>
+							<components>
+								<meta_mesh_component name="mi_bat_keep_2"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_battania_wall_small_breach_l2" old_prefab_name="map_icons_battania_wall_small_breach_l2" mobility="1">
+							<tags>
+								<tag name="map_breachable_wall"/>
+							</tags>
+							<transform position="-1.948, -1.223, -0.105" rotation_euler="0.000, 0.000, -0.601"/>
+							<children>
+								<game_entity name="map_icons_battania_wall_small_l2" old_prefab_name="map_icons_battania_wall_small_l2" mobility="1">
+									<tags>
+										<tag name="map_solid_wall"/>
+									</tags>
+									<transform position="-0.026, 0.026, -0.200"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_2s"/>
+									</components>
+								</game_entity>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="-0.016, 0.009, 0.000" rotation_euler="0.000, 0.000, 1.590" scale="0.368, 0.368, 0.367"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+								<game_entity name="map_icons_battania_wall_small_breach_l2" old_prefab_name="map_icons_battania_wall_small_breach_l2" mobility="1">
+									<tags>
+										<tag name="map_broken_wall"/>
+									</tags>
+									<transform position="0.020, 0.020, 0.139"/>
+									<components>
+										<meta_mesh_component name="mi_bat_wall_2s_collapsed"/>
+									</components>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+								<level name="looted"/>
+							</levels>
+						</game_entity>
+					</children>
+					<levels>
+						<level name="level_2"/>
+						<level name="civilian"/>
+						<level name="siege"/>
+					</levels>
+				</game_entity>
+				<game_entity name="map_icons_battania_tavern" old_prefab_name="map_icons_battania_tavern" mobility="1">
+					<transform position="-1.559, -1.532, -0.256" rotation_euler="0.000, 0.000, -1.781" scale="0.866, 0.866, 0.866"/>
+					<components>
+						<meta_mesh_component name="mi_bat_tavern"/>
+					</components>
+				</game_entity>
+				<game_entity name="module_european_stone_floor_c" old_prefab_name="module_european_stone_floor_c" mobility="1">
+					<transform position="-1.132, -1.012, -0.375" rotation_euler="0.000, 0.000, 1.540" scale="0.209, 0.228, 0.209"/>
+					<physics shape="bo_module_european_stone_floor_c"/>
+					<components>
+						<meta_mesh_component name="module_european_stone_floor_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="stonewall_2a1" old_prefab_name="stonewall_2a1" mobility="1" occlusion_body_name="bo_occ_stonewall_2a1">
+					<transform position="-1.191, -0.464, 0.000" rotation_euler="0.000, 0.000, 3.105" scale="0.127, 0.127, 0.127"/>
+					<physics shape="bo_stonewall_2a1" override_material="stone"/>
+					<components>
+						<meta_mesh_component name="stonewall_2a1"/>
+					</components>
+				</game_entity>
+				<game_entity name="stonewall_2a1" old_prefab_name="stonewall_2a1" mobility="1" occlusion_body_name="bo_occ_stonewall_2a1">
+					<transform position="-0.831, -1.614, 0.000" rotation_euler="0.000, 0.000, -0.046" scale="0.125, 0.125, 0.125"/>
+					<physics shape="bo_stonewall_2a1" override_material="stone"/>
+					<components>
+						<meta_mesh_component name="stonewall_2a1"/>
+					</components>
+				</game_entity>
+				<game_entity name="stonewall_2a1" old_prefab_name="stonewall_2a1" mobility="1" occlusion_body_name="bo_occ_stonewall_2a1">
+					<transform position="-0.450, -1.247, 0.000" rotation_euler="0.000, 0.000, 1.550" scale="0.125, 0.125, 0.125"/>
+					<physics shape="bo_stonewall_2a1" override_material="stone"/>
+					<components>
+						<meta_mesh_component name="stonewall_2a1"/>
+					</components>
+				</game_entity>
+				<game_entity name="stonewall_2a1" old_prefab_name="stonewall_2a1" mobility="1" occlusion_body_name="bo_occ_stonewall_2a1">
+					<transform position="-0.444, -0.916, 0.000" rotation_euler="0.000, 0.000, 1.550" scale="0.125, 0.125, 0.125"/>
+					<physics shape="bo_stonewall_2a1" override_material="stone"/>
+					<components>
+						<meta_mesh_component name="stonewall_2a1"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_stall" old_prefab_name="map_icons_market_stall" mobility="1">
+					<flags>
+						<flag name="align_to_terrain" value="true"/>
+					</flags>
+					<transform position="-0.467, -2.001, -0.373" rotation_euler="0.000, 0.000, -3.037" scale="1.573, 1.573, 1.573"/>
+					<components>
+						<meta_mesh_component name="mi_market_stall"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_tent_b" old_prefab_name="map_icons_battania_tent_b" mobility="1">
+					<transform position="-0.334, -2.194, -0.454" rotation_euler="0.020, -0.256, -1.354"/>
+					<components>
+						<meta_mesh_component name="mi_bat_tent_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="mat_carpet_h" old_prefab_name="mat_carpet_h" mobility="1">
+					<transform position="0.071, -2.090, -0.360" rotation_euler="0.000, 0.000, 0.472" scale="0.169, 0.169, 0.007"/>
+					<components>
+						<meta_mesh_component name="mat_carpet_h"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_tent_a" old_prefab_name="map_icons_market_tent_a" mobility="1">
+					<transform position="0.202, -1.936, -0.412" rotation_euler="0.090, 0.058, -1.236" scale="0.688, 0.688, 0.688"/>
+					<components>
+						<meta_mesh_component name="mi_market_tent_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_stall" old_prefab_name="map_icons_market_stall" mobility="1">
+					<transform position="-0.085, -1.790, -0.375" rotation_euler="0.000, 0.000, -2.545" scale="1.526, 1.526, 1.526"/>
+					<components>
+						<meta_mesh_component name="mi_market_stall"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_stall" old_prefab_name="map_icons_market_stall" mobility="1">
+					<transform position="0.250, -1.637, -0.372" rotation_euler="-0.188, 0.277, 2.508" scale="1.526, 1.526, 1.526"/>
+					<components>
+						<meta_mesh_component name="mi_market_stall"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_well" old_prefab_name="map_icons_battania_well" mobility="1">
+					<transform position="-0.133, -1.251, -0.376" rotation_euler="0.000, 0.000, 0.000" scale="0.657, 0.657, 0.657"/>
+					<components>
+						<meta_mesh_component name="mi_bat_well"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_stall" old_prefab_name="map_icons_market_stall" mobility="1">
+					<transform position="0.436, -1.032, -0.388" rotation_euler="0.000, 0.000, 1.383" scale="2.051, 2.051, 2.051"/>
+					<components>
+						<meta_mesh_component name="mi_market_stall"/>
+					</components>
+				</game_entity>
+				<game_entity name="mat_carpet_h" old_prefab_name="mat_carpet_h" mobility="1">
+					<transform position="0.761, -1.225, -0.361" rotation_euler="0.000, 0.000, -1.544" scale="0.160, 0.170, 0.170"/>
+					<components>
+						<meta_mesh_component name="mat_carpet_h"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_market_stall" old_prefab_name="map_icons_market_stall" mobility="1">
+					<transform position="0.624, -1.818, -0.422" rotation_euler="0.000, 0.000, 1.848" scale="1.661, 1.661, 1.661"/>
+					<components>
+						<meta_mesh_component name="mi_market_stall"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_tent_b" old_prefab_name="map_icons_battania_tent_b" mobility="1">
+					<transform position="0.730, -1.698, -0.398" rotation_euler="0.000, 0.000, -0.984" scale="1.385, 1.385, 1.385"/>
+					<components>
+						<meta_mesh_component name="mi_bat_tent_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_tent_a" old_prefab_name="map_icons_battania_tent_a" mobility="1">
+					<transform position="0.885, -1.182, -0.410" rotation_euler="0.000, -0.373, 0.000" scale="1.463, 1.463, 1.463"/>
+					<components>
+						<meta_mesh_component name="mi_bat_tent_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_tent_a" old_prefab_name="map_icons_battania_tent_a" mobility="1">
+					<transform position="0.896, -0.893, -0.433" rotation_euler="0.000, -0.373, 0.000" scale="1.463, 1.463, 1.463"/>
+					<components>
+						<meta_mesh_component name="mi_bat_tent_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="0.684, -0.506, -0.362" rotation_euler="0.000, 0.000, -1.024" scale="0.959, 0.959, 0.959"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="0.990, 0.076, -0.167" rotation_euler="0.000, 0.000, -0.251" scale="0.741, 0.741, 0.741"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="0.728, 0.768, -0.244" rotation_euler="0.000, 0.000, 1.448" scale="0.505, 0.505, 0.505"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="0.201, -0.002, -0.276" rotation_euler="0.000, 0.000, -2.980" scale="0.875, 0.875, 0.875"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="-1.131, -1.931, -0.243" rotation_euler="0.000, 0.000, 1.491" scale="0.731, 0.731, 0.731"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_sack_c" old_prefab_name="map_icons_sack_c" mobility="1">
+					<transform position="0.662, -1.145, -0.335" rotation_euler="-0.034, 0.000, -1.267"/>
+					<components>
+						<meta_mesh_component name="mi_sack_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_sack_a" old_prefab_name="map_icons_sack_a" mobility="1">
+					<transform position="0.864, -1.192, -0.391"/>
+					<components>
+						<meta_mesh_component name="mi_sack_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_barrel_c" old_prefab_name="map_barrel_c" mobility="1">
+					<transform position="0.785, -0.955, -0.353" rotation_euler="0.000, 0.000, 0.785" scale="1.174, 1.174, 1.174"/>
+					<components>
+						<meta_mesh_component name="mi_barrels_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_barrel_c" old_prefab_name="map_barrel_c" mobility="1">
+					<transform position="0.864, -0.876, -0.332" rotation_euler="0.000, 0.000, 0.000" scale="1.174, 1.174, 1.174"/>
+					<components>
+						<meta_mesh_component name="mi_barrels_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_barrel_a" old_prefab_name="map_barrel_a" mobility="1">
+					<transform position="0.908, -1.500, -0.369" rotation_euler="0.000, 0.000, 0.460" scale="1.290, 1.290, 1.290"/>
+					<components>
+						<meta_mesh_component name="mi_barrels_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="1.792, -1.428, 0.000" rotation_euler="0.000, 0.000, -1.298"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="1.312, -0.820, -0.310" rotation_euler="0.000, 0.000, 1.680" scale="0.606, 0.606, 0.606"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="1.401, -0.327, -0.348" rotation_euler="0.000, 0.000, -1.399"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="1.569, 0.263, -0.316" rotation_euler="0.000, 0.000, 1.204"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="2.218, 0.868, -0.410" rotation_euler="0.000, 0.000, 2.523" scale="1.068, 1.068, 1.068"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="2.714, 1.171, -0.090" rotation_euler="0.000, 0.000, 0.597"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="2.953, 0.041, -0.266" rotation_euler="0.000, 0.000, -1.529" scale="0.784, 0.784, 0.784"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="1.627, 1.665, -0.326" rotation_euler="0.000, 0.000, -0.814"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="1.904, 2.086, -0.356" rotation_euler="0.000, 0.000, 0.210"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="1.524, 2.367, -0.398" rotation_euler="0.000, 0.000, 0.761"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="1.099, 2.611, -0.289" rotation_euler="0.000, 0.000, 2.626" scale="0.508, 0.508, 0.508"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="0.726, 2.839, -0.270" rotation_euler="0.000, 0.000, 2.630" scale="0.595, 0.595, 0.595"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="0.731, 2.108, -0.296" rotation_euler="0.000, 0.000, -2.086" scale="0.557, 0.557, 0.557"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="0.162, 3.230, -0.197" rotation_euler="0.000, 0.000, 1.079" scale="0.724, 0.724, 0.724"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_arena" old_prefab_name="map_icons_battania_arena" mobility="1">
+					<transform position="-0.581, 2.321, -0.348" rotation_euler="0.000, 0.000, -2.592" scale="0.884, 0.884, 0.884"/>
+					<components>
+						<meta_mesh_component name="mi_bat_arena"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="-1.260, 1.331, -0.204" rotation_euler="0.000, 0.000, 0.376" scale="0.798, 0.798, 0.798"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="-0.777, 1.238, -0.319" rotation_euler="0.000, 0.000, 1.676"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_barrel_a" old_prefab_name="map_barrel_a" mobility="1">
+					<transform position="0.735, -1.307, -0.360" rotation_euler="0.000, 0.000, -0.398"/>
+					<components>
+						<meta_mesh_component name="mi_barrels_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_sack_c" old_prefab_name="map_icons_sack_c" mobility="1">
+					<transform position="0.913, -1.389, -0.341" rotation_euler="-0.008, 0.033, 0.053"/>
+					<components>
+						<meta_mesh_component name="mi_sack_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_sack_b" old_prefab_name="map_icons_sack_b" mobility="1">
+					<transform position="1.055, -0.992, -0.378"/>
+					<components>
+						<meta_mesh_component name="mi_sack_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="town_gate" old_prefab_name="__empty_object" mobility="1">
+					<tags>
+						<tag name="main_map_city_gate"/>
+					</tags>
+					<transform position="-2.747, 0.542, 0.898"/>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="1.903, -0.304, -0.287" rotation_euler="0.000, 0.000, 0.633" scale="0.620, 0.620, 0.620"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="" mobility="1">
+					<transform position="1.962, -1.014, -0.216" rotation_euler="0.000, 0.000, 0.207" scale="0.628, 0.628, 0.628"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="town_circle_decal" old_prefab_name="_decal" mobility="1">
+					<tags>
+						<tag name="map_settlement_circle"/>
+					</tags>
+					<transform position="0.054, 0.211, 2.809" rotation_euler="0.000, 0.000, 1.302" scale="5.474, 5.474, 5.474"/>
+					<components>
+						<decal_component material="decal_city_circle_a" argument="1.000, 1.000, 0.000, 0.000" argument2="11.000, 0.000, 0.000, 0.000"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icon_siege" old_prefab_name="map_icon_siege" mobility="1">
+					<transform position="-4.503, 0.965, -0.197" rotation_euler="0.000, 0.000, -0.057"/>
+					<children>
+						<game_entity name="map_icon_siege_camp_1" old_prefab_name="map_icon_siege_camp_1" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="1.006, 3.378, -0.080" rotation_euler="0.115, 0.086, -2.205" scale="1.188, 1.188, 1.188"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_barrel_c" old_prefab_name="map_barrel_c" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<transform position="-1.432, 2.100, -0.039" rotation_euler="0.000, 0.000, 0.370" scale="1.618, 1.618, 1.618"/>
+							<components>
+								<meta_mesh_component name="mi_barrels_c"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_5" old_prefab_name="map_icon_siege_camp_5" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.860, -3.681, -0.295" rotation_euler="-0.007, 0.144, -0.036"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_5"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_1" old_prefab_name="map_icon_siege_camp_1" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="1.041, -2.782, -0.313" rotation_euler="0.000, 0.000, -2.204" scale="1.188, 1.188, 1.188"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="volume_box_corner" old_prefab_name="volume_box_corner" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_camp_area_2"/>
+							</tags>
+							<transform position="-2.816, -4.246, -0.230" rotation_euler="0.000, 0.000, 1.468" scale="4.369, 1.326, 1.631"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+									<levels>
+										<level name="base"/>
+									</levels>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="base"/>
+							</levels>
+						</game_entity>
+						<game_entity name="volume_box_corner" old_prefab_name="volume_box_corner" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_camp_area_2"/>
+							</tags>
+							<transform position="-0.609, 3.761, -0.129" rotation_euler="0.000, 0.000, -2.913" scale="3.361, 2.174, 1.631"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+									<levels>
+										<level name="base"/>
+									</levels>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="base"/>
+							</levels>
+						</game_entity>
+						<game_entity name="map_icons_market_tent_a" old_prefab_name="map_icons_market_tent_a" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<transform position="-0.761, 1.812, -0.066" rotation_euler="0.090, 0.112, -0.886" scale="0.779, 0.779, 0.779"/>
+							<components>
+								<meta_mesh_component name="mi_market_tent_a"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_5" old_prefab_name="map_icon_siege_camp_5" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.499, -1.841, -0.285" rotation_euler="0.000, 0.000, -0.630"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_5"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_1" old_prefab_name="map_icon_siege_camp_1" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.789, -1.037, -0.285" rotation_euler="0.000, 0.000, 3.103" scale="1.188, 1.188, 1.188"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_4" old_prefab_name="map_icon_siege_camp_4" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.838, -0.189, -0.230" rotation_euler="0.000, 0.000, -0.092" scale="1.014, 1.014, 1.014"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_4"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_1" old_prefab_name="map_icon_siege_camp_1" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="1.025, 0.292, -0.203" rotation_euler="0.000, 0.000, -2.293" scale="1.188, 1.188, 1.188"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_1"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_4" old_prefab_name="map_icon_siege_camp_4" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.684, 1.256, -0.148" rotation_euler="0.000, 0.000, 0.533" scale="1.014, 1.014, 1.014"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_4"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_market_tent_a" old_prefab_name="map_icons_market_tent_a" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<transform position="-1.089, 1.197, -0.073" rotation_euler="0.014, -0.143, 1.481" scale="0.779, 0.779, 0.779"/>
+							<components>
+								<meta_mesh_component name="mi_market_tent_a"/>
+							</components>
+						</game_entity>
+						<game_entity name="volume_box_corner" old_prefab_name="volume_box_corner" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_camp_area_2"/>
+							</tags>
+							<transform position="0.303, -2.549, -0.285" rotation_euler="0.000, 0.000, 3.008" scale="2.724, 2.174, 1.631"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+									<levels>
+										<level name="base"/>
+									</levels>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="base"/>
+							</levels>
+						</game_entity>
+						<game_entity name="volume_box_corner" old_prefab_name="volume_box_corner" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_camp_area_1"/>
+							</tags>
+							<transform position="-0.104, 0.765, -0.164" rotation_euler="0.000, 0.000, 3.008" scale="1.601, 2.050, 1.631"/>
+							<children>
+								<game_entity name="volume_box" old_prefab_name="volume_box" mobility="1">
+									<flags>
+										<flag name="record_to_scene_replay" value="true"/>
+									</flags>
+									<visibility_masks>
+										<visibility_mask name="visible_only_when_editing" value="true"/>
+									</visibility_masks>
+									<transform position="0.500, 0.500, -0.500"/>
+									<components>
+										<meta_mesh_component name="volume_box"/>
+									</components>
+									<scripts>
+										<script name="VolumeBox">
+											<variables>
+												<variable name="NavMeshPrefabName" value=""/>
+											</variables>
+										</script>
+									</scripts>
+									<levels>
+										<level name="base"/>
+									</levels>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="base"/>
+							</levels>
+						</game_entity>
+						<game_entity name="map_icon_siege_camp_4" old_prefab_name="map_icon_siege_camp_4" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<tags>
+								<tag name="siege_preparation"/>
+							</tags>
+							<transform position="0.823, 2.409, -0.094" rotation_euler="0.000, 0.000, -0.269" scale="0.973, 0.973, 0.973"/>
+							<components>
+								<meta_mesh_component name="map_icon_siege_camp_4"/>
+							</components>
+						</game_entity>
+						<game_entity name="map_icons_market_tent_a" old_prefab_name="map_icons_market_tent_a" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+								<flag name="align_rotation_to_terrain" value="true"/>
+							</flags>
+							<transform position="-0.958, -1.785, -0.253" rotation_euler="0.127, 0.068, 1.088" scale="0.779, 0.779, 0.779"/>
+							<components>
+								<meta_mesh_component name="mi_market_tent_a"/>
+							</components>
+						</game_entity>
+						<game_entity name="attacker_ranged_engine" old_prefab_name="attacker_ranged_engine" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_engine_3"/>
+							</tags>
+							<transform position="-0.050, 2.100, -0.089" rotation_euler="0.000, 0.000, -1.799" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.048, 0.021, -0.013" rotation_euler="0.000, 0.000, 2.438" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_ranged_engine" old_prefab_name="attacker_ranged_engine" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_engine_2"/>
+							</tags>
+							<transform position="-0.138, 1.308, -0.121" rotation_euler="0.000, 0.000, -1.598" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.006, -0.038, -0.017" rotation_euler="0.000, 0.000, -0.236" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_ranged_engine" old_prefab_name="attacker_ranged_engine" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_engine_1"/>
+							</tags>
+							<transform position="0.067, -0.330, -0.240" rotation_euler="0.000, 0.000, -1.515" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.051, -0.014, 0.009" rotation_euler="0.000, 0.000, 2.889" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_ranged_engine" old_prefab_name="attacker_ranged_engine" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_engine_0"/>
+							</tags>
+							<transform position="-0.038, -1.957, -0.285" rotation_euler="0.000, 0.000, -1.371" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.024, -0.093, -0.028" rotation_euler="0.000, 0.000, 2.879" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_siege_ram" old_prefab_name="attacker_siege_ram" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_ram"/>
+							</tags>
+							<transform position="-2.395, 1.267, -0.012" rotation_euler="0.000, 0.000, -1.532" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.079, 0.058, -0.020" rotation_euler="0.000, 0.000, 1.922" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_siege_tower" old_prefab_name="attacker_siege_tower" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_tower"/>
+							</tags>
+							<transform position="-3.196, 1.009, 0.043" rotation_euler="0.000, 0.000, -1.660" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="-0.023, 0.025, -0.024" rotation_euler="0.000, 0.000, -0.555" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="attacker_siege_tower" old_prefab_name="attacker_siege_tower" mobility="1">
+							<flags>
+								<flag name="align_to_terrain" value="true"/>
+							</flags>
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_siege_tower"/>
+							</tags>
+							<transform position="-1.938, -1.750, -0.161" rotation_euler="0.000, 0.000, -1.540" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform position="0.024, 0.028, -0.022" rotation_euler="0.000, 0.000, -2.195" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+						</game_entity>
+						<game_entity name="defender_ranged_l1" old_prefab_name="defender_ranged_l1" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_2"/>
+							</tags>
+							<transform position="3.016, -0.475, 0.513" rotation_euler="0.000, 0.000, 1.612" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.076" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l1" old_prefab_name="defender_ranged_l1" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_1"/>
+							</tags>
+							<transform position="2.988, 0.017, 0.515" rotation_euler="0.000, 0.000, 1.616" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.088" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l1" old_prefab_name="defender_ranged_l1" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_3"/>
+							</tags>
+							<transform position="2.174, -2.545, 0.729" rotation_euler="0.000, 0.000, 1.590" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -2.776" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l1" old_prefab_name="defender_ranged_l1" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_0"/>
+							</tags>
+							<transform position="2.777, 1.628, 1.054" rotation_euler="0.000, 0.000, 1.646" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.102" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_1"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l2" old_prefab_name="defender_ranged_l2" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_2"/>
+							</tags>
+							<transform position="3.008, -0.569, 0.978" rotation_euler="0.000, 0.000, 1.622" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.088" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l2" old_prefab_name="defender_ranged_l2" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_1"/>
+							</tags>
+							<transform position="2.977, 0.063, 0.976" rotation_euler="0.000, 0.000, 1.594" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.102" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l2" old_prefab_name="defender_ranged_l2" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_0"/>
+							</tags>
+							<transform position="2.885, 1.624, 1.069" rotation_euler="0.000, 0.000, 1.578" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -2.776" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l2" old_prefab_name="defender_ranged_l2" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_3"/>
+							</tags>
+							<transform position="2.048, -2.431, 1.050" rotation_euler="0.000, 0.000, 1.588" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.076" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_2"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l3" old_prefab_name="defender_ranged_l3" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_1"/>
+							</tags>
+							<transform position="2.956, 0.056, 1.023" rotation_euler="0.000, 0.000, 1.615" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.102" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l3" old_prefab_name="defender_ranged_l3" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_2"/>
+							</tags>
+							<transform position="2.995, -0.510, 1.020" rotation_euler="0.000, 0.000, 1.613" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.088" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l3" old_prefab_name="defender_ranged_l3" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_3"/>
+							</tags>
+							<transform position="2.054, -2.410, 1.040" rotation_euler="0.000, 0.000, 1.575" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.076" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+						<game_entity name="defender_ranged_l3" old_prefab_name="defender_ranged_l3" mobility="1">
+							<visibility_masks>
+								<visibility_mask name="visible_only_when_editing" value="true"/>
+							</visibility_masks>
+							<tags>
+								<tag name="map_defensive_engine_0"/>
+							</tags>
+							<transform position="2.912, 1.653, 1.126" rotation_euler="0.000, 0.000, 1.585" scale="0.350, 0.350, 0.350"/>
+							<components>
+								<meta_mesh_component name="arrow_new_icon"/>
+							</components>
+							<children>
+								<game_entity name="bo_siege_engine" old_prefab_name="bo_siege_engine" mobility="1">
+									<transform rotation_euler="0.000, 0.000, -3.076" scale="1.050, 1.050, 1.050"/>
+									<physics shape="bo_sphere_collider"/>
+								</game_entity>
+							</children>
+							<levels>
+								<level name="level_3"/>
+								<level name="civilian"/>
+								<level name="siege"/>
+							</levels>
+						</game_entity>
+					</children>
+					<levels>
+						<level name="level_1"/>
+						<level name="level_2"/>
+						<level name="level_3"/>
+						<level name="siege"/>
+					</levels>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="-0.204, 0.384, -0.290" rotation_euler="0.000, 0.000, 2.384" scale="0.408, 0.347, 0.408"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="0.236, 0.397, -0.252" rotation_euler="0.000, 0.000, 2.913"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_b" old_prefab_name="map_icons_battania_house_b" mobility="1">
+					<transform position="-1.333, -0.201, -0.247" rotation_euler="0.000, 0.000, 3.114" scale="0.586, 0.586, 0.586"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_b"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="0.021, -1.374, -0.035" rotation_euler="0.000, 0.000, 1.874"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="-1.010, -1.384, -0.035" rotation_euler="0.000, 0.000, 1.193"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.518, 0.344, -0.035" rotation_euler="0.000, 0.000, 1.358"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.520, 2.209, -0.035" rotation_euler="0.000, 0.000, 1.520"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="1.040, 1.989, -0.035" rotation_euler="0.000, 0.000, 0.852"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="2.151, 0.201, -0.035" rotation_euler="0.000, 0.000, 0.231"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="1.551, -0.730, -0.035" rotation_euler="0.000, 0.000, 0.293"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_ground" old_prefab_name="_decal" mobility="1">
+					<transform position="0.919, 0.016, -0.035" rotation_euler="0.000, 0.000, 1.292"/>
+					<components>
+						<decal_component material="decal_city_battania_ground" argument="0.500, 0.500, 0.000, 0.000" factor="4282070058"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_a" old_prefab_name="_decal" mobility="1">
+					<transform position="1.299, 1.140, 0.205" rotation_euler="0.000, 0.000, 0.926" scale="0.309, 0.309, 0.309"/>
+					<components>
+						<decal_component material="decal_battania_path_a" argument="0.530, 0.530, 0.480, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="1.194, 1.787, -0.270" rotation_euler="0.000, 0.000, 2.715" scale="0.476, 0.476, 0.476"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="-0.173, -0.906, -0.327" rotation_euler="0.000, 0.000, 3.030"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="-0.971, 0.171, -0.286" rotation_euler="0.000, 0.000, 1.228"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="-0.417, 0.960, -0.277" rotation_euler="0.000, 0.000, -2.852" scale="0.408, 0.347, 0.408"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.042, 1.123, -0.012" rotation_euler="0.000, 0.000, 1.034" scale="0.320, 0.320, 0.320"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_a" old_prefab_name="_decal" mobility="1">
+					<transform position="1.975, 0.632, 0.205" rotation_euler="0.000, 0.000, 0.926" scale="0.309, 0.309, 0.309"/>
+					<components>
+						<decal_component material="decal_battania_path_a" argument="0.530, 0.530, 0.480, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.615, 0.338, 0.205" rotation_euler="0.000, 0.000, -2.531" scale="0.379, 0.379, 0.379"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.553, -0.282, 0.205" rotation_euler="0.000, 0.000, 2.783" scale="0.381, 0.381, 0.381"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.328, -0.356, 0.205" rotation_euler="0.000, 0.000, 0.764" scale="0.374, 0.374, 0.374"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="0.131, -0.725, 0.205" rotation_euler="0.000, 0.000, -2.564" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.993, 0.594, -0.012" rotation_euler="0.000, 0.000, -1.871" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_a" old_prefab_name="_decal" mobility="1">
+					<transform position="0.167, -1.307, 0.205" rotation_euler="0.000, 0.000, -3.053" scale="0.416, 0.416, 0.416"/>
+					<components>
+						<decal_component material="decal_battania_path_a" argument="0.530, 0.530, 0.480, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_a" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.009, 0.907, 0.205" rotation_euler="0.000, 0.000, 2.288" scale="0.352, 0.352, 0.352"/>
+					<components>
+						<decal_component material="decal_battania_path_a" argument="0.530, 0.530, 0.480, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.440, 0.508, -0.012" rotation_euler="0.000, 0.000, -0.602" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_a" old_prefab_name="_decal" mobility="1">
+					<transform position="0.355, 1.177, 0.205" rotation_euler="0.000, 0.000, 2.288" scale="0.309, 0.309, 0.309"/>
+					<components>
+						<decal_component material="decal_battania_path_a" argument="0.530, 0.530, 0.480, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="0.838, 1.366, -0.012" rotation_euler="0.000, 0.000, -1.583" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="2.190, 0.324, -0.012" rotation_euler="0.000, 0.000, -2.819" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="2.237, -0.118, -0.012" rotation_euler="0.000, 0.000, 0.299" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.534, 0.543, -0.012" rotation_euler="0.000, 0.000, 1.829" scale="0.372, 0.372, 0.372"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="decal_path_b" old_prefab_name="_decal" mobility="1">
+					<transform position="-0.143, 1.053, -0.012" rotation_euler="0.000, 0.000, -3.014" scale="0.320, 0.320, 0.320"/>
+					<components>
+						<decal_component material="decal_battania_path_b" argument="0.530, 0.530, -0.010, 0.010"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_c" old_prefab_name="map_icons_battania_house_c" mobility="1">
+					<transform position="0.282, -0.377, -0.379" rotation_euler="0.000, 0.000, -1.990" scale="0.875, 0.875, 0.875"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_c"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="0.417, 1.762, -0.321" rotation_euler="0.000, 0.000, -2.084" scale="0.444, 0.444, 0.444"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="0.056, 1.395, -0.284" rotation_euler="0.000, 0.000, -0.656" scale="0.408, 0.408, 0.408"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="map_icons_battania_house_a" old_prefab_name="map_icons_battania_house_a" mobility="1">
+					<transform position="-0.193, -0.131, -0.283" rotation_euler="0.000, 0.000, -2.486" scale="0.408, 0.408, 0.408"/>
+					<components>
+						<meta_mesh_component name="mi_bat_house_a"/>
+					</components>
+				</game_entity>
+				<game_entity name="bo_town" old_prefab_name="__empty_object" mobility="1">
+					<tags>
+						<tag name="bo_town"/>
+					</tags>
+					<transform position="0.137, 0.316, -1.864" rotation_euler="0.000, 0.000, 1.153" scale="4.000, 4.000, 4.000"/>
+					<physics shape="bo_sphere_collider">
+						<body_flags>
+							<body_flag name="only_collide_with_raycast"/>
+						</body_flags>
+					</physics>
+				</game_entity>
+				<game_entity name="map_port" old_prefab_name="" mobility="1">
+					<tags>
+						<tag name="map_port"/>
+					</tags>
+					<transform position="3.809, 2.526, -0.848" rotation_euler="0.000, 0.000, 0.073" scale="0.912, 0.912, 0.912"/>
+				</game_entity>
+			</children>
+		</game_entity>
+		
 
 
 
