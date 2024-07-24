@@ -45,6 +45,7 @@
     <CraftedItem id="rus_pine_short_kapjo_t1_type3_10_11"
         name="Rus Pine Short Kapjo - Type 3 [10th - early 11th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
@@ -57,6 +58,7 @@
     <CraftedItem id="rus_ash_long_kapjo_t1_type3_10_11"
         name="Rus Ash Long Kapjo - Type 3 [10th - early 11th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
@@ -69,6 +71,7 @@
     <CraftedItem id="rus_oaken_kapjo_t1_type3_10_11"
         name="Rus Oaken Kapjo - Type 3 [10th - early 11th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="100" />
@@ -81,6 +84,7 @@
     <CraftedItem id="rus_pine_kapjo_t6_type3_11_12"
         name="Rus Pine Kapjo - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
@@ -93,6 +97,7 @@
     <CraftedItem id="rus_ash_hardened_kapjo_t3_type3_11_12"
         name="Rus Ash Hardened Kapjo - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
@@ -105,6 +110,7 @@
     <CraftedItem id="rus_oaken_long_kapjo_with_utok_t4_type3_11_12"
         name="Rus Oaken Long Kapjo with Utok - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
@@ -117,6 +123,7 @@
     <CraftedItem id="rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"
         name="Rus Pine Long Hardened Kapjo with Utok - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
@@ -129,6 +136,7 @@
     <CraftedItem id="rus_pine_kapjo_t3_type3_12_13"
         name="Rus Pine Kapjo - Type 3 [12th - 13th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="85" />
@@ -141,6 +149,7 @@
     <CraftedItem id="rus_pine_kapjo_t2_type3a"
         name="Rus Pine Kapjo - Type 3 A [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" scale_factor="100" />
@@ -153,6 +162,7 @@
     <CraftedItem id="rus_pine_kapjo_t0_type4_11_12"
         name="Rus Pine Kapjo - Type 4 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
@@ -165,6 +175,7 @@
     <CraftedItem id="rus_pine_kapjo_t3_type4_12_13"
         name="Rus Pine Kapjo - Type 4 [12th - 13th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
@@ -177,6 +188,7 @@
     <CraftedItem id="rus_simple_pine_rohatina_t1_type4a_12_13"
         name="Rus Simple Pine Rohatina - Type 4 A [12th - 13th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_3" Type="Blade" scale_factor="90" />
@@ -189,6 +201,7 @@
     <CraftedItem id="rus_fine_pine_rohatina_t3_type4a_12_13"
         name="Rus Fine Pine Rohatina - Type 4 A [12th - 13th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_5" Type="Blade" scale_factor="120" />
@@ -201,6 +214,7 @@
     <CraftedItem id="rus_pine_hunting_kapjo_t1_type7_11_12"
         name="Rus Pine Hunting Kapjo - Type 7 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_38" Type="Blade" scale_factor="55" />
@@ -213,6 +227,7 @@
     <CraftedItem id="rus_pine_hunting_kapjo_t2_type7_12_13"
         name="Rus Pine Hunting Kapjo - Type 7 [12th - 13th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_38" Type="Blade" scale_factor="115" />
