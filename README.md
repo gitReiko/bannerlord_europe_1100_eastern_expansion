@@ -1,5 +1,5 @@
 
-!!! MOD IS CREATED FOR EUROPA 1100 v1.2.9.2, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
+!!! MOD IS CREATED FOR EUROPA 1100 v1.2.10.1, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 !!! Warning. Mod now requires Open Source Armory.
 
@@ -8,11 +8,12 @@ The mod on this page will be updated to match the Empires of Europe 1100 version
 Update 1.6.0 Hungary Kingdom
 
 - compatibility 1.2.10.1
-- new settlements
+- 2 new cities, 2 new castles, 1 new village for Hungary
 - 12 clanes for Hungary
 - 42 lords for Hungary
 - towns scenes variety (only for towns of this mod)
 - 15 new javelins for Baltic factions
+- start clan level is 1
 - other improvements
 
 This mod has two purposes:
@@ -24,17 +25,18 @@ Eastern Europe has the same 1090-1005 timeline. Submod also tries to be as histo
 
 At this moment mod:
 
-- add 17 cities, 31 castles, 62 villages
+- add 18 cities, 33 castles, 63 villages
 - add 11 kingdoms (Aestia, Galicia, Jatvingia, Kyiv, Latgalia, Lithuania, Polatsk, Prussia, Volhynia, Samogitia, Semigallia)
 - add 8 cultures (Aestian, Dregovian, Kryvian, Jatvingian, Volhynia, Lithuanian, Rus (reworked), Latvian)
-- expand 1 kingdom (Poland)
-- 270+ lords
+- expand 2 kingdom (Poland, Hungary)
+- 310+ lords, ladies
+- 77 clans
+- start clan level is 1
 
 My future plans
 
-- Hungary kingdom expand
-- Mercenary clans
 - Chernigov kingdom
+- Mercenary clans
 - planned settlements and kingdoms can be seen on the map. The map is draft and may change a lot.
 
 For modders
