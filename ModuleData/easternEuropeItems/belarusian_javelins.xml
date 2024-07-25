@@ -34,7 +34,7 @@
     -->
 	
     <CraftedItem id="rus_pine_hunting_sulica_t1_type1"
-        name="Rus Pine Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_pine_hunting_sulica_t1_type1.name}Rus Pine Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.kryvich"
         crafting_template="Javelin" >
     <Pieces>
@@ -46,7 +46,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_ash_hunting_sulica_t1_type1"
-        name="Rus Ash Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_ash_hunting_sulica_t1_type1.name}Rus Ash Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.dregovian"
         crafting_template="Javelin" >
     <Pieces>
@@ -58,7 +58,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_oaken_hunting_sulica_t1_type1"
-        name="Rus Oaken Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_oaken_hunting_sulica_t1_type1.name}Rus Oaken Hunting Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.rus"
         crafting_template="Javelin" >
     <Pieces>
@@ -70,7 +70,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_pine_oval_war_sulica_t3_type1"
-        name="Rus Pine Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_pine_oval_war_sulica_t3_type1.name}Rus Pine Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.latvian"
         crafting_template="Javelin">
     <Pieces>
@@ -82,7 +82,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_ash_oval_war_sulica_t3_type1"
-        name="Rus Ash Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_ash_oval_war_sulica_t3_type1.name}Rus Ash Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.dregovian"
         crafting_template="Javelin">
     <Pieces>
@@ -94,7 +94,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_oaken_oval_war_sulica_t3_type1"
-        name="Rus Oaken Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_oaken_oval_war_sulica_t3_type1.name}Rus Oaken Oval War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.rus"
         crafting_template="Javelin">
     <Pieces>
@@ -106,7 +106,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_pine_rhombic_war_sulica_t3_type1"
-        name="Rus Pine Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_pine_rhombic_war_sulica_t3_type1.name}Rus Pine Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.kryvich"
         crafting_template="Javelin">
     <Pieces>
@@ -118,7 +118,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_ash_rhombic_war_sulica_t3_type1"
-        name="Rus Ash Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_ash_rhombic_war_sulica_t3_type1.name}Rus Ash Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.dregovian"
         crafting_template="Javelin">
     <Pieces>
@@ -130,7 +130,7 @@
     </CraftedItem>
 
     <CraftedItem id="rus_oaken_rhombic_war_sulica_t3_type1"
-        name="Rus Oaken Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
+        name="{=rus_oaken_rhombic_war_sulica_t3_type1.name}Rus Oaken Rhombic War Sulica - Leaf Type 1 [10th - 13th c.]"
         culture="Culture.goldenhorde"
         crafting_template="Javelin">
     <Pieces>
@@ -142,7 +142,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_pine_sulica_t5_type2"
-        name="Baltic Pine Sulica - Leaf Type 2 [12th - 13th c.]"
+        name="{=baltic_pine_sulica_t5_type2.name}Baltic Pine Sulica - Leaf Type 2 [12th - 13th c.]"
         culture="Culture.kryvich"
         crafting_template="Javelin">
     <Pieces>
@@ -154,7 +154,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_ash_sulica_t5_type2"
-        name="Baltic Ash Sulica - Leaf Type 2 [12th - 13th c.]"
+        name="{=baltic_ash_sulica_t5_type2.name}Baltic Ash Sulica - Leaf Type 2 [12th - 13th c.]"
         culture="Culture.aestian"
         crafting_template="Javelin">
     <Pieces>
@@ -166,7 +166,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_oaken_sulica_t5_type2"
-        name="Baltic Oaken Sulica - Leaf Type 2 [12th - 13th c.]"
+        name="{=baltic_oaken_sulica_t5_type2.name}Baltic Oaken Sulica - Leaf Type 2 [12th - 13th c.]"
         culture="Culture.goldenhorde"
         crafting_template="Javelin">
     <Pieces>
@@ -178,7 +178,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_pine_sulica_t3_type3"
-        name="Baltic Pine Sulica - Leaf Type 3 [11th - 13th c.]"
+        name="{=baltic_pine_sulica_t3_type3.name}Baltic Pine Sulica - Leaf Type 3 [11th - 13th c.]"
         culture="Culture.jatvingian"
         crafting_template="Javelin">
     <Pieces>
@@ -190,7 +190,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_ash_sulica_t3_type3"
-        name="Baltic Ash Sulica - Leaf Type 3 [11th - 13th c.]"
+        name="{=baltic_ash_sulica_t3_type3.name}Baltic Ash Sulica - Leaf Type 3 [11th - 13th c.]"
         culture="Culture.latvian"
         crafting_template="Javelin">
     <Pieces>
@@ -202,7 +202,7 @@
     </CraftedItem>
 
     <CraftedItem id="baltic_oaken_sulica_t3_type3"
-        name="Baltic Oaken Sulica - Leaf Type 3 [11th - 13th c.]"
+        name="{=baltic_oaken_sulica_t3_type3.name}Baltic Oaken Sulica - Leaf Type 3 [11th - 13th c.]"
         culture="Culture.jatvingian"
         crafting_template="Javelin">
     <Pieces>
