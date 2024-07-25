@@ -8104,6 +8104,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+  <!--
   <Settlement id="Golden_castle_village_K6_2" name="{=Settlements.Settlement.name.ECM.Golden_castle_village_K6_2}Belgorod" posX="1229.917" posY="1143.134" culture="Culture.rus" text="{=Settlements.Settlement.text.castle_village_K6_2}Karahalli lies in the far north of the Khuzait confederacy, not far from the icy Byalic Sea. Snow-bound for much of the year, the spring grasses nonetheless sustain sizeable herds of sheep, the thick wool of which protects them from the icy winds blowing off of the waters.">
     <Components>
       <Village id="Golden_castle_village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="415" gate_rotation="0.508" bound="Settlement.Golden_castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
@@ -8117,6 +8118,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
+  -->
   <Settlement id="Golden_castle_K7" name="{=Settlements.Settlement.name.ECM.Golden_castle_K7}Astrakhan Castle" owner="Faction.clan_khuzait_4" posX="1491.66" posY="1017.373" culture="Culture.khuzait" gate_posX="1489.864" gate_posY="1017.19">
     <Components>
       <Town id="Golden_castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420" />
