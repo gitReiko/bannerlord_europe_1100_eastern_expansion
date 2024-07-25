@@ -69,11 +69,10 @@ Load order:
 4. Sandbox
 5. StoryMode
 
-6. Banner Color Persistence https://www.nexusmods.com/mountandblade2bannerlord/mods/2637
-7. Open Source Armory https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
-8. Open Source Saddlery https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
-9. Open Source Weaponry https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
-10. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
-11. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
+6. Open Source Armory https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+7. Open Source Saddlery https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+8. Open Source Weaponry https://www.nexusmods.com/mountandblade2bannerlord/mods/2829
+9. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758
+10. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
 
-12. Empires of Europe 1100 - Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
+11. Empires of Europe 1100 - Eastern Europe Expansion https://www.nexusmods.com/mountandblade2bannerlord/mods/6277
