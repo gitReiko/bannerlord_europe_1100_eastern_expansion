@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+
+	<CraftingPiece
+		id="rus_kapjo_t3_11_12_cavalry"
+		name="Rus Kapjo Head - Type 3 [11th - 12th c.]"
+		tier="6"
+		piece_type="Blade"
+		mesh="spear_blade_6"
+		length="84.4"
+		weight="0.4"
+		excluded_item_usage_features="swing"
+		is_hidden="true">
+		<BladeData
+			stack_amount="3"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.6" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron5"
+				count="1" />
+		</Materials>
+		<Flags>
+			<Flag
+				name="CanDismount" />
+		</Flags>
+	</CraftingPiece>
+
+
+
+</CraftingPieces>

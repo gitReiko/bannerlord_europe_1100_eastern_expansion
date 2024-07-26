@@ -19,5 +19,12 @@
         </xsl:copy>
     </xsl:template>
 
+    <xsl:template match="CraftingTemplate[@id='TwoHandedPolearm']/UsablePieces/UsablePiece[1]">
+        <UsablePiece piece_id="rus_kapjo_t3_11_12_cavalry"/>
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
     
 </xsl:stylesheet>

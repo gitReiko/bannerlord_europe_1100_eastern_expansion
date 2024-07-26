@@ -30,5 +30,12 @@
         </xsl:copy>
     </xsl:template>
 
+    <xsl:template match="WeaponDescription[@id='TwoHandedPolearm']/AvailablePieces/AvailablePiece[1]">
+        <AvailablePiece id="rus_kapjo_t3_11_12_cavalry"/>
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
     
 </xsl:stylesheet>
