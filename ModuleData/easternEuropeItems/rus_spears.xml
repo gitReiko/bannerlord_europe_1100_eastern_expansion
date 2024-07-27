@@ -206,7 +206,33 @@
     <Pieces>
         <Piece id="spear_blade_14" Type="Blade" scale_factor="100" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="130" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_kapjo_t2_type3a"
+        name="Rus Ash Kapjo - Type 3 A [11th - 12th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="90" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_kapjo_t2_type3a"
+        name="Rus Oaken Kapjo - Type 3 A [11th - 12th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_14" Type="Blade" scale_factor="100" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="100" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
