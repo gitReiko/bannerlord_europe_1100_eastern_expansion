@@ -200,7 +200,7 @@
 
     <CraftedItem id="rus_pine_kapjo_t2_type3a"
         name="Rus Pine Kapjo - Type 3 A [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volga_fin"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -213,7 +213,7 @@
 
     <CraftedItem id="rus_ash_kapjo_t2_type3a"
         name="Rus Ash Kapjo - Type 3 A [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volga_fin"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -226,7 +226,7 @@
 
     <CraftedItem id="rus_oaken_kapjo_t2_type3a"
         name="Rus Oaken Kapjo - Type 3 A [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volga_fin"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
