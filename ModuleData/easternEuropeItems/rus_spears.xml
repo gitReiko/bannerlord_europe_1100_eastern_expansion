@@ -94,19 +94,6 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_cavalry_pike_t6_type3_11_12"
-        name="Rus Pine Cavalry Pike - Type 3 [11th - 12th c.]"
-        culture="Culture.kryvich"
-        is_merchandise="false"
-        crafting_template="TwoHandedPolearm" >
-    <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
-        <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_14" Type="Handle" scale_factor="150" />
-        <Piece id="default_polearm_pommel" Type="Pommel"/>
-    </Pieces>
-    </CraftedItem>
-
     <CraftedItem id="rus_ash_hardened_kapjo_t3_type3_11_12"
         name="Rus Ash Hardened Kapjo - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
@@ -143,6 +130,58 @@
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="spear_handle_17" Type="Handle" scale_factor="120" />
         <Piece id="spear_pommel_10" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_noble_cavalry_spear_t6_type3_11_12"
+        name="Rus Noble Cavalry Spear - Type 3 [11th - 12th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_14" Type="Handle" scale_factor="150" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_cavalry_spear_t3_type3_11_12"
+        name="Rus Oaken Cavalry Spear - Type 3 [11th - 12th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_26" Type="Handle" scale_factor="95" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_cavalry_spear_t3_type3_11_12"
+        name="Rus Pine Cavalry Spear - Type 3 [11th - 12th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_4" Type="Handle" scale_factor="130" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ashen_cavalry_spear_t3_type3_11_12"
+        name="Rus Aashen Cavalry Spear - Type 3 [11th - 12th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_19" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
