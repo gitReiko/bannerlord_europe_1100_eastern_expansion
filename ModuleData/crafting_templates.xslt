@@ -21,6 +21,10 @@
 
     <xsl:template match="CraftingTemplate[@id='TwoHandedPolearm']/UsablePieces/UsablePiece[1]">
         <UsablePiece piece_id="rus_kapjo_t3_11_12_cavalry"/>
+        <UsablePiece piece_id="rus_2h_pine_cavalry_shaft"/>
+        <UsablePiece piece_id="rus_2h_oaken_cavalry_shaft"/>
+        <UsablePiece piece_id="rus_2h_hardened_ashen_cavalry_shaft"/>
+        <UsablePiece piece_id="rus_2h_noble_cavalry_shaft"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>

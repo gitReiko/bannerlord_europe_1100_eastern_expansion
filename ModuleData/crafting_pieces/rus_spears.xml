@@ -31,5 +31,81 @@
 	</CraftingPiece>
 
 
+	<CraftingPiece
+		id="rus_2h_pine_cavalry_shaft"
+		name="Rus 2H Pine Cavalry Shaft"
+		tier="4"
+		piece_type="Handle"
+		mesh="spear_handle_4"
+		length="190"
+		weight="1.4"
+		excluded_item_usage_features="long"
+		item_holster_pos_shift="0,0,0.10"
+		CraftingCost="100"
+		is_hidden="true">
+		<BuildData
+			piece_offset="19.4" />
+		<Materials>
+			<Material
+				id="Wood"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_2h_oaken_cavalry_shaft"
+		name="Rus 2H Oaken Cavalry Shaft"
+		tier="5"
+		piece_type="Handle"
+		mesh="spear_handle_26"
+		length="280"
+		weight="1.6"
+		is_hidden="true">
+		<BuildData
+			piece_offset="22.9" />
+		<Materials>
+			<Material
+				id="Wood"
+				count="3" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_2h_hardened_ashen_cavalry_shaft"
+		name="Rus 2H Hardened Ashen Cavalry Staff"
+		tier="5"
+		piece_type="Handle"
+		mesh="spear_handle_19"
+		length="210"
+		weight="1.6"
+		is_hidden="true">
+		<BuildData
+			piece_offset="22.9" />
+		<Materials>
+			<Material
+				id="Wood"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_2h_noble_cavalry_shaft"
+		name="Rus 2H Noble Cavalry Shaft"
+		tier="6"
+		piece_type="Handle"
+		mesh="spear_handle_14"
+		length="160"
+		weight="1.05"
+		is_hidden="true">
+		<BuildData
+			piece_offset="22.9" />
+		<Materials>
+			<Material
+				id="Wood"
+				count="3" />
+		</Materials>
+	</CraftingPiece>
+
+
 
 </CraftingPieces>

@@ -133,7 +133,7 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_noble_cavalry_spear_t6_type3_11_12"
+    <CraftedItem id="rus_noble_cavalry_spear_t4_type3_11_12"
         name="Rus Noble Cavalry Spear - Type 3 [11th - 12th c.]"
         culture="Culture.rus"
         is_merchandise="false"
@@ -141,7 +141,7 @@
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_14" Type="Handle" scale_factor="150" />
+        <Piece id="rus_2h_noble_cavalry_shaft" Type="Handle" scale_factor="155" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -154,7 +154,7 @@
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_26" Type="Handle" scale_factor="95" />
+        <Piece id="rus_2h_oaken_cavalry_shaft" Type="Handle" scale_factor="95" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -167,7 +167,7 @@
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_4" Type="Handle" scale_factor="130" />
+        <Piece id="rus_2h_pine_cavalry_shaft" Type="Handle" scale_factor="130" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -180,7 +180,7 @@
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_19" Type="Handle" scale_factor="120" />
+        <Piece id="rus_2h_hardened_ashen_cavalry_shaft" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
