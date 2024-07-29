@@ -237,28 +237,80 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_kapjo_t0_type4_11_12"
-        name="Rus Pine Kapjo - Type 4 [11th - 12th c.]"
+    <CraftedItem id="baltic_pine_spear_t2_rus_type4_11_12"
+        name="Baltic Pine Spear - Rus Type 4 [11th - 12th c.]"
         culture="Culture.kryvich"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="spear_blade_9" Type="Blade" scale_factor="110" />
+        <Piece id="rus_spear_head_type4_11_12" Type="Blade" scale_factor="110" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="160" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_kapjo_t3_type4_12_13"
-        name="Rus Pine Kapjo - Type 4 [12th - 13th c.]"
+    <CraftedItem id="baltic_ash_spear_t2_rus_type4_11_12"
+        name="Baltic Ash Spear - Rus Type 4 [11th - 12th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_spear_head_type4_11_12" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="106" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_oaken_spear_t2_rus_type4_11_12"
+        name="Baltic Oaken Spear - Rus Type 4 [11th - 12th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_spear_head_type4_11_12" Type="Blade" scale_factor="110" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="120" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_pine_spear_t3_rus_type4_12_13"
+        name="Baltic Pine Spear - Rus Type 4 [12th - 13th c.]"
         culture="Culture.kryvich"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="160" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_ash_spear_t3_rus_type4_12_13"
+        name="Baltic Ash Spear - Rus Type 4 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="105" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="baltic_oaken_spear_t3_rus_type4_12_13"
+        name="Baltic Oaken Spear - Rus Type 4 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>

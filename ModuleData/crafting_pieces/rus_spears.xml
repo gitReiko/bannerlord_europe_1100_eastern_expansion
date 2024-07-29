@@ -106,6 +106,34 @@
 		</Materials>
 	</CraftingPiece>
 
+	<CraftingPiece
+		id="rus_spear_head_type4_11_12"
+		name="Rus Spear Head Type 4 [11th - 12th c.]"
+		tier="5"
+		piece_type="Blade"
+		mesh="spear_blade_9"
+		length="23.328"
+		weight="0.204"
+		excluded_item_usage_features="swing"
+		is_default="true">
+		<BladeData
+			stack_amount="3"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b"
+			holster_mesh="throwing_spear_quiver_3_1"
+			holster_body_name="bo_throwing_spear_quiver_3_1"
+			holster_mesh_length="96.8">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.3" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron5"
+				count="1" />
+		</Materials>
+	</CraftingPiece>
+
 
 
 </CraftingPieces>

@@ -30,12 +30,20 @@
         </xsl:copy>
     </xsl:template>
 
+    <xsl:template match="WeaponDescription[@id='OneHandedPolearm']/AvailablePieces/AvailablePiece[1]">
+        <AvailablePiece id="rus_spear_head_type4_11_12"/>
+        <xsl:copy>
+            <xsl:apply-templates select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
     <xsl:template match="WeaponDescription[@id='TwoHandedPolearm']/AvailablePieces/AvailablePiece[1]">
         <AvailablePiece id="rus_kapjo_t3_11_12_cavalry"/>
         <AvailablePiece id="rus_2h_pine_cavalry_shaft"/>
         <AvailablePiece id="rus_2h_oaken_cavalry_shaft"/>
         <AvailablePiece id="rus_2h_hardened_ashen_cavalry_shaft"/>
         <AvailablePiece id="rus_2h_noble_cavalry_shaft"/>
+        <AvailablePiece id="rus_spear_head_type4_11_12"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
