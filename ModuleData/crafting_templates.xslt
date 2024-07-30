@@ -33,6 +33,8 @@
         <UsablePiece piece_id="rus_2h_hardened_ashen_cavalry_shaft"/>
         <UsablePiece piece_id="rus_2h_noble_cavalry_shaft"/>
         <UsablePiece piece_id="rus_spear_head_type4_11_12"/>
+        <UsablePiece piece_id="rus_2h_rahacina_shaft"/>
+        <UsablePiece piece_id="rus_spear_head_type4a_12_13"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>

@@ -115,7 +115,7 @@
 		length="23.328"
 		weight="0.204"
 		excluded_item_usage_features="swing"
-		is_default="true">
+		is_hidden="true">
 		<BladeData
 			stack_amount="3"
 			physics_material="wood_weapon"
@@ -131,6 +131,54 @@
 			<Material
 				id="Iron5"
 				count="1" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_2h_rahacina_shaft"
+		name="Rus 2H Rahacina Shaft"
+		tier="1"
+		piece_type="Handle"
+		mesh="spear_handle_1"
+		length="149"
+		weight="1.2"
+		excluded_item_usage_features="long"
+		CraftingCost="100"
+		is_hidden="true">
+		<BuildData
+			piece_offset="14.9" />
+		<Materials>
+			<Material
+				id="Wood"
+				count="2" />
+		</Materials>
+	</CraftingPiece>
+
+	<CraftingPiece
+		id="rus_spear_head_type4a_12_13"
+		name="Rus Spear Head Type 4 A [12th - 13th c.]"
+		tier="4"
+		piece_type="Blade"
+		mesh="spear_blade_3"
+		length="57.143"
+		weight="0.4536"
+		excluded_item_usage_features=""
+		is_hidden="true">
+		<BladeData
+			stack_amount="3"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.3" />
+			<Swing
+				damage_type="Cut"
+				damage_factor="3.2" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron4"
+				count="3" />
 		</Materials>
 	</CraftingPiece>
 

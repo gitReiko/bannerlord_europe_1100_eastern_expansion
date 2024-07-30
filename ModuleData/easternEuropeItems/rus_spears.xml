@@ -315,21 +315,21 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_simple_pine_rohatina_t1_type4a_12_13"
-        name="Rus Simple Pine Rohatina - Type 4 A [12th - 13th c.]"
-        culture="Culture.kryvich"
+    <CraftedItem id="rus_pine_rohatina_t6_type4a_12_13"
+        name="Rus Pine Rohatina - Type 4 A [12th - 13th c.]"
+        culture="Culture.rus"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="spear_blade_3" Type="Blade" scale_factor="90" />
+        <Piece id="rus_spear_head_type4a_12_13" Type="Blade" scale_factor="90" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="rus_2h_rahacina_shaft" Type="Handle" scale_factor="150" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
     <CraftedItem id="rus_fine_pine_rohatina_t3_type4a_12_13"
-        name="Rus Fine Pine Rohatina - Type 4 A [12th - 13th c.]"
+        name="Rus Fine Pine Rahacina - Type 4 A [12th - 13th c.]"
         culture="Culture.kryvich"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
