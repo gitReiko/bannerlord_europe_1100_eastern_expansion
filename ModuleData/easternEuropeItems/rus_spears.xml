@@ -315,8 +315,8 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_rohatina_t6_type4a_12_13"
-        name="Rus Pine Rohatina - Type 4 A [12th - 13th c.]"
+    <CraftedItem id="rus_pine_rahacina_t6_type4a_12_13"
+        name="Rus Pine Rahacina - Type 4 A [12th - 13th c.]"
         culture="Culture.rus"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
@@ -328,7 +328,7 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_fine_pine_rohatina_t3_type4a_12_13"
+    <CraftedItem id="rus_fine_pine_rahacina_t3_type4a_12_13"
         name="Rus Fine Pine Rahacina - Type 4 A [12th - 13th c.]"
         culture="Culture.kryvich"
         is_merchandise="false"
