@@ -218,6 +218,34 @@
 		</Materials>
 	</CraftingPiece>
 
+	<CraftingPiece
+		id="rus_spear_leaf_head_type4a_12_13"
+		name="Rus Spear Leaf Head Type 4 A [12th - 13th c.]"
+		tier="5"
+		piece_type="Blade"
+		mesh="spear_blade_5"
+		length="52.242"
+		weight="0.4056"
+		excluded_item_usage_features=""
+		is_hidden="true">
+		<BladeData
+			stack_amount="3"
+			physics_material="wood_weapon"
+			body_name="bo_spear_b">
+			<Thrust
+				damage_type="Pierce"
+				damage_factor="2.2" />
+			<Swing
+				damage_type="Cut"
+				damage_factor="3.6" />
+		</BladeData>
+		<Materials>
+			<Material
+				id="Iron5"
+				count="3" />
+		</Materials>
+	</CraftingPiece>
+
 
 
 </CraftingPieces>

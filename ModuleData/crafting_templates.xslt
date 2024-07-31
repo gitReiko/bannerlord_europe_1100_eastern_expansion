@@ -37,6 +37,7 @@
         <UsablePiece piece_id="rus_2h_ash_rahacina_shaft"/>
         <UsablePiece piece_id="rus_2h_oaken_rahacina_shaft"/>
         <UsablePiece piece_id="rus_spear_head_type4a_12_13"/>
+        <UsablePiece piece_id="rus_spear_leaf_head_type4a_12_13"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
