@@ -44,7 +44,9 @@
         <AvailablePiece id="rus_2h_hardened_ashen_cavalry_shaft"/>
         <AvailablePiece id="rus_2h_noble_cavalry_shaft"/>
         <AvailablePiece id="rus_spear_head_type4_11_12"/>
-        <AvailablePiece id="rus_2h_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_pine_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_ash_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_oaken_rahacina_shaft"/>
         <AvailablePiece id="rus_spear_head_type4a_12_13"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
@@ -63,7 +65,9 @@
     </xsl:template>
 
     <xsl:template match="WeaponDescription[@id='TwoHandedPolearm_Pike']/AvailablePieces/AvailablePiece[1]">
-        <AvailablePiece id="rus_2h_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_pine_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_ash_rahacina_shaft"/>
+        <AvailablePiece id="rus_2h_oaken_rahacina_shaft"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
