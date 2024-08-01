@@ -172,8 +172,8 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_ashen_cavalry_spear_t3_type3_11_12"
-        name="Rus Aashen Cavalry Spear - Type 3 [11th - 12th c.]"
+    <CraftedItem id="rus_ash_cavalry_spear_t3_type3_11_12"
+        name="Rus Ash Cavalry Spear - Type 3 [11th - 12th c.]"
         culture="Culture.rus"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
@@ -393,28 +393,54 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_hunting_kapjo_t1_type7_11_12"
-        name="Rus Pine Hunting Kapjo - Type 7 [11th - 12th c.]"
-        culture="Culture.kryvich"
+    <CraftedItem id="rus_pine_hunting_spear_t1_type7_11_12"
+        name="Rus Pine Hunting Spear - Type 7 [11th - 12th c.]"
+        culture="Culture.goldenhorde"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="spear_blade_38" Type="Blade" scale_factor="55" />
+        <Piece id="rus_spear_head_type7_11_12" Type="Blade" scale_factor="65" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="170" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_pine_hunting_kapjo_t2_type7_12_13"
-        name="Rus Pine Hunting Kapjo - Type 7 [12th - 13th c.]"
-        culture="Culture.kryvich"
+    <CraftedItem id="rus_ash_hunting_spear_t1_type7_11_12"
+        name="Rus Ash Hunting Spear - Type 7 [11th - 12th c.]"
+        culture="Culture.aestian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="spear_blade_38" Type="Blade" scale_factor="115" />
+        <Piece id="rus_spear_head_type7_11_12" Type="Blade" scale_factor="65" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="100" />
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_hunting_spear_t1_type7_11_12"
+        name="Rus Oaken Hunting Spear - Type 7 [11th - 12th c.]"
+        culture="Culture.jatvingian"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_spear_head_type7_11_12" Type="Blade" scale_factor="65" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="110" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_hunting_spear_t3_type7_12_13"
+        name="Rus Pine Hunting Spear - Type 7 [12th - 13th c.]"
+        culture="Culture.aestian"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_spear_head_type7_12_13" Type="Blade" scale_factor="115" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="155" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>

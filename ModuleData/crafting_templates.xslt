@@ -21,6 +21,8 @@
 
     <xsl:template match="CraftingTemplate[@id='OneHandedPolearm']/UsablePieces/UsablePiece[1]">
         <UsablePiece piece_id="rus_spear_head_type4_11_12"/>
+        <UsablePiece piece_id="rus_spear_head_type7_11_12"/>
+        <UsablePiece piece_id="rus_spear_head_type7_12_13"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
@@ -38,6 +40,8 @@
         <UsablePiece piece_id="rus_2h_oaken_rahacina_shaft"/>
         <UsablePiece piece_id="rus_spear_head_type4a_12_13"/>
         <UsablePiece piece_id="rus_spear_leaf_head_type4a_12_13"/>
+        <UsablePiece piece_id="rus_spear_head_type7_11_12"/>
+        <UsablePiece piece_id="rus_spear_head_type7_12_13"/>
         <xsl:copy>
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
