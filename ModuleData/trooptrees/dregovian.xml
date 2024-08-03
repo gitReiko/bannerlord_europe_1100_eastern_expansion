@@ -1149,7 +1149,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_b"/>
-				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item2" id="Item.rus_ash_long_kapjo_t1_type3_10_11"/>
 				<equipment slot="Head" id="Item.padded_leather_cape"/>
                 <equipment slot="Cape" id="Item.ao_focale"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
@@ -1157,7 +1157,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
 				<equipment slot="Head" id="Item.pilgrim_hood"/>
 				<equipment slot="Body" id="Item.northern_tunic"/>
@@ -1165,7 +1165,7 @@
 			</EquipmentRoster>
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item1" id="Item.rus_pine_short_kapjo_t1_type3_10_11"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
 				<equipment slot="Head" id="Item.imperial_cloth_coif"/>
                 <equipment slot="Cape" id="Item.ao_focale"/>
@@ -1174,7 +1174,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.western_spear_2_t2"/>
+				<equipment slot="Item1" id="Item.rus_ash_long_kapjo_t1_type3_10_11"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
                 <equipment slot="Cape" id="Item.TV_vlandia_shoulders_g"/>
 				<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
@@ -1182,7 +1182,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
                 <equipment slot="Cape" id="Item.TV_vlandia_shoulders_g"/>
 				<equipment slot="Body" id="Item.thick_sleeved_robe"/>
@@ -1191,7 +1191,7 @@
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
-				<equipment slot="Item1" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item1" id="Item.rus_oaken_kapjo_t1_type3_10_11"/>
 				<equipment slot="Item2" id="Item.sturgia_old_shield_b"/>
 				<equipment slot="Head" id="Item.pilgrim_hood"/>
 				<equipment slot="Body" id="Item.sackcloth_tunic"/>
@@ -1199,7 +1199,7 @@
 			</EquipmentRoster>
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Item1" id="Item.western_spear_1_t2"/>
+				<equipment slot="Item1" id="Item.rus_pine_short_kapjo_t1_type3_10_11"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.imperial_leather_coif"/>
 				<equipment slot="Cape" id="Item.ao_focale"/>
@@ -1243,7 +1243,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
-				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.padded_leather_cape"/>
                 <equipment slot="Cape" id="Item.ao_focale"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -1253,7 +1253,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.pilgrim_hood"/>
 				<equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -1262,7 +1262,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.thinhide_coif"/>
 				<equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -1271,7 +1271,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
-				<equipment slot="Item2" id="Item.vlandia_lance_2_t4"/>
+				<equipment slot="Item2" id="Item.rus_oaken_long_kapjo_with_utok_t4_type3_11_12"/>
 				<equipment slot="Head" id="Item.pilgrim_hood"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1280,7 +1280,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.laced_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
@@ -1288,7 +1288,7 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.vlandia_lance_2_t4"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.imperial_leather_coif"/>
                 <equipment slot="Cape" id="Item.ao_focale"/>
         		<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1298,7 +1298,7 @@
       		<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
-				<equipment slot="Item2" id="Item.imperial_spear_t2"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.thinhide_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>		
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1337,7 +1337,7 @@
             <EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.AR_vaegir_helmet_a"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1345,7 +1345,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_ash_long_kapjo_t1_type3_10_11"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1353,7 +1353,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b2"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
@@ -1362,7 +1362,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.leather_round_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.AR_vaegir_helmet_a"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1370,7 +1370,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
                 <equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
@@ -1379,7 +1379,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1387,7 +1387,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.rus_oaken_long_kapjo_with_utok_t4_type3_11_12"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
@@ -1627,7 +1627,7 @@
             <EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.AR_vaegir_helmet_a"/>
 				<equipment slot="Body" id="Item.mail_shirt"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1637,7 +1637,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.nasal_helmet_over_laced_coif"/>
 				<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1647,7 +1647,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b2"/>
                 <equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
@@ -1658,7 +1658,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.AR_vaegir_helmet_a"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
 				<equipment slot="Leg" id="Item.battania_fur_boots"/>
@@ -1668,7 +1668,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.sturgia_lance_1_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
                 <equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
@@ -1679,7 +1679,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.highland_spear_3_t3"/>
+				<equipment slot="Item2" id="Item.rus_ash_hardened_kapjo_t3_type3_11_12"/>
 				<equipment slot="Head" id="Item.tv_vlandia_helmet_b2"/>
 				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
 				<equipment slot="Leg" id="Item.sturgia_boots_d"/>
@@ -1689,7 +1689,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.reinforced_kite_shield"/>
-				<equipment slot="Item2" id="Item.eastern_spear_4_t4"/>
+				<equipment slot="Item2" id="Item.rus_pine_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>
