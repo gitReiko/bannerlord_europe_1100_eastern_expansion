@@ -120,7 +120,7 @@
         culture="Culture.rus"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="rus_2h_noble_cavalry_shaft" Type="Handle" scale_factor="155" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
@@ -132,7 +132,7 @@
         culture="Culture.rus"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="rus_2h_oaken_cavalry_shaft" Type="Handle" scale_factor="95" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
@@ -145,9 +145,9 @@
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="rus_2h_pine_cavalry_shaft" Type="Handle" scale_factor="130" />
+        <Piece id="rus_2h_pine_cavalry_shaft" Type="Handle" scale_factor="133" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
@@ -158,7 +158,7 @@
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
         <Piece id="default_polearm_guard" Type="Guard"/>
         <Piece id="rus_2h_hardened_ashen_cavalry_shaft" Type="Handle" scale_factor="120" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
@@ -170,9 +170,83 @@
         culture="Culture.kryvich"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
-        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="85" />
+        <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
         <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_1" Type="Handle" scale_factor="115" />
+        <Piece id="spear_handle_1" Type="Handle" scale_factor="140" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_kapjo_t3_type3_12_13"
+        name="Rus Ash Kapjo - Type 3 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_5" Type="Handle" scale_factor="93" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_kapjo_t3_type3_12_13"
+        name="Rus Oaken Kapjo - Type 3 [12th - 13th c.]"
+        culture="Culture.kryvich"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="spear_handle_18" Type="Handle" scale_factor="105" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_noble_cavalry_spear_t4_type3_12_13"
+        name="Rus Noble Cavalry Spear - Type 3 [12th - 13th c.]"
+        culture="Culture.rus"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="rus_2h_noble_cavalry_shaft" Type="Handle" scale_factor="162" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_oaken_cavalry_spear_t3_type3_12_13"
+        name="Rus Oaken Cavalry Spear - Type 3 [12th - 13th c.]"
+        culture="Culture.rus"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="rus_2h_oaken_cavalry_shaft" Type="Handle" scale_factor="103" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_pine_cavalry_spear_t3_type3_12_13"
+        name="Rus Pine Cavalry Spear - Type 3 [12th - 13th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="rus_2h_pine_cavalry_shaft" Type="Handle" scale_factor="138" />
+        <Piece id="default_polearm_pommel" Type="Pommel"/>
+    </Pieces>
+    </CraftedItem>
+
+    <CraftedItem id="rus_ash_cavalry_spear_t3_type3_12_13"
+        name="Rus Ash Cavalry Spear - Type 3 [12th - 13th c.]"
+        culture="Culture.rus"
+        is_merchandise="false"
+        crafting_template="TwoHandedPolearm" >
+    <Pieces>
+        <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
+        <Piece id="default_polearm_guard" Type="Guard"/>
+        <Piece id="rus_2h_hardened_ashen_cavalry_shaft" Type="Handle" scale_factor="127" />
         <Piece id="default_polearm_pommel" Type="Pommel"/>
     </Pieces>
     </CraftedItem>
