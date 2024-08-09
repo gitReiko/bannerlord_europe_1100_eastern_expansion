@@ -1271,7 +1271,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
-				<equipment slot="Item2" id="Item.rus_oaken_long_kapjo_with_utok_t4_type3_11_12"/>
+				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.pilgrim_hood"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Gloves" id="Item.armwraps"/>
@@ -1280,7 +1280,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"/>
+				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t1_type3_10_11"/>
 				<equipment slot="Head" id="Item.laced_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven"/>
 				<equipment slot="Leg" id="Item.wrapped_shoes"/>
@@ -1370,7 +1370,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_3_t5"/>
 				<equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
-				<equipment slot="Item2" id="Item.rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"/>
+				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t1_type3_10_11"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
                 <equipment slot="Cape" id="Item.wolf_shoulder"/>
 				<equipment slot="Body" id="Item.battanian_chainmail_armor_a"/>
@@ -1387,7 +1387,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
 				<equipment slot="Item1" id="Item.strapped_round_shield"/>
-				<equipment slot="Item2" id="Item.rus_oaken_long_kapjo_with_utok_t4_type3_11_12"/>
+				<equipment slot="Item2" id="Item.rus_oaken_kapjo_t6_type3_11_12"/>
 				<equipment slot="Head" id="Item.ao_sturgian_helmet_with_leather"/>
 				<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
 				<equipment slot="Leg" id="Item.highland_boots"/>

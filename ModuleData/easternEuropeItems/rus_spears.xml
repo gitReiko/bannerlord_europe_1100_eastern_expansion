@@ -115,31 +115,6 @@
     </Pieces>
     </CraftedItem>
 
-    <CraftedItem id="rus_oaken_long_kapjo_with_utok_t4_type3_11_12"
-        name="Rus Oaken Long Kapjo with Utok - Type 3 [11th - 12th c.]"
-        culture="Culture.kryvich"
-        crafting_template="TwoHandedPolearm" >
-    <Pieces>
-        <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
-        <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_20" Type="Handle" scale_factor="105" />
-        <Piece id="spear_pommel_10" Type="Pommel"/>
-    </Pieces>
-    </CraftedItem>
-
-    <CraftedItem id="rus_pine_long_hardened_kapjo_with_utok_t3_type3_11_12"
-        name="Rus Pine Long Hardened Kapjo with Utok - Type 3 [11th - 12th c.]"
-        culture="Culture.kryvich"
-        is_merchandise="false"
-        crafting_template="TwoHandedPolearm" >
-    <Pieces>
-        <Piece id="spear_blade_6" Type="Blade" scale_factor="60" />
-        <Piece id="default_polearm_guard" Type="Guard"/>
-        <Piece id="spear_handle_17" Type="Handle" scale_factor="120" />
-        <Piece id="spear_pommel_10" Type="Pommel"/>
-    </Pieces>
-    </CraftedItem>
-
     <CraftedItem id="rus_noble_cavalry_spear_t4_type3_11_12"
         name="Rus Noble Cavalry Spear - Type 3 [11th - 12th c.]"
         culture="Culture.rus"
