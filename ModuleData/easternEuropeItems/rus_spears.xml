@@ -56,7 +56,8 @@
 
     <CraftedItem id="rus_ash_kapjo_t1_type3_10_11"
         name="Rus Ash Long Kapjo - Type 3 [10th - early 11th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.rus"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_1" Type="Blade" scale_factor="110" />
@@ -68,7 +69,7 @@
 
     <CraftedItem id="rus_oaken_kapjo_t1_type3_10_11"
         name="Rus Oaken Kapjo - Type 3 [10th - early 11th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volhynian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -82,6 +83,7 @@
     <CraftedItem id="rus_pine_kapjo_t6_type3_11_12"
         name="Rus Pine Kapjo - Type 3 [11th - 12th c.]"
         culture="Culture.kryvich"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="55" />
@@ -93,7 +95,8 @@
 
     <CraftedItem id="rus_ash_kapjo_t6_type3_11_12"
         name="Rus Ash Kapjo - Type 3 [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.dregovian"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="55" />
@@ -105,7 +108,7 @@
 
     <CraftedItem id="rus_oaken_kapjo_t6_type3_11_12"
         name="Rus Oaken Kapjo - Type 3 [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volhynian"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="55" />
@@ -118,6 +121,7 @@
     <CraftedItem id="rus_noble_cavalry_spear_t4_type3_11_12"
         name="Rus Noble Cavalry Spear - Type 3 [11th - 12th c.]"
         culture="Culture.rus"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
@@ -130,6 +134,7 @@
     <CraftedItem id="rus_oaken_cavalry_spear_t3_type3_11_12"
         name="Rus Oaken Cavalry Spear - Type 3 [11th - 12th c.]"
         culture="Culture.rus"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
@@ -141,7 +146,7 @@
 
     <CraftedItem id="rus_pine_cavalry_spear_t3_type3_11_12"
         name="Rus Pine Cavalry Spear - Type 3 [11th - 12th c.]"
-        culture="Culture.rus"
+        culture="Culture.kryvich"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -154,8 +159,7 @@
 
     <CraftedItem id="rus_ash_cavalry_spear_t3_type3_11_12"
         name="Rus Ash Cavalry Spear - Type 3 [11th - 12th c.]"
-        culture="Culture.rus"
-        is_merchandise="false"
+        culture="Culture.volhynian"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="55" />
@@ -167,7 +171,7 @@
 
     <CraftedItem id="rus_pine_kapjo_t3_type3_12_13"
         name="Rus Pine Kapjo - Type 3 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.dregovian"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
@@ -179,7 +183,8 @@
 
     <CraftedItem id="rus_ash_kapjo_t3_type3_12_13"
         name="Rus Ash Kapjo - Type 3 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.volhynian"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
@@ -191,7 +196,8 @@
 
     <CraftedItem id="rus_oaken_kapjo_t3_type3_12_13"
         name="Rus Oaken Kapjo - Type 3 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.rus"
+        is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_6" Type="Blade" scale_factor="70" />
@@ -215,7 +221,7 @@
 
     <CraftedItem id="rus_oaken_cavalry_spear_t3_type3_12_13"
         name="Rus Oaken Cavalry Spear - Type 3 [12th - 13th c.]"
-        culture="Culture.rus"
+        culture="Culture.volhynian"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_kapjo_t3_11_12_cavalry" Type="Blade" scale_factor="70" />
@@ -227,7 +233,7 @@
 
     <CraftedItem id="rus_pine_cavalry_spear_t3_type3_12_13"
         name="Rus Pine Cavalry Spear - Type 3 [12th - 13th c.]"
-        culture="Culture.rus"
+        culture="Culture.dregovian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -240,7 +246,7 @@
 
     <CraftedItem id="rus_ash_cavalry_spear_t3_type3_12_13"
         name="Rus Ash Cavalry Spear - Type 3 [12th - 13th c.]"
-        culture="Culture.rus"
+        culture="Culture.volhynian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -291,7 +297,7 @@
 
     <CraftedItem id="baltic_pine_spear_t2_rus_type4_11_12"
         name="Baltic Pine Spear - Rus Type 4 [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.goldenhorde"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_spear_head_type4_11_12" Type="Blade" scale_factor="110" />
@@ -303,7 +309,7 @@
 
     <CraftedItem id="baltic_ash_spear_t2_rus_type4_11_12"
         name="Baltic Ash Spear - Rus Type 4 [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.latvian"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="rus_spear_head_type4_11_12" Type="Blade" scale_factor="110" />
@@ -315,7 +321,7 @@
 
     <CraftedItem id="baltic_oaken_spear_t2_rus_type4_11_12"
         name="Baltic Oaken Spear - Rus Type 4 [11th - 12th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.aestian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -328,7 +334,7 @@
 
     <CraftedItem id="baltic_pine_spear_t3_rus_type4_12_13"
         name="Baltic Pine Spear - Rus Type 4 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.latvian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -341,7 +347,7 @@
 
     <CraftedItem id="baltic_ash_spear_t3_rus_type4_12_13"
         name="Baltic Ash Spear - Rus Type 4 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.aestian"
         is_merchandise="false"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
@@ -354,7 +360,7 @@
 
     <CraftedItem id="baltic_oaken_spear_t3_rus_type4_12_13"
         name="Baltic Oaken Spear - Rus Type 4 [12th - 13th c.]"
-        culture="Culture.kryvich"
+        culture="Culture.goldenhorde"
         crafting_template="TwoHandedPolearm" >
     <Pieces>
         <Piece id="spear_blade_5" Type="Blade" scale_factor="60" />
