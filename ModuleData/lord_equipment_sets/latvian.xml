@@ -3,7 +3,7 @@
 
  <EquipmentRoster id="latvian_king" culture="Culture.latvian">
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_oaken_rahacina_t6_type4a_12_13"/>
 		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
 		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
 		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
@@ -13,7 +13,7 @@
 		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_pine_kapjo_t3_type3_12_13"/>
 		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
 		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
@@ -23,7 +23,7 @@
 		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_ash_rahacina_t6_type4a_12_13"/>
 		<Equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 		<Equipment slot="Item2" id="Item.AR_empire_sword_5_t4"/>
 		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
@@ -33,7 +33,7 @@
 		<Equipment slot="Leg" id="Item.highland_boots"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_oaken_kapjo_t3_type3_12_13"/>
 		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
 		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
@@ -55,7 +55,7 @@
 
   <EquipmentRoster id="latvian_lord" culture="Culture.latvian">
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_pine_rahacina_t6_type4a_12_13"/>
 		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
 		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
 		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
@@ -65,7 +65,7 @@
 		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.highland_spear_3_t3"/>
+		<Equipment slot="Item0" id="Item.rus_ash_rahacina_t6_type4a_12_13"/>
 		<Equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 		<Equipment slot="Item2" id="Item.sturgia_noble_sword_3_t5"/>
 		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
@@ -75,7 +75,7 @@
 		<Equipment slot="Leg" id="Item.sturgia_boots_d"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.sturgia_lance_1_t4"/>
+		<Equipment slot="Item0" id="Item.rus_ash_kapjo_t3_type3_12_13"/>
 		<Equipment slot="Item1" id="Item.sturgia_old_shield_c"/>
 		<Equipment slot="Item2" id="Item.AR_empire_sword_5_t4"/>
 		<Equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
@@ -85,7 +85,7 @@
 		<Equipment slot="Leg" id="Item.highland_boots"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
+		<Equipment slot="Item0" id="Item.rus_oaken_rahacina_t6_type4a_12_13"/>
 		<Equipment slot="Item1" id="Item.heavy_round_shield"/>
 		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
 		<Equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
@@ -95,7 +95,7 @@
 		<Equipment slot="Leg" id="Item.TV_battania_boots_v"/>
 	</EquipmentSet>
 	<EquipmentSet>
-		<Equipment slot="Item0" id="Item.vlandia_lance_2_t4"/>
+		<Equipment slot="Item0" id="Item.rus_oaken_kapjo_t3_type3_12_13"/>
 		<Equipment slot="Item1" id="Item.viking_round_shield"/>
 		<Equipment slot="Item2" id="Item.battania_noble_sword_2_t5"/>
 		<Equipment slot="Item3" id="Item.northern_axe_t3"/>
