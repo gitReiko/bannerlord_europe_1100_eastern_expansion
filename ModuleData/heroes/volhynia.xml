@@ -20,7 +20,7 @@
    <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volhynia_3" />
    <Hero id="lord_volyan_3c" father="Hero.lord_volyan_3a" mother="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3c.text}It is known that the knyaz had children, one of whom was a daughter." />
 
-   <Hero id="lord_volyan_4a" spouse="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
+   <Hero id="lord_volyan_4a" spouse="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar_traitor.text}Boyar of the Volhynia principality. He was a supporter of Davyd Igorovych. He was accused of conspiring against Vasylko Rostyslavych together with 2 other boyars because of which Vasylko was blinded." />
    <Hero id="lord_volyan_4b" spouse="Hero.lord_volyan_4a" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
    <Hero id="lord_volyan_4с" father="Hero.lord_volyan_4a" mother="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
    <Hero id="lord_volyan_4d" father="Hero.lord_volyan_4a" mother="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />

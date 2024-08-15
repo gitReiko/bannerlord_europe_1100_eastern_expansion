@@ -669,7 +669,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_4a"
-                name="{=lord_volyan_4a.name}Ivan*"
+                name="{=lord_volyan_4a.name}Turiak"
                 voice="softspoken"
                 age="47"
                 is_female="false"
