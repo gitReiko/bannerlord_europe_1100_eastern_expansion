@@ -902,12 +902,12 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_baltic_3a"
-                name="{=lord_baltic_3a.name}Agris*"
+                name="{=lord_baltic_3a.name}Eymundr konungr Hringsson"
                 voice="softspoken"
-                age="31"
+                age="65"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.sturgia"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -915,125 +915,178 @@
     <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="00058008C0FC214D78AD58995989966449918B5B4A6A695C4B984D8B76D865B6009B76030972D6B5000000000000000000000000000000000000000053246085"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="142" />
-        <skill id="Medicine" value="133" />
-        <skill id="Leadership" value="43" />
-        <skill id="Steward" value="50" />
-        <skill id="Trade" value="23" />
-        <skill id="Charm" value="54" />
-        <skill id="Roguery" value="145" />
-        <skill id="Scouting" value="129" />
-        <skill id="Tactics" value="37" />
-        <skill id="Crafting" value="34" />
-        <skill id="Athletics" value="200" />
-        <skill id="Riding" value="171" />
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="275" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="200" />
+        <skill id="Roguery" value="175" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="200" />
         <skill id="Throwing" value="100" />
-        <skill id="Crossbow" value="7" />
-        <skill id="Bow" value="74" />
-        <skill id="Polearm" value="38" />
-        <skill id="TwoHanded" value="100" />
-        <skill id="OneHanded" value="178" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="225" />
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
         <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="-2" />
-        <Trait id="Calculating" value="-1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="1" />
+        <Trait id="Oligarchic" value="2" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lord" />
-      <EquipmentSet id="latvian_lord"
+      <EquipmentSet id="nor_king" />
+      <EquipmentSet id="nor_king"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
 
   <NPCCharacter id="lord_baltic_3b"
-                name="{=lord_baltic_3b.name}Egle*"
+                name="{=lord_baltic_3b.name}Ragnarr jarl Agnarsson"
                 default_group="Cavalry"
-                age="27"
+                age="54"
                 voice="ironic"
-                is_female="true"
+                is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.sturgia"
                 occupation="Lord"
                 face_mesh_cache="true">
     <face>
     <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="001580000000100278AD58995989966449918B5B4A6A695C4B984D8B76D865B6006B76030672D6B5000000000000000000000000000000000000000052DC1043"  />
     </face>
     <skills>
-        <skill id="Engineering" value="92" />
-        <skill id="Medicine" value="144" />
-        <skill id="Leadership" value="190" />
-        <skill id="Steward" value="76" />
-        <skill id="Trade" value="102" />
-        <skill id="Charm" value="178" />
-        <skill id="Roguery" value="32" />
-        <skill id="Scouting" value="136" />
-        <skill id="Crafting" value="161" />
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="200" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="150" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="125" />
+        <skill id="Crossbow" value="50" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="250" />
 	</skills>
     <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="1" />
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
         <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
+        <Trait id="Generosity" value="-1" />
         <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="-2" />
+        <Trait id="Egalitarian" value="-1" />
         <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="2" />
+        <Trait id="Authoritarian" value="-1" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lady" />
-      <EquipmentSet id="latvian_lady"
+      <EquipmentSet id="nor_lord" />
+      <EquipmentSet id="nor_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
 
     <NPCCharacter id="lord_baltic_3c"
-                name="{=lord_baltic_3c.name}Mudris*"
+                name="{=lord_baltic_3c.name}Áskell"
                 voice="softspoken"
-                age="6"
+                age="51"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.latvian"
+                culture="Culture.sturgia"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
     <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="0005A006C0FC20C878AB58995989966749868B5B4A69695C49984D8B76B865A6009B76030982B6B5000000000000000000000000000000000000000053246085"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="25" />
-        <skill id="Medicine" value="25" />
-        <skill id="Leadership" value="25" />
-        <skill id="Steward" value="20" />
-        <skill id="Trade" value="15" />
-        <skill id="Charm" value="30" />
-        <skill id="Roguery" value="15" />
-        <skill id="Scouting" value="40" />
-        <skill id="Tactics" value="25" />
-        <skill id="Athletics" value="25" />
-        <skill id="Riding" value="15" />
-        <skill id="Throwing" value="15" />
-        <skill id="Bow" value="30" />
-        <skill id="Polearm" value="25" />
-        <skill id="OneHanded" value="25" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="250" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="225" />
     </skills>
     <Traits>
-        <Trait id="Mercy" value="-2" />
-        <Trait id="Valor" value="2" />
-        <Trait id="Honor" value="-1" />
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
         <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
+        <Trait id="Calculating" value="1" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
-      <EquipmentSet id="latvian_lord" />
-      <EquipmentSet id="latvian_lord"
+      <EquipmentSet id="nor_lord" />
+      <EquipmentSet id="nor_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_baltic_3d"
+                name="{=lord_baltic_3d.name}Björn"
+                voice="softspoken"
+                age="47"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.sturgia"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22" weight="0.4689" build="0.7141"  key="0005A006C0FC20C878AB58995989966749868B5B4A69695C49984D8B76B865A6009B76030982B6B5000000000000000000000000000000000000000053246085"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="50" />
+        <skill id="Charm" value="50" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="275" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="225" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="225" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="nor_lord" />
+      <EquipmentSet id="nor_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>

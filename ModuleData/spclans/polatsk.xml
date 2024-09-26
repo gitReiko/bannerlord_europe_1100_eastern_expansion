@@ -3,7 +3,7 @@
 		   
   <Faction id="clan_rus_9"
     name="{=clan_rus_9.name}Usiasłaŭ II the Seer"
-    tier="5"
+    tier="6"
     owner="Hero.lord_polotsk_1a"
     culture="Culture.kryvich"
     super_faction="Kingdom.polotsk"
@@ -14,7 +14,7 @@
 
   <Faction id="clan_polotsk_2"
     name="{=clan_polotsk_2.name}Hleb Usiasłavič"
-    tier="4"
+    tier="5"
     owner="Hero.lord_polotsk_2a"
     culture="Culture.kryvich"
     super_faction="Kingdom.polotsk"
@@ -46,13 +46,13 @@
     />
 
   <Faction id="clan_baltic_3"
-    name="{=clan_baltic_3.name}Jersika"
-    tier="3"
+    name="{=clan_baltic_3.name}Konungr Eymundr Hringsson"
+    tier="5"
     is_noble="true"
     owner="Hero.lord_baltic_3a"
     culture="Culture.latvian"
     super_faction="Kingdom.polotsk"
-    banner_key="11.32.48.1836.1836.767.764.1.0.0.510.138.116.318.281.960.786.0.1.90.510.138.116.318.281.568.786.0.1.90.510.138.116.490.281.764.941.0.1.0.510.138.116.449.281.764.735.0.1.90.510.138.116.299.281.764.778.0.1.45.510.138.116.299.281.764.778.0.1.135" text="{=clan_baltic_3.text}This clan represents the vassal principality of Jersika. The main population of the principality were Latgalians. Clan members are not historical persons because the data either did not survive or were not recorded." 
+    banner_key="11.138.48.1836.1836.768.765.1.0.0.111.32.116.466.466.764.764.0.0.0" text="{=clan_baltic_3.text}For clan used coat of arms of house Munsö because some historians correlate Eymundr with Emund the Old and Eymundr is a member of Yngling dynasty." 
     color="FF98713b" color2="FFe0dcd9" alternative_color="FF98713b" alternative_color2="FFe0dcd9"
     />	
 

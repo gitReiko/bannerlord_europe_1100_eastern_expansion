@@ -32,7 +32,10 @@
    <Hero id="lord_polotsk_4c" father="Hero.lord_polotsk_4a" faction="Faction.clan_polotsk_4"  />
 
 
-   <Hero id="lord_baltic_3c" father="Hero.lord_baltic_3a" mother="Hero.lord_baltic_3b" faction="Faction.clan_baltic_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region."  />
+   <Hero id="lord_baltic_3a" faction="Faction.clan_baltic_3" text="{=lord_baltic_3a.text}At the beginning of the 11th century, Olaf II Haraldsson centralizes his rule in Sweden and expels some konungs. Eymundr, together with Ragnarr and 600 warriors, journey to Garðaríki for their destiny. Actively involved in the politics and actions of Rus, first on the side of Novgorod, then Połack (Polatsk). Modern history consider that as a result of his actions he probably became the first known ruler of the Jersika duchy in 1041, which at that time was a part of Połack. By 1100 he probably died childless, but may had an heir. Maybe Eymundr has settled in Połack because he is the distant relative of Połack princes. Initially Połack dynasty as well as Eymundr belonged to dynasty of Ynglings. Later after the rape of Ragneda (Ragnheiðr), Połack dynasty also began to belong to Rurikids dynasty." />
+   <Hero id="lord_baltic_3b" faction="Faction.clan_baltic_3"  />
+   <Hero id="lord_baltic_3c" faction="Faction.clan_baltic_3"  />
+   <Hero id="lord_baltic_3d" faction="Faction.clan_baltic_3"  />
 
 
    <Hero id="lord_baltic_05a" spouse="Hero.lord_baltic_05b" faction="Faction.clan_baltic_05" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
