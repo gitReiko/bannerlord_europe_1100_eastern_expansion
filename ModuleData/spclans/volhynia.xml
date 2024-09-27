@@ -3,7 +3,7 @@
 
   <Faction id="clan_volhynia_1"
            name="{=clan_volhynia_1.name}Kniaz Davyd Igorovych"
-           tier="5"
+           tier="6"
            is_noble="true"
            owner="Hero.lord_volyan_1a"
            culture="Culture.volhynian"
@@ -41,7 +41,7 @@
            owner="Hero.lord_volyan_4a"
            culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
-           banner_key="11.83.48.1836.1836.767.764.1.0.0.504.135.40.150.353.764.844.0.0.0.504.135.40.150.353.764.684.0.1.180.504.135.40.150.353.844.764.0.0.90.504.135.40.150.353.684.764.0.1.270.510.135.40.150.275.764.764.0.0.0.510.135.40.150.275.764.764.0.0.90.506.83.40.85.224.824.881.0.0.21.506.83.40.85.224.704.881.0.1.339.506.83.40.85.224.704.647.0.0.21.506.83.40.85.224.824.647.0.1.339.506.83.40.85.224.881.704.0.1.111.506.83.40.85.224.647.704.0.0.249.506.83.40.85.224.647.824.0.1.111.506.83.40.85.224.881.824.0.0.249" text="{=clan_volhynia_4.text}This clan is non-historical. Representing knyaz Davyd Igorovich's pasadnik in the town of Belz. The clan's coat of arms is the coat of arms of Volhynia." 
+           banner_key="11.83.48.1836.1836.767.764.1.0.0.504.135.40.150.353.764.844.0.0.0.504.135.40.150.353.764.684.0.1.180.504.135.40.150.353.844.764.0.0.90.504.135.40.150.353.684.764.0.1.270.510.135.40.150.275.764.764.0.0.0.510.135.40.150.275.764.764.0.0.90.506.83.40.85.224.824.881.0.0.21.506.83.40.85.224.704.881.0.1.339.506.83.40.85.224.704.647.0.0.21.506.83.40.85.224.824.647.0.1.339.506.83.40.85.224.881.704.0.1.111.506.83.40.85.224.647.704.0.0.249.506.83.40.85.224.647.824.0.1.111.506.83.40.85.224.881.824.0.0.249" text="{=three_volhynia_clans.text}Boyar of the Volhynia principality. He was a supporter of Davyd Igorovych. He was accused of conspiring against Vasylko Rostyslavych together with 2 other boyars because of which Vasylko was blinded." 
            color="ffd22e31" color2="FFffe9d4" alternative_color="ffd22e31" alternative_color2="FFffe9d4"
            />	
 
@@ -52,8 +52,32 @@
            owner="Hero.lord_volyan_5a"
            culture="Culture.volhynian"
            super_faction="Kingdom.volhynia"
-           banner_key="11.83.48.1836.1836.767.764.1.0.0.510.135.40.250.220.955.795.0.0.90.510.135.40.250.220.573.795.0.0.90.510.135.40.470.220.764.909.0.0.0.510.135.40.405.220.765.667.0.0.90.510.135.40.220.220.765.570.0.0.0.510.135.40.150.220.765.697.0.0.0.512.135.40.240.163.764.839.0.0.0.512.83.40.95.65.764.839.0.0.0.510.135.40.60.220.692.838.0.0.0.510.135.40.60.220.836.838.0.0.0.510.135.40.230.220.614.764.0.0.308.510.83.40.120.220.585.679.0.0.308.510.83.40.120.220.544.689.0.1.90.510.135.40.120.220.739.953.0.0.308.510.135.40.120.220.789.953.0.1.51.504.135.40.80.72.764.985.0.1.180.510.135.40.120.220.955.757.0.0.0.510.135.40.120.220.909.838.0.0.0" text="{=clan_volhynia_5.text}Representing the Mechyslav Davydovich family. The coat of arms is a hypothetical reconstruction* based on the seal of Davyd Igorovich's grandfather and modern coat of arms of the Volodymyr-Volhynia district." 
+           banner_key="11.135.48.1836.1836.767.764.1.0.0.510.83.40.250.220.955.795.0.0.90.510.83.40.250.220.573.795.0.0.90.510.83.40.470.220.764.909.0.0.0.510.83.40.405.220.765.667.0.0.90.510.83.40.220.220.765.570.0.0.0.510.83.40.150.220.765.697.0.0.0.512.83.40.240.163.764.839.0.0.0.512.135.40.95.65.764.839.0.0.0.510.83.40.60.220.692.838.0.0.0.510.83.40.60.220.836.838.0.0.0.510.83.40.230.220.614.764.0.0.308.510.135.40.120.220.585.679.0.0.308.510.135.40.120.220.544.689.0.1.90.510.83.40.120.220.739.953.0.0.308.510.83.40.120.220.789.953.0.1.51.504.83.40.80.72.764.985.0.1.180.510.83.40.120.220.955.757.0.0.0.510.83.40.120.220.909.838.0.0.0" text="{=clan_volhynia_5.text}Representing the Mechyslav Davydovich family. The coat of arms is a hypothetical reconstruction* based on the seal of Davyd Igorovich's grandfather and modern coat of arms of the Volodymyr-Volhynia district." 
            color="FF63e0e3" color2="FFffe9d4" alternative_color="FF63e0e3" alternative_color2="FFffe9d4"
            />
+
+
+  <Faction id="clan_volhynia_6"
+           name="{=clan_volhynia_6.name}Boyar Vasyl of Volhynia"
+           tier="3"
+           is_noble="true"
+           owner="Hero.lord_volyan_6a"
+           culture="Culture.volhynian"
+           super_faction="Kingdom.volhynia"
+           banner_key="11.83.48.1836.1836.767.764.1.0.0.510.135.40.2116.300.764.764.0.0.0.510.135.40.2116.300.764.728.0.0.0.510.135.40.2116.300.764.800.0.0.0.510.135.40.2116.300.764.830.0.0.0.510.135.40.2116.300.764.698.0.0.0.510.135.40.2116.300.764.764.0.0.90.510.135.40.2116.300.800.764.0.0.90.510.135.40.2116.300.728.764.0.0.90.510.135.40.2116.300.698.764.0.0.90.510.135.40.2116.300.830.764.0.0.90" text="{=three_volhynia_clans.text}Boyar of the Volhynia principality. He was a supporter of Davyd Igorovych. He was accused of conspiring against Vasylko Rostyslavych together with 2 other boyars because of which Vasylko was blinded."  
+           color="FF63e0e3" color2="FFffe9d4" alternative_color="FF63e0e3" alternative_color2="FFffe9d4"
+           />
+
+  <Faction id="clan_volhynia_7"
+           name="{=clan_volhynia_7.name}Boyar Lazar of Volhynia"
+           tier="3"
+           is_noble="true"
+           owner="Hero.lord_volyan_7a"
+           culture="Culture.volhynian"
+           super_faction="Kingdom.volhynia"
+           banner_key="11.83.48.1836.1836.767.764.1.0.0.510.135.40.449.220.764.764.0.0.4.510.135.40.449.220.764.764.0.1.356.510.135.40.449.220.763.764.0.0.94.510.135.40.449.220.763.764.0.1.86" text="{=three_volhynia_clans.text}Boyar of the Volhynia principality. He was a supporter of Davyd Igorovych. He was accused of conspiring against Vasylko Rostyslavych together with 2 other boyars because of which Vasylko was blinded."  
+           color="FFe0e363" color2="FF63e0e3" alternative_color="FFe0e363" alternative_color2="FF63e0e3"
+           />
+
 		   
 </Factions>

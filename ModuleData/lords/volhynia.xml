@@ -28,6 +28,7 @@
         <skill id="Riding" value="225" />
         <skill id="Throwing" value="175" />
         <skill id="Bow" value="150" />
+        <skill id="Crossbow" value="175" />
         <skill id="Polearm" value="275" />
         <skill id="TwoHanded" value="175" />
         <skill id="OneHanded" value="250" />
@@ -73,6 +74,7 @@
         <skill id="Scouting" value="25" />
         <skill id="Crafting" value="25" />
         <skill id="Bow" value="50" />
+        <skill id="Crossbow" value="50" />
         <skill id="OneHanded" value="25" />
         <skill id="Riding" value="75" />
         <skill id="Athletics" value="50" />
@@ -120,6 +122,7 @@
         <skill id="Riding" value="150" />
         <skill id="Throwing" value="125" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="100" />
         <skill id="OneHanded" value="125" />
@@ -167,6 +170,7 @@
         <skill id="Riding" value="100" />
         <skill id="Throwing" value="75" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
         <skill id="Polearm" value="125" />
         <skill id="TwoHanded" value="25" />
         <skill id="OneHanded" value="75" />
@@ -189,9 +193,9 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_1e"
-                name="{=lord_volyan_1e.name}Mstislav*"
+                name="{=lord_volyan_1e.name}Vorotyslav"
                 voice="softspoken"
-                age="36"
+                age="43"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.volhynian"
@@ -214,6 +218,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="125" />
         <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="75" />
         <skill id="OneHanded" value="125" />
@@ -236,9 +241,9 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_1f"
-                name="{=lord_volyan_1f.name}Roman*"
+                name="{=lord_volyan_1f.name}Andryan Pochain"
                 voice="softspoken"
-                age="25"
+                age="21"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.volhynian"
@@ -261,6 +266,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="75" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="25" />
         <skill id="OneHanded" value="100" />
@@ -308,6 +314,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="125" />
         <skill id="Bow" value="175" />
+        <skill id="Crossbow" value="200" />
         <skill id="Polearm" value="100" />
         <skill id="TwoHanded" value="75" />
         <skill id="OneHanded" value="125" />
@@ -352,6 +359,7 @@
         <skill id="Roguery" value="75" />
         <skill id="Scouting" value="50" />
         <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
         <skill id="OneHanded" value="25" />
         <skill id="Riding" value="25" />
         <skill id="Athletics" value="50" />
@@ -399,6 +407,7 @@
         <skill id="Riding" value="75" />
         <skill id="Throwing" value="75" />
         <skill id="Bow" value="150" />
+        <skill id="Crossbow" value="125" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="50" />
         <skill id="OneHanded" value="100" />
@@ -446,6 +455,7 @@
         <skill id="Riding" value="25" />
         <skill id="Throwing" value="50" />
         <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
         <skill id="Polearm" value="50" />
         <skill id="TwoHanded" value="25" />
         <skill id="OneHanded" value="50" />
@@ -527,6 +537,7 @@
         <skill id="Riding" value="225" />
         <skill id="Throwing" value="175" />
         <skill id="Bow" value="150" />
+        <skill id="Crossbow" value="175" />
         <skill id="Polearm" value="275" />
         <skill id="TwoHanded" value="175" />
         <skill id="OneHanded" value="250" />
@@ -573,6 +584,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="75" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="100" />
         <skill id="Polearm" value="100" />
         <skill id="TwoHanded" value="75" />
         <skill id="OneHanded" value="125" />
@@ -615,6 +627,7 @@
         <skill id="Trade" value="75" />
         <skill id="Charm" value="100" />
         <skill id="Bow" value="50" />
+        <skill id="Crossbow" value="75" />
         <skill id="OneHanded" value="25" />
         <skill id="Riding" value="50" />
         <skill id="Athletics" value="50" />
@@ -671,7 +684,7 @@
     <NPCCharacter id="lord_volyan_4a"
                 name="{=lord_volyan_4a.name}Turiak"
                 voice="softspoken"
-                age="47"
+                age="49"
                 is_female="false"
                 is_hero="true"
                 culture="Culture.volhynian"
@@ -681,30 +694,31 @@
     <BodyProperties version="4" age="22.24" weight="0.4546" build="0.3488"  key="0002540414FC33CF95A7D33A745C39948987A22EADA48955A3498C374C896A790065760306874D97000000000000000000000000000000000000000044CC8082"  />
     </face>
 	<skills>
-        <skill id="Engineering" value="100" />
-        <skill id="Medicine" value="75" />
+        <skill id="Medicine" value="50" />
         <skill id="Leadership" value="125" />
-        <skill id="Steward" value="150" />
+        <skill id="Steward" value="175" />
         <skill id="Trade" value="125" />
-        <skill id="Charm" value="100" />
-        <skill id="Scouting" value="75" />
-        <skill id="Tactics" value="125" />
-        <skill id="Athletics" value="75" />
-        <skill id="Riding" value="125" />
-        <skill id="Throwing" value="75" />
-        <skill id="Bow" value="50" />
-        <skill id="Polearm" value="125" />
-        <skill id="TwoHanded" value="75" />
-        <skill id="OneHanded" value="150" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="125" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="75" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="175" />
     </skills>
     <Traits>
         <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="1" />
-        <Trait id="Generosity" value="1" />
-        <Trait id="Calculating" value="1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
         <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
+        <Trait id="Oligarchic" value="2" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
@@ -717,7 +731,7 @@
     <NPCCharacter id="lord_volyan_4b"
                 name="{=lord_volyan_4b.name}Fedora*"
                 voice="softspoken"
-                age="37"
+                age="46"
                 is_female="true"
                 is_hero="true"
                 culture="Culture.volhynian"
@@ -735,6 +749,7 @@
         <skill id="Trade" value="175" />
         <skill id="Charm" value="175" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
         <skill id="OneHanded" value="25" />
         <skill id="Riding" value="50" />
         <skill id="Athletics" value="50" />
@@ -781,6 +796,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="50" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="75" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="50" />
         <skill id="OneHanded" value="125" />
@@ -798,92 +814,6 @@
     <Equipments>
       <EquipmentSet id="volhynian_lord" />
       <EquipmentSet id="volhynian_lord"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
-    <NPCCharacter id="lord_volyan_4d"
-                name="{=lord_volyan_4d.name}Maria*"
-                voice="softspoken"
-                age="17"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.volhynian"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22.24" weight="0.2677" build="0.6304"  key="0002180400001002BB24688A88A796547786B9793B7A874A593AB566A5763799006946030646621500000000000000000000000000000000000000004ED44004"  />
-    </face>
-	<skills>
-        <skill id="Tactics" value="75" />
-        <skill id="Engineering" value="75" />
-        <skill id="Medicine" value="125" />
-        <skill id="Leadership" value="75" />
-        <skill id="Steward" value="100" />
-        <skill id="Trade" value="50" />
-        <skill id="Charm" value="100" />
-        <skill id="Bow" value="75" />
-        <skill id="OneHanded" value="50" />
-        <skill id="Riding" value="75" />
-        <skill id="Athletics" value="50" />
-        <skill id="Polearm" value="75" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="1" />
-        <Trait id="Valor" value="1" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="0" />
-        <Trait id="Authoritarian" value="0" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="volhynian_lady" />
-      <EquipmentSet id="volhynian_lady"
-                    civilian="true" />
-    </Equipments>
-    </NPCCharacter>
-
-    <NPCCharacter id="lord_volyan_4e"
-                name="{=lord_volyan_4e.name}Olga*"
-                voice="softspoken"
-                age="13"
-                is_female="true"
-                is_hero="true"
-                culture="Culture.volhynian"
-                occupation="Lord"
-                default_group="Cavalry">
-    <face>
-    <BodyProperties version="4" age="22.24" weight="0.2677" build="0.6304"  key="0002780280001001BB226A8C88A1C4567788B9793E3A874A593AB566C57637B9006946030669621500000000000000000000000000000000000000004ED43004"  />
-    </face>
-	<skills>
-        <skill id="Tactics" value="25" />
-        <skill id="Engineering" value="25" />
-        <skill id="Medicine" value="50" />
-        <skill id="Leadership" value="25" />
-        <skill id="Steward" value="75" />
-        <skill id="Trade" value="125" />
-        <skill id="Charm" value="150" />
-        <skill id="Bow" value="75" />
-        <skill id="OneHanded" value="25" />
-        <skill id="Riding" value="50" />
-        <skill id="Athletics" value="50" />
-        <skill id="Polearm" value="25" />
-    </skills>
-    <Traits>
-        <Trait id="Mercy" value="0" />
-        <Trait id="Valor" value="0" />
-        <Trait id="Honor" value="0" />
-        <Trait id="Generosity" value="0" />
-        <Trait id="Calculating" value="0" />
-        <Trait id="Egalitarian" value="0" />
-        <Trait id="Oligarchic" value="1" />
-        <Trait id="Authoritarian" value="0" />
-    </Traits>
-    <Equipments>
-      <EquipmentSet id="volhynian_lady" />
-      <EquipmentSet id="volhynian_lady"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
@@ -914,6 +844,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="100" />
         <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="100" />
         <skill id="Polearm" value="100" />
         <skill id="TwoHanded" value="50" />
         <skill id="OneHanded" value="125" />
@@ -960,6 +891,7 @@
         <skill id="Riding" value="125" />
         <skill id="Throwing" value="50" />
         <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
         <skill id="Polearm" value="150" />
         <skill id="TwoHanded" value="75" />
         <skill id="OneHanded" value="125" />
@@ -980,5 +912,281 @@
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
-  
+
+    <NPCCharacter id="lord_volyan_6a"
+                name="{=lord_volyan_6a.name}Vasyl"
+                voice="softspoken"
+                age="49"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4546" build="0.3488"  key="0002540414FC33CF95A7D33A745C39948987A22EADA48955A3498C374C896A790065760306874D97000000000000000000000000000000000000000044CC8082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="225" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_6b"
+                name="{=lord_volyan_6b.name}Maria*"
+                voice="softspoken"
+                age="46"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.2677" build="0.6304"  key="0002180400001002BB24688A88A796547786B9793B7A874A593AB566A5763799006946030646621500000000000000000000000000000000000000004ED44004"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
+        <skill id="OneHanded" value="100" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_6c"
+                name="{=lord_volyan_6c.name}Olga*"
+                voice="softspoken"
+                age="17"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.2677" build="0.6304"  key="0002780280001001BB226A8C88A1C4567788B9793E3A874A593AB566C57637B9006946030669621500000000000000000000000000000000000000004ED43004"  />
+    </face>
+	<skills>
+        <skill id="Tactics" value="50" />
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="125" />
+        <skill id="Charm" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="100" />
+        <skill id="OneHanded" value="25" />
+        <skill id="Riding" value="75" />
+        <skill id="Athletics" value="50" />
+        <skill id="Polearm" value="25" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_7a"
+                name="{=lord_volyan_7a.name}Lazar"
+                voice="softspoken"
+                age="55"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4546" build="0.3488"  key="0002540414FC33CF95A7D33A745C39948987A22EADA48955A3498C374C896A790065760306874D97000000000000000000000000000000000000000044CC8082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="150" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="175" />
+        <skill id="Athletics" value="75" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="100" />
+        <skill id="Bow" value="125" />
+        <skill id="Crossbow" value="150" />
+        <skill id="Polearm" value="125" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
+    <NPCCharacter id="lord_volyan_7b"
+                name="{=lord_volyan_7b.name}Jyroslava*"
+                voice="softspoken"
+                age="53"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.2677" build="0.6304"  key="0002180400001002BB24688A88A796547786B9793B7A874A593AB566A5763799006946030646621500000000000000000000000000000000000000004ED44004"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="150" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Bow" value="75" />
+        <skill id="Crossbow" value="100" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="2" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lady" />
+      <EquipmentSet id="volhynian_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_7c"
+                name="{=lord_volyan_7c.name}Mykolai*"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.24" weight="0.4546" build="0.3488"  key="0002540414FC33CF95A7D33A745C39948987A22EADA48955A3498C374C896A790065760306874D97000000000000000000000000000000000000000044CC8082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="175" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="125" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="150" />
+        <skill id="OneHanded" value="275" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+
 </NPCCharacters>
