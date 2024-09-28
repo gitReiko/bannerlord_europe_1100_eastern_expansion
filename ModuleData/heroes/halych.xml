@@ -7,12 +7,14 @@
    <Hero id="lord_halych_1c" faction="Faction.clan_halych_1" />
    <Hero id="lord_halych_1d" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />
    <Hero id="lord_halych_1e" faction="Faction.clan_halych_1" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" />
-   <Hero id="lord_halych_1f" faction="Faction.clan_halych_1" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+   <Hero id="lord_halych_1f" faction="Faction.clan_halych_1" text="{=lord_halych_1f.text}Ksniatyn Seroslavych father. Boyar Ksniatyn Seroslavych was sent by his prince Iaroslav Volodymyrkovych the Eight-Minded on an embassy to his ally prince Yuryi Volodymyrovych the Longhand. The purpose of the visit was to extradite a pretender to the Halych throne, but he was not extradited because of the intercession of the metropolitan bishop. Engaged in intrigues against his prince." />
    <Hero id="lord_halych_1g" faction="Faction.clan_halych_1" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+
 
    <Hero id="lord_halych_2a" faction="Faction.clan_halych_2" father="Hero.lord_halych_1a" mother="Hero.lord_halych_1b" text="{=lord_halych_2a.text}In 1122 after the death of his father he received the principality of Peremyshl. In the same year he defended against the Polish army. In 1125-1126 he first defended Peremyshl from his younger brother, then himself attacked Zvenigorod. Was forced to retreat because of the Hungarian king. He ruled in Peremyshl until the end of his life." />
    <Hero id="lord_halych_2b" faction="Faction.clan_halych_2" />
    <Hero id="lord_halych_2c" faction="Faction.clan_halych_2" />
+
 
    <Hero id="lord_halych_3a" faction="Faction.clan_halych_3" spouse="Hero.lord_halych_3b" mother="Hero.lord_halych_1c" text="{=lord_halych_3a.text}After the death of his father he became an outcast prince. Together with his brothers and Davyd Igorovich captured the Tmutarakan principality. In 1086 has joined to the brother Rurik and began to rule in Terebovlia. His son Volodymyrko in 1141 will unite the White Croatian principalities into a single Principality of Halych." />
    <Hero id="lord_halych_3b" faction="Faction.clan_halych_3" spouse="Hero.lord_halych_3a" text="{=lord_volyan_2b.text}The knyaz had a wife, but nothing is known about her." />
@@ -20,10 +22,16 @@
    <Hero id="lord_halych_3d" faction="Faction.clan_halych_3" father="Hero.lord_halych_3a" mother="Hero.lord_halych_3b" />
    <Hero id="lord_halych_3e" faction="Faction.clan_halych_3" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
 
-   <Hero id="lord_halych_4a" faction="Faction.clan_halych_4" spouse="Hero.lord_halych_4b" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
+
+   <Hero id="lord_halych_4a" faction="Faction.clan_halych_4" spouse="Hero.lord_halych_4b" text="{=lord_halych_4a.text}Ivan Khaldeevych father. In 1146 Vsevolod Olgovych besieged Zvenigorod together with Poles and Cumans. On the second day, the townspeople called a meeting and wanted to surrender. But boyar Ivan Khaldeevych did not want to surrender, he killed three men, cut them in half and threw them off the walls of the city. After that, the defenders of the city decided to fight." />
    <Hero id="lord_halych_4b" faction="Faction.clan_halych_4" spouse="Hero.lord_halych_4a" text="{=lord_halych_boyar.text}Not a historical character. Represents the Halych boyar." />
    <Hero id="lord_halych_4c" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
-   <Hero id="lord_halych_4d" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
-   <Hero id="lord_halych_4e" faction="Faction.clan_halych_4" father="Hero.lord_halych_4a" mother="Hero.lord_halych_4b" />
+
+
+   <Hero id="lord_halych_5a" spouse="Hero.lord_halych_5b" faction="Faction.clan_halych_5" text="{=lord_halych_5a.text}Ivachev was a voivode (general) of the Halych principality. In 1150 his son also voivode Izbygnev Ivachevych fought together with his prince Volodymyrko Volodarych and lost to the Kyiv prince Iziaslav Mstyslavych. After the battle, Izbygnev and the prince sneaked through the enemy and fled to Przemyśl." />
+   <Hero id="lord_halych_5b" spouse="Hero.lord_halych_5a" faction="Faction.clan_halych_5"  />
+   <Hero id="lord_halych_5c" faction="Faction.clan_halych_5" father="Hero.lord_halych_5a" mother="Hero.lord_halych_5b" />
+
+
 
 </Heroes>
