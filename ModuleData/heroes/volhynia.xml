@@ -19,11 +19,6 @@
    <Hero id="lord_volyan_2_dead_a" faction="Faction.clan_volhynia_2" alive="false"  />
 
 
-   <Hero id="lord_volyan_3a" spouse="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3a.text}Sviatoslav Davydovich had several wives and children. The name of one of his daughters, Anna, is known. Until 1097 he was prince of Lutsk. In 1097 he was expelled by Davyd Igorovich from Lutsk. After the expulsion of Davyd Igorovich from the Volhynia principality had the opportunity of returning to Lutsk principality. But he refused, took the tonsure and became a monk in 1106. In the tonsure he had the name Mykola. Currently canonized by the Orthodox Church and has the status of a saint." />
-   <Hero id="lord_volyan_3b" spouse="Hero.lord_volyan_3a" faction="Faction.clan_volhynia_3" />
-   <Hero id="lord_volyan_3c" father="Hero.lord_volyan_3a" mother="Hero.lord_volyan_3b" faction="Faction.clan_volhynia_3" text="{=lord_volyan_3c.text}It is known that the knyaz had children, one of whom was a daughter." />
-
-
    <Hero id="lord_volyan_4a" spouse="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar_traitor.text}Boyar of the Volhynia principality. He was a supporter of Davyd Igorovych. He was accused of conspiring against Vasylko Rostyslavych together with 2 other boyars because of which Vasylko was blinded." />
    <Hero id="lord_volyan_4b" spouse="Hero.lord_volyan_4a" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />
    <Hero id="lord_volyan_4с" father="Hero.lord_volyan_4a" mother="Hero.lord_volyan_4b" faction="Faction.clan_volhynia_4" text="{=lord_volyan_boyar.text}Not a historical character. Added to prevent character autogeneration. Represents the Volhynian boyar." />

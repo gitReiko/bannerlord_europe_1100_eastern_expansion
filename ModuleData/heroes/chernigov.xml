@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+  <Hero id="lord_chernigov_1a" father="Hero.lord_chernigov_1e" spouse="Hero.lord_chernigov_1b" faction="Faction.clan_chernigov_1" text="{=lord_chernigov_1a.text}After the death of his father Sviatoslav Iaroslavych, together with his brothers, was forced to go to Murom, a distant possession of the Chernigov principality. In 1093 he ruled in the Novgorod principality. In 1094, after his brother Oleg Sviatoslavych captured the Chernigov principality, he came to Smolensk. But due to his absence in Novgorod, he lost it. Novgorod was taken by the Monomakh dynasty. In 1097 at the Liubech Congress received in the possession of Chernigov principality. He became a participant of many political events and ruled the Chernigov principality until his death in 1123." />
+  <Hero id="lord_chernigov_1b" spouse="Hero.lord_chernigov_1a" faction="Faction.clan_chernigov_1" />
+  <Hero id="lord_chernigov_1c" faction="Faction.clan_chernigov_1" father="Hero.lord_chernigov_1a" mother="Hero.lord_chernigov_1b" />
+  <Hero id="lord_chernigov_1d" faction="Faction.clan_chernigov_1" father="Hero.lord_chernigov_1a" mother="Hero.lord_chernigov_1b" />
+  <Hero id="lord_chernigov_1e" faction="Faction.clan_chernigov_1" alive="false" />
+
+
+
+  <Hero id="lord_chernigov_4a" spouse="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4a.text}Sviatoslav Davydovich had several wives and children. The name of one of his daughters, Anna, is known. Until 1097 he was prince of Lutsk. In 1097 he was expelled by Davyd Igorovich from Lutsk. After the expulsion of Davyd Igorovich from the Volhynia principality had the opportunity of returning to Lutsk principality. But he refused, took the tonsure and became a monk in 1106. In the tonsure he had the name Mykola. Currently canonized by the Orthodox Church and has the status of a saint." />
+  <Hero id="lord_chernigov_4b" spouse="Hero.lord_chernigov_4a" faction="Faction.clan_chernigov_4" />
+  <Hero id="lord_chernigov_4c" father="Hero.lord_chernigov_4a" mother="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4c.text}It is known that the knyaz had children, one of whom was a daughter." />
+
+
+</Heroes>

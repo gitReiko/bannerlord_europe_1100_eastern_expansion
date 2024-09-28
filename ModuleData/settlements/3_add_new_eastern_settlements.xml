@@ -1285,7 +1285,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_chernihiv" name="{=reiko_chernihiv.name}Chernigov" owner="Faction.clan_rus_7" posX="1082.776" posY="1178.283" culture="Culture.rus"  gate_posX="1084.511" gate_posY="1177.830" text="{=reiko_chernihiv.text}Chernigov.">
+  <Settlement id="reiko_chernihiv" name="{=reiko_chernihiv.name}Chernigov" owner="Faction.clan_chernigov_1" posX="1082.776" posY="1178.283" culture="Culture.rus"  gate_posX="1084.511" gate_posY="1177.830" text="{=reiko_chernihiv.text}Chernigov.">
     <Components>
       <Town id="reiko_chernihiv_comp" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="4100" />
     </Components>

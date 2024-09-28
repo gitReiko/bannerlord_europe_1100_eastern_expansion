@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+  <Faction id="clan_chernigov_1"
+       name="{=clan_chernigov_1.name}Kniaz Davyd Sviatoslavych"
+       tier="5"
+       is_noble="true"
+       owner="Hero.lord_chernigov_1a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.329.220.764.864.0.0.0.510.116.149.250.220.764.848.0.0.90.510.116.149.290.220.632.750.0.0.90.510.116.149.290.220.896.750.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.130.220.764.602.0.0.0" text="{=clan_chernigov_1.text}Representing the Davyd Sviatoslavych family. The coat of arms is a hypothetical reconstruction based on his son seal, knyaz Sviatoslav Davydovych." 
+       color="FFffffff" color2="FF0d0d16" alternative_color="FFffffff" alternative_color2="FF0d0d16"
+       />
+    
+    <Faction id="clan_chernigov_4"
+       name="{=clan_chernigov_4.name}Kniaz Sviatoslav Davydovych"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_4a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.329.220.764.864.0.0.0.510.116.149.100.220.764.912.0.0.90.510.116.149.290.220.632.750.0.0.90.510.116.149.290.220.896.750.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.80.220.764.602.0.0.45" text="{=clan_volhynia_3.text}Representing the Sviatoslav Davydovich family. The coat of arms is the seal of Knyaz Sviatoslav Davydovich." 
+       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
+       />	
+
+
+		   
+</Factions>

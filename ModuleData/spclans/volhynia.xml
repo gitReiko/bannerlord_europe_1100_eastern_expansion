@@ -23,17 +23,6 @@
            color="FFffe9d4" color2="ffd22e31" alternative_color="FFffe9d4" alternative_color2="ffd22e31"
            />	
 
-  <Faction id="clan_volhynia_3"
-           name="{=clan_volhynia_3.name}Kniaz Sviatoslav Davydovych"
-           tier="3"
-           is_noble="true"
-           owner="Hero.lord_volyan_3a"
-           culture="Culture.volhynian"
-           super_faction="Kingdom.volhynia"
-           banner_key="11.135.48.1836.1836.768.765.1.0.0.510.83.149.329.220.764.864.0.0.0.510.83.149.100.220.764.912.0.0.90.510.83.149.290.220.632.750.0.0.90.510.83.149.290.220.896.750.0.0.90.510.83.149.150.220.629.702.0.0.0.510.83.149.80.220.764.602.0.0.45" text="{=clan_volhynia_3.text}Representing the Sviatoslav Davydovich family. The coat of arms is the seal of Knyaz Sviatoslav Davydovich." 
-           color="FFffe9d4" color2="ffd22e31" alternative_color="FFffe9d4" alternative_color2="ffd22e31"
-           />	
-
   <Faction id="clan_volhynia_4"
            name="{=clan_volhynia_4.name}Boyar Turiak of Volhynia"
            tier="3"
