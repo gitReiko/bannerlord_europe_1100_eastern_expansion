@@ -42,4 +42,9 @@
   <Hero id="lord_chernigov_7c" father="Hero.lord_chernigov_7a" mother="Hero.lord_chernigov_7b" faction="Faction.clan_chernigov_7" />
 
 
+  <Hero id="lord_chernigov_8a"  spouse="Hero.lord_chernigov_8b" faction="Faction.clan_chernigov_8" text="{=lord_chernigov_8a.text}Father of Andrei Glebov. In 1155 relatives have killed at night tysiacki Andrei Glebov in Belgorod-Ryazanskyi. Belgorod-Ryazanskyi is an ancient chronicle Rus city, which was destroyed in 1208 by Vsevolod Yurevych the Big Nest, Kyivan prince. The city was not rebuilt after the burning, and its exact location is still uncertain." />
+  <Hero id="lord_chernigov_8b" spouse="Hero.lord_chernigov_8a" faction="Faction.clan_chernigov_8" />
+  <Hero id="lord_chernigov_8c" father="Hero.lord_chernigov_8a" mother="Hero.lord_chernigov_8b" faction="Faction.clan_chernigov_8" />
+
+
 </Heroes>

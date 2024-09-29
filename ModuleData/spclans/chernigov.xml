@@ -72,10 +72,21 @@
        tier="3"
        is_noble="true"
        owner="Hero.lord_chernigov_7a"
-       culture="Culture.rus"
+       culture="Culture.volga_fin"
        super_faction="Kingdom.chernigov"
        banner_key="11.40.48.1836.1836.768.765.1.0.0.503.116.116.211.211.846.718.0.1.0.505.40.116.141.90.805.776.0.0.271.503.40.116.141.141.834.719.0.1.0.426.116.116.125.153.875.762.0.1.-49.503.116.116.211.211.683.718.0.0.0.503.40.116.141.141.695.719.0.0.0.505.40.116.141.90.716.776.0.0.271.426.116.116.125.153.654.762.0.0.48.505.40.116.85.58.764.744.0.0.271.503.116.116.70.70.833.718.0.1.0.503.116.116.70.70.694.718.0.1.0.503.116.116.85.119.764.844.0.1.0.513.116.116.138.119.764.863.0.1.180.503.116.116.71.91.764.819.0.1.0.510.116.116.87.153.764.723.0.1.90.513.116.116.87.153.764.809.0.1.0.503.116.116.30.30.764.621.0.1.0" text="{=clan_chernigov_7.text}Representing the tysiacki Andrei family. The coat of arms of the clan is an ancient symbol of Ryazan from the coins." 
        color="FF0d0d16" color2="ffecdc04" alternative_color="FF0d0d16" alternative_color2="ffecdc04"
+       />
+
+   <Faction id="clan_chernigov_8"
+       name="{=clan_chernigov_8.name}Tysiacki Gleb of Belgorod-Ryazanskyi"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_8a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.116.48.1836.1836.768.765.1.0.0.503.40.116.211.211.846.718.0.1.0.505.116.116.141.90.805.776.0.0.271.503.116.116.141.141.834.719.0.1.0.426.40.116.125.153.875.762.0.1.-49.503.40.116.211.211.683.718.0.0.0.503.116.116.141.141.695.719.0.0.0.505.116.116.141.90.716.776.0.0.271.426.40.116.125.153.654.762.0.0.48.505.116.116.85.58.764.744.0.0.271.503.40.116.70.70.833.718.0.1.0.503.40.116.70.70.694.718.0.1.0.503.40.116.85.119.764.844.0.1.0.513.40.116.138.119.764.863.0.1.180.503.40.116.71.91.764.819.0.1.0.510.40.116.87.153.764.723.0.1.90.513.40.116.87.153.764.809.0.1.0.503.40.116.30.30.764.621.0.1.0" text="{=clan_chernigov_8.text}Representing the tysiacki Gleb family. The coat of arms of the clan is an ancient symbol of Ryazan from the coins." 
+       color="FFec6804" color2="ffecdc04" alternative_color="FFec6804" alternative_color2="ffecdc04"
        />	
 
 		   

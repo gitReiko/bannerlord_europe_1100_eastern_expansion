@@ -1022,7 +1022,7 @@
                 age="58"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.volga_fin"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1068,7 +1068,7 @@
                 age="48"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.volga_fin"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1110,7 +1110,7 @@
                 age="27"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.rus"
+                culture="Culture.volga_fin"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -1140,6 +1140,141 @@
         <Trait id="Calculating" value="-2" />
         <Trait id="Egalitarian" value="0" />
         <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_8a"
+                name="{=lord_chernigov_8a.name}Gleb"
+                voice="softspoken"
+                age="34"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.6855" build="0.3451"  key="00057C0200CC090437D14448473976254B3D7916D7DE5DA476B9743AB82C3A220055A60305A7B79900000000000000000000000000000000000000003CAC5002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="200" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_8b"
+                name="{=lord_chernigov_8b.name}Kvedo*"
+                voice="softspoken"
+                age="31"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.3836" build="0.484"  key="00082401401430029A66B94724356B8C4A7598B883468743856F7AAD8A47AA3B0057660305A48EB8000000000000000000000000000000000000000056B41003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Scouting" value="50" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="125" />
+        <skill id="OneHanded" value="60" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_8c"
+                name="{=lord_chernigov_8c.name}Andrei Glebov"
+                voice="softspoken"
+                age="10"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.17" weight="0.6651" build="0.4336"  key="0008680200CC29CD39D1444847387627493A791667DE5DA476B9743AB82C38220067A6030687B79900000000000000000000000000000000000000003CD43002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="10" />
+        <skill id="Medicine" value="20" />
+        <skill id="Leadership" value="50" />
+        <skill id="Steward" value="25" />
+        <skill id="Charm" value="25" />
+        <skill id="Scouting" value="50" />
+        <skill id="Tactics" value="50" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="50" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="50" />
+        <skill id="Polearm" value="50" />
+        <skill id="TwoHanded" value="25" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="-1" />
         <Trait id="Authoritarian" value="0" />
     </Traits>
     <Equipments>
