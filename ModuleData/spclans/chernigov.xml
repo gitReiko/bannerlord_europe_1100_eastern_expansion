@@ -22,6 +22,17 @@
        banner_key="11.116.48.1836.1836.768.765.1.0.0.510.40.149.450.220.764.765.0.0.90.510.40.149.329.220.764.810.0.0.0.510.40.149.225.220.896.726.0.0.90.510.40.149.170.220.632.750.0.0.90.503.40.149.130.130.671.674.0.0.0.503.116.149.57.57.671.674.0.0.0.504.116.149.96.114.673.702.0.0.23.505.116.149.43.75.665.710.0.0.0" text="{=clan_volhynia_3.text}Representing the Iaroslav Sviatoslavych family. The coat of arms is the seal of Knyaz Iaroslav Sviatoslavych." 
        color="FF0d0d16" color2="FFffffff" alternative_color="FF0d0d16" alternative_color2="FFffffff"
        />	
+
+   <Faction id="clan_chernigov_3"
+       name="{=clan_chernigov_3.name}Kniaz Oleg Sviatoslavych"
+       tier="6"
+       is_noble="true"
+       owner="Hero.lord_chernigov_3a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.250.220.764.848.0.0.90.510.116.149.329.220.764.864.0.0.0.510.116.149.290.220.632.750.0.0.90.510.116.149.250.220.896.768.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.130.220.764.602.0.0.0.503.116.149.130.130.936.676.0.0.0.503.40.149.57.57.936.676.0.0.0.504.40.149.96.114.938.704.0.0.23.505.40.149.43.75.930.712.0.0.0" text="{=clan_volhynia_3.text}Representing the Oleg Sviatoslavych family. The coat of arms is the seal of Knyaz Oleg Sviatoslavych." 
+       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
+       />	
     
    <Faction id="clan_chernigov_4"
        name="{=clan_chernigov_4.name}Kniaz Sviatoslav Davydovych"
@@ -31,7 +42,7 @@
        culture="Culture.rus"
        super_faction="Kingdom.chernigov"
        banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.149.329.220.764.864.0.0.0.510.116.149.100.220.764.912.0.0.90.510.116.149.290.220.632.750.0.0.90.510.116.149.290.220.896.750.0.0.90.510.116.149.150.220.629.702.0.0.0.510.116.149.80.220.764.602.0.0.45" text="{=clan_volhynia_3.text}Representing the Sviatoslav Davydovich family. The coat of arms is the seal of Knyaz Sviatoslav Davydovich." 
-       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
+       color="ffecdc04" color2="ff4e974e" alternative_color="ffecdc04" alternative_color2="ff4e974e"
        />	
 
 

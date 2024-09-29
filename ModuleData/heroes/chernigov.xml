@@ -13,6 +13,15 @@
   <Hero id="lord_chernigov_2b" spouse="Hero.lord_chernigov_2a" faction="Faction.clan_chernigov_2" />
 
 
+  <Hero id="lord_chernigov_3a" father="Hero.lord_chernigov_1e" spouse="Hero.lord_chernigov_3g" faction="Faction.clan_chernigov_3" text="{=clan_chernigov_3.text}Founder of the Olgovych dynasty, which for a long time competed with the Monomakhs for rule in Rus. Active participant of princely Rus wars. After the death of his father Sviatoslav Iaroslavych fought for Chernigov, then spent several years in exile in Byzantium. After returning to Rus for a long time ruled in Tmutarakan (one of the richest holdings), in 1094 again captured Chernigov. In bloody wars long fought with Volodymyr Monomakh and his dynasty. Despite a number of defeats, according to the results of the Liubech Congress he received possession in Novhorod-Siverskyi, and his brothers Davyd and Iaroslav - in Chernigov and Murom. He was married to the daughter of the Cumans Khan Osoluk and was in alliance with the Cumans." />
+  <Hero id="lord_chernigov_3b" faction="Faction.clan_chernigov_3" alive="false" />
+  <Hero id="lord_chernigov_3c" faction="Faction.clan_chernigov_3" father="Hero.lord_chernigov_3a" mother="Hero.lord_chernigov_3b" />
+  <Hero id="lord_chernigov_3d" faction="Faction.clan_chernigov_3" father="Hero.lord_chernigov_3a" mother="Hero.lord_chernigov_3b" />
+  <Hero id="lord_chernigov_3e" faction="Faction.clan_chernigov_3" father="Hero.lord_chernigov_3a" mother="Hero.lord_chernigov_3b" />
+  <Hero id="lord_chernigov_3f" faction="Faction.clan_chernigov_3" father="Hero.lord_chernigov_3a" />
+  <Hero id="lord_chernigov_3g" faction="Faction.clan_chernigov_3" spouse="Hero.lord_chernigov_3a" />
+
+
   <Hero id="lord_chernigov_4a" spouse="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4a.text}Sviatoslav Davydovich had several wives and children. The name of one of his daughters, Anna, is known. Until 1097 he was prince of Lutsk. In 1097 he was expelled by Davyd Igorovich from Lutsk. After the expulsion of Davyd Igorovich from the Volhynia principality had the opportunity of returning to Lutsk principality. But he refused, took the tonsure and became a monk in 1106. In the tonsure he had the name Mykola. Currently canonized by the Orthodox Church and has the status of a saint." />
   <Hero id="lord_chernigov_4b" spouse="Hero.lord_chernigov_4a" faction="Faction.clan_chernigov_4" />
   <Hero id="lord_chernigov_4c" father="Hero.lord_chernigov_4a" mother="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4c.text}It is known that the knyaz had children, one of whom was a daughter." />
