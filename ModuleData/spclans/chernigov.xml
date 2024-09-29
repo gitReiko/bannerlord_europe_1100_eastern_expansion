@@ -54,6 +54,17 @@
        super_faction="Kingdom.chernigov"
        banner_key="11.40.48.1836.1836.768.765.1.0.0.100.116.149.351.351.764.739.0.0.0.505.40.149.74.92.759.864.0.0.-1.304.116.149.342.187.764.871.0.0.180.427.116.149.108.99.757.879.0.0.75.427.116.149.108.99.771.879.0.1.285.505.40.149.72.92.764.855.0.1.0.503.116.149.127.84.764.872.0.1.0.506.40.149.91.41.786.856.0.1.128.506.40.149.91.41.742.856.0.0.232.506.40.149.76.41.764.834.0.0.232.505.116.149.13.129.764.846.0.1.0.503.116.149.43.25.764.828.0.1.0" text="{=clan_chernigov_5.text}Representing the boyar Dobrynia family. The coat of arms is the coat of arms of the Chernigov principality." 
        color="ff4e974e" color2="FFffffff" alternative_color="ff4e974e" alternative_color2="FFffffff"
+       />
+
+   <Faction id="clan_chernigov_6"
+       name="{=clan_chernigov_6.name}Boyar Oleksei of Chernigov"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_6a"
+       culture="Culture.rus"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.116.48.1836.1836.768.765.1.0.0.100.40.149.351.351.764.739.0.0.0.505.116.149.74.92.759.864.0.0.-1.304.40.149.342.187.764.871.0.0.180.427.40.149.108.99.757.879.0.0.75.427.40.149.108.99.771.879.0.1.285.505.116.149.72.92.764.855.0.1.0.503.40.149.127.84.764.872.0.1.0.506.116.149.91.41.786.856.0.1.128.506.116.149.91.41.742.856.0.0.232.506.116.149.76.41.764.834.0.0.232.505.40.149.13.129.764.846.0.1.0.503.40.149.43.25.764.828.0.1.0" text="{=clan_chernigov_6.text}Representing the boyar Oleksei family. The coat of arms is the coat of arms of the Chernigov principality." 
+       color="ffecdc04" color2="FFffffff" alternative_color="ffecdc04" alternative_color2="FFffffff"
        />	
 
 		   

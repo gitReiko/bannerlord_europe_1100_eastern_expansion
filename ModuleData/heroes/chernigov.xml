@@ -32,4 +32,9 @@
   <Hero id="lord_chernigov_5c" father="Hero.lord_chernigov_5a" mother="Hero.lord_chernigov_5b" faction="Faction.clan_chernigov_5" />
 
 
+  <Hero id="lord_chernigov_6a" father="Hero.lord_chernigov_6c" spouse="Hero.lord_chernigov_6b" faction="Faction.clan_chernigov_6" text="{=lord_chernigov_6a.text}Grandfather of Olstyn Oleksych. In 1184 Olstyn was the envoy from Rus in negotiations with Cumans about the peace. After Igor Sviatoslavych unsuccessful campaign against the Cumans in 1185, Olstyn Oleksych was sent to help this Novhorod-Siverskyi prince." />
+  <Hero id="lord_chernigov_6b" spouse="Hero.lord_chernigov_6a" faction="Faction.clan_chernigov_6" />
+  <Hero id="lord_chernigov_6c" faction="Faction.clan_chernigov_6" />
+
+
 </Heroes>
