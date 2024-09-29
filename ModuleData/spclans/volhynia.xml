@@ -21,7 +21,18 @@
            super_faction="Kingdom.volhynia"
            banner_key="11.135.48.1836.1836.768.765.1.0.0.510.83.40.329.220.763.826.0.0.0.510.83.40.329.220.763.751.0.0.90.510.83.40.158.220.894.768.0.0.90.510.83.40.158.220.632.768.0.0.90.503.83.40.118.118.763.944.0.0.90.503.43.40.60.60.763.944.0.0.90.454.83.40.377.377.997.576.0.0.0.454.83.40.377.377.530.576.0.1.0.505.135.40.445.173.1047.600.0.0.90.505.135.40.445.173.478.600.0.0.90.505.135.40.769.218.763.474.0.0.0.503.83.40.33.33.970.600.0.0.211.503.83.40.33.33.556.600.0.0.211.503.83.40.35.35.763.604.0.0.211" text="{=clan_volhynia_2.text}Representing the Jarasłaŭ Jarapołčyč family. The coat of arms is the seal of Knyaz Jarasłaŭ Jarapołčyč." 
            color="FFffe9d4" color2="ffd22e31" alternative_color="FFffe9d4" alternative_color2="ffd22e31"
-           />	
+           />
+
+  <Faction id="clan_volhynia_3"
+    name="{=clan_volhynia_3.name}Tysiacki Vorotyslav of Volhynia"
+    tier="3"
+    is_noble="true"
+    owner="Hero.lord_volyan_3a"
+    culture="Culture.volhynian"
+    super_faction="Kingdom.volhynia"
+    banner_key="11.83.19.1836.1836.768.788.1.0.0.510.135.116.500.500.764.614.0.0.0.510.135.116.450.500.764.734.0.0.0.510.135.116.400.500.764.856.0.0.0.510.83.116.400.500.542.741.0.0.99.510.83.116.400.500.985.741.0.1.260" text="{=clan_volhynia_3.text}Representing the tysiacki Vorotyslav family. The coat of arms is the seal of Knyaz Jarasłaŭ Jarapołčyč. The coat of arms of the clan is the coat of arms of the town of Szczebrzeszyn." 
+    color="FFffe9d4" color2="ffd22e31" alternative_color="FFffe9d4" alternative_color2="ffd22e31"
+    />
 
   <Faction id="clan_volhynia_4"
            name="{=clan_volhynia_4.name}Boyar Turiak of Volhynia"

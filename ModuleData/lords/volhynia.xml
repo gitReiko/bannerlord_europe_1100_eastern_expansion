@@ -193,7 +193,7 @@
     </NPCCharacter>
 
     <NPCCharacter id="lord_volyan_1e"
-                name="{=lord_volyan_1e.name}Vorotyslav"
+                name="{=lord_volyan_1e.name}Zev"
                 voice="softspoken"
                 age="43"
                 is_female="false"
@@ -555,6 +555,102 @@
     <Equipments>
       <EquipmentSet id="volhynian_king" />
       <EquipmentSet id="volhynian_king"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_3a"
+                name="{=lord_volyan_3a.name}Vorotyslav"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.12" weight="0.4259" build="0.5181"  key="000AA40B800000883BE3878A85328428AA97A498D247777A4A743DC98988D75D0098660309A7142900000000000000000000000000000000000000004F3410C2"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="275" />
+        <skill id="Steward" value="150" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="150" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="200" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="125" />
+        <skill id="Crossbow" value="125" />
+        <skill id="Polearm" value="275" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_volyan_3b"
+                name="{=lord_volyan_3b.name}Ksniatyn"
+                voice="softspoken"
+                age="37"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volhynian"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.12" weight="0.4066" build="0.272"  key="00054C0A50FC294E8A987646859CA4458A77725487C48A574B837965898D94160074660307AA6A63000000000000000000000000000000000000000058EC3082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="75" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="115" />
+        <skill id="Bow" value="100" />
+        <skill id="Crossbow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="volhynian_lord" />
+      <EquipmentSet id="volhynian_lord"
                     civilian="true" />
     </Equipments>
     </NPCCharacter>
