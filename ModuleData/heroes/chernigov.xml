@@ -37,4 +37,9 @@
   <Hero id="lord_chernigov_6c" faction="Faction.clan_chernigov_6" />
 
 
+  <Hero id="lord_chernigov_7a"  spouse="Hero.lord_chernigov_7b" faction="Faction.clan_chernigov_7" text="{=lord_chernigov_7a.text}Father of Ivan Andreevich. Ivan Andreevich had the position of tysiacki and was killed in 1135 in Ryazan. No more information." />
+  <Hero id="lord_chernigov_7b" spouse="Hero.lord_chernigov_7a" faction="Faction.clan_chernigov_7" />
+  <Hero id="lord_chernigov_7c" father="Hero.lord_chernigov_7a" mother="Hero.lord_chernigov_7b" faction="Faction.clan_chernigov_7" />
+
+
 </Heroes>
