@@ -218,17 +218,107 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_chernigov_2a"
+                name="{=lord_chernigov_2a.name}Iaroslav Sviatoslavych"
+                voice="softspoken"
+                age="28"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+        <BodyProperties version="4" age="22.06" weight="0.4182" build="0.2446"  key="0008D80C40A0039277598A693485882778859B7456898568B97C673B68ABB55800746603078AA34C00000000000000000000000000000000000000000EF42082"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="125" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="200" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="75" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_2b"
+                name="{=lord_chernigov_2b.name}Konstantyna"
+                voice="softspoken"
+                age="25"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.rus"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.2183" build="0.3715"  key="0015400140E40002336313556EB7B87A8358CDA8964B666C8A699A6B7D9486630076360307AA73A800000000000000000000000000000000000000005AF42083"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="150" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="125" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="75" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
     <NPCCharacter id="lord_chernigov_4a"
                 name="{=lord_chernigov_4a.name}Sviatoslav Davydovich"
                 voice="softspoken"
                 age="20"
                 is_female="false"
                 is_hero="true"
-                culture="Culture.volhynian"
+                culture="Culture.rus"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.24" weight="0.2369" build="0.1713"  key="00089C06C02C0381594B6ADBC98977A73AAA67868AA88787765569597984675700B346030B4566840000000000000000000000000000000000000000277C2002"  />
+    <BodyProperties version="4" age="22.05" weight="0.3333" build="0.2832"  key="0000A00B80A013C3785888693485882779969B7466978568B97C673768A9B56800745603077AA34C00000000000000000000000000000000000000000EF47082"  />
     </face>
 	<skills>
         <skill id="Engineering" value="50" />
@@ -271,7 +361,7 @@
                 age="23"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.volhynian"
+                culture="Culture.rus"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
@@ -314,11 +404,11 @@
                 age="2"
                 is_female="true"
                 is_hero="true"
-                culture="Culture.volhynian"
+                culture="Culture.rus"
                 occupation="Lord"
                 default_group="Cavalry">
     <face>
-    <BodyProperties version="4" age="22.24" weight="0.1867" build="0.2909"  key="000AEC0B8070000485847237574977A979C55A76338684BC539A9DDA87B638A700843603088C67770000000000000000000000000000000000000000391C40C3"  />
+    <BodyProperties version="4" age="22.05" weight="0.3333" build="0.2832"  key="00055C0B80A01007785888693485882779969B7466978568B97C673768A9B56800745603077AA34C00000000000000000000000000000000000000000EF44083"  />
     </face>
 	<skills>
         <skill id="Charm" value="10" />

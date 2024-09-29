@@ -9,6 +9,9 @@
   <Hero id="lord_chernigov_1e" faction="Faction.clan_chernigov_1" alive="false" />
 
 
+  <Hero id="lord_chernigov_2a" father="Hero.lord_chernigov_1e" spouse="Hero.lord_chernigov_2b" faction="Faction.clan_chernigov_2" text="{=clan_chernigov_2.text}Youngest son of Sviatoslav Iaroslavych. In 1096 together with his brother Oleg Sviatoslavych wars against the Monomakh dynasty for the possession of Murom, Ryazan, Rostov and Suzdal. But he lost the war and took refuge in Murom until the conclusion of the peace treaty. In 1097 on Liubech Congress has received in possession Murom-Ryazan principality. The founder of the Ryazan dynasty of princes. Died in 1129." />
+  <Hero id="lord_chernigov_2b" spouse="Hero.lord_chernigov_2a" faction="Faction.clan_chernigov_2" />
+
 
   <Hero id="lord_chernigov_4a" spouse="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4a.text}Sviatoslav Davydovich had several wives and children. The name of one of his daughters, Anna, is known. Until 1097 he was prince of Lutsk. In 1097 he was expelled by Davyd Igorovich from Lutsk. After the expulsion of Davyd Igorovich from the Volhynia principality had the opportunity of returning to Lutsk principality. But he refused, took the tonsure and became a monk in 1106. In the tonsure he had the name Mykola. Currently canonized by the Orthodox Church and has the status of a saint." />
   <Hero id="lord_chernigov_4b" spouse="Hero.lord_chernigov_4a" faction="Faction.clan_chernigov_4" />
