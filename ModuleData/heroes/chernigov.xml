@@ -27,4 +27,9 @@
   <Hero id="lord_chernigov_4c" father="Hero.lord_chernigov_4a" mother="Hero.lord_chernigov_4b" faction="Faction.clan_chernigov_4" text="{=lord_chernigov_4c.text}It is known that the knyaz had children, one of whom was a daughter." />
 
 
+  <Hero id="lord_chernigov_5a" spouse="Hero.lord_chernigov_5b" faction="Faction.clan_chernigov_5" text="{=lord_chernigov_5a.text}Father of Raguil Dobrynych. In 1147 the rebellious Kyivans decided to kill knyaz Igor Olgovych. But tysiacki (general) Raguil Dobrynych tried to stand up for the prince. Nevertheless, the knyaz was killed. Later, Raguil participated in the funeral of the prince." />
+  <Hero id="lord_chernigov_5b" spouse="Hero.lord_chernigov_5a" faction="Faction.clan_chernigov_5" />
+  <Hero id="lord_chernigov_5c" father="Hero.lord_chernigov_5a" mother="Hero.lord_chernigov_5b" faction="Faction.clan_chernigov_5" />
+
+
 </Heroes>
