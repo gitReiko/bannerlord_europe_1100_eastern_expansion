@@ -825,10 +825,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="dregovian_dziecki"
+	<NPCCharacter id="dregovian_otrak"
 		default_group="Ranged"
 		level="21"
-		name="{=dregovian_dziecki.name}Dregovian Dziecki"
+		name="{=dregovian_otrak.name}Dregovian Otrak"
 		occupation="Soldier"
 		culture="Culture.dregovian">
 		<face>
@@ -845,7 +845,7 @@
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.dregovian_kniazacki_muz"/>
+			<upgrade_target id="NPCCharacter.dregovian_bajarski_dziecki"/>
 		</upgrade_targets>
 		<Equipments>
             <EquipmentRoster>
@@ -922,10 +922,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="dregovian_kniazacki_muz"
+	<NPCCharacter id="dregovian_bajarski_dziecki"
 		default_group="Ranged"
 		level="26"
-		name="{=dregovian_kniazacki_muz.name}Dregovian Kniažacki Muž"
+		name="{=dregovian_bajarski_dziecki.name}Dregovian Bajarski Dziecki"
 		occupation="Soldier"
 		culture="Culture.dregovian">
 		<face>
@@ -942,7 +942,7 @@
 			<skill id="Throwing" value="75"/>
 		</skills>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.dregovian_kniaz"/>
+			<upgrade_target id="NPCCharacter.dregovian_kniazacki_muz"/>
 		</upgrade_targets>
 		<Equipments>
             <EquipmentRoster>
@@ -1018,10 +1018,10 @@
 		</Equipments>
 	</NPCCharacter>
 
-	<NPCCharacter id="dregovian_kniaz"
+	<NPCCharacter id="dregovian_kniazacki_muz"
 		default_group="Ranged"
 		level="31"
-		name="{=dregovian_kniaz.name}Dregovian Kniaź"
+		name="{=dregovian_kniazacki_muz.name}Dregovian Kniažacki Muž"
 		occupation="Soldier"
 		culture="Culture.dregovian">
 		<face>
