@@ -47,4 +47,18 @@
   <Hero id="lord_chernigov_8c" father="Hero.lord_chernigov_8a" mother="Hero.lord_chernigov_8b" faction="Faction.clan_chernigov_8" />
 
 
+  <Hero id="lord_chernigov_9a"  spouse="Hero.lord_chernigov_9b" faction="Faction.clan_chernigov_9" text="{=lord_chernigov_9a.text}Probably Homiel (Gomel) was the capital of one of the Radymiches princedoms. In 984 the Kiev voivode (general) Wolf Tail has defeated an army of Radymiches after that they began to pay tribute to Rus, probably became vassals. The battle took place on the approaches to Homiel near the river Piščań. A lamellar workshop of the Rus period and 1500 plates in different condition were found in Homiel." />
+  <Hero id="lord_chernigov_9b" spouse="Hero.lord_chernigov_9a" faction="Faction.clan_chernigov_9" />
+  <Hero id="lord_chernigov_9c" father="Hero.lord_chernigov_9a" mother="Hero.lord_chernigov_9b" faction="Faction.clan_chernigov_9" />
+
+
+
+
+
+
+
+
+
+
+
 </Heroes>
