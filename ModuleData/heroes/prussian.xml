@@ -18,4 +18,9 @@
    <Hero id="lord_prussian_3c" faction="Faction.clan_prussian_3" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
 
 
+   <Hero id="lord_prussian_4a" faction="Faction.clan_prussian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_prussian_4b" faction="Faction.clan_prussian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+   <Hero id="lord_prussian_4c" faction="Faction.clan_prussian_4" text="{=lord_jatvingian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Baltic region." />
+
+
 </Heroes>

@@ -6,7 +6,7 @@
     <!-- Baltic Tribes -->
 
     <NPCCharacter id="lord_baltic_1a"
-                name="{=lord_baltic_1b.name}Widewuto*"
+                name="{=lord_baltic_1a.name}Widewuto*"
                 voice="softspoken"
                 age="47"
                 is_female="false"
@@ -479,6 +479,150 @@
       <EquipmentSet id="latvian_lord" />
       <EquipmentSet id="latvian_lord"
                     civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_prussian_4a"
+                name="{=lord_prussian_4a.name}Patulo*"
+                voice="softspoken"
+                age="48"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.16" weight="0.5634" build="0.3362"  key="0015BC08C0E4314E5E55B892147ADA9277E6999D7E88264694978647ECB8884600A586030A48858700000000000000000000000000000000000000003D443042"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="175" />
+        <skill id="Roguery" value="50" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_prussian_4b"
+                name="{=lord_prussian_4b.name}Patrimpo*"
+                voice="softspoken"
+                age="45"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.16" weight="0.8022" build="0.6722"  key="000A2404004406C5C8B8AA838777AE6945569B75932A68207E67C67974B884AF00BAC6030B7ABA6A00000000000000000000000000000000000000003D6C1002"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="125" />
+        <skill id="Roguery" value="75" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="200" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="175" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="2" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="2" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_prussian_4c"
+                name="{=lord_prussian_4c.name}Perkūno*"
+                voice="softspoken"
+                age="43"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.goldenhorde"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <!-- Face key needs redoing, repurposed from female-->
+    <BodyProperties version="4" age="22.16" weight="0.3117" build="0.2782"  key="0015840C4E8833574DABA55D6937594C94A5C5C577A484325527759C6D9A4C0600D456030D6CA28200000000000000000000000000000000000000006BBC3004"  />
+        </face>
+    <skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="50" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="100" />
+        <skill id="Roguery" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="300" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="250" />
+        <skill id="Bow" value="150" />
+        <skill id="Polearm" value="300" />
+        <skill id="TwoHanded" value="200" />
+        <skill id="OneHanded" value="250" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="2" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+        <EquipmentSet id="latvian_lord" />
+        <EquipmentSet id="latvian_lord"
+                        civilian="true" />
     </Equipments>
     </NPCCharacter>
 

@@ -13,7 +13,7 @@
   />
 
   <Faction id="clan_baltic_4"
-    name="{=clan_baltic_4.name}Nadrawa"
+    name="{=clan_baltic_4.name}Semba"
     tier="5"
     is_noble="true"
     owner="Hero.lord_baltic_4a"
@@ -32,6 +32,17 @@
     super_faction="Kingdom.goldenhorde"
     banner_key="11.83.48.1836.1836.767.764.1.0.0.510.149.116.309.194.724.676.0.0.135.510.149.116.309.194.724.852.0.0.225.510.149.116.309.194.804.676.0.1.225.510.149.116.309.194.804.852.0.1.135.510.149.116.90.194.836.824.0.0.225.510.149.116.90.194.880.867.0.0.225.510.149.116.90.194.921.908.0.0.225.510.149.116.90.194.693.704.0.0.225.510.149.116.90.194.652.663.0.0.225.510.149.116.90.194.608.620.0.0.225.510.149.116.90.194.920.618.0.1.-45.510.149.116.90.194.873.666.0.1.-45.510.149.116.90.194.917.659.0.0.45.510.149.116.90.194.608.909.0.1.135.510.149.116.90.194.655.862.0.1.135.510.149.116.90.194.611.869.0.0.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
     color="FFd22e31" color2="FFffffff" alternative_color="FFd22e31" alternative_color2="FFffffff"
+  />
+
+    <Faction id="clan_prussian_4"
+    name="{=clan_prussian_4.name}Galinda"
+    tier="5"
+    is_noble="true"
+    owner="Hero.lord_prussian_4a"
+    culture="Culture.goldenhorde"
+    super_faction="Kingdom.goldenhorde"
+    banner_key="11.83.48.1836.1836.767.764.1.0.0.510.149.116.550.160.764.762.0.1.45.510.149.116.120.160.644.884.0.0.135.510.149.116.120.160.686.842.0.0.135.510.149.116.65.160.588.912.0.0.135.510.149.116.65.160.940.612.0.0.135.510.149.116.120.160.842.686.0.0.135.510.149.116.120.160.884.644.0.0.135.510.149.116.123.160.795.733.0.0.135.510.149.116.123.160.733.795.0.0.135.510.149.116.123.160.733.733.0.1.225.510.149.116.121.160.795.795.0.1.225.510.149.116.550.160.762.762.0.0.315.510.149.116.120.160.882.884.0.1.225.510.149.116.120.160.840.842.0.1.225.510.149.116.65.160.938.912.0.1.225.510.149.116.65.160.586.612.0.1.225.510.149.116.120.160.684.686.0.1.225.510.149.116.120.160.642.644.0.1.225" text="{=clan_jatvingian.text}This clan is non-historical. It is impossible to create a historical clan because of the lack of written sources. It was created for the reconstruction of the Baltic region. "
+    color="FF899bf0" color2="FFf0ab89" alternative_color="FF899bf0" alternative_color2="FFf0ab89"
   />	
 
 		   
