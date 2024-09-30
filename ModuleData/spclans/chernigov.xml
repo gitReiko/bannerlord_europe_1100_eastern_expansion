@@ -96,8 +96,19 @@
        owner="Hero.lord_chernigov_9a"
        culture="Culture.volga_fin"
        super_faction="Kingdom.chernigov"
-       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.350.200.763.763.0.1.130.510.116.116.175.200.722.616.0.1.220.510.116.116.175.200.810.623.0.1.130.510.116.116.87.200.832.688.0.1.220.510.116.116.87.200.792.640.0.1.220.510.116.116.175.200.805.911.0.1.40.510.116.116.175.200.717.903.0.1.310.510.116.116.87.200.695.839.0.1.40.510.116.116.87.200.735.887.0.1.40" text="{=clan_chernigov_9.text}Representing the Homiy Duchy. This clan is non-historical due to the lack of written sources. It was created for the reconstruction of the Baltic region. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.350.200.763.763.0.1.130.510.116.116.175.200.722.616.0.1.220.510.116.116.175.200.810.623.0.1.130.510.116.116.87.200.832.688.0.1.220.510.116.116.87.200.792.640.0.1.220.510.116.116.175.200.805.911.0.1.40.510.116.116.175.200.717.903.0.1.310.510.116.116.87.200.695.839.0.1.40.510.116.116.87.200.735.887.0.1.40" text="{=clan_chernigov_9.text}Probably Homiel (Gomel) was the capital of one of the Radymiches princedoms. In 984 the Kiev voivode (general) Wolf Tail has defeated an army of Radymiches after that they began to pay tribute to Rus, probably became vassals. The battle took place on the approaches to Homiel near the river Piščań. A lamellar workshop of the Rus period and 1500 plates in different condition were found in Homiel. The clan coat of arms is a variation of the Baltic serpent symbol." 
        color="ffecdc04" color2="ff4e974e" alternative_color="ffecdc04" alternative_color2="ff4e974e"
+       />
+
+   <Faction id="clan_chernigov_10"
+       name="{=clan_chernigov_10.name}Starodub Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_chernigov_10a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.chernigov"
+       banner_key="11.40.48.1836.1836.768.765.1.0.0.510.116.116.336.192.764.765.0.1.-45.510.116.116.168.192.711.626.0.1.45.510.116.116.168.192.798.626.0.1.-45.510.116.116.83.192.771.566.0.1.45.510.116.116.83.192.817.612.0.1.45.510.116.116.83.192.738.567.0.1.-45.510.116.116.83.192.695.610.0.1.-45.510.116.116.168.192.817.904.0.1.-135.510.116.116.168.192.730.905.0.1.135.510.116.116.83.192.757.965.0.1.-135.510.116.116.83.192.710.919.0.1.-135.510.116.116.83.192.790.964.0.1.135.510.116.116.83.192.834.921.0.1.135.510.116.116.157.192.763.766.0.1.45.510.116.116.157.192.813.815.0.1.45.510.116.116.157.192.713.717.0.1.45" text="{=clan_chernigov_9.text}The exact age of Starodub is unknown. This city was probably the center of one of the Radymiches principalities. Like other Radymiches cities it was never in direct subordination to Rus. In spite of the chronicle data it is not known about the Rus princes or governors who ruled in it. In 1096 it was able to survive a siege of 33 days and defend itself against Volodymyr Monomakh, which shows that it was a well-developed fortress. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       color="ff4e974e" color2="ffecdc04" alternative_color="ff4e974e" alternative_color2="ffecdc04"
        />
 
 		   

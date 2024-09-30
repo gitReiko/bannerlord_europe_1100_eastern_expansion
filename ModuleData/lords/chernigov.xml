@@ -1420,6 +1420,140 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_chernigov_10a"
+                name="{=lord_chernigov_10a.name}Jakuš*"
+                voice="softspoken"
+                age="39"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.2594" build="0.5417"  key="0002B406C014094426BA458876E8A482886186D6794477877B593836CBCE158800B846030B9B7E5800000000000000000000000000000000000000002B7C30C2"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="175" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_10b"
+                name="{=lord_chernigov_10b.name}Grīze*"
+                voice="softspoken"
+                age="48"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.4336" build="0.5007"  key="0015A0041814000E3A427745336B3D7583D54897762BCAC78A75A9EAB56E79BA00A876030A2966890000000000000000000000000000000000000000155440C3"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="25" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="125" />
+        <skill id="Scouting" value="175" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="225" />
+        <skill id="Riding" value="225" />
+        <skill id="Throwing" value="225" />
+        <skill id="Bow" value="175" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_chernigov_10c"
+                name="{=lord_chernigov_10c.name}Hieła*"
+                voice="softspoken"
+                age="15"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.06" weight="0.287" build="0.3873"  key="00135C040014000C38427745336B3D7583994897762BCA978A75A99AB56C797700B646030B2966890000000000000000000000000000000000000000156C2003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="25" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="75" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="125" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="150" />
+        <skill id="Bow" value="125" />
+        <skill id="OneHanded" value="75" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="-0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="1" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
 
 
 
