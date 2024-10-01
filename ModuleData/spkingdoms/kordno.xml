@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+
+    <Kingdom id="kordno" 
+			 owner="Hero.lord_kordno_1a" 
+			 banner_key="11.119.48.1836.1836.767.764.1.0.0.505.33.116.171.171.764.763.0.0.44.505.119.116.104.104.764.763.0.0.44.510.33.116.30.180.793.736.0.1.45.510.33.116.30.180.735.792.0.1.45.510.33.116.30.180.733.736.0.0.315.510.33.116.30.180.791.792.0.0.315.510.33.116.146.220.900.712.0.0.45.510.33.116.99.220.935.678.0.0.315.510.33.116.146.220.631.712.0.1.315.510.33.116.99.220.595.678.0.1.45.510.33.116.146.220.718.889.0.0.-135.510.33.116.99.220.682.923.0.0.135.510.33.116.146.220.811.887.0.1.135.510.33.116.99.220.847.921.0.1.225.510.33.116.146.220.894.812.0.1.135.510.33.116.146.220.634.812.0.0.225.510.33.116.170.220.715.630.0.1.135.510.33.116.70.220.687.574.0.0.225.510.33.116.170.220.814.630.0.0.225.510.33.116.70.220.843.574.0.1.135" 
+			 primary_banner_color="0x456dff" 
+			 secondary_banner_color="0xffefece5" 
+			 label_color="FF456dff" 
+			 color="ff456dff" 
+			 color2="ffefece5" 
+			 alternative_color="ffffd745" 
+			 alternative_color2="ffefece5" 
+			 culture="Culture.volga_fin" 
+			 settlement_banner_mesh="encounter_flag_a" 
+			 flag_mesh="info_screen_flags_a" 
+			 name="{=kordno_kingdom_name}The Kordno Principality" 
+			 short_name="{=kordno_kingdom_short_name}Kordno" 
+			 title="{=kordno_kingdom_title}The Kordno Principality" 
+			 ruler_title="{=kordno_ruler_title}Prince" 
+			 text="{=kordno_kingdom_text}Absence of this state on the majority of maps is connected with desire to see Rus as the united state. Such a vision has been promoted for a very long time. First by the Church, then by large empires, such as the Russian Empire. Since the unity of the population is often considered as a factor of state stability and wealthy. Nevertheless, modern Russian science recognizes the existence of the Vyatiches state. It is known that the capital of the principality was int the city Kordno, and its ruler was Khodota, who had a son. Volodymyr Monomakh, one of the most powerful princes of Rus, twice organized campaigns against Vyatiches between 1078 and 1084, which had limited success. Vyatiches state have not been subordinated by Rus until 1240, after 1240 Rus has been ruined by Mongols. But in addition to this state, the Vyatiches created the Ryazan principality, which is usually considered as Rus, because it was subordinated to the Rurikids (Igoroviches) dynasty. Also Vyatiches lived in Chernigov and Vladimir princedoms where also ruled Rurikids (Igoroviches).">
+    <relationships>
+    </relationships>
+    <policies>
+
+    </policies>
+  </Kingdom> 
+  
+   </Kingdoms>

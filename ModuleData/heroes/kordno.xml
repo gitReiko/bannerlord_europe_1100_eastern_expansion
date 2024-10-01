@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Heroes>
+
+  <Hero id="lord_kordno_1a" spouse="Hero.lord_kordno_1b" faction="Faction.clan_kordno_1" text="{=lord_kordno_1a.text}Little is known about Khodota. Probably it is the name of the ruler of the independent Vyatiches state. Perhaps it is a title, king in the language of Vyatiches. Between 1078 and 1084 Volodymyr Monomakh has organized two attacks on capital of the Khodota state, city Kordno. Success has been limited. The state was not subjugated." />
+  <Hero id="lord_kordno_1b" spouse="Hero.lord_kordno_1a" faction="Faction.clan_kordno_1" />
+  <Hero id="lord_kordno_1c" faction="Faction.clan_kordno_1" father="Hero.lord_kordno_1a" mother="Hero.lord_kordno_1b" />
+  <Hero id="lord_kordno_1d" faction="Faction.clan_kordno_1" />
+  <Hero id="lord_kordno_1e" faction="Faction.clan_kordno_1" />
+
+
+
+
+
+</Heroes>

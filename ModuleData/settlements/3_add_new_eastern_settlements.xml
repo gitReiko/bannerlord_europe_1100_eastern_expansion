@@ -1320,7 +1320,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_baturyn" name="{=reiko_baturyn.name}Baturyn Castle" owner="Faction.clan_rus_6" posX="1107.750" posY="1172.360" culture="Culture.rus"  gate_posX="1107.280" gate_posY="1172.930">
+  <Settlement id="reiko_baturyn" name="{=reiko_baturyn.name}Baturyn Castle" owner="Faction.clan_kordno_1" posX="1107.750" posY="1172.360" culture="Culture.rus"  gate_posX="1107.280" gate_posY="1172.930">
     <Components>
       <Town id="reiko_baturyn_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" prosperity="800" />
     </Components>

@@ -1620,7 +1620,7 @@
         <skill id="Trade" value="25" />
         <skill id="Charm" value="50" />
         <skill id="Scouting" value="125" />
-        <skill id="Tactics" value="10050" />
+        <skill id="Tactics" value="50" />
         <skill id="Athletics" value="150" />
         <skill id="Riding" value="150" />
         <skill id="Throwing" value="75" />

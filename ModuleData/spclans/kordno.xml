@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+   <Faction id="clan_kordno_1"
+       name="{=clan_kordno_1.name}Kordno Duchy"
+       tier="6"
+       is_noble="true"
+       owner="Hero.lord_kordno_1a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.kordno"
+       banner_key="11.119.48.1836.1836.767.764.1.0.0.505.33.116.171.171.764.763.0.0.44.505.119.116.104.104.764.763.0.0.44.510.33.116.30.180.793.736.0.1.45.510.33.116.30.180.735.792.0.1.45.510.33.116.30.180.733.736.0.0.315.510.33.116.30.180.791.792.0.0.315.510.33.116.146.220.900.712.0.0.45.510.33.116.99.220.935.678.0.0.315.510.33.116.146.220.631.712.0.1.315.510.33.116.99.220.595.678.0.1.45.510.33.116.146.220.718.889.0.0.-135.510.33.116.99.220.682.923.0.0.135.510.33.116.146.220.811.887.0.1.135.510.33.116.99.220.847.921.0.1.225.510.33.116.146.220.894.812.0.1.135.510.33.116.146.220.634.812.0.0.225.510.33.116.170.220.715.630.0.1.135.510.33.116.70.220.687.574.0.0.225.510.33.116.170.220.814.630.0.0.225.510.33.116.70.220.843.574.0.1.135" text="{=clan_kordno_1.text}Representing the Kordno Duchy. The pattern of the banner is taken from the Vyatiches temple ring. The color is from the modern coat of arms of the city, which according to one version is Kordno." 
+       color="FF456dff" color2="FFefece5" alternative_color="FF456dff" alternative_color2="FFefece5"
+       />
+
+
+		   
+</Factions>
