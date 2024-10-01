@@ -57,6 +57,12 @@
   <Hero id="lord_chernigov_10c" father="Hero.lord_chernigov_10a" mother="Hero.lord_chernigov_10b" faction="Faction.clan_chernigov_10" text="{=lord_radimian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Radimian region." />
 
 
+  <Hero id="lord_chernigov_11a"  spouse="Hero.lord_chernigov_11b" faction="Faction.clan_chernigov_11" text="{=lord_radimian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Radimian region." />
+  <Hero id="lord_chernigov_11b" spouse="Hero.lord_chernigov_11a" faction="Faction.clan_chernigov_11" text="{=lord_radimian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Radimian region." />
+  <Hero id="lord_chernigov_11c" father="Hero.lord_chernigov_11a" mother="Hero.lord_chernigov_11b" faction="Faction.clan_chernigov_11" text="{=lord_radimian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Radimian region." />
+  <Hero id="lord_chernigov_11d" father="Hero.lord_chernigov_11a" mother="Hero.lord_chernigov_11b" faction="Faction.clan_chernigov_11" text="{=lord_radimian.text}Not a historical character. It is impossible to create a historical persona due to the lack of written sources. Created for the reconstruction of the Radimian region." />
+
+
 
 
 
