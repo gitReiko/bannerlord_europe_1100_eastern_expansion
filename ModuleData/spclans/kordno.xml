@@ -12,6 +12,50 @@
        color="FF456dff" color2="FFefece5" alternative_color="FF456dff" alternative_color2="FFefece5"
        />
 
+   <Faction id="clan_kordno_2"
+       name="{=clan_kordno_2.name}Zvenigorod Duchy"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_kordno_2a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.kordno"
+       banner_key="11.119.48.1836.1836.767.764.1.0.0.505.31.116.171.171.764.763.0.0.44.505.119.116.104.104.764.763.0.0.44.510.33.116.146.220.764.614.0.0.90.510.33.116.99.220.764.599.0.0.0.510.33.116.146.220.764.914.0.1.90.510.33.116.70.220.803.914.0.1.180.510.33.116.146.220.914.764.0.1.180.510.33.116.99.220.928.764.0.1.270.510.33.116.30.180.793.736.0.1.45.510.33.116.30.180.735.792.0.1.45.510.33.116.30.180.733.736.0.0.315.510.33.116.30.180.791.792.0.0.315.510.33.116.146.220.627.814.0.1.224.510.33.116.70.220.599.786.0.1.314" text="{=clan_kordno_2.text}Representing the Zvenigorod Duchy. The pattern of the banner is taken from the Vyatiches temple ring. The color is from the modern coat of arms of the city, which according to one version is Kordno." 
+       color="FFffd745" color2="FFefece5" alternative_color="FFffd745" alternative_color2="FFefece5"
+       />
+
+   <Faction id="clan_kordno_3"
+       name="{=clan_kordno_3.name}Serensk Duchy"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_kordno_3a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.kordno"
+       banner_key="11.119.48.1836.1836.767.764.1.0.0.510.33.116.520.220.764.764.0.0.0.510.33.116.220.220.924.764.0.0.90.510.33.116.220.220.604.764.0.0.90.510.33.116.520.220.764.764.0.0.90.510.33.116.220.220.764.604.0.0.180.510.33.116.220.220.764.924.0.0.180" text="{=clan_kordno_3.text}Representing the Serensk Duchy. The pattern of the banner is taken from the Vyatiches temple ring. The color is from the modern coat of arms of the city, which according to one version is Kordno." 
+       color="FF456dff" color2="FFffd745" alternative_color="FF456dff" alternative_color2="FFffd745"
+       />
+
+   <Faction id="clan_kordno_4"
+       name="{=clan_kordno_4.name}Tula Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_kordno_4a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.kordno"
+       banner_key="11.119.48.1836.1836.767.764.1.0.0.510.33.116.129.220.894.806.0.0.90.510.33.116.129.220.538.722.0.0.90.510.33.116.520.220.764.764.0.0.0.510.33.116.520.220.687.764.0.0.90.510.33.116.129.220.730.591.0.0.45.510.33.116.129.220.644.936.0.0.45" text="{=clan_kordno_4.text}Representing the Tula Duchy. The pattern of the banner is taken from the Vyatiches temple ring. The color is from the modern coat of arms of the city, which according to one version is Kordno." 
+       color="FFffd745" color2="FF456dff" alternative_color="FFffd745" alternative_color2="FF456dff"
+       />
+
+   <Faction id="clan_kordno_5"
+       name="{=clan_kordno_5.name}Tarusa Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_kordno_5a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.kordno"
+       banner_key="11.119.48.1836.1836.767.764.1.0.0.505.33.116.171.171.764.763.0.0.44.505.119.116.104.104.764.763.0.0.44.510.33.116.146.220.764.614.0.0.90.510.33.116.99.220.764.599.0.0.0.510.33.116.146.220.764.914.0.1.90.510.33.116.99.220.764.929.0.1.180.510.33.116.146.220.914.764.0.1.180.510.33.116.99.220.928.764.0.1.270.510.33.116.90.220.655.764.0.1.180.510.33.116.30.180.793.736.0.1.45.510.33.116.30.180.735.792.0.1.45.510.33.116.30.180.733.736.0.0.315.510.33.116.30.180.791.792.0.0.315" text="{=clan_kordno_5.text}Representing the Tarusa Duchy. The pattern of the banner is taken from the Vyatiches temple ring. The color is from the modern coat of arms of the city, which according to one version is Kordno." 
+       color="FFefece5" color2="FF456dff" alternative_color="FFefece5" alternative_color2="FF456dff"
+       />
+
 
 		   
 </Factions>

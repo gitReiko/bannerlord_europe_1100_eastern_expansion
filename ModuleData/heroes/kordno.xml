@@ -9,6 +9,24 @@
   <Hero id="lord_kordno_1e" faction="Faction.clan_kordno_1" />
 
 
+  <Hero id="lord_kordno_2a" spouse="Hero.lord_kordno_2b" faction="Faction.clan_kordno_2" />
+  <Hero id="lord_kordno_2b" spouse="Hero.lord_kordno_2a" faction="Faction.clan_kordno_2" />
+  <Hero id="lord_kordno_2c" father="Hero.lord_kordno_2a" mother="Hero.lord_kordno_2b" faction="Faction.clan_kordno_2" />
+  <Hero id="lord_kordno_2d" father="Hero.lord_kordno_2a" mother="Hero.lord_kordno_2b" faction="Faction.clan_kordno_2" />
+
+
+  <Hero id="lord_kordno_3a" spouse="Hero.lord_kordno_3b" faction="Faction.clan_kordno_3" />
+  <Hero id="lord_kordno_3b" spouse="Hero.lord_kordno_3a" faction="Faction.clan_kordno_3" />
+  <Hero id="lord_kordno_3c" father="Hero.lord_kordno_3a" mother="Hero.lord_kordno_3b" faction="Faction.clan_kordno_3" />
+  <Hero id="lord_kordno_3d" father="Hero.lord_kordno_3a" mother="Hero.lord_kordno_3b" faction="Faction.clan_kordno_3" />
+
+
+  <Hero id="lord_kordno_4a" faction="Faction.clan_kordno_4" />
+  <Hero id="lord_kordno_4b" faction="Faction.clan_kordno_4" />
+
+
+  <Hero id="lord_kordno_5a" spouse="Hero.lord_kordno_5b" faction="Faction.clan_kordno_5" />
+  <Hero id="lord_kordno_5b" spouse="Hero.lord_kordno_5a" faction="Faction.clan_kordno_5" />
 
 
 
