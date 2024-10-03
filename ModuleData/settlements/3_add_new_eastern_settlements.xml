@@ -1345,7 +1345,7 @@
     </CommonAreas>
   </Settlement>
 
-  <Settlement id="reiko_starodub" name="{=reiko_starodub.name}Staradub Castle" owner="Faction.clan_rus_4" posX="1103.607" posY="1204.630" culture="Culture.volga_fin" gate_posX="1104.566" gate_posY="1205.327">
+  <Settlement id="reiko_starodub" name="{=reiko_starodub.name}Staradub Castle" owner="Faction.clan_pereiaslav_1" posX="1103.607" posY="1204.630" culture="Culture.volga_fin" gate_posX="1104.566" gate_posY="1205.327">
     <Components>
       <Town id="reiko_starodub_comp" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" prosperity="1350" />
     </Components>
