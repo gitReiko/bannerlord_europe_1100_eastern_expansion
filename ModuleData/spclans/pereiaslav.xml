@@ -89,7 +89,38 @@
        color="ffc94b4d" color2="ffdaa520" alternative_color="ffc94b4d" alternative_color2="ffdaa520"
        />
 
+   <Faction id="clan_pereiaslav_9"
+       name="{=clan_pereiaslav_9.name}Pskov Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_9a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.146.19.116.430.430.788.760.0.0.0.505.51.116.351.460.869.788.0.0.0.505.51.116.351.460.707.911.0.0.0.142.19.116.460.460.771.745.0.0.0" text="{=clan_pereiaslav_9.text}Representing Pskov Duchy. The coat of arms is coat of arms of Pskov." 
+       color="ff4b8cc9" color2="ffdaa520" alternative_color="ff4b8cc9" alternative_color2="ffdaa520"
+       />
 
+   <Faction id="clan_pereiaslav_10"
+       name="{=clan_pereiaslav_10.name}Boyardom Giuriatiniches"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_10a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.124.19.116.460.460.751.808.0.1.0.505.51.116.753.460.745.915.0.0.0.144.19.116.460.460.771.745.0.1.0.503.51.116.84.49.597.732.0.0.71.503.19.116.41.41.678.745.0.0.71.503.19.116.41.41.666.735.0.0.71.503.19.116.41.41.645.743.0.0.71.503.19.116.41.41.640.758.0.0.71.503.19.116.41.41.701.740.0.0.71.503.19.116.41.41.712.723.0.0.71.503.19.116.41.41.712.696.0.0.71.503.51.116.41.41.715.662.0.0.71.503.51.116.41.41.608.626.0.0.71.504.19.116.56.58.605.649.0.0.151.503.51.116.9.9.583.666.0.0.71.503.51.116.160.76.921.743.0.0.-45.503.51.116.160.76.968.741.0.0.-45.154.19.116.201.201.914.676.0.1.163.503.51.116.160.76.978.717.0.0.7.503.51.116.160.76.938.732.0.0.10.503.51.116.54.9.883.743.0.0.31.503.19.116.65.76.856.718.0.0.7" text="{=clan_pereiaslav_10.text}Representing Boyardom Giuriatiniches. The coat of arms is ancient coat of arms of Novgorod from coins and seals." 
+       color="ff4b8cc9" color2="ffc3c3c3" alternative_color="ff4b8cc9" alternative_color2="ffc3c3c3"
+       />
+
+   <Faction id="clan_pereiaslav_11"
+       name="{=clan_pereiaslav_11.name}Boyardom Pavloviches"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_11a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.19.1836.1836.764.764.1.0.0.124.51.116.460.460.751.808.0.1.0.505.19.116.753.460.745.915.0.0.0.144.51.116.460.460.771.745.0.1.0.503.19.116.84.49.597.732.0.0.71.503.51.116.41.41.678.745.0.0.71.503.51.116.41.41.666.735.0.0.71.503.51.116.41.41.645.743.0.0.71.503.51.116.41.41.640.758.0.0.71.503.51.116.41.41.701.740.0.0.71.503.51.116.41.41.712.723.0.0.71.503.51.116.41.41.712.696.0.0.71.503.19.116.41.41.715.662.0.0.71.503.19.116.41.41.608.626.0.0.71.504.51.116.56.58.605.649.0.0.151.503.19.116.9.9.583.666.0.0.71.503.19.116.160.76.921.743.0.0.-45.503.19.116.160.76.968.741.0.0.-45.154.51.116.201.201.914.676.0.1.163.503.19.116.160.76.978.717.0.0.7.503.19.116.160.76.938.732.0.0.10.503.19.116.54.9.883.743.0.0.31.503.51.116.65.76.856.718.0.0.7" text="{=clan_pereiaslav_11.text}Representing Boyardom Pavloviches. The coat of arms is ancient coat of arms of Novgorod from coins and seals." 
+       color="ffc3c3c3" color2="ff4b8cc9" alternative_color="ffc3c3c3" alternative_color2="ff4b8cc9"
+       />
 
 
 

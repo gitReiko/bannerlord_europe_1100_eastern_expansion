@@ -1953,7 +1953,462 @@
     </Equipments>
     </NPCCharacter>
 
+    <NPCCharacter id="lord_pereiaslav_9a"
+                name="{=lord_pereiaslav_9a.name}Zhyriata"
+                voice="softspoken"
+                age="47"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.615" build="0.3758"  key="000D780AC0FC06035C284CCA8196617B974B66616A1766D7B998666769A975B400C696030C774A3A00000000000000000000000000000000000000005D8C5002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="250" />
+        <skill id="Trade" value="75" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="50" />
+        <skill id="Bow" value="125" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="175" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
+    <NPCCharacter id="lord_pereiaslav_9b"
+                name="{=lord_pereiaslav_9b.name}Kosniatin Moseevich"
+                voice="softspoken"
+                age="41"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.3832" build="0.3465"  key="000220028014068CA278D2CA8986A56492785D67887C5DB5646368A99E654498006566030697798C000000000000000000000000000000000000000036D41142"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="200" />
+        <skill id="Steward" value="125" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="150" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="250" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="250" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="200" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="1" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_9c"
+                name="{=lord_pereiaslav_9c.name}Strazhko"
+                voice="softspoken"
+                age="19"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.3912" build="0.6414"  key="000D4806C0E41183B8A6377C53997A9C787A156B467C5DD759C79BA6BA769468006A66030678B13900000000000000000000000000000000000000004CC48002"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="200" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_10a"
+                name="{=lord_pereiaslav_10a.name}Giuriata"
+                voice="softspoken"
+                age="52"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.6493" build="0.4548"  key="00153404C05829C554E334579A66BC85569CA88457E91AA65ADB483B42689A650097A6030988A53C0000000000000000000000000000000000000000731C3102"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="150" />
+        <skill id="Medicine" value="125" />
+        <skill id="Leadership" value="225" />
+        <skill id="Steward" value="175" />
+        <skill id="Trade" value="100" />
+        <skill id="Charm" value="150" />
+        <skill id="Scouting" value="150" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="225" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="175" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_10b"
+                name="{=lord_pereiaslav_10b.name}Miroslav Giuriatinich"
+                voice="softspoken"
+                age="35"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.3758" build="0.341"  key="00158804DE58290B548334579A668C875699A88457B91AA65ADB483842689865009566030988A53C0000000000000000000000000000000000000000731C3104"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="100" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="115" />
+        <skill id="Trade" value="50" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="125" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="1" />
+        <Trait id="Calculating" value="-1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_10c"
+                name="{=lord_pereiaslav_10c.name}Prokopii Miroslavich"
+                voice="softspoken"
+                age="17"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.6111" build="0.2639"  key="00184404C0582309546334579A6689855696888457B91A765ADB483872689865006496030666A53C000000000000000000000000000000000000000072CC2104"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="125" />
+        <skill id="Steward" value="75" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="100" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="150" />
+        <skill id="TwoHanded" value="100" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="-1" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="2" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_10d"
+                name="{=lord_pereiaslav_10d.name}Iakun Miroslavich"
+                voice="softspoken"
+                age="16"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.4336" build="0.3565"  key="001BBC04C058200F54933457776689875696888457B917765ADB4838726898650075760307576539000000000000000000000000000000000000000038F44105"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="75" />
+        <skill id="Leadership" value="100" />
+        <skill id="Steward" value="50" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="75" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="150" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="175" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="75" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="50" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="1" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_11a"
+                name="{=lord_pereiaslav_11a.name}Pavel"
+                voice="softspoken"
+                age="49"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.5417" build="0.5262"  key="0005140400A0148288B687D975B6898877EC426676A1DA9D16798D662954757C0088860308849533000000000000000000000000000000000000000045041005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="125" />
+        <skill id="Medicine" value="100" />
+        <skill id="Leadership" value="175" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="125" />
+        <skill id="Scouting" value="125" />
+        <skill id="Tactics" value="200" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="200" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="200" />
+        <skill id="TwoHanded" value="125" />
+        <skill id="OneHanded" value="150" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="-1" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-2" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="1" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_11b"
+                name="{=lord_pereiaslav_11b.name}Matylda*"
+                voice="softspoken"
+                age="46"
+                is_female="true"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.3989" build="0.3922"  key="0005A806C08810065D9D8787426D97749E6A2866B7458AB73769684D66B7457A00666603066698C1000000000000000000000000000000000000000012BC3003"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="75" />
+        <skill id="Medicine" value="175" />
+        <skill id="Leadership" value="25" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="25" />
+        <skill id="Scouting" value="75" />
+        <skill id="Tactics" value="25" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Bow" value="125" />
+        <skill id="OneHanded" value="50" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="2" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="0" />
+        <Trait id="Generosity" value="0" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lady" />
+      <EquipmentSet id="rus_lady"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
+
+    <NPCCharacter id="lord_pereiaslav_11c"
+                name="{=lord_pereiaslav_11c.name}Ivanko Pavlovits"
+                voice="softspoken"
+                age="21"
+                is_female="false"
+                is_hero="true"
+                culture="Culture.volga_fin"
+                occupation="Lord"
+                default_group="Cavalry">
+    <face>
+    <BodyProperties version="4" age="22.15" weight="0.3681" build="0.2677"  key="0008AC06C0A01545888687A97586898677AC426676A19A9D16798D66295475790064660306669533000000000000000000000000000000000000000044C41005"  />
+    </face>
+	<skills>
+        <skill id="Engineering" value="50" />
+        <skill id="Medicine" value="50" />
+        <skill id="Leadership" value="150" />
+        <skill id="Steward" value="100" />
+        <skill id="Trade" value="25" />
+        <skill id="Charm" value="125" />
+        <skill id="Scouting" value="100" />
+        <skill id="Tactics" value="100" />
+        <skill id="Athletics" value="100" />
+        <skill id="Riding" value="150" />
+        <skill id="Throwing" value="25" />
+        <skill id="Bow" value="100" />
+        <skill id="Polearm" value="175" />
+        <skill id="TwoHanded" value="75" />
+        <skill id="OneHanded" value="125" />
+    </skills>
+    <Traits>
+        <Trait id="Mercy" value="0" />
+        <Trait id="Valor" value="0" />
+        <Trait id="Honor" value="-1" />
+        <Trait id="Generosity" value="-1" />
+        <Trait id="Calculating" value="0" />
+        <Trait id="Egalitarian" value="0" />
+        <Trait id="Oligarchic" value="0" />
+        <Trait id="Authoritarian" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="rus_lord" />
+      <EquipmentSet id="rus_lord"
+                    civilian="true" />
+    </Equipments>
+    </NPCCharacter>
 
 
 

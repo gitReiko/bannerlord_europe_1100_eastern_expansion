@@ -61,7 +61,20 @@
   <Hero id="lord_pereiaslav_8d" faction="Faction.clan_pereiaslav_8" />
   
   
-  
+  <Hero id="lord_pereiaslav_9a" faction="Faction.clan_pereiaslav_9" />
+  <Hero id="lord_pereiaslav_9b" faction="Faction.clan_pereiaslav_9" />
+  <Hero id="lord_pereiaslav_9c" faction="Faction.clan_pereiaslav_9" />
+
+
+  <Hero id="lord_pereiaslav_10a" faction="Faction.clan_pereiaslav_10" />
+  <Hero id="lord_pereiaslav_10b" father="Hero.lord_pereiaslav_10a" faction="Faction.clan_pereiaslav_10" />
+  <Hero id="lord_pereiaslav_10c" father="Hero.lord_pereiaslav_10b" faction="Faction.clan_pereiaslav_10" />
+  <Hero id="lord_pereiaslav_10d" father="Hero.lord_pereiaslav_10b" faction="Faction.clan_pereiaslav_10" />
+
+
+  <Hero id="lord_pereiaslav_11a" spouse="Hero.lord_pereiaslav_11b" faction="Faction.clan_pereiaslav_11" />
+  <Hero id="lord_pereiaslav_11b" spouse="Hero.lord_pereiaslav_11a" faction="Faction.clan_pereiaslav_11" />
+  <Hero id="lord_pereiaslav_11c" father="Hero.lord_pereiaslav_11a" mother="Hero.lord_pereiaslav_11b" faction="Faction.clan_pereiaslav_11" />
   
   
   
