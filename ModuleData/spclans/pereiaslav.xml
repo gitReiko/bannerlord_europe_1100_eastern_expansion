@@ -122,7 +122,27 @@
        color="ffc3c3c3" color2="ff4b8cc9" alternative_color="ffc3c3c3" alternative_color2="ff4b8cc9"
        />
 
+   <Faction id="clan_pereiaslav_12"
+       name="{=clan_pereiaslav_12.name}Boyardom Mikuliniches"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_12a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.124.19.116.460.460.770.809.0.1.0.505.51.116.753.460.764.916.0.0.0.144.19.116.460.460.790.746.0.1.0.503.51.116.84.49.616.733.0.0.71.505.51.116.160.76.985.777.0.0.-45.503.19.116.17.17.930.735.0.0.71.503.19.116.41.41.697.746.0.0.71.503.19.116.41.41.685.736.0.0.71.503.19.116.41.41.664.744.0.0.71.503.19.116.41.41.659.759.0.0.71.503.19.116.41.41.720.741.0.0.71.503.19.116.41.41.731.724.0.0.71.503.19.116.41.41.731.697.0.0.71.503.51.116.41.41.734.663.0.0.71.503.51.116.41.41.627.627.0.0.71.504.19.116.56.58.624.650.0.0.151.503.51.116.9.9.602.667.0.0.71" text="{=clan_pereiaslav_12.text}Representing Boyardom Mikuliniches. The coat of arms is ancient coat of arms of Tver from seal." 
+       color="ffc94b4d" color2="ffdaa520" alternative_color="ffc94b4d" alternative_color2="ffdaa520"
+       />
 
+   <Faction id="clan_pereiaslav_13"
+       name="{=clan_pereiaslav_13.name}Boyardom Zavidiches"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_13a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.116.19.116.369.369.764.764.0.0.180" text="{=clan_pereiaslav_13.text}Representing Boyardom Zavidiches. The coat of arms is coat of arms of Ladoga." 
+       color="ffdaa520" color2="ffc94b4d" alternative_color="ffdaa520" alternative_color2="ffc94b4d"
+       />
 
 
 
