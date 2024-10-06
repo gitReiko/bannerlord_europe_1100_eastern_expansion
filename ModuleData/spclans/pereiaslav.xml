@@ -56,6 +56,39 @@
        color="ff101010" color2="ffdaa520" alternative_color="ff101010" alternative_color2="ffdaa520"
        />
 
+    <Faction id="clan_pereiaslav_6"
+       name="{=clan_pereiaslav_6.name}Boyardom Ratibors"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_6a"
+       culture="Culture.rus"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.48.1836.1836.768.765.1.0.0.510.51.116.270.150.764.959.0.1.0.510.51.116.270.150.764.933.0.1.0.510.51.116.270.150.764.907.0.1.0.510.51.116.270.150.764.881.0.1.0.510.51.116.270.150.764.855.0.1.0.510.51.116.270.150.764.830.0.1.0.505.19.116.70.106.764.927.0.1.0.504.51.116.135.150.837.771.0.1.0.504.51.116.135.150.691.771.0.1.0.505.51.116.173.101.764.771.0.1.0.510.51.116.165.150.764.712.0.1.0.510.51.116.165.150.764.684.0.1.0.510.51.116.165.150.764.658.0.1.0.504.51.116.195.150.764.598.0.1.0.504.51.116.26.73.764.546.0.1.0.504.51.116.26.73.764.532.0.1.180.504.51.116.26.73.757.539.0.1.-90.504.51.116.26.73.770.539.0.1.90.510.19.116.55.170.736.686.0.1.90.510.19.116.55.170.792.686.0.1.90.510.19.116.55.170.844.857.0.1.90.510.19.116.55.170.684.857.0.1.90" text="{=clan_pereiaslav_6.text}Representing Boyardom Ratibors. The coat of arms is coat of arms of Pereiaslav." 
+       color="ffc3c3c3" color2="ffc94b4d" alternative_color="ffc3c3c3" alternative_color2="ffc94b4d"
+       />
+
+   <Faction id="clan_pereiaslav_7"
+       name="{=clan_pereiaslav_7.name}Boyardom Stanislaviches"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_7a"
+       culture="Culture.kryvich"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.142.19.116.432.432.754.764.0.0.0.514.19.116.16.38.917.689.0.0.106.514.19.116.16.38.967.714.0.0.82.514.19.116.16.38.967.749.0.0.107.514.19.116.16.38.947.784.0.0.82.503.19.116.31.7.917.780.0.0.175.503.19.116.31.7.908.778.0.0.175.503.19.116.31.7.893.772.0.0.157.503.19.116.31.7.880.765.0.0.157.503.19.116.31.7.936.752.0.0.169.503.19.116.31.7.917.748.0.0.169.503.19.116.31.7.917.724.0.0.200.503.19.116.31.7.936.715.0.0.200.503.19.116.31.7.885.698.0.0.200.503.19.116.31.7.875.703.0.0.200" text="{=clan_pereiaslav_7.text}Representing Boyardom Stanislaviches. The coat of arms is coat of arms of Smolensk." 
+       color="ff4b8cc9" color2="ffdaa520" alternative_color="ff4b8cc9" alternative_color2="ffdaa520"
+       />
+
+   <Faction id="clan_pereiaslav_8"
+       name="{=clan_pereiaslav_8.name}Boyardom Shimonoviches"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_8a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.137.19.116.432.432.754.764.0.0.0" text="{=clan_pereiaslav_8.text}Representing Boyardom Shimonoviches. The coat of arms is coat of arms of Rostov." 
+       color="ffc94b4d" color2="ffdaa520" alternative_color="ffc94b4d" alternative_color2="ffdaa520"
+       />
+
 
 
 

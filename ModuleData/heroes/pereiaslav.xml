@@ -23,7 +23,7 @@
   <Hero id="lord_pereiaslav_2h" faction="Faction.clan_pereiaslav_2" />
   <Hero id="lord_pereiaslav_2i" faction="Faction.clan_pereiaslav_2" />
   
-  
+
   <Hero id="lord_pereiaslav_3a" father="Hero.lord_pereiaslav_1a" faction="Faction.clan_pereiaslav_3" />
   <Hero id="lord_pereiaslav_3b" faction="Faction.clan_pereiaslav_3" />
   <Hero id="lord_pereiaslav_3c" faction="Faction.clan_pereiaslav_3" />
@@ -41,6 +41,24 @@
   <Hero id="lord_pereiaslav_5b" spouse="Hero.lord_pereiaslav_5c" father="Hero.lord_pereiaslav_5a" faction="Faction.clan_pereiaslav_5" />
   <Hero id="lord_pereiaslav_5c" spouse="Hero.lord_pereiaslav_5b" faction="Faction.clan_pereiaslav_5" />
   <Hero id="lord_pereiaslav_5d" father="Hero.lord_pereiaslav_5b" mother="Hero.lord_pereiaslav_5c" faction="Faction.clan_pereiaslav_5" />
+
+
+  <Hero id="lord_pereiaslav_6a" faction="Faction.clan_pereiaslav_6" />
+  <Hero id="lord_pereiaslav_6b" spouse="Hero.lord_pereiaslav_6c" father="Hero.lord_pereiaslav_6a" faction="Faction.clan_pereiaslav_6" />
+  <Hero id="lord_pereiaslav_6c" spouse="Hero.lord_pereiaslav_6b" faction="Faction.clan_pereiaslav_6" />
+  <Hero id="lord_pereiaslav_6d" father="Hero.lord_pereiaslav_6a" faction="Faction.clan_pereiaslav_6" />
+
+
+  <Hero id="lord_pereiaslav_7a" spouse="Hero.lord_pereiaslav_7b" faction="Faction.clan_pereiaslav_7" />
+  <Hero id="lord_pereiaslav_7b" spouse="Hero.lord_pereiaslav_7a" faction="Faction.clan_pereiaslav_7" />
+  <Hero id="lord_pereiaslav_7c" father="Hero.lord_pereiaslav_7a" mother="Hero.lord_pereiaslav_7b" faction="Faction.clan_pereiaslav_7" />
+  <Hero id="lord_pereiaslav_7d" faction="Faction.clan_pereiaslav_7" />
+
+
+  <Hero id="lord_pereiaslav_8a" spouse="Hero.lord_pereiaslav_8b" faction="Faction.clan_pereiaslav_8" />
+  <Hero id="lord_pereiaslav_8b" spouse="Hero.lord_pereiaslav_8a" faction="Faction.clan_pereiaslav_8" />
+  <Hero id="lord_pereiaslav_8с" father="Hero.lord_pereiaslav_8a" mother="Hero.lord_pereiaslav_8b" faction="Faction.clan_pereiaslav_8" />
+  <Hero id="lord_pereiaslav_8d" faction="Faction.clan_pereiaslav_8" />
   
   
   
