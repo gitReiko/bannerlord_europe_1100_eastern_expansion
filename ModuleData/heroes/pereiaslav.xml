@@ -90,7 +90,14 @@
   <Hero id="lord_pereiaslav_13d" father="Hero.lord_pereiaslav_13b" faction="Faction.clan_pereiaslav_13" />
   
   
+  <Hero id="lord_pereiaslav_14a" spouse="Hero.lord_pereiaslav_14b" faction="Faction.clan_pereiaslav_14" />
+  <Hero id="lord_pereiaslav_14b" spouse="Hero.lord_pereiaslav_14a" faction="Faction.clan_pereiaslav_14" />
+  <Hero id="lord_pereiaslav_14c" faction="Faction.clan_pereiaslav_14" />
 
+
+  <Hero id="lord_pereiaslav_15a" spouse="Hero.lord_pereiaslav_15b" faction="Faction.clan_pereiaslav_15" />
+  <Hero id="lord_pereiaslav_15b" spouse="Hero.lord_pereiaslav_15a" faction="Faction.clan_pereiaslav_15" />
+  <Hero id="lord_pereiaslav_15c" father="Hero.lord_pereiaslav_15a" mother="Hero.lord_pereiaslav_15b" faction="Faction.clan_pereiaslav_15" />
 
 
 </Heroes>

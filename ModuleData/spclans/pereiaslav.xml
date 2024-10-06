@@ -144,10 +144,27 @@
        color="ffdaa520" color2="ffc94b4d" alternative_color="ffdaa520" alternative_color2="ffc94b4d"
        />
 
+   <Faction id="clan_pereiaslav_14"
+       name="{=clan_pereiaslav_14.name}Prupoj Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_14a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.48.1836.1836.768.765.1.0.0.510.51.116.391.223.762.744.0.0.-40.510.51.116.151.223.609.682.0.0.-130.510.51.116.128.223.608.751.0.0.-40.510.51.116.55.223.664.748.0.0.-130.510.51.116.67.223.663.727.0.0.320.510.51.116.151.223.920.810.0.0.50.510.51.116.128.223.921.742.0.0.140.510.51.116.55.223.866.742.0.0.50.510.51.116.67.223.865.767.0.0.140.510.51.116.128.223.781.689.0.0.140.510.51.116.89.223.830.699.0.0.50.510.51.116.128.223.749.804.0.0.320.510.51.116.89.223.700.795.0.0.230" text="{=clan_pereiaslav_14.text}Representing Prupoj Duchy. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       color="ff4b8cc9" color2="ffdaa520" alternative_color="ff4b8cc9" alternative_color2="ffdaa520"
+       />
 
-
-
-
+   <Faction id="clan_pereiaslav_15"
+       name="{=clan_pereiaslav_15.name}Krečut Duchy"
+       tier="3"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_15a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.48.1836.1836.768.765.1.0.0.510.51.116.391.223.762.744.0.0.-40.510.51.116.151.223.609.682.0.0.-130.510.51.116.158.223.617.756.0.0.-40.510.51.116.70.223.683.763.0.0.-130.510.51.116.87.223.673.735.0.0.320.510.51.116.78.223.637.730.0.0.230.510.51.116.151.223.920.799.0.0.50.510.51.116.158.223.911.724.0.0.140.510.51.116.70.223.846.717.0.0.50.510.51.116.87.223.856.746.0.0.140.510.51.116.78.223.892.751.0.0.50.510.51.116.87.223.775.675.0.0.140.510.51.116.87.223.812.675.0.0.50.510.51.116.87.223.750.801.0.0.-40.510.51.116.87.223.713.801.0.0.-130" text="{=clan_pereiaslav_15.text}Representing Krečut Duchy. The clan coat of arms is a variation of the Baltic serpent symbol." 
+       color="ffdaa520" color2="ff4b8cc9" alternative_color="ffdaa520" alternative_color2="ff4b8cc9"
+       />
 
 		   
 </Factions>
