@@ -23,6 +23,47 @@
        color="ffc94b4d" color2="ff4b8cc9" alternative_color="ffc94b4d" alternative_color2="ff4b8cc9"
        />
 
+   <Faction id="clan_pereiaslav_3"
+       name="{=clan_pereiaslav_3.name}Kniaz Sviatoslav Volodymyrovych"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_3a"
+       culture="Culture.rus"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.19.1836.1836.764.764.1.0.0.454.51.116.321.414.673.648.0.1.-2.505.19.116.177.264.567.746.0.1.-7.505.19.116.389.381.628.489.0.1.0.505.19.116.177.74.768.817.0.1.-1.503.51.116.29.29.756.781.0.0.93.454.51.116.372.372.760.899.0.0.180.505.19.116.440.264.776.1081.0.1.0.505.19.116.157.129.826.978.0.1.90.505.19.116.157.129.686.968.0.1.90.503.51.116.35.35.756.960.0.0.93.510.51.116.157.220.654.712.0.0.93.527.51.116.262.409.520.722.0.0.-33.505.19.116.440.264.468.720.0.0.93.503.51.116.35.35.576.586.0.0.93.510.51.116.157.220.864.714.0.1.267.527.51.116.262.409.998.724.0.1.32.505.19.116.440.264.1050.722.0.1.267.503.51.116.35.35.942.588.0.1.267" text="{=clan_pereiaslav_3.text}Representing the Sviatoslav Volodymyrovych family and Smolensk boyars. The coat of arms is a hypothetical reconstruction based on his brother seal, knyaz Mstyslav I Volodymyrovych and sign engraved on a brick of Smolensk." 
+       color="ffdaa520" color2="ff4b8cc9" alternative_color="ffdaa520" alternative_color2="ff4b8cc9"
+       />
+
+   <Faction id="clan_pereiaslav_4"
+       name="{=clan_pereiaslav_4.name}Kniaz Viacheslav Volodymyrovych"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_4a"
+       culture="Culture.rus"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.19.19.1836.1836.764.764.1.0.0.454.51.116.372.372.760.899.0.0.180.505.19.116.440.264.776.1081.0.1.0.505.19.116.157.129.826.978.0.1.90.505.19.116.157.129.686.968.0.1.90.503.51.116.35.35.756.960.0.0.93.510.51.116.157.220.654.712.0.0.93.527.51.116.262.409.520.722.0.0.-33.505.19.116.440.264.468.720.0.0.93.503.51.116.35.35.576.586.0.0.93.510.51.116.157.220.864.714.0.1.267.527.51.116.262.409.998.724.0.1.32.505.19.116.440.264.1050.722.0.1.267.503.51.116.35.35.942.588.0.1.267.527.51.116.262.409.1002.815.0.1.32.505.19.116.440.264.1058.839.0.1.267.503.51.116.33.33.946.680.0.1.267" text="{=clan_pereiaslav_4.text}Representing the Viacheslav Volodymyrovych family and Vladimir boyars. The coat of arms is a hypothetical reconstruction based on his brother seal, knyaz Mstyslav I Volodymyrovych." 
+       color="ffc94b4d" color2="ffdaa520" alternative_color="ffc94b4d" alternative_color2="ffdaa520"
+       />
+
+   <Faction id="clan_pereiaslav_5"
+       name="{=clan_pereiaslav_5.name}Boyardom Kuchko"
+       tier="4"
+       is_noble="true"
+       owner="Hero.lord_pereiaslav_5a"
+       culture="Culture.volga_fin"
+       super_faction="Kingdom.pereiaslav"
+       banner_key="11.51.19.1836.1836.764.764.1.0.0.159.19.116.390.390.764.650.0.0.0.159.19.116.390.390.764.837.0.1.0" text="{=clan_pereiaslav_5.text}Representing Boyardom Kuchko. The coat of arms is coat of arms of Pereslavl-Zalessky." 
+       color="ff101010" color2="ffdaa520" alternative_color="ff101010" alternative_color2="ffdaa520"
+       />
+
+
+
+
+
+
+
+
+
 
 		   
 </Factions>

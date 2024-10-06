@@ -24,6 +24,23 @@
   <Hero id="lord_pereiaslav_2i" faction="Faction.clan_pereiaslav_2" />
   
   
+  <Hero id="lord_pereiaslav_3a" father="Hero.lord_pereiaslav_1a" faction="Faction.clan_pereiaslav_3" />
+  <Hero id="lord_pereiaslav_3b" faction="Faction.clan_pereiaslav_3" />
+  <Hero id="lord_pereiaslav_3c" faction="Faction.clan_pereiaslav_3" />
+  <Hero id="lord_pereiaslav_3d" faction="Faction.clan_pereiaslav_3" />
+
+
+  <Hero id="lord_pereiaslav_4a" father="Hero.lord_pereiaslav_1a" faction="Faction.clan_pereiaslav_4" />
+  <Hero id="lord_pereiaslav_4b" faction="Faction.clan_pereiaslav_4" />
+  <Hero id="lord_pereiaslav_4c" faction="Faction.clan_pereiaslav_4" />
+  <Hero id="lord_pereiaslav_4d" faction="Faction.clan_pereiaslav_4" />
+  <Hero id="lord_pereiaslav_4e" faction="Faction.clan_pereiaslav_4" />
+
+
+  <Hero id="lord_pereiaslav_5a" faction="Faction.clan_pereiaslav_5" />
+  <Hero id="lord_pereiaslav_5b" spouse="Hero.lord_pereiaslav_5c" father="Hero.lord_pereiaslav_5a" faction="Faction.clan_pereiaslav_5" />
+  <Hero id="lord_pereiaslav_5c" spouse="Hero.lord_pereiaslav_5b" faction="Faction.clan_pereiaslav_5" />
+  <Hero id="lord_pereiaslav_5d" father="Hero.lord_pereiaslav_5b" mother="Hero.lord_pereiaslav_5c" faction="Faction.clan_pereiaslav_5" />
   
   
   
