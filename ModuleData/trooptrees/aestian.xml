@@ -626,23 +626,23 @@
 		<Equipments>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Body" id="Item.tied_cloth_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_pitchfork_2_t1"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_pickaxe_1_t1"/>
 				<equipment slot="Body" id="Item.tied_cloth_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_pitchfork_2_t1"/>
@@ -657,12 +657,12 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_pitchfork_1_t1"/>
 				<equipment slot="Body" id="Item.cloth_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -694,15 +694,15 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.rus_pine_hunting_spear_t1_type7_11_12"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -710,14 +710,14 @@
 				<equipment slot="Item1" id="Item.rus_pine_hunting_spear_t3_type7_12_13"/>
 				<equipment slot="Body" id="Item.tied_cloth_tunic"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.rus_oaken_hunting_spear_t1_type7_11_12"/>
-				<equipment slot="Head" id="Item.AR_roman_hat_d"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
@@ -729,7 +729,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.cloth_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
@@ -738,12 +738,12 @@
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.rus_ash_hunting_spear_t1_type7_11_12"/>
 				<equipment slot="Body" id="Item.cloth_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -774,7 +774,7 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
@@ -784,39 +784,39 @@
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
-				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.leather_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
@@ -825,15 +825,15 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -861,67 +861,67 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d2"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
+				<equipment slot="Head" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -953,15 +953,15 @@
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Item1" id="Item.mountain_hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.roughhide_cap"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
+				<equipment slot="Head" id="Item.wrapped_headcloth"/>
+				<equipment slot="Body" id="Item.long_woolen_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -970,15 +970,15 @@
 				<equipment slot="Item2" id="Item.default_arrows"/>
 				<equipment slot="Body" id="Item.tied_cloth_tunic"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Head" id="Item.AR_roman_hat_d"/>
+				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.seax"/>
@@ -1001,12 +1001,12 @@
 				<equipment slot="Item1" id="Item.hunting_bow"/>
 				<equipment slot="Item2" id="Item.default_arrows"/>
 				<equipment slot="Body" id="Item.cloth_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_i"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1055,7 +1055,7 @@
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
@@ -1063,7 +1063,7 @@
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
@@ -1076,7 +1076,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1086,13 +1086,13 @@
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.battania_axe_1_t2"/>
 				<equipment slot="Head" id="Item.roughhide_cap"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1122,24 +1122,24 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.steppe_heavy_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
@@ -1147,14 +1147,14 @@
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d2"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -1162,7 +1162,7 @@
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
+				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
@@ -1170,13 +1170,13 @@
 				<equipment slot="Item1" id="Item.steppe_heavy_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1218,7 +1218,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1228,9 +1228,9 @@
 				<equipment slot="Item0" id="Item.judgement_mace_t3"/>
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_scouts_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
@@ -1240,7 +1240,7 @@
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
@@ -1248,7 +1248,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.leather_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1270,14 +1270,14 @@
 				<equipment slot="Item2" id="Item.northern_scouts_shield"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.light_harness"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1307,7 +1307,7 @@
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
@@ -1316,8 +1316,8 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
@@ -1326,9 +1326,9 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.northern_scouts_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1338,7 +1338,7 @@
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
@@ -1346,8 +1346,8 @@
 				<equipment slot="Item0" id="Item.judgement_mace_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d2"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
@@ -1357,7 +1357,7 @@
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
@@ -1367,15 +1367,15 @@
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_scouts_shield"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
 				<equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1406,67 +1406,67 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.simple_sparth_axe_t2"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.simple_sparth_axe_t2"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
-				<equipment slot="Head" id="Item.AR_battania_helmet_w2"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_p"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.ao_battanian_nasal_helmet"/>
-				<equipment slot="Body" id="Item.AR_sturgia_armor_d2"/>
+				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
 				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
+				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1499,72 +1499,72 @@
 				<equipment slot="Item1" id="Item.simple_sparth_axe_t2"/>
 				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_c3"/>
-				<equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
-				<equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_zp"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Head" id="Item.nasalhelm_over_mail"/>
-				<equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
-				<equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 				<equipment slot="Item1" id="Item.simple_sparth_axe_t2"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
 				<equipment slot="Cape" id="Item.rough_bearskin"/>
 				<equipment slot="Body" id="Item.vlandia_chainmail"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
 				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
 				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Body" id="Item.vlandia_chainmail"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_t"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
-				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_q"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_f"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_r"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_c3"/>
+				<equipment slot="Head" id="Item.nasalhelm_over_mail"/>
 				<equipment slot="Cape" id="Item.rough_bearskin"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_f"/>
-				<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
@@ -1594,9 +1594,9 @@
 				<equipment slot="Item1" id="Item.execution_axe"/>
 				<equipment slot="Item2" id="Item.heavy_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.TV_sturgia_helmet_g"/>
-				<equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
-				<equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
+				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Gloves" id="Item.mail_mitten"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
@@ -1604,9 +1604,9 @@
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.TV_sturgia_helmet_e"/>
-				<equipment slot="Cape" id="Item.AR_wolf_shoulder_e"/>
-				<equipment slot="Body" id="Item.TV_vlandia_armor_b"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Gloves" id="Item.mail_mitten"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
@@ -1621,7 +1621,7 @@
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.AR_empire_sword_5_t4"/>
+				<equipment slot="Item0" id="Item.sturgia_noble_sword_2_t5"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.heavy_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
@@ -1634,21 +1634,21 @@
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.tyrhung_sword_t3"/>
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_zp"/>
+				<equipment slot="Item2" id="Item.heavy_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_a4"/>
-				<equipment slot="Cape" id="Item.battanian_chainmail_shoulder_b"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_d2"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+				<equipment slot="Cape" id="Item.chainmail_shoulder_armor"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Gloves" id="Item.mail_mitten"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
 			<EquipmentRoster>
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_zp"/>
+				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Head" id="Item.nasal_helmet_with_mail"/>
-				<equipment slot="Cape" id="Item.TV_vlandia_shoulders_q"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_f"/>
+				<equipment slot="Cape" id="Item.rough_bearskin"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Gloves" id="Item.mail_mitten"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
@@ -1657,16 +1657,16 @@
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
 				<equipment slot="Item2" id="Item.viking_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.TV_sturgia_helmet_g"/>
+				<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
 				<equipment slot="Cape" id="Item.rough_bearskin"/>
-				<equipment slot="Body" id="Item.AR_vlandia_armor_f"/>
+				<equipment slot="Body" id="Item.vlandia_chainmail"/>
 				<equipment slot="Gloves" id="Item.mail_mitten"/>
 				<equipment slot="Leg" id="Item.strapped_mail_chausses"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
 				<equipment slot="Item0" id="Item.empire_sword_3_t3"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
