@@ -784,7 +784,7 @@
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
@@ -801,7 +801,7 @@
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
@@ -818,7 +818,7 @@
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -871,7 +871,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.baltic_ash_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -888,7 +888,7 @@
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_oaken_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -897,7 +897,7 @@
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
@@ -905,7 +905,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -914,8 +914,8 @@
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.eastern_stitched_leather_coat"/>
-				<equipment slot="Body" id="Item.ao_imperial_light_leather"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
+				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
 			<EquipmentRoster civilian="true">
@@ -1061,7 +1061,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1076,7 +1076,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1129,7 +1129,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.steppe_heavy_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1145,7 +1145,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.steppe_heavy_bow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1161,7 +1161,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.nordic_shortbow"/>
 				<equipment slot="Item2" id="Item.blunt_arrows"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1218,7 +1218,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.padded_leather_shirt"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1238,7 +1238,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.nordic_sloven_leather"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1248,7 +1248,7 @@
 				<equipment slot="Item0" id="Item.large_franziskaa_axe_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.leather_tunic"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1258,7 +1258,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.layered_leather_tunic"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1316,7 +1316,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.light_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1336,7 +1336,7 @@
 				<equipment slot="Item0" id="Item.judgement_mace_t3"/>
 				<equipment slot="Item1" id="Item.baltic_pine_spear_t3_rus_type4_12_13"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1356,7 +1356,7 @@
 				<equipment slot="Item0" id="Item.light_mace_t3"/>
 				<equipment slot="Item1" id="Item.baltic_oaken_spear_t2_rus_type4_11_12"/>
 				<equipment slot="Item2" id="Item.reinforced_horsemans_kite_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 				<equipment slot="Horse" id="Item.vlandia_horse"/>
@@ -1416,7 +1416,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1433,7 +1433,7 @@
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_ash_sulica_t5_type2"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
@@ -1442,7 +1442,7 @@
 				<equipment slot="Item1" id="Item.northern_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
 				<equipment slot="Item3" id="Item.baltic_pine_sulica_t3_type3"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.leather_shoes"/>
 			</EquipmentRoster>
@@ -1450,7 +1450,7 @@
 				<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
 				<equipment slot="Item1" id="Item.bearded_axe_t3"/>
 				<equipment slot="Item2" id="Item.northern_round_shield"/>
-				<equipment slot="Head" id="Item.vlandian_nasal_skullcap"/>
+				<equipment slot="Head" id="Item.cervelliere_over_arming_coif"/>
 				<equipment slot="Body" id="Item.eastern_stitched_leather_coat"/>
 				<equipment slot="Leg" id="Item.wrapped_leather_boots"/>
 			</EquipmentRoster>
