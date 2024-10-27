@@ -1,20 +1,19 @@
 
+THIS MOD IS OUTDATED !!! 
+
+It does not need to be installed. The latest version is integrated into Europa 1100. Simply install Europa 1100. And you get access to latest version of Eastern Europe.
+
+If you want to play it, just install Europa 1100.
+
+This version of the mod can only be useful to modders. Modders can take from it settlements for Lemmy map or something else.
+
+
+
 !!! MOD IS CREATED FOR EUROPA 1100 v1.2.10.1, AND MOST LIKELY WILL NOT WORK WITH OTHER VERSIONS.
 
 !!! Warning. Mod now requires Open Source Armory.
 
 The mod on this page will be updated to match the Empires of Europe 1100 version on Steam. Other versions can be found on Nexus Mods https://www.nexusmods.com/mountandblade2bannerlord/mods/6277.
-
-Update 1.6.0 Hungary Kingdom
-
-- compatibility 1.2.10.1
-- 2 new cities, 2 new castles, 1 new village for Hungary
-- 12 clanes for Hungary
-- 42 lords for Hungary
-- towns scenes variety (only for towns of this mod)
-- 15 new javelins for Baltic factions
-- start clan level is 1
-- other improvements
 
 This mod has two purposes:
 
